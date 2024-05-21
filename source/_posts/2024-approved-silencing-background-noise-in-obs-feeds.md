@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Silencing Background Noise in OBS Feeds\""
-date: 2024-05-18T19:38:33.581Z
-updated: 2024-05-19T19:38:33.581Z
+date: 2024-05-20T07:23:26.583Z
+updated: 2024-05-21T07:23:26.583Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-ai-editor.techidaily.com/reduce-video-size-with-these-5-free-iphone-and-ipad-apps/"><u>Reduce Video Size with These 5 Free iPhone and iPad Apps</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme Narzo N53 | Dr.fone</u></a></li>
 </ul></div>
+
 

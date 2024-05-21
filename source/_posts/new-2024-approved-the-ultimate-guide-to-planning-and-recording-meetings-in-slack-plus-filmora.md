@@ -533,3 +533,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-video-aspect-ratio-a-step-by-step-guide-to-resizing/"><u>Updated Video Aspect Ratio A Step-by-Step Guide to Resizing</u></a></li>
 </ul></div>
 
+

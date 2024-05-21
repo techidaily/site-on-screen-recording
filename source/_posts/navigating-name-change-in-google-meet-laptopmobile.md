@@ -1,7 +1,7 @@
 ---
 title: "Navigating Name Change in Google Meet (Laptop/Mobile)"
-date: 2024-05-18T19:46:37.231Z
-updated: 2024-05-19T19:46:37.231Z
+date: 2024-05-20T07:23:46.594Z
+updated: 2024-05-21T07:23:46.594Z
 tags: 
   - screen-recording
   - ai video
@@ -594,4 +594,5 @@ Follow @Richard Bennett
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-xs-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone XS Max</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-free-luts-for-obs-how-to-use-them-in-2024/"><u>New Free LUTs for OBS How to Use Them, In 2024</u></a></li>
 </ul></div>
+
 

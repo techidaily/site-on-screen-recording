@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Concurrent Webcam & Screen Recordings"
-date: 2024-05-18T19:42:32.554Z
-updated: 2024-05-19T19:42:32.554Z
+date: 2024-05-20T07:23:36.700Z
+updated: 2024-05-21T07:23:36.700Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-free-video-editing-on-32-bit-windows/"><u>The Ultimate Guide to Free Video Editing on 32-Bit Windows</u></a></li>
 </ul></div>
+
 

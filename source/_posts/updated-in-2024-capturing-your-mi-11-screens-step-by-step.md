@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Capturing Your Mi 11 Screens - Step by Step\""
-date: 2024-05-18T19:38:38.770Z
-updated: 2024-05-19T19:38:38.770Z
+date: 2024-05-20T07:23:26.740Z
+updated: 2024-05-21T07:23:26.740Z
 tags: 
   - screen-recording
   - ai video
@@ -587,4 +587,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y77t-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y77t for Free? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a78-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A78 5G ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

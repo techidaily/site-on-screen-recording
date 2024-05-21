@@ -404,3 +404,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>New How to Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
 </ul></div>
 
+

@@ -775,3 +775,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14?</u></a></li>
 </ul></div>
 
+

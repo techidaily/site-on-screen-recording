@@ -387,3 +387,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-sony-xperia-10-v-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Sony Xperia 10 V to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
+

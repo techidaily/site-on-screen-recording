@@ -483,3 +483,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-a70-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel A70</u></a></li>
 </ul></div>
 
+

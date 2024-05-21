@@ -570,3 +570,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-transparent-background-in-canva/"><u>Updated How to Make Transparent Background in Canva</u></a></li>
 </ul></div>
 
+

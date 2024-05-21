@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Using OBS for Gamers"
-date: 2024-05-18T19:54:35.750Z
-updated: 2024-05-19T19:54:35.750Z
+date: 2024-05-20T07:24:06.801Z
+updated: 2024-05-21T07:24:06.801Z
 tags: 
   - screen-recording
   - ai video
@@ -447,4 +447,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Blaze 2 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

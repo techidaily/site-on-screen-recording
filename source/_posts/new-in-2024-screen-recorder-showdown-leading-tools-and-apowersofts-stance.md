@@ -610,3 +610,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nubia-z50-ultra-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nubia Z50 Ultra Black and White | Dr.fone</u></a></li>
 </ul></div>
 
+

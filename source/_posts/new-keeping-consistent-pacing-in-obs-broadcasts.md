@@ -1,7 +1,7 @@
 ---
 title: "[New] Keeping Consistent Pacing in OBS Broadcasts"
-date: 2024-05-18T19:43:27.548Z
-updated: 2024-05-19T19:43:27.548Z
+date: 2024-05-20T07:23:39.027Z
+updated: 2024-05-21T07:23:39.027Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audience-approval-acoustic-amplifier/"><u>Updated In 2024, Audience Approval Acoustic Amplifier</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-preserve-the-original-sound-how-to-convert-video-to-mp3-without-quality-loss/"><u>Updated 2024 Approved Preserve the Original Sound How to Convert Video to MP3 without Quality Loss</u></a></li>
 </ul></div>
+
 

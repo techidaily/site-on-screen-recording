@@ -1,7 +1,7 @@
 ---
 title: "How to Avoid Common Mistakes in Nighttime Photography for 2024"
-date: 2024-05-18T19:54:55.498Z
-updated: 2024-05-19T19:54:55.498Z
+date: 2024-05-20T07:24:07.564Z
+updated: 2024-05-21T07:24:07.564Z
 tags: 
   - screen-recording
   - ai video
@@ -187,4 +187,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-v30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo V30 to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 14 Plus</u></a></li>
 </ul></div>
+
 

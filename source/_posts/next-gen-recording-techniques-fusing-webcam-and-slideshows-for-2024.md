@@ -564,3 +564,4 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
 <li><a href="https://howto.techidaily.com/vivo-y78t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78t Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

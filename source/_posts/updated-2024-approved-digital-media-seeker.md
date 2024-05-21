@@ -453,3 +453,4 @@ Loom Application is that it doesn't appear as though the conventional software o
 <li><a href="https://fix-guide.techidaily.com/infinix-hot-30i-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30i Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

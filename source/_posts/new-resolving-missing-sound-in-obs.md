@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Missing Sound in OBS"
-date: 2024-05-18T19:51:27.582Z
-updated: 2024-05-19T19:51:27.582Z
+date: 2024-05-20T07:23:59.215Z
+updated: 2024-05-21T07:23:59.215Z
 tags: 
   - screen-recording
   - ai video
@@ -547,4 +547,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-replacing-sky-in-your-pictures-using-online-and-offline-tools/"><u>New In 2024, Replacing Sky in Your Pictures Using Online and Offline Tools</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-digital-tranquility-the-ultimate-list-of-soothing-web-sites-for-a-peaceful-moment/"><u>Updated In 2024, Digital Tranquility The Ultimate List of Soothing Web Sites for a Peaceful Moment</u></a></li>
 </ul></div>
+
 

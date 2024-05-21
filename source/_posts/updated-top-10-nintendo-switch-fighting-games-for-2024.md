@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Nintendo Switch Fighting Games for 2024"
-date: 2024-05-18T19:33:32.322Z
-updated: 2024-05-19T19:33:32.322Z
+date: 2024-05-20T07:23:14.579Z
+updated: 2024-05-21T07:23:14.579Z
 tags: 
   - screen-recording
   - ai video
@@ -764,4 +764,5 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/updated-learn-easy-blender-rigging-in-only-2-minutes-for-2024/"><u>Updated Learn Easy Blender Rigging in Only 2 Minutes for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-9-french-video-translators-online-and-download-options/"><u>New 2024 Approved Best 9 French Video Translators Online and Download Options</u></a></li>
 </ul></div>
+
 

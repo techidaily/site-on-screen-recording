@@ -1,7 +1,7 @@
 ---
 title: "Solving Grey Voids in Gaming Capture Software"
-date: 2024-05-18T19:49:02.497Z
-updated: 2024-05-19T19:49:02.497Z
+date: 2024-05-20T07:23:52.717Z
+updated: 2024-05-21T07:23:52.717Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-content-creator.techidaily.com/updated-the-fcpx-training-hub-top-channels-sites-and-resources-for-2024/"><u>Updated The FCPX Training Hub Top Channels, Sites, and Resources for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17t to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

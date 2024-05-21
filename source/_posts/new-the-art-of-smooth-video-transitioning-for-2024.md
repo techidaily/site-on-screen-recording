@@ -490,3 +490,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-in-canva/"><u>How to Add Subtitles in Canva?</u></a></li>
 </ul></div>
 
+

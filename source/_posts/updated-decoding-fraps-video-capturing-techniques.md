@@ -357,3 +357,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://animation-videos.techidaily.com/in-2024-something-about-types-of-motion-graphics/"><u>In 2024, Something About Types of Motion Graphics</u></a></li>
 </ul></div>
 
+

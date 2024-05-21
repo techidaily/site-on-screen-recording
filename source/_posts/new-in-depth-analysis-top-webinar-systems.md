@@ -1244,3 +1244,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-15-animated-characters-we-all-had-a-crush-on/"><u>Updated In 2024, 15 Animated Characters We All Had A Crush On</u></a></li>
 </ul></div>
 
+

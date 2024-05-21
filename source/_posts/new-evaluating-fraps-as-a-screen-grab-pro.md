@@ -1,7 +1,7 @@
 ---
 title: "[New] Evaluating Fraps as a Screen Grab Pro"
-date: 2024-05-18T19:51:58.483Z
-updated: 2024-05-19T19:51:58.483Z
+date: 2024-05-20T07:24:00.327Z
+updated: 2024-05-21T07:24:00.327Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-canon-footage-a-step-by-step-video-editing-guide/"><u>In 2024, Mastering Canon Footage A Step-by-Step Video Editing Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y27s-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y27s</u></a></li>
 </ul></div>
+
 

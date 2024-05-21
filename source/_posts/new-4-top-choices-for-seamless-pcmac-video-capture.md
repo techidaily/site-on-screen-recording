@@ -398,3 +398,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-editing-video.techidaily.com/have-you-ever-applied-the-gaussian-blur-effect-to-your-videos-read-this-article-to-find-a-reliable-and-convenient-tool-to-generate-the-gaussian-blur-effect-/"><u>Have You Ever Applied the Gaussian Blur Effect to Your Videos? Read This Article to Find a Reliable and Convenient Tool to Generate the Gaussian Blur Effect for 2024</u></a></li>
 </ul></div>
 
+

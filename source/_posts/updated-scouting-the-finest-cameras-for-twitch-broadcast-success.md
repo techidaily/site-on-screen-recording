@@ -780,3 +780,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-zoom-blur-effect-in-photoshop/"><u>Updated 2024 Approved How to Add Zoom Blur Effect In Photoshop</u></a></li>
 </ul></div>
 
+

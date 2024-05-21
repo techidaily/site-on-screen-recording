@@ -473,3 +473,4 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcp-x-shortcut-adding-effects-in-3-simple-steps/"><u>The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps</u></a></li>
 </ul></div>
 
+

@@ -503,3 +503,4 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

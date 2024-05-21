@@ -305,3 +305,4 @@ You should have a good understanding of the differences between Camtasia and Ban
 <li><a href="https://ai-editing-video.techidaily.com/have-you-ever-tried-davinci-resolve-for-creating-a-motion-blur-effect-read-this-article-to-discover-how-to-use-davinci-resolve-motion-blur-with-the-help-of-/"><u>Have You Ever Tried DaVinci Resolve for Creating a Motion Blur Effect? Read This Article to Discover How to Use DaVinci Resolve Motion Blur with the Help of Detailed Instructions</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Expert Tips for Conducting OBS Meetings via Zoom"
-date: 2024-05-18T19:50:00.638Z
-updated: 2024-05-19T19:50:00.638Z
+date: 2024-05-20T07:23:55.450Z
+updated: 2024-05-21T07:23:55.450Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://audio-editing.techidaily.com/key-roles-played-by-everyone-involved-in-film-creation/"><u>Key Roles Played by Everyone Involved in Film Creation</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/the-complete-guide-to-iphone-speech-memorization-and-storage/"><u>The Complete Guide to iPhone Speech Memorization and Storage</u></a></li>
 </ul></div>
+
 

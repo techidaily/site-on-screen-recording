@@ -854,3 +854,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail/"><u>Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
 </ul></div>
 
+

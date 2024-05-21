@@ -1,7 +1,7 @@
 ---
 title: "How to Record Minecraft on Mac"
-date: 2024-05-18T19:55:27.536Z
-updated: 2024-05-19T19:55:27.536Z
+date: 2024-05-20T07:24:09.753Z
+updated: 2024-05-21T07:24:09.753Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ Minecraft has been a popular game because of its different worlds and modes. The
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-gionee-f3-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Gionee F3 Pro? Fixed | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-camon-20-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Camon 20 Pro 5G</u></a></li>
 </ul></div>
+
 

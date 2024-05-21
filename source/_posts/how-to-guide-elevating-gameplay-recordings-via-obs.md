@@ -384,3 +384,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
 </ul></div>
 
+

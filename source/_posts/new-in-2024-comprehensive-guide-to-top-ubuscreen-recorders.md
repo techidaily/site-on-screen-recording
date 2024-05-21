@@ -715,3 +715,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-note-13-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi Note 13 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
+

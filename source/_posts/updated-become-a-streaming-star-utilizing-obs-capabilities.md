@@ -394,3 +394,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-14-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi 14 to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

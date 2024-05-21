@@ -618,3 +618,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-civi-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Civi 3</u></a></li>
 </ul></div>
 
+

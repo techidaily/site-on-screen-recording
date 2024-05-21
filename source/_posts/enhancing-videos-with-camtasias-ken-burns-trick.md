@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Videos with Camtasia's Ken Burns Trick"
-date: 2024-05-18T19:33:54.436Z
-updated: 2024-05-19T19:33:54.436Z
+date: 2024-05-20T07:23:15.414Z
+updated: 2024-05-21T07:23:15.414Z
 tags: 
   - screen-recording
   - ai video
@@ -329,4 +329,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-spark-20-proplus-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Spark 20 Pro+</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-motion-text-effects-for-your-video/"><u>Updated How to Create Motion Text Effects for Your Video?</u></a></li>
 </ul></div>
+
 

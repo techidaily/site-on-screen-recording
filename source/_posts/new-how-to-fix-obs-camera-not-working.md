@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Fix OBS Camera Not Working"
-date: 2024-05-18T19:47:42.408Z
-updated: 2024-05-19T19:47:42.408Z
+date: 2024-05-20T07:23:49.550Z
+updated: 2024-05-21T07:23:49.550Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://review-topics.techidaily.com/meizu-21-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Meizu 21 support - Forgotten screen lock.</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-12-proplus-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 12 Pro+ 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

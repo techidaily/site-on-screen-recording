@@ -1,7 +1,7 @@
 ---
 title: "\"OBS High Encoding - How to Fix\""
-date: 2024-05-18T19:45:12.412Z
-updated: 2024-05-19T19:45:12.412Z
+date: 2024-05-20T07:23:42.944Z
+updated: 2024-05-21T07:23:42.944Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-15-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 15 Pro Max</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-8-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 8</u></a></li>
 </ul></div>
+
 

@@ -256,3 +256,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Note 30i</u></a></li>
 </ul></div>
 
+

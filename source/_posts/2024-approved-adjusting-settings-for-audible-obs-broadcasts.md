@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Adjusting Settings for Audible OBS Broadcasts\""
-date: 2024-05-18T19:41:40.793Z
-updated: 2024-05-19T19:41:40.793Z
+date: 2024-05-20T07:23:34.774Z
+updated: 2024-05-21T07:23:34.774Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Pop 7 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M54 5G Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

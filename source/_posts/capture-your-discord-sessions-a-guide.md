@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Your Discord Sessions  A Guide\""
-date: 2024-05-18T19:49:51.749Z
-updated: 2024-05-19T19:49:51.749Z
+date: 2024-05-20T07:23:55.153Z
+updated: 2024-05-21T07:23:55.153Z
 tags: 
   - screen-recording
   - ai video
@@ -425,4 +425,5 @@ As a tone of voice and text talk app, Discord assists gamers talk in order to on
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-edge-40-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Edge 40 Device SIM</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-a-mac-users-guide-to-movie-making/"><u>Updated 2024 Approved Unleash Your Creativity A Mac Users Guide to Movie Making</u></a></li>
 </ul></div>
+
 

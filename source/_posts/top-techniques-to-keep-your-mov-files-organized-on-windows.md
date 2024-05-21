@@ -641,3 +641,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone XS Max From Your Apple ID</u></a></li>
 </ul></div>
 
+

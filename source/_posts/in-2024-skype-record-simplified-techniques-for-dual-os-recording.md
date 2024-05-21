@@ -616,3 +616,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/updated-guide-to-scaling-and-setting-videos-in-filmora-tutorial-for-2024/"><u>Updated Guide To Scaling and Setting Videos in Filmora | Tutorial for 2024</u></a></li>
 </ul></div>
 
+

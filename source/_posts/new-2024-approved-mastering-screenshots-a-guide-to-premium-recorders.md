@@ -812,3 +812,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
 
+

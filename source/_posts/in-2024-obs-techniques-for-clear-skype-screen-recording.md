@@ -336,3 +336,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://smart-video-creator.techidaily.com/audio-post-production-mastery-l-cuts-and-j-cuts-in-fcpx/"><u>Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX</u></a></li>
 </ul></div>
 
+

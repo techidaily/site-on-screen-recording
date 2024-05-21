@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mini Masterpieces  Top 6 Coolest Mini-Houses in MC\""
-date: 2024-05-18T19:33:39.344Z
-updated: 2024-05-19T19:33:39.344Z
+date: 2024-05-20T07:23:14.853Z
+updated: 2024-05-21T07:23:14.853Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/convert-optimize-and-thrill-the-best-vr-video-conversion-software-for-2024/"><u>Convert, Optimize, and Thrill The Best VR Video Conversion Software for 2024</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

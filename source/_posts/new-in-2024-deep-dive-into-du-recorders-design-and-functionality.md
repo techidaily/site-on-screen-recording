@@ -589,3 +589,4 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A2</u></a></li>
 </ul></div>
 
+

@@ -505,3 +505,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-lava-yuva-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Lava Yuva 2 Pro to New Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

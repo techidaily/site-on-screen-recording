@@ -679,3 +679,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 
+

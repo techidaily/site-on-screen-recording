@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Comprehensive Guide  PS4 Recording via OBS Studio\""
-date: 2024-05-18T19:40:36.681Z
-updated: 2024-05-19T19:40:36.681Z
+date: 2024-05-20T07:23:32.117Z
+updated: 2024-05-21T07:23:32.117Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone SE (2022) and iPad?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y78t to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

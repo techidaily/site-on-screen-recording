@@ -408,3 +408,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/looking-for-a-legitimate-tutorial-to-create-and-add-text-effects-in-adobe-premiere-pro-here-are-the-simple-steps-for-premiere-pro-text-effects-and-find-an-a/"><u>Looking for a Legitimate Tutorial to Create and Add Text Effects in Adobe Premiere Pro? Here Are the Simple Steps for Premiere Pro Text Effects and Find an Alternative Way</u></a></li>
 </ul></div>
 
+

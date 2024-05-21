@@ -256,3 +256,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
 </ul></div>
 
+

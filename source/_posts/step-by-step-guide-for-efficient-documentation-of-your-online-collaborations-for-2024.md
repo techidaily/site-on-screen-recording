@@ -470,3 +470,4 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://ai-editing-video.techidaily.com/new-2-solutions-to-crop-a-video-using-after-effects-for-2024/"><u>New 2 Solutions to Crop a Video Using After Effects for 2024</u></a></li>
 </ul></div>
 
+

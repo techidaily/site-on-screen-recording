@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps to Ensure OBS Captures Sound Effectively for 2024"
-date: 2024-05-18T19:30:26.122Z
-updated: 2024-05-19T19:30:26.122Z
+date: 2024-05-20T07:23:06.744Z
+updated: 2024-05-21T07:23:06.744Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo X100 PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

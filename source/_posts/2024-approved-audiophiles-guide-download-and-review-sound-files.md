@@ -405,3 +405,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Samsung Galaxy S23+ ?</u></a></li>
 </ul></div>
 
+

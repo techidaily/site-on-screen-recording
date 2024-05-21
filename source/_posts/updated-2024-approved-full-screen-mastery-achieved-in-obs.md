@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Full Screen Mastery Achieved in Obs\""
-date: 2024-05-18T19:37:44.860Z
-updated: 2024-05-19T19:37:44.860Z
+date: 2024-05-20T07:23:24.851Z
+updated: 2024-05-21T07:23:24.851Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-10-android-video-editing-apps-that-rival-imovie/"><u>Updated 2024 Approved 10 Android Video Editing Apps That Rival iMovie</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y200e-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y200e 5G Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

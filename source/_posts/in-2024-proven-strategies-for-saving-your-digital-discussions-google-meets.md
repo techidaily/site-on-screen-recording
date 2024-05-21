@@ -485,3 +485,4 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 
+

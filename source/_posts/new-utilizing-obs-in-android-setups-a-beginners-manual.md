@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Utilizing OBS in Android Setups  A Beginner's Manual\""
-date: 2024-05-18T19:48:20.137Z
-updated: 2024-05-19T19:48:20.137Z
+date: 2024-05-20T07:23:51.054Z
+updated: 2024-05-21T07:23:51.054Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-x9a-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor X9a | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-honor-x50i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X50i phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

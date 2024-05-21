@@ -279,3 +279,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

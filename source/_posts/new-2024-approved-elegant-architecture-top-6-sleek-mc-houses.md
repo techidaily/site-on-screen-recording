@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Elegant Architecture  Top 6 Sleek MC Houses\""
-date: 2024-05-18T19:51:49.493Z
-updated: 2024-05-19T19:51:49.493Z
+date: 2024-05-20T07:24:00.000Z
+updated: 2024-05-21T07:24:00.000Z
 tags: 
   - screen-recording
   - ai video
@@ -423,4 +423,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-a-full-review-of-leeming-lut-pro-for-2024/"><u>Updated A Full Review of Leeming LUT Pro for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-the-ultimate-guide-to-make-a-text-collage/"><u>New 2024 Approved The Ultimate Guide to Make a Text Collage</u></a></li>
 </ul></div>
+
 

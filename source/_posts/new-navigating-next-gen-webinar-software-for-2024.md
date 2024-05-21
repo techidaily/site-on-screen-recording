@@ -1255,3 +1255,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-hd-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 HD Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

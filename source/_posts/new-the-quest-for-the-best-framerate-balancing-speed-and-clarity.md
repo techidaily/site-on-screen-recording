@@ -230,3 +230,4 @@ As a content creator, you now understand how important frame rates are and how c
 <li><a href="https://video-creation-software.techidaily.com/updated-rapid-video-resizing-techniques-for-professionals/"><u>Updated Rapid Video Resizing Techniques for Professionals</u></a></li>
 </ul></div>
 
+

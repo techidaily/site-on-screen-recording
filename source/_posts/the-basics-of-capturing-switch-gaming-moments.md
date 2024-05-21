@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Capturing Switch Gaming Moments"
-date: 2024-05-18T19:46:21.858Z
-updated: 2024-05-19T19:46:21.858Z
+date: 2024-05-20T07:23:46.024Z
+updated: 2024-05-21T07:23:46.024Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-imovie-replacements-for-windows-10-free-and-premium-options/"><u>New 2024 Approved Top iMovie Replacements for Windows 10 Free and Premium Options</u></a></li>
 </ul></div>
+
 

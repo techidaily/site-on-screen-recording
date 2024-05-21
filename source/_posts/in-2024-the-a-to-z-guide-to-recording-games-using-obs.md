@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The A-to-Z Guide to Recording Games Using OBS\""
-date: 2024-05-18T19:56:53.455Z
-updated: 2024-05-19T19:56:53.455Z
+date: 2024-05-20T07:24:13.007Z
+updated: 2024-05-21T07:24:13.007Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Defy 2 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
+
 

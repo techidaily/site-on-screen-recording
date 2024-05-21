@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Freezing Your Window  Windows Screenshoting Guide\""
-date: 2024-05-18T19:55:11.671Z
-updated: 2024-05-19T19:55:11.671Z
+date: 2024-05-20T07:24:09.096Z
+updated: 2024-05-21T07:24:09.096Z
 tags: 
   - screen-recording
   - ai video
@@ -719,4 +719,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>2024 Approved No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-pixel-perfect-calculating-the-ideal-screen-ratio/"><u>New Pixel Perfect Calculating the Ideal Screen Ratio</u></a></li>
 </ul></div>
+
 

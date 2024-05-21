@@ -1,7 +1,7 @@
 ---
 title: "\"Avoiding Pitfalls  Securing Your Skype Recordings in OBS\""
-date: 2024-05-18T19:43:22.885Z
-updated: 2024-05-19T19:43:22.885Z
+date: 2024-05-20T07:23:38.864Z
+updated: 2024-05-21T07:23:38.864Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

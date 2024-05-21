@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Grey Screens in Gaming Recording"
-date: 2024-05-18T19:31:22.768Z
-updated: 2024-05-19T19:31:22.768Z
+date: 2024-05-20T07:23:09.163Z
+updated: 2024-05-21T07:23:09.163Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-creation-software.techidaily.com/updated-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated From Zero to Hero Top 10 Free and Paid Android Video Editing Apps for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-g24-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto G24 FRP Bypass</u></a></li>
 </ul></div>
+
 

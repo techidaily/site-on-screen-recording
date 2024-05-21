@@ -471,3 +471,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://ai-editing-video.techidaily.com/updated-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Updated Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
 </ul></div>
 
+

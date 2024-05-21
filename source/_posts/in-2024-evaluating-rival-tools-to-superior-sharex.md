@@ -257,3 +257,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-cut-trim-and-polish-the-best-video-editors-for-windows-11-free-and-paid/"><u>In 2024, Cut, Trim, and Polish The Best Video Editors for Windows 11 (Free & Paid)</u></a></li>
 </ul></div>
 
+

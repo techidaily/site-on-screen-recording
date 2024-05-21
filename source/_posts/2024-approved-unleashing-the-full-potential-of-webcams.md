@@ -431,3 +431,4 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-pro-tips-creating-dramatic-pauses-and-slow-mo-effects/"><u>New FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects</u></a></li>
 </ul></div>
 
+

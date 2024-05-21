@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture Your Discord Sessions  A Guide\""
-date: 2024-05-18T19:29:49.262Z
-updated: 2024-05-19T19:29:49.262Z
+date: 2024-05-20T07:23:05.486Z
+updated: 2024-05-21T07:23:05.486Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ As a tone of voice and text talk app, Discord assists gamers talk in order to on
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-mobile-sound-recording-a-curated-list-of-top-7-non-audacity-apps-for-android-updated/"><u>Updated 2024 Approved Mastering Mobile Sound Recording A Curated List of Top 7 Non-Audacity Apps for Android, Updated</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
 </ul></div>
+
 

@@ -740,3 +740,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-ratio-refined-expert-techniques-for-image-sizing-and-scaling/"><u>Updated In 2024, Ratio Refined Expert Techniques for Image Sizing and Scaling</u></a></li>
 </ul></div>
 
+

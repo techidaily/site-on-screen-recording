@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Boosting Performance  Allocating Additional RAM to Minecraft for 2024\""
-date: 2024-05-18T19:44:06.018Z
-updated: 2024-05-19T19:44:06.018Z
+date: 2024-05-20T07:23:40.456Z
+updated: 2024-05-21T07:23:40.456Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme 12+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y17s-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y17s Phones</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Status of SplitCam as a Recorder"
-date: 2024-05-18T19:40:00.532Z
-updated: 2024-05-19T19:40:00.532Z
+date: 2024-05-20T07:23:30.264Z
+updated: 2024-05-21T07:23:30.264Z
 tags: 
   - screen-recording
   - ai video
@@ -225,4 +225,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://video-creation-software.techidaily.com/new-fast-and-slow-video-conversion-tools-for-windows-and-mac-for-2024/"><u>New Fast and Slow Video Conversion Tools for Windows and Mac for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Masterful Gameplay Transmission with OBS Studio"
-date: 2024-05-18T19:35:53.922Z
-updated: 2024-05-19T19:35:53.922Z
+date: 2024-05-20T07:23:20.321Z
+updated: 2024-05-21T07:23:20.321Z
 tags: 
   - screen-recording
   - ai video
@@ -412,4 +412,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-v29e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V29e Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-add-motion-to-your-messages-top-text-animation-apps-for-phones/"><u>Updated Add Motion to Your Messages Top Text Animation Apps for Phones</u></a></li>
 </ul></div>
+
 

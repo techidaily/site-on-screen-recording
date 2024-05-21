@@ -1,7 +1,7 @@
 ---
 title: "[New] Lowering the Quality of OBS Streaming"
-date: 2024-05-18T19:36:46.345Z
-updated: 2024-05-19T19:36:46.345Z
+date: 2024-05-20T07:23:22.244Z
+updated: 2024-05-21T07:23:22.244Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/2024-approved-strategies-for-transforming-audacity-recordings-into-mp3-files/"><u>2024 Approved Strategies for Transforming Audacity Recordings Into MP3 Files</u></a></li>
 </ul></div>
+
 

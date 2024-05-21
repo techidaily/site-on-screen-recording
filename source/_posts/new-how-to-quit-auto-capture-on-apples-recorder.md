@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How To Quit Auto-Capture on Apple's Recorder\""
-date: 2024-05-18T19:50:39.776Z
-updated: 2024-05-19T19:50:39.776Z
+date: 2024-05-20T07:23:56.962Z
+updated: 2024-05-21T07:23:56.962Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g-5g-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G 5G (2023) by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-top-10-best-websites-like-omegle-for-2024/"><u>Updated Top 10 Best Websites Like Omegle for 2024</u></a></li>
 </ul></div>
+
 

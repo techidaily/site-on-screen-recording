@@ -788,3 +788,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-top-rated-alternatives-to-windows-10-photos/"><u>Updated Unleash Your Creativity Top-Rated Alternatives to Windows 10 Photos</u></a></li>
 </ul></div>
 
+

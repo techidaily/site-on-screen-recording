@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 12 Tycoons - Where Every Decision Forges Your Path to Glory\""
-date: 2024-05-18T19:34:57.558Z
-updated: 2024-05-19T19:34:57.558Z
+date: 2024-05-20T07:23:17.870Z
+updated: 2024-05-21T07:23:17.870Z
 tags: 
   - screen-recording
   - ai video
@@ -829,4 +829,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-xs-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone XS Max Lock Screen with Notifications? | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/rapid-guide-to-exporting-whatsapp-audio-as-high-quality-mp3-for-2024/"><u>Rapid Guide to Exporting WhatsApp Audio as High-Quality MP3 for 2024</u></a></li>
 </ul></div>
+
 

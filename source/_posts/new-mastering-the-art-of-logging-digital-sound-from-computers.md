@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Logging Digital Sound From Computers"
-date: 2024-05-18T19:40:04.033Z
-updated: 2024-05-19T19:40:04.033Z
+date: 2024-05-20T07:23:30.392Z
+updated: 2024-05-21T07:23:30.392Z
 tags: 
   - screen-recording
   - ai video
@@ -778,4 +778,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a38-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A38 System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-edit-mp4-files-with-ease-best-windows-8-video-editor-for-2024/"><u>Updated Edit MP4 Files with Ease Best Windows 8 Video Editor for 2024</u></a></li>
 </ul></div>
+
 

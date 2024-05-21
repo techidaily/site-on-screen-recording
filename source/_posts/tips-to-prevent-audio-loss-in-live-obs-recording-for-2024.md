@@ -1,7 +1,7 @@
 ---
 title: "Tips to Prevent Audio Loss in Live OBS Recording for 2024"
-date: 2024-05-18T19:49:56.598Z
-updated: 2024-05-19T19:49:56.598Z
+date: 2024-05-20T07:23:55.320Z
+updated: 2024-05-21T07:23:55.320Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-moto-g73-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Moto G73 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -180,3 +180,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40i-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Hot 40i Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
 
+

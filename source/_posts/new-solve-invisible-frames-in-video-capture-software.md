@@ -1,7 +1,7 @@
 ---
 title: "[New] Solve Invisible Frames in Video Capture Software"
-date: 2024-05-18T19:29:50.873Z
-updated: 2024-05-19T19:29:50.873Z
+date: 2024-05-20T07:23:05.542Z
+updated: 2024-05-21T07:23:05.542Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-tweaking.techidaily.com/unveiling-the-secrets-of-vimeo-videos-exploring-aspect-ratio-options/"><u>Unveiling the Secrets of Vimeo Videos Exploring Aspect Ratio Options</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-vocaroo-a-comprehensive-guide-for-voice-capture-techniques/"><u>2024 Approved Mastering Vocaroo A Comprehensive Guide for Voice Capture Techniques</u></a></li>
 </ul></div>
+
 

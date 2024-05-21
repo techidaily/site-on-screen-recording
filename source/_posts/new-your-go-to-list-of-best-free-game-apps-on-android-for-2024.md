@@ -937,3 +937,4 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

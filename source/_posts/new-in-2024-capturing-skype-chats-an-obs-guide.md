@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-18T19:45:36.710Z
-updated: 2024-05-19T19:45:36.710Z
+date: 2024-05-20T07:23:44.311Z
+updated: 2024-05-21T07:23:44.311Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-linux-video-editing-software-top-10-alternatives-to-adobe-premiere/"><u>Updated 2024 Approved Linux Video Editing Software Top 10 Alternatives to Adobe Premiere</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 11F 5G?</u></a></li>
 </ul></div>
+
 

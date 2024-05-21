@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Innovative Approaches to Capturing Skype Calls on OBS"
-date: 2024-05-18T19:42:16.914Z
-updated: 2024-05-19T19:42:16.914Z
+date: 2024-05-20T07:23:36.113Z
+updated: 2024-05-21T07:23:36.113Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-wondering-how-to-add-custom-transitions-in-obs-studio-here-are-the-steps-to-add-stinger-transitions-to-obs-get-a-better-obs-alternative-to-add/"><u>2024 Approved Wondering How to Add Custom Transitions in OBS Studio? Here Are the Steps to Add Stinger Transitions to OBS. Get a Better OBS Alternative to Add Transitions</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-getting-started-with-video-editing-a-windows-movie-maker-handbook/"><u>New 2024 Approved Getting Started with Video Editing A Windows Movie Maker Handbook</u></a></li>
 </ul></div>
+
 

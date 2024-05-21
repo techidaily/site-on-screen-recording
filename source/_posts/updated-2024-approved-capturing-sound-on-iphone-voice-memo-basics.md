@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Sound on iPhone  Voice Memo Basics\""
-date: 2024-05-18T19:54:31.394Z
-updated: 2024-05-19T19:54:31.394Z
+date: 2024-05-20T07:24:06.660Z
+updated: 2024-05-21T07:24:06.660Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-explore-comical-noise-samples/"><u>Updated In 2024, Explore Comical Noise Samples</u></a></li>
 </ul></div>
+
 

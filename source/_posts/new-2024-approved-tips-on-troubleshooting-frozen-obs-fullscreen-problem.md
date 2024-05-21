@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Tips on Troubleshooting Frozen OBS Fullscreen Problem\""
-date: 2024-05-18T19:51:54.630Z
-updated: 2024-05-19T19:51:54.630Z
+date: 2024-05-20T07:24:00.205Z
+updated: 2024-05-21T07:24:00.205Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a54-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A54 5G Lock Screen Password</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

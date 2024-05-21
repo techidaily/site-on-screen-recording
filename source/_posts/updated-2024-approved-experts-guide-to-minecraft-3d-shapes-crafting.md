@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expert's Guide to Minecraft 3D Shapes Crafting\""
-date: 2024-05-18T19:50:48.522Z
-updated: 2024-05-19T19:50:48.522Z
+date: 2024-05-20T07:23:57.248Z
+updated: 2024-05-21T07:23:57.248Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>In 2024, The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-note-30-vip-racing-edition-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Note 30 VIP Racing Edition Easily?</u></a></li>
 </ul></div>
+
 

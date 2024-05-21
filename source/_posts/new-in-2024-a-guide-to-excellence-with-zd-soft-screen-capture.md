@@ -522,3 +522,4 @@ The article covered the critical features of the ZD Soft recorder, the method to
 <li><a href="https://smart-video-editing.techidaily.com/updated-match-merge-and-master-color-correction-in-fcp/"><u>Updated Match, Merge, and Master Color Correction in FCP</u></a></li>
 </ul></div>
 
+

@@ -617,3 +617,4 @@ Follow @Max Wales
 <li><a href="https://fix-guide.techidaily.com/nokia-c12-plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Plus Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

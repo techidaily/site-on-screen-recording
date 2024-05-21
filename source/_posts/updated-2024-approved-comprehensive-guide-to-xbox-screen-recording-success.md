@@ -614,3 +614,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://audio-shaping.techidaily.com/mastering-multimedia-innovative-methods-for-integrating-sound-into-films/"><u>Mastering Multimedia Innovative Methods for Integrating Sound Into Films</u></a></li>
 </ul></div>
 
+

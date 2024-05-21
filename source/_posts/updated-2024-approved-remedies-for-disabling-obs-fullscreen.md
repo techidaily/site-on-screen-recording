@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Remedies for Disabling OBS Fullscreen\""
-date: 2024-05-18T19:34:24.030Z
-updated: 2024-05-19T19:34:24.030Z
+date: 2024-05-20T07:23:16.614Z
+updated: 2024-05-21T07:23:16.614Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-pova-5-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Pova 5 Pro to PC? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-note-30i-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Note 30i Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

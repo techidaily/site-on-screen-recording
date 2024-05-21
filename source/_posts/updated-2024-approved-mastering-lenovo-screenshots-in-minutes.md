@@ -485,3 +485,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

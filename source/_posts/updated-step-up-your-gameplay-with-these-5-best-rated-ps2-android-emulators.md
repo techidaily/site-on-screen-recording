@@ -575,3 +575,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Pop 8 | Dr.fone</u></a></li>
 </ul></div>
 
+

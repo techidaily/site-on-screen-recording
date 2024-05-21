@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima\""
-date: 2024-05-18T19:55:33.207Z
-updated: 2024-05-19T19:55:33.207Z
+date: 2024-05-20T07:24:10.014Z
+updated: 2024-05-21T07:24:10.014Z
 tags: 
   - screen-recording
   - ai video
@@ -620,4 +620,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Immaculate Game Recordings with OBS Studio Pro for 2024"
-date: 2024-05-18T19:36:12.687Z
-updated: 2024-05-19T19:36:12.687Z
+date: 2024-05-20T07:23:20.969Z
+updated: 2024-05-21T07:23:20.969Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-vdieo-software.techidaily.com/video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-the-ultimate-guide/"><u>Video Editing Showdown Sony Vegas vs Adobe Premiere Pro - The Ultimate Guide</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-tutorial-how-to-change-video-frame-rate/"><u>Updated Premiere Pro Tutorial How To Change Video Frame Rate</u></a></li>
 </ul></div>
+
 

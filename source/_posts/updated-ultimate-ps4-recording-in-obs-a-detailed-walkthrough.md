@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
-date: 2024-05-18T19:38:16.271Z
-updated: 2024-05-19T19:38:16.271Z
+date: 2024-05-20T07:23:25.965Z
+updated: 2024-05-21T07:23:25.965Z
 tags: 
   - screen-recording
   - ai video
@@ -357,4 +357,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/download-and-play-the-best-websites-for-pc-games-for-2024/"><u>Download and Play The Best Websites for PC Games for 2024</u></a></li>
 </ul></div>
+
 

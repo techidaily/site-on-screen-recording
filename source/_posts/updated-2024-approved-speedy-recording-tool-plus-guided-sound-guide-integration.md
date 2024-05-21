@@ -479,3 +479,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-simplifying-vocal-alterations-the-audacity-technique/"><u>2024 Approved Simplifying Vocal Alterations The Audacity Technique</u></a></li>
 </ul></div>
 
+

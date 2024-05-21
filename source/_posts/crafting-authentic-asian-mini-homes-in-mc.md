@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Authentic Asian Mini-Homes in MC\""
-date: 2024-05-18T19:53:50.161Z
-updated: 2024-05-19T19:53:50.161Z
+date: 2024-05-20T07:24:05.238Z
+updated: 2024-05-21T07:24:05.238Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-expert-recommended-4k-video-converters-free-trial-and-paid-options/"><u>Updated In 2024, Expert-Recommended 4K Video Converters (Free Trial & Paid Options)</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-7-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 7 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

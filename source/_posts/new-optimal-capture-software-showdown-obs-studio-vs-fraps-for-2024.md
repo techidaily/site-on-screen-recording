@@ -288,3 +288,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://audio-editing.techidaily.com/how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Techniques  Live-Streaming Games via OBS\""
-date: 2024-05-18T19:51:07.913Z
-updated: 2024-05-19T19:51:07.913Z
+date: 2024-05-20T07:23:58.082Z
+updated: 2024-05-21T07:23:58.082Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-the-art-of-freeze-frames-and-slow-motion-storytelling/"><u>In 2024, Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y78plus-t1-edition-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y78+ (T1) Edition to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

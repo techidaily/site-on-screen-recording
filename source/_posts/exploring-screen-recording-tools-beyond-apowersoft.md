@@ -596,3 +596,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro 5G Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -159,3 +159,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-talking-to-text-the-simple-way-to-transcribe-conversations/"><u>In 2024, Talking to Text The Simple Way to Transcribe Conversations</u></a></li>
 </ul></div>
 
+

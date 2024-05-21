@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Beginner's Journey Into Gameplay Capturing with OBS\""
-date: 2024-05-18T19:37:08.650Z
-updated: 2024-05-19T19:37:08.650Z
+date: 2024-05-20T07:23:23.042Z
+updated: 2024-05-21T07:23:23.042Z
 tags: 
   - screen-recording
   - ai video
@@ -417,4 +417,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Pop 8? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 

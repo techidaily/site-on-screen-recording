@@ -266,3 +266,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy XCover 6 Pro Tactical Edition to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

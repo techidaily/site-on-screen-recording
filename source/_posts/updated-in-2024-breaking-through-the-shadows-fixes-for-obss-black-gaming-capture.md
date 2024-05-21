@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Breaking Through the Shadows  Fixes for OBS's Black Gaming Capture\""
-date: 2024-05-18T19:56:23.581Z
-updated: 2024-05-19T19:56:23.581Z
+date: 2024-05-20T07:24:11.858Z
+updated: 2024-05-21T07:24:11.858Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-xs-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone XS Max Before the Plan Expires</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Game to Giga  Full PS4 Capture Using OBS\""
-date: 2024-05-18T19:53:24.051Z
-updated: 2024-05-19T19:53:24.051Z
+date: 2024-05-20T07:24:04.266Z
+updated: 2024-05-21T07:24:04.266Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-top-10-fcpx-plugins-you-need-now/"><u>Updated In 2024, Take Your Videos to the Next Level Top 10 FCPX Plugins You Need Now</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-audio-video-syncing-in-final-cut-pro-x-2024/"><u>The Ultimate Guide to Audio-Video Syncing in Final Cut Pro X 2024</u></a></li>
 </ul></div>
+
 

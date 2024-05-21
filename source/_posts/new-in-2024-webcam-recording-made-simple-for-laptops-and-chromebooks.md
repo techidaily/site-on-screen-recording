@@ -518,3 +518,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/fuel-creativity-with-10-awesome-collection-of-2d-animation-examples/"><u>Fuel Creativity with 10 Awesome Collection of 2D Animation Examples</u></a></li>
 </ul></div>
 
+

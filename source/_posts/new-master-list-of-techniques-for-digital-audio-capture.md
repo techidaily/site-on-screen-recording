@@ -1,7 +1,7 @@
 ---
 title: "[New] Master List of Techniques for Digital Audio Capture"
-date: 2024-05-18T19:33:38.804Z
-updated: 2024-05-19T19:33:38.804Z
+date: 2024-05-20T07:23:14.837Z
+updated: 2024-05-21T07:23:14.837Z
 tags: 
   - screen-recording
   - ai video
@@ -792,4 +792,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/fast-and-reliable-how-to-choose-a-top-youtube-to-mp4-converter/"><u>Fast and Reliable How to Choose a Top YouTube to MP4 Converter</u></a></li>
 </ul></div>
+
 

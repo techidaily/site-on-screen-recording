@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide to Compositing Using Blending Modes for 2024"
-date: 2024-05-18T19:29:45.456Z
-updated: 2024-05-19T19:29:45.456Z
+date: 2024-05-20T07:23:05.333Z
+updated: 2024-05-21T07:23:05.333Z
 tags: 
   - screen-recording
   - ai video
@@ -447,4 +447,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-spotlight-on-popular-pop-chansons-for-visual-media-projects/"><u>Updated 2024 Approved Top 10 Spotlight on Popular Pop Chansons for Visual Media Projects</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
+
 

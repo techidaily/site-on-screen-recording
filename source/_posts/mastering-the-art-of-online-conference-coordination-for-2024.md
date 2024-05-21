@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Online Conference Coordination for 2024"
-date: 2024-05-18T19:32:46.512Z
-updated: 2024-05-19T19:32:46.512Z
+date: 2024-05-20T07:23:12.337Z
+updated: 2024-05-21T07:23:12.337Z
 tags: 
   - screen-recording
   - ai video
@@ -690,4 +690,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-scrolling-text-effect/"><u>New In 2024, How To Add Scrolling Text Effect</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-6-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 6 Plus?</u></a></li>
 </ul></div>
+
 

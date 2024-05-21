@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Capture Showdown  OBS vs Shadow\""
-date: 2024-05-18T19:49:07.909Z
-updated: 2024-05-19T19:49:07.909Z
+date: 2024-05-20T07:23:52.990Z
+updated: 2024-05-21T07:23:52.990Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-10t-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 10T 5G Phone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark 10 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

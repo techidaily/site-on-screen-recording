@@ -1,7 +1,7 @@
 ---
 title: "Getting the Most Out of Your Game with Fraps"
-date: 2024-05-18T19:44:54.914Z
-updated: 2024-05-19T19:44:54.914Z
+date: 2024-05-20T07:23:42.181Z
+updated: 2024-05-21T07:23:42.181Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://smart-video-editing.techidaily.com/pc-video-trimming-the-top-10-tools-you-need-for-2024/"><u>PC Video Trimming The Top 10 Tools You Need for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-yuva-3-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Yuva 3 Without PUK Codes</u></a></li>
 </ul></div>
+
 

@@ -267,3 +267,4 @@ Follow @Richard Bennett
 <li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
 
+

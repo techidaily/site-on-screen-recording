@@ -1,7 +1,7 @@
 ---
 title: "How To Fix OBS Full Screen Not Working Issue, In 2024"
-date: 2024-05-18T19:42:47.935Z
-updated: 2024-05-19T19:42:47.935Z
+date: 2024-05-20T07:23:37.209Z
+updated: 2024-05-21T07:23:37.209Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-razr-40-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola Razr 40 Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y78+? | Dr.fone</u></a></li>
 </ul></div>
+
 

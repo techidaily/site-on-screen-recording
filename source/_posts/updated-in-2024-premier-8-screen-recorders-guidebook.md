@@ -638,3 +638,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-syncing-audio-and-video-in-adobe-premiere-pro/"><u>New The Ultimate Guide to Syncing Audio and Video in Adobe Premiere Pro</u></a></li>
 </ul></div>
 
+

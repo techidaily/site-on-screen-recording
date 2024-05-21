@@ -856,3 +856,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/detailed-steps-to-resize-video-in-davinci-resolve/"><u>Detailed Steps to Resize Video in Davinci Resolve</u></a></li>
 </ul></div>
 
+

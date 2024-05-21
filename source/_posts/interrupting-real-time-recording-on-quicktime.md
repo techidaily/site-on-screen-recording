@@ -1,7 +1,7 @@
 ---
 title: "\"Interrupting Real-Time Recording on QuickTime\""
-date: 2024-05-18T19:42:31.747Z
-updated: 2024-05-19T19:42:31.747Z
+date: 2024-05-20T07:23:36.669Z
+updated: 2024-05-21T07:23:36.669Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-after-effects-tutorial-calming-the-camera-video-stabilization-techniques/"><u>New In 2024, After Effects Tutorial Calming the Camera - Video Stabilization Techniques</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-magic-6-lite-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Magic 6 Lite without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Audacity Audio Basics for New Mac Users for 2024"
-date: 2024-05-18T19:45:52.957Z
-updated: 2024-05-19T19:45:52.957Z
+date: 2024-05-20T07:23:44.905Z
+updated: 2024-05-21T07:23:44.905Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-audio-branding-creating-iconic-podcast-cover-imagery/"><u>New 2024 Approved The Art of Audio Branding Creating Iconic Podcast Cover Imagery</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713965675126-new-want-to-learn-how-to-trim-videos-in-premiere-pro-read-on-our-guide-will-help-you-trim-videos-with-this-timeline-based-video-editing-software-application/"><u>New Want to Learn How to Trim Videos in Premiere Pro. Read on; Our Guide Will Help You Trim Videos with This Timeline-Based Video Editing Software Application to Make Them Engaging to Viewers for 2024</u></a></li>
 </ul></div>
+
 

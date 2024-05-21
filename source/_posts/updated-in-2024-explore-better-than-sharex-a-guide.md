@@ -309,3 +309,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-google-pixel-fold-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Google Pixel Fold on Mac?</u></a></li>
 </ul></div>
 
+

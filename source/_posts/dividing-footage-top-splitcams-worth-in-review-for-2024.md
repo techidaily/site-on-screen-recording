@@ -226,3 +226,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://video-creation-software.techidaily.com/updated-pixel-perfect-a-beginners-guide-to-hd-video-resolution/"><u>Updated Pixel Perfect A Beginners Guide to HD Video Resolution</u></a></li>
 </ul></div>
 
+

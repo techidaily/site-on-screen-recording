@@ -1,7 +1,7 @@
 ---
 title: "Taking Screenshots on Mac [5 Methods]"
-date: 2024-05-18T19:30:46.092Z
-updated: 2024-05-19T19:30:46.092Z
+date: 2024-05-20T07:23:07.485Z
+updated: 2024-05-21T07:23:07.485Z
 tags: 
   - screen-recording
   - ai video
@@ -817,4 +817,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-hard-reset-vivo-t2-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo T2 Pro 5G Without Password | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-14-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi 14</u></a></li>
 </ul></div>
+
 

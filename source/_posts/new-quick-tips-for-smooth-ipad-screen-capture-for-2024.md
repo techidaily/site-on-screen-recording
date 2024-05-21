@@ -625,3 +625,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mobile-by-design-expert-advice-for-creating-effective-vertical-aspect-ratios/"><u>New 2024 Approved Mobile by Design Expert Advice for Creating Effective Vertical Aspect Ratios</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Full Page Screen Capture  How to Capture Screenshots of a Full Page?\""
-date: 2024-05-18T19:36:41.170Z
-updated: 2024-05-19T19:36:41.170Z
+date: 2024-05-20T07:23:22.048Z
+updated: 2024-05-21T07:23:22.048Z
 tags: 
   - screen-recording
   - ai video
@@ -519,4 +519,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-infuse-audio-magic-into-instagrams-tv-videos/"><u>2024 Approved Infuse Audio Magic Into Instagrams TV Videos</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-infinix-note-30i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Note 30i Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

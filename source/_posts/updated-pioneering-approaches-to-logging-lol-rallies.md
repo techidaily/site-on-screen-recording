@@ -507,3 +507,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

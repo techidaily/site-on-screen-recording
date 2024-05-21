@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Decoding Fraps Video Capturing Techniques for 2024"
-date: 2024-05-18T19:29:53.307Z
-updated: 2024-05-19T19:29:53.307Z
+date: 2024-05-20T07:23:05.626Z
+updated: 2024-05-21T07:23:05.626Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-s-top-rated-vignette-makers-for-iphone-and-android-a-comprehensive-guide/"><u>New In 2024, S Top-Rated Vignette Makers for iPhone and Android A Comprehensive Guide</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-economical-mp3-cutter-and-adjuster-software-for-apple-devices-for-2024/"><u>Updated Economical MP3 Cutter & Adjuster Software for Apple Devices for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "How To Stop Recording on QuickTime"
-date: 2024-05-18T19:40:18.068Z
-updated: 2024-05-19T19:40:18.068Z
+date: 2024-05-20T07:23:30.882Z
+updated: 2024-05-21T07:23:30.882Z
 tags: 
   - screen-recording
   - ai video
@@ -459,4 +459,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-capturing-sounds-on-the-go-a-guide-to-free-audio-recording-with-audacity/"><u>New 2024 Approved Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality/"><u>Updated In 2024, Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality</u></a></li>
 </ul></div>
+
 

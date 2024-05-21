@@ -1,7 +1,7 @@
 ---
 title: "\"Full-Screen Fix for OBS Enthusiasts\""
-date: 2024-05-18T19:34:28.878Z
-updated: 2024-05-19T19:34:28.878Z
+date: 2024-05-20T07:23:16.798Z
+updated: 2024-05-21T07:23:16.798Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -675,3 +675,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-camera-shake-to-video-in-adobe-after-effects/"><u>How to Add Camera Shake to Video in Adobe After Effects</u></a></li>
 </ul></div>
 
+

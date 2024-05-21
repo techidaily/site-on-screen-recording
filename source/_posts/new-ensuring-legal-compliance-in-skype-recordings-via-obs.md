@@ -1,7 +1,7 @@
 ---
 title: "[New] Ensuring Legal Compliance in Skype Recordings via OBS"
-date: 2024-05-18T19:43:58.969Z
-updated: 2024-05-19T19:43:58.969Z
+date: 2024-05-20T07:23:40.159Z
+updated: 2024-05-21T07:23:40.159Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-from-zero-to-hero-15-free-video-editing-tools-for-beginners/"><u>2024 Approved From Zero to Hero 15 Free Video Editing Tools for Beginners</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-time-lapse-essentials-tips-tricks-and-best-practices-for-2024/"><u>Updated Final Cut Pro Time Lapse Essentials Tips, Tricks, and Best Practices for 2024</u></a></li>
 </ul></div>
+
 

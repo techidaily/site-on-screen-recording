@@ -304,3 +304,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-camon-30-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Camon 30 Pro 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
 
+

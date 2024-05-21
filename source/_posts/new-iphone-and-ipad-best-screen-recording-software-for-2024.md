@@ -396,3 +396,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/this-article-will-explore-in-detail-how-you-can-use-the-features-available-in-wondershare-filmora-to-export-the-video-by-changing-the-resolution-of-the-foot/"><u>This Article Will Explore in Detail How You Can Use the Features Available in Wondershare Filmora to Export the Video by Changing the Resolution of the Footage</u></a></li>
 </ul></div>
 
+

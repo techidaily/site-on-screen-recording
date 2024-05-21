@@ -577,3 +577,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-to-animate-graphics-in-canva/"><u>Updated In 2024, How To Animate Graphics in Canva</u></a></li>
 </ul></div>
 
+

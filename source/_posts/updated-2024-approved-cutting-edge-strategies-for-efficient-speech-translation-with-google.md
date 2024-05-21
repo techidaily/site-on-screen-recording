@@ -264,3 +264,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-splitting-audio-from-a-video-in-sony-vegas-step-by-step/"><u>Updated In 2024, Splitting Audio From a Video in Sony Vegas Step by Step</u></a></li>
 </ul></div>
 
+

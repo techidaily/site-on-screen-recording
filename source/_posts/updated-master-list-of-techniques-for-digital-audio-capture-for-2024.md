@@ -824,3 +824,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-linuxs-leading-picks-for-sound-recording-an-in-depth-look-at-top-tools-and-proven-techniques/"><u>New In 2024, Linuxs Leading Picks for Sound Recording An In-Depth Look at Top Tools & Proven Techniques</u></a></li>
 </ul></div>
 
+

@@ -400,3 +400,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-edge-40-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Edge 40 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

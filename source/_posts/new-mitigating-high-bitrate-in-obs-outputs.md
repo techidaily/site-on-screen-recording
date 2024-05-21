@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mitigating High-Bitrate in OBS Outputs\""
-date: 2024-05-18T19:51:42.447Z
-updated: 2024-05-19T19:51:42.447Z
+date: 2024-05-20T07:23:59.738Z
+updated: 2024-05-21T07:23:59.738Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-seamless-audio-conversion-turning-mp3-files-into-mp4s/"><u>Updated Seamless Audio Conversion Turning MP3 Files Into MP4s</u></a></li>
 </ul></div>
+
 

@@ -496,3 +496,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
 
+

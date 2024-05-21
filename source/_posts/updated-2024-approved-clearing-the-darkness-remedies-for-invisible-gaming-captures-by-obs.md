@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Clearing the Darkness  Remedies for Invisible Gaming Captures by OBS\""
-date: 2024-05-18T19:56:24.389Z
-updated: 2024-05-19T19:56:24.389Z
+date: 2024-05-20T07:24:11.881Z
+updated: 2024-05-21T07:24:11.881Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://voice-adjusting.techidaily.com/new-navigating-audacity-how-to-archive-desktop-audio-on-your-pc-for-2024/"><u>New Navigating Audacity How to Archive Desktop Audio on Your PC for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-online-video-cutting-made-easy-a-kapwing-editor-tutorial-for-2024/"><u>New Online Video Cutting Made Easy A Kapwing Editor Tutorial for 2024</u></a></li>
 </ul></div>
+
 

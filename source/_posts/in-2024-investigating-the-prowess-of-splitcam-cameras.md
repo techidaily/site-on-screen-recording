@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Investigating the Prowess of SplitCam Cameras"
-date: 2024-05-18T19:38:31.155Z
-updated: 2024-05-19T19:38:31.155Z
+date: 2024-05-20T07:23:26.517Z
+updated: 2024-05-21T07:23:26.517Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-40i-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 40i</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-8-hd-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 8 HD Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

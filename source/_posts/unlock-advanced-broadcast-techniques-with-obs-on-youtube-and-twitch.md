@@ -195,3 +195,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-image-proportions-a-beginners-guide-to-ratio-calculators/"><u>New 2024 Approved Mastering Image Proportions A Beginners Guide to Ratio Calculators</u></a></li>
 </ul></div>
 
+

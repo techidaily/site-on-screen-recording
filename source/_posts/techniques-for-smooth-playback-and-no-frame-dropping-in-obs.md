@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Smooth Playback and No Frame Dropping in OBS"
-date: 2024-05-18T19:40:18.339Z
-updated: 2024-05-19T19:40:18.339Z
+date: 2024-05-20T07:23:30.891Z
+updated: 2024-05-21T07:23:30.891Z
 tags: 
   - screen-recording
   - ai video
@@ -594,4 +594,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-how-to-create-engaging-linkedin-video-thumbnails-a-step-by-step-guide/"><u>New 2024 Approved How to Create Engaging LinkedIn Video Thumbnails A Step-by-Step Guide</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-audio-normalization-with-davinci-resolve-an-in-depth-tutorial/"><u>New 2024 Approved Mastering Audio Normalization with DaVinci Resolve An In-Depth Tutorial</u></a></li>
 </ul></div>
+
 

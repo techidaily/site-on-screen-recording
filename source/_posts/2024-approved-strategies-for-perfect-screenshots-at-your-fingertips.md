@@ -444,3 +444,4 @@ ScreenRec is usually a powerful display recording tool that will you can down lo
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

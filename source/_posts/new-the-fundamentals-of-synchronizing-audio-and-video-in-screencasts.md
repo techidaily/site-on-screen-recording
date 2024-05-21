@@ -1,7 +1,7 @@
 ---
 title: "[New] The Fundamentals of Synchronizing Audio and Video in Screencasts"
-date: 2024-05-18T19:32:13.295Z
-updated: 2024-05-19T19:32:13.295Z
+date: 2024-05-20T07:23:11.169Z
+updated: 2024-05-21T07:23:11.169Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/new-vn-video-editor-app-review-editing-made-easy-on-android-for-2024/"><u>New VN Video Editor App Review Editing Made Easy on Android for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/1714930462554-updated-2024-approved-convert-text-to-mp3-on-windows-mac-android-and-iphone/"><u>Updated 2024 Approved Convert Text to MP3 on Windows, Mac, Android, and iPhone</u></a></li>
 </ul></div>
+
 

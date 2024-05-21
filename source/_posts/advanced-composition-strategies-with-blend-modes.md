@@ -1,7 +1,7 @@
 ---
 title: "Advanced Composition Strategies with Blend Modes"
-date: 2024-05-18T19:41:06.772Z
-updated: 2024-05-19T19:41:06.772Z
+date: 2024-05-20T07:23:33.248Z
+updated: 2024-05-21T07:23:33.248Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Poco X5? | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fixing Inactive OBS Video Inputs"
-date: 2024-05-18T19:53:06.176Z
-updated: 2024-05-19T19:53:06.176Z
+date: 2024-05-20T07:24:03.044Z
+updated: 2024-05-21T07:24:03.044Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

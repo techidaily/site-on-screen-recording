@@ -952,3 +952,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-boost-your-editing-speed-40-expert-level-keyboard-shortcuts-for-fcpx/"><u>In 2024, Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX</u></a></li>
 </ul></div>
 
+

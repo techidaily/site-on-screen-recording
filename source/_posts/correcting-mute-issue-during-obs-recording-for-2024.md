@@ -1,7 +1,7 @@
 ---
 title: "Correcting Mute Issue During OBS Recording for 2024"
-date: 2024-05-18T19:32:09.233Z
-updated: 2024-05-19T19:32:09.233Z
+date: 2024-05-20T07:23:10.968Z
+updated: 2024-05-21T07:23:10.968Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-edits-3-ways-to-use-transitions-in-final-cut-pro/"><u>New 2024 Approved Elevate Your Edits 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-6-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 6 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

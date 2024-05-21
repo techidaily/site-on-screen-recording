@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Tips  Configuring Stopwatches in OBS Studio for 2024\""
-date: 2024-05-18T19:49:06.831Z
-updated: 2024-05-19T19:49:06.831Z
+date: 2024-05-20T07:23:52.932Z
+updated: 2024-05-21T07:23:52.932Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 40i | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

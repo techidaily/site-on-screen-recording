@@ -1111,3 +1111,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-editing-video.techidaily.com/what-is-lumetri-color-and-how-do-you-use-it-in-adobe-after-effects-find-out-the-numerous-functions-of-lumetri-panel-and-ways-to-apply-them-to-your-video-for/"><u>What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video for 2024</u></a></li>
 </ul></div>
 
+

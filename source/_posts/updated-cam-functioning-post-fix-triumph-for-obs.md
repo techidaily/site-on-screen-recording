@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cam Functioning  Post-Fix Triumph for OBS\""
-date: 2024-05-18T19:40:02.952Z
-updated: 2024-05-19T19:40:02.952Z
+date: 2024-05-20T07:23:30.356Z
+updated: 2024-05-21T07:23:30.356Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-itel-p40plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Itel P40+ via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Passcode Screen?</u></a></li>
 </ul></div>
+
 

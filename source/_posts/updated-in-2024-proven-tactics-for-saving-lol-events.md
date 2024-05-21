@@ -502,3 +502,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
 
+

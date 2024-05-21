@@ -196,3 +196,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-12plus-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme 12+ 5G Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

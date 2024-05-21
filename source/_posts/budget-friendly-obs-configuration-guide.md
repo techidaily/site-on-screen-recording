@@ -1,7 +1,7 @@
 ---
 title: "\"Budget-Friendly OBS Configuration Guide\""
-date: 2024-05-18T19:31:02.910Z
-updated: 2024-05-19T19:31:02.910Z
+date: 2024-05-20T07:23:08.103Z
+updated: 2024-05-21T07:23:08.103Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-105-classic-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Nokia 105 Classic Pictures  An Easy Method Explained.</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-se-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone SE Blacklist Removal Tips and Tools</u></a></li>
 </ul></div>
+
 

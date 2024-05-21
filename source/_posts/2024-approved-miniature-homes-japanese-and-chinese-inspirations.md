@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Miniature Homes  Japanese & Chinese Inspirations\""
-date: 2024-05-18T19:39:11.002Z
-updated: 2024-05-19T19:39:11.002Z
+date: 2024-05-20T07:23:28.138Z
+updated: 2024-05-21T07:23:28.138Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-v30-lite-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on V30 Lite 5G</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects-for-2024/"><u>Updated Video Editing Smackdown Adobe Premiere Pro Takes on After Effects for 2024</u></a></li>
 </ul></div>
+
 

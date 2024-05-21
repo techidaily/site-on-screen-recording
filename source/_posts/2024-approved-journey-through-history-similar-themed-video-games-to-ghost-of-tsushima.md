@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Journey Through History  Similar Themed Video Games to Ghost of Tsushima\""
-date: 2024-05-18T19:32:10.862Z
-updated: 2024-05-19T19:32:10.862Z
+date: 2024-05-20T07:23:11.068Z
+updated: 2024-05-21T07:23:11.068Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/a-guide-honor-90-lite-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor 90 Lite Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-glitch-up-your-videos-top-ios-and-android-editing-apps-for-2024/"><u>Updated Glitch Up Your Videos Top iOS and Android Editing Apps for 2024</u></a></li>
 </ul></div>
+
 

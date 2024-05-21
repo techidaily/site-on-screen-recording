@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fix for Silent Audio on OBS"
-date: 2024-05-18T19:45:11.063Z
-updated: 2024-05-19T19:45:11.063Z
+date: 2024-05-20T07:23:42.870Z
+updated: 2024-05-21T07:23:42.870Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-youtube-videos-without-cc/"><u>In 2024, How to Translate YouTube Videos Without CC</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-strategies-for-crafting-a-smoothly-fading-sound-output/"><u>Updated 2024 Approved Strategies for Crafting a Smoothly Fading Sound Output</u></a></li>
 </ul></div>
+
 

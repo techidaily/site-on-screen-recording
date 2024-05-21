@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Full Screen Fiasco Resolved in Obs for 2024"
-date: 2024-05-18T19:49:13.062Z
-updated: 2024-05-19T19:49:13.062Z
+date: 2024-05-20T07:23:53.279Z
+updated: 2024-05-21T07:23:53.279Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-for-mac-best-replacement-options-this-year-for-2024/"><u>Updated Pinnacle Studio for Mac Best Replacement Options This Year for 2024</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 GPS not Working Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

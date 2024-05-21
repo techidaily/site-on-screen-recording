@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Restoring OBS's Audio Functionality"
-date: 2024-05-18T19:30:27.995Z
-updated: 2024-05-19T19:30:27.995Z
+date: 2024-05-20T07:23:06.795Z
+updated: 2024-05-21T07:23:06.795Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-messages-from-smart-8-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Smart 8 Pro</u></a></li>
 </ul></div>
+
 

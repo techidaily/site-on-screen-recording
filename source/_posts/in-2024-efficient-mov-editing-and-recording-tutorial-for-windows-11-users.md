@@ -669,3 +669,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-t2x-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo T2x 5G Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

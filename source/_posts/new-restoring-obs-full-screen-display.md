@@ -1,7 +1,7 @@
 ---
 title: "[New] Restoring OBS Full Screen Display"
-date: 2024-05-18T19:40:38.847Z
-updated: 2024-05-19T19:40:38.847Z
+date: 2024-05-20T07:23:32.176Z
+updated: 2024-05-21T07:23:32.176Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y78plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y78+ FRP Bypass</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 

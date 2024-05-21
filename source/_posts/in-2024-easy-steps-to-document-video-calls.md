@@ -440,3 +440,4 @@ With the advancement in technology, we are entering into a digital revolution. Y
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-a60-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel A60 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

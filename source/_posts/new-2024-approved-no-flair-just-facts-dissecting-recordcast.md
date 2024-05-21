@@ -285,3 +285,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 30 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

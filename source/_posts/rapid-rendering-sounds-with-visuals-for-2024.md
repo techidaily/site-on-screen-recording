@@ -470,3 +470,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-talking-photo-feature/"><u>New 2024 Approved Talking Photo Feature</u></a></li>
 </ul></div>
 
+

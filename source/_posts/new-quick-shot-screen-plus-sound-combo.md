@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Shot  Screen + Sound Combo\""
-date: 2024-05-18T19:53:19.198Z
-updated: 2024-05-19T19:53:19.198Z
+date: 2024-05-20T07:24:04.081Z
+updated: 2024-05-21T07:24:04.081Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speeding-up-or-slowing-down-footage-in-camtasia-made-easy/"><u>New 2024 Approved Speeding Up or Slowing Down Footage in Camtasia Made Easy</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-note-12-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi Note 12 Pro 5G Phone that is Locked?</u></a></li>
 </ul></div>
+
 

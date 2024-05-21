@@ -493,3 +493,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c67-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme C67 4G to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

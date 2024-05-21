@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Comparing OBS and Fraps  Aimed at Filmmakers\""
-date: 2024-05-18T19:45:37.251Z
-updated: 2024-05-19T19:45:37.251Z
+date: 2024-05-20T07:23:44.321Z
+updated: 2024-05-21T07:23:44.321Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-s17e-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo S17e Through Google Earth?</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-subtitle-your-videos-for-free-top-10-online-makers-for-2024/"><u>Updated Subtitle Your Videos for Free Top 10 Online Makers for 2024</u></a></li>
 </ul></div>
+
 

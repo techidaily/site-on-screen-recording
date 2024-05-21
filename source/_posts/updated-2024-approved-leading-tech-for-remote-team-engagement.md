@@ -636,3 +636,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/new-ken-burns-effect-in-minutes-quick-and-easy-tutorial-for-2024/"><u>New Ken Burns Effect in Minutes Quick and Easy Tutorial for 2024</u></a></li>
 </ul></div>
 
+

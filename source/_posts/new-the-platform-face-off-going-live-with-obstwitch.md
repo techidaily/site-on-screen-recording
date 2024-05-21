@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Platform Face-Off  Going Live with OBS/Twitch\""
-date: 2024-05-18T19:50:45.528Z
-updated: 2024-05-19T19:50:45.528Z
+date: 2024-05-20T07:23:57.148Z
+updated: 2024-05-21T07:23:57.148Z
 tags: 
   - screen-recording
   - ai video
@@ -472,4 +472,5 @@ Screen recording and streaming may be used for an almost unlimited variety of re
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-13-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 13 Screen with PC | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-live-shopping-in-china-major-changes-in-the-industry/"><u>New 2024 Approved Live Shopping in China Major Changes in the Industry</u></a></li>
 </ul></div>
+
 

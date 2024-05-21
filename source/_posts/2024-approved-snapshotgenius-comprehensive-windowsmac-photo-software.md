@@ -1247,3 +1247,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
 </ul></div>
 
+

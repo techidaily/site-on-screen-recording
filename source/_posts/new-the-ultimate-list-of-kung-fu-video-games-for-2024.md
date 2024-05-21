@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate List of Kung Fu Video Games for 2024"
-date: 2024-05-18T19:43:21.803Z
-updated: 2024-05-19T19:43:21.803Z
+date: 2024-05-20T07:23:38.823Z
+updated: 2024-05-21T07:23:38.823Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel P55+ | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 Plus Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

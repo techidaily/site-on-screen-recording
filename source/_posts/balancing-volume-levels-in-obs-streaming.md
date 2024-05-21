@@ -1,7 +1,7 @@
 ---
 title: "Balancing Volume Levels in OBS Streaming"
-date: 2024-05-18T19:34:28.340Z
-updated: 2024-05-19T19:34:28.340Z
+date: 2024-05-20T07:23:16.786Z
+updated: 2024-05-21T07:23:16.786Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-the-power-of-slow-motion-a-kapwing-video-editing-tutorial/"><u>Updated 2024 Approved Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A15 5G</u></a></li>
 </ul></div>
+
 

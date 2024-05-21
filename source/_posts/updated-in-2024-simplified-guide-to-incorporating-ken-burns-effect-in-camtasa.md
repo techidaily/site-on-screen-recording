@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Simplified Guide to Incorporating Ken Burns Effect in Camtasa"
-date: 2024-05-18T19:40:28.061Z
-updated: 2024-05-19T19:40:28.061Z
+date: 2024-05-20T07:23:31.706Z
+updated: 2024-05-21T07:23:31.706Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/new-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-audio-precision-in-home-cinematography-current-techniques-for-2024/"><u>New Mastering the Art of Audio Precision in Home Cinematography (Current Techniques) for 2024</u></a></li>
 </ul></div>
+
 

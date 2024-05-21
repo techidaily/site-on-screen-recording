@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T19:30:32.574Z
-updated: 2024-05-19T19:30:32.574Z
+date: 2024-05-20T07:23:06.986Z
+updated: 2024-05-21T07:23:06.986Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo T2x 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
+
 

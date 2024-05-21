@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Record PS4 with OBS Full Guide\""
-date: 2024-05-18T19:41:42.693Z
-updated: 2024-05-19T19:41:42.693Z
+date: 2024-05-20T07:23:34.845Z
+updated: 2024-05-21T07:23:34.845Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://voice-adjusting.techidaily.com/updated-top-5-sources-for-legal-comedy-soundtracks-online/"><u>Updated Top 5 Sources for Legal Comedy Soundtracks Online</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor X50i+ FRP</u></a></li>
 </ul></div>
+
 

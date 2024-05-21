@@ -1,7 +1,7 @@
 ---
 title: "\"Best OBS Settings for Low-End PC\""
-date: 2024-05-18T19:41:38.609Z
-updated: 2024-05-19T19:41:38.609Z
+date: 2024-05-20T07:23:34.708Z
+updated: 2024-05-21T07:23:34.708Z
 tags: 
   - screen-recording
   - ai video
@@ -232,4 +232,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/2024-approved-free-audio-transmutation-exploring-six-efficient-ways-to-convert-video-to-sound/"><u>2024 Approved Free Audio Transmutation Exploring Six Efficient Ways to Convert Video to Sound</u></a></li>
 </ul></div>
+
 

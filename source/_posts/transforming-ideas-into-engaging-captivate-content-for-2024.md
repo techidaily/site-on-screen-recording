@@ -403,3 +403,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a05s-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A05s Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

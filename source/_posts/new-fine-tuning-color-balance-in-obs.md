@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fine-Tuning Color Balance in OBS\""
-date: 2024-05-18T19:51:58.751Z
-updated: 2024-05-19T19:51:58.751Z
+date: 2024-05-20T07:24:00.339Z
+updated: 2024-05-21T07:24:00.339Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-vdieo-software.techidaily.com/top-free-m4a-audio-editing-software-reviews-and-downloads/"><u>Top Free M4A Audio Editing Software Reviews and Downloads</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Motorola Edge+ (2023)?</u></a></li>
 </ul></div>
+
 

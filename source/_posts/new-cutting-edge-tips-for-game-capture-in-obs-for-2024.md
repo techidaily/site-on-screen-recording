@@ -388,3 +388,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-6-powerful-video-editing-tools-for-windows-users/"><u>Updated In 2024, 6 Powerful Video Editing Tools for Windows Users</u></a></li>
 </ul></div>
 
+

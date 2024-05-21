@@ -558,3 +558,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-applying-the-effect-of-camera-shake-in-video-creation/"><u>Updated In 2024, Applying the Effect of Camera Shake in Video Creation</u></a></li>
 </ul></div>
 
+

@@ -225,3 +225,4 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

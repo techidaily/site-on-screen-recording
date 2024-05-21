@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding Group Dynamics in Zoom Sessions"
-date: 2024-05-18T19:43:29.698Z
-updated: 2024-05-19T19:43:29.698Z
+date: 2024-05-20T07:23:39.118Z
+updated: 2024-05-21T07:23:39.118Z
 tags: 
   - screen-recording
   - ai video
@@ -552,4 +552,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/new-mastering-the-art-of-video-framing/"><u>New Mastering the Art of Video Framing</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-audio-to-text-transcription-software-of-the-year-2023-edition/"><u>In 2024, Cutting-Edge Audio to Text Transcription Software of the Year, 2023 Edition</u></a></li>
 </ul></div>
+
 

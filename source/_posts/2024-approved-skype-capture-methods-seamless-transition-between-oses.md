@@ -619,3 +619,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/tecno-spark-10c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

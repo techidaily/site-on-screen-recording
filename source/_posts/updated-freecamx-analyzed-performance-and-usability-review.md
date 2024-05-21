@@ -500,3 +500,4 @@ Nowadays, movies are packed along with essential information. This particular in
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-zoom-blur-effect-in-photoshop/"><u>New How to Add Zoom Blur Effect In Photoshop</u></a></li>
 </ul></div>
 
+

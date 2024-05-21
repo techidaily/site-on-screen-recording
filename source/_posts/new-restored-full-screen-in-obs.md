@@ -266,3 +266,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

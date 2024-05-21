@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live Gaming Shows  Set Up with OBS for 2024\""
-date: 2024-05-18T19:37:46.486Z
-updated: 2024-05-19T19:37:46.486Z
+date: 2024-05-20T07:23:24.925Z
+updated: 2024-05-21T07:23:24.925Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro Max? Complete Guide</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

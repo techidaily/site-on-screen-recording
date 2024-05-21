@@ -430,3 +430,4 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-trimcrop-video-in-microsoft-powerpoint/"><u>New Learn How to Trim/Crop Video in Microsoft PowerPoint</u></a></li>
 </ul></div>
 
+

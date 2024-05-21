@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Silencing Sound  OBS Audio Solution\""
-date: 2024-05-18T19:51:28.386Z
-updated: 2024-05-19T19:51:28.386Z
+date: 2024-05-20T07:23:59.240Z
+updated: 2024-05-21T07:23:59.240Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-14-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 14 Pro Max without App | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Others devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

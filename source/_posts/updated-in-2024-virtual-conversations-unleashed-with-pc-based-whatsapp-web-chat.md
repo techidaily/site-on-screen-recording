@@ -418,3 +418,4 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>New In 2024, How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
 </ul></div>
 
+

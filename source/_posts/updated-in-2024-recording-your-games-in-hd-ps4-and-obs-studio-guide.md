@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Recording Your Games in HD  PS4 & OBS Studio Guide\""
-date: 2024-05-18T19:40:45.879Z
-updated: 2024-05-19T19:40:45.879Z
+date: 2024-05-20T07:23:32.434Z
+updated: 2024-05-21T07:23:32.434Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/best-methods-for-motorola-edge-40-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Edge 40 Pro Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-cartoon-characters-from-photos/"><u>Updated In 2024, Make Cartoon Characters From Photos</u></a></li>
 </ul></div>
+
 

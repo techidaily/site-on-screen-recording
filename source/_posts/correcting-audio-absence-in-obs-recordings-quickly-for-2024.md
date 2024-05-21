@@ -1,7 +1,7 @@
 ---
 title: "Correcting Audio Absence in OBS Recordings Quickly for 2024"
-date: 2024-05-18T19:40:36.142Z
-updated: 2024-05-19T19:40:36.142Z
+date: 2024-05-20T07:23:32.105Z
+updated: 2024-05-21T07:23:32.105Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-editing.techidaily.com/the-future-of-entertainment-is-here-ranking-the-premiere-av-mixers/"><u>The Future of Entertainment Is Here Ranking the Premiere AV Mixers</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

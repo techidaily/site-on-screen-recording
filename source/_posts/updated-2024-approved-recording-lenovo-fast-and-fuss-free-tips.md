@@ -491,3 +491,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-x50i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from X50i</u></a></li>
 </ul></div>
 
+

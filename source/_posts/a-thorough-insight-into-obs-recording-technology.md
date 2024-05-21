@@ -1,7 +1,7 @@
 ---
 title: "A Thorough Insight Into OBS Recording Technology"
-date: 2024-05-18T19:41:05.968Z
-updated: 2024-05-19T19:41:05.968Z
+date: 2024-05-20T07:23:33.201Z
+updated: 2024-05-21T07:23:33.201Z
 tags: 
   - screen-recording
   - ai video
@@ -529,4 +529,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-11x-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 11X 5G? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Moto G24? | Dr.fone</u></a></li>
 </ul></div>
+
 

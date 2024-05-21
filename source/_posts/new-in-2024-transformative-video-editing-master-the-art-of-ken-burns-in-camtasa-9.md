@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-05-18T19:49:48.525Z
-updated: 2024-05-19T19:49:48.525Z
+date: 2024-05-20T07:23:55.009Z
+updated: 2024-05-21T07:23:55.009Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/mastered-audio-separation-software-for-mac-enhanced-2024-edition/"><u>Mastered Audio Separation Software for Mac - Enhanced 2024 Edition</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools?</u></a></li>
 </ul></div>
+
 

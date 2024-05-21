@@ -1,7 +1,7 @@
 ---
 title: "Safekeeping Sensitive Visuals From Public Eyes"
-date: 2024-05-18T19:38:49.495Z
-updated: 2024-05-19T19:38:49.495Z
+date: 2024-05-20T07:23:27.145Z
+updated: 2024-05-21T07:23:27.145Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-the-speakers-digest-top-text-to-speech-sites-for-enhanced-digital-interaction/"><u>2024 Approved The Speakers Digest - Top Text-to-Speech Sites for Enhanced Digital Interaction</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-spooky-shadow-effect/"><u>How to Add a Spooky Shadow Effect</u></a></li>
 </ul></div>
+
 

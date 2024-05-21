@@ -453,3 +453,4 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-x-fold-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo X Fold 2 to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

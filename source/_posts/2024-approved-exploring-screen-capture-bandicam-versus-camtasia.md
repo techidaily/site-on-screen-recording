@@ -278,3 +278,4 @@ You should have a good understanding of the differences between Camtasia and Ban
 <li><a href="https://smart-video-editing.techidaily.com/new-virtualdub-substitutes-a-comprehensive-list-of-video-editors/"><u>New VirtualDub Substitutes A Comprehensive List of Video Editors</u></a></li>
 </ul></div>
 
+

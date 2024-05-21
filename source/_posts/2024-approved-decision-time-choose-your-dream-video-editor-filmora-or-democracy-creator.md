@@ -257,3 +257,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/updated-repeated-text-animation-tutorial-in-filmora/"><u>Updated Repeated Text Animation Tutorial in Filmora</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Fullscreen Malfunctions in OBS"
-date: 2024-05-18T19:50:40.582Z
-updated: 2024-05-19T19:50:40.582Z
+date: 2024-05-20T07:23:56.989Z
+updated: 2024-05-21T07:23:56.989Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-editing.techidaily.com/1713949860733-get-to-know-how-excellent-sparkle-video-effects-can-significantly-impact-different-projects-its-miraculous-read-below-to-learn-more-and-add-sparkle-effect-t/"><u>Get to Know How Excellent Sparkle Video Effects Can Significantly Impact Different Projects. Its Miraculous. Read Below to Learn More and Add Sparkle Effect to Your Videos for 2024</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

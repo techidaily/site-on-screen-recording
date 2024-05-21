@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Power of Fraps in Video Capture for 2024"
-date: 2024-05-18T19:52:37.807Z
-updated: 2024-05-19T19:52:37.807Z
+date: 2024-05-20T07:24:01.870Z
+updated: 2024-05-21T07:24:01.870Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco X6? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-android-audio-alteration-navigating-through-the-most-trendy-7-apps/"><u>Updated 2024 Approved Android Audio Alteration Navigating Through the Most Trendy 7 Apps</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Effortlessly Record Audio on Your Mac Using Audacity"
-date: 2024-05-18T19:40:48.854Z
-updated: 2024-05-19T19:40:48.854Z
+date: 2024-05-20T07:23:32.567Z
+updated: 2024-05-21T07:23:32.567Z
 tags: 
   - screen-recording
   - ai video
@@ -309,4 +309,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-way-to-add-effects-to-art-video/"><u>2024 Approved Easy Way to Add Effects to Art Video</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

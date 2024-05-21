@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Correct OBS Blackout Error in Gaming Capture for 2024"
-date: 2024-05-18T19:38:39.306Z
-updated: 2024-05-19T19:38:39.306Z
+date: 2024-05-20T07:23:26.755Z
+updated: 2024-05-21T07:23:26.755Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c53-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C53 Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 15 Pro without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Pro Tips  Configuring Stopwatches in OBS Studio\""
-date: 2024-05-18T19:43:54.048Z
-updated: 2024-05-19T19:43:54.048Z
+date: 2024-05-20T07:23:39.961Z
+updated: 2024-05-21T07:23:39.961Z
 tags: 
   - screen-recording
   - ai video
@@ -308,4 +308,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo S18 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a14-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A14 5G Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Tips for OBS on Android Platforms for 2024"
-date: 2024-05-18T19:40:59.984Z
-updated: 2024-05-19T19:40:59.984Z
+date: 2024-05-20T07:23:32.984Z
+updated: 2024-05-21T07:23:32.984Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x50-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor X50</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-enhancing-audio-perception-rapid-rescaling-of-sound-tracks/"><u>Updated 2024 Approved Enhancing Audio Perception Rapid Rescaling of Sound Tracks</u></a></li>
 </ul></div>
+
 

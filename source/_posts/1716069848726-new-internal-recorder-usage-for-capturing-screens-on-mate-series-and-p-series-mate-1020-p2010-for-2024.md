@@ -1,7 +1,7 @@
 ---
 title: "[New] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10). For 2024"
-date: 2024-05-18T19:35:50.937Z
-updated: 2024-05-19T19:35:50.937Z
+date: 2024-05-20T07:23:20.232Z
+updated: 2024-05-21T07:23:20.232Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Ace 2V? | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-mute-audio-and-add-new-sound-in-windows-movie-maker/"><u>Updated Mute Audio and Add New Sound in Windows Movie Maker</u></a></li>
 </ul></div>
+
 

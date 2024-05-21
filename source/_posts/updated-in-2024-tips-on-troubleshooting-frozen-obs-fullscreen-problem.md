@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Tips on Troubleshooting Frozen OBS Fullscreen Problem"
-date: 2024-05-18T19:31:00.452Z
-updated: 2024-05-19T19:31:00.452Z
+date: 2024-05-20T07:23:08.018Z
+updated: 2024-05-21T07:23:08.018Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-tools.techidaily.com/new-the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors/"><u>New The Anatomy of Great Lower Thirds A Guide for FCPX Editors</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-videopad-video-editing-software-a-comprehensive-review-and-guide/"><u>In 2024, Videopad Video Editing Software A Comprehensive Review and Guide</u></a></li>
 </ul></div>
+
 

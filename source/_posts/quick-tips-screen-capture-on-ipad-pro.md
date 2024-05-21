@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Tips  Screen Capture on iPad Pro\""
-date: 2024-05-18T19:49:20.630Z
-updated: 2024-05-19T19:49:20.630Z
+date: 2024-05-20T07:23:53.884Z
+updated: 2024-05-21T07:23:53.884Z
 tags: 
   - screen-recording
   - ai video
@@ -615,4 +615,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone XR? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Lava Yuva 3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

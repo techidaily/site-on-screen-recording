@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Choosing Between OBS and Fraps for Capture for 2024"
-date: 2024-05-18T19:35:29.555Z
-updated: 2024-05-19T19:35:29.555Z
+date: 2024-05-20T07:23:19.425Z
+updated: 2024-05-21T07:23:19.425Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-video-editing.techidaily.com/updated-replacing-sky-background-using-adobe-photoshop-a-comprehensive-guide/"><u>Updated Replacing Sky Background Using Adobe Photoshop A Comprehensive Guide</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-5-ways-to-denoise-a-video/"><u>Updated 2024 Approved 5 Ways to Denoise a Video</u></a></li>
 </ul></div>
+
 

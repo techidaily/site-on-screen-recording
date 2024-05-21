@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Immediate Actions  Reactivating OBS Audio Track\""
-date: 2024-05-18T19:54:09.051Z
-updated: 2024-05-19T19:54:09.051Z
+date: 2024-05-20T07:24:05.907Z
+updated: 2024-05-21T07:24:05.907Z
 tags: 
   - screen-recording
   - ai video
@@ -545,4 +545,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-zte-blade-a73-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror ZTE Blade A73 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-8-prime-vocal-tracking-and-editing-apps-suitable-for-mac-and-windows-devices-for-2024/"><u>Updated 8 Prime Vocal Tracking & Editing Apps Suitable for Mac and Windows Devices for 2024</u></a></li>
 </ul></div>
+
 

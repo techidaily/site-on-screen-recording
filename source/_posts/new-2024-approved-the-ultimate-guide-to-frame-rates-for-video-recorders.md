@@ -219,3 +219,4 @@ As a content creator, you now understand how important frame rates are and how c
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
 
+

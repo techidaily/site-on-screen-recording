@@ -1,7 +1,7 @@
 ---
 title: "IPhone/Android Screen Capture for Google Meet Participants for 2024"
-date: 2024-05-18T19:52:57.516Z
-updated: 2024-05-19T19:52:57.516Z
+date: 2024-05-20T07:24:02.667Z
+updated: 2024-05-21T07:24:02.667Z
 tags: 
   - screen-recording
   - ai video
@@ -1047,4 +1047,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-a-smooth-cut-transition-effect/"><u>Updated 2024 Approved How to Create a Smooth Cut Transition Effect?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-pivot-table-of-ms-excel-file-by-stellar-guide/"><u>How to Repair Corrupt Pivot Table of MS Excel File?</u></a></li>
 </ul></div>
+
 

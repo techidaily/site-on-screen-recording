@@ -442,3 +442,4 @@ As a tone of voice and text talk app, Discord assists gamers talk in order to on
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-defy-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Defy 2 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

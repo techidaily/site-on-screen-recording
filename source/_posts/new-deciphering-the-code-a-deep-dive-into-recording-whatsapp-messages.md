@@ -532,3 +532,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-a-video-a-live-photo/"><u>New How to Make a Video a Live Photo</u></a></li>
 </ul></div>
 
+

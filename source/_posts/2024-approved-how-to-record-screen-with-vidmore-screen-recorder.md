@@ -471,3 +471,4 @@ Vidmore Screen Recorder is a great choice for recording any screen with minimum 
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100t-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y100t</u></a></li>
 </ul></div>
 
+

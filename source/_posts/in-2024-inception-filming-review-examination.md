@@ -646,3 +646,4 @@ With Debut Video Capture, the video quality is good and the way that working wit
 <li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-13c-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi 13C 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -222,3 +222,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-a78-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A78 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

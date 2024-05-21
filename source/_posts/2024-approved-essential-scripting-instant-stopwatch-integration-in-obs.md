@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Essential Scripting  Instant Stopwatch Integration in OBS\""
-date: 2024-05-18T19:45:44.825Z
-updated: 2024-05-19T19:45:44.825Z
+date: 2024-05-20T07:23:44.569Z
+updated: 2024-05-21T07:23:44.569Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-using-free-luts-for-obs-for-2024/"><u>Updated Guide To Using Free Luts for OBS for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-vivo-x100-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo X100 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

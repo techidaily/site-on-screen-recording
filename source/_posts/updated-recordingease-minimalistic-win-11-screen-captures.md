@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RecordingEase  Minimalistic Win 11 Screen Captures\""
-date: 2024-05-18T19:30:18.085Z
-updated: 2024-05-19T19:30:18.085Z
+date: 2024-05-20T07:23:06.470Z
+updated: 2024-05-21T07:23:06.470Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/top-free-dual-screen-video-editing-tools-web-and-desktop-for-2024/"><u>Top Free Dual-Screen Video Editing Tools Web & Desktop for 2024</u></a></li>
 </ul></div>
+
 

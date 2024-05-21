@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capture Your Discord Sessions  A Guide\""
-date: 2024-05-18T19:35:23.042Z
-updated: 2024-05-19T19:35:23.042Z
+date: 2024-05-20T07:23:19.168Z
+updated: 2024-05-21T07:23:19.168Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ As a tone of voice and text talk app, Discord assists gamers talk in order to on
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-revolutionizing-your-sound-ioss-leading-audio-editing-applications/"><u>Updated 2024 Approved Revolutionizing Your Sound IOSs Leading Audio Editing Applications</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-different-ways-to-trim-video-in-premiere-pro/"><u>Updated In 2024, Different Ways To Trim Video In Premiere Pro</u></a></li>
 </ul></div>
+
 

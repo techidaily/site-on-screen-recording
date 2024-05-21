@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Getting Started  Audacity's Guide to Microphone Use on Mac\""
-date: 2024-05-18T19:30:06.243Z
-updated: 2024-05-19T19:30:06.243Z
+date: 2024-05-20T07:23:06.082Z
+updated: 2024-05-21T07:23:06.082Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy F14 5G</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-use-motion-blur-on-video-star-in-2024/"><u>How To Use Motion Blur On Video Star, In 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Efficiently Capture Skype Meetings Across Windows and MacOS"
-date: 2024-05-18T19:53:50.700Z
-updated: 2024-05-19T19:53:50.700Z
+date: 2024-05-20T07:24:05.256Z
+updated: 2024-05-21T07:24:05.256Z
 tags: 
   - screen-recording
   - ai video
@@ -652,4 +652,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/best-ways-to-convert-video-frame-rate-to-60fps-software-and-online-choices-for-2024/"><u>Best Ways to Convert Video Frame Rate to 60FPS Software and Online Choices for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-apps-for-editing-vertical-videos-on-your-smartphone/"><u>New 2024 Approved Best Apps for Editing Vertical Videos on Your Smartphone</u></a></li>
 </ul></div>
+
 

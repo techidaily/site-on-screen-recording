@@ -1,7 +1,7 @@
 ---
 title: "\"The A-to-Z Guide to Recording Games Using OBS for 2024\""
-date: 2024-05-18T19:46:40.743Z
-updated: 2024-05-19T19:46:40.743Z
+date: 2024-05-20T07:23:46.772Z
+updated: 2024-05-21T07:23:46.772Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-13-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi 13 Ultra? Fixed | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
+
 

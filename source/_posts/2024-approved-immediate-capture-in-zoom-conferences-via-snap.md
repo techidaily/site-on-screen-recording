@@ -717,3 +717,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx/"><u>New Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX</u></a></li>
 </ul></div>
 
+

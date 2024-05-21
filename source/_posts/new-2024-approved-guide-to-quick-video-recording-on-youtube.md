@@ -739,3 +739,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://techidaily.com/how-to-soft-reset-honor-x50-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X50 phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

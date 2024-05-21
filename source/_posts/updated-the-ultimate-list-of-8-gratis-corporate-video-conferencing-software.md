@@ -704,3 +704,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-effects-made-simple-a-quick-3-step-tutorial/"><u>Updated FCP X Effects Made Simple A Quick 3-Step Tutorial</u></a></li>
 </ul></div>
 
+

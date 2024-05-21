@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Slow-Motion Camera Video\""
-date: 2024-05-18T19:34:13.796Z
-updated: 2024-05-19T19:34:13.796Z
+date: 2024-05-20T07:23:16.228Z
+updated: 2024-05-21T07:23:16.228Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 15 Pro Max</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-defy-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

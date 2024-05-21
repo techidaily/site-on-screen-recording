@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Shoot Slow Motion Video on iPhone"
-date: 2024-05-18T19:30:10.798Z
-updated: 2024-05-19T19:30:10.798Z
+date: 2024-05-20T07:23:06.202Z
+updated: 2024-05-21T07:23:06.202Z
 tags: 
   - screen-recording
   - ai video
@@ -531,4 +531,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://audio-editing.techidaily.com/harmonious-beginnings-inclusive-vocal-modification-software-options-for-novices-and-pros-for-2024/"><u>Harmonious Beginnings Inclusive Vocal Modification Software Options for Novices & Pros for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-pop-8-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Pop 8 using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

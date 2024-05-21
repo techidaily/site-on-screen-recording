@@ -473,3 +473,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nubia-red-magic-8s-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nubia Red Magic 8S Pro Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

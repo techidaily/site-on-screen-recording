@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values\""
-date: 2024-05-18T19:32:56.724Z
-updated: 2024-05-19T19:32:56.724Z
+date: 2024-05-20T07:23:12.698Z
+updated: 2024-05-21T07:23:12.698Z
 tags: 
   - screen-recording
   - ai video
@@ -654,4 +654,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-luts-with-luts-generator-for-2024/"><u>New How to Create LUTs with LUTs Generator for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 5G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

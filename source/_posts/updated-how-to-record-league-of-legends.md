@@ -497,3 +497,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://audio-shaping.techidaily.com/bridging-the-gap-between-sound-and-sight-incorporating-sound-into-video-projects-with-premiere-pro/"><u>Bridging the Gap Between Sound and Sight Incorporating Sound Into Video Projects with Premiere Pro</u></a></li>
 </ul></div>
 
+

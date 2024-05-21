@@ -784,3 +784,4 @@ The vast majority accept the nature of their recorded video would be as old as i
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-13c-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi 13C to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

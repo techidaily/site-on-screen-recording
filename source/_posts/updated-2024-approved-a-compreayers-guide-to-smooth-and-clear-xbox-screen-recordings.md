@@ -592,3 +592,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-hot-40i-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Hot 40i? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
+

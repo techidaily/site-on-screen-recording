@@ -299,3 +299,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-convert-mp4-to-60-fps-gif-a-step-by-step-guide/"><u>Updated Convert MP4 to 60 FPS GIF A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

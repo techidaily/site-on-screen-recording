@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Patching the Full-Screen Problem in OBS\""
-date: 2024-05-18T19:41:32.934Z
-updated: 2024-05-19T19:41:32.934Z
+date: 2024-05-20T07:23:34.504Z
+updated: 2024-05-21T07:23:34.504Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Google Pixel Fold? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-synchronizing-your-audio-and-videos-properly/"><u>Updated 2024 Approved Guide to Synchronizing Your Audio And Videos Properly?</u></a></li>
 </ul></div>
+
 

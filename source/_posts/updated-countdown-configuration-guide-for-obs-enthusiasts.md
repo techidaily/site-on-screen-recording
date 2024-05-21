@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Countdown Configuration Guide for OBS Enthusiasts"
-date: 2024-05-18T19:31:04.823Z
-updated: 2024-05-19T19:31:04.823Z
+date: 2024-05-20T07:23:08.185Z
+updated: 2024-05-21T07:23:08.185Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c22-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C22 Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
+
 

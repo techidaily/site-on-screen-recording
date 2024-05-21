@@ -1,7 +1,7 @@
 ---
 title: "\"Comparing OBS and Fraps  Aimed at Filmmakers\""
-date: 2024-05-18T19:40:32.634Z
-updated: 2024-05-19T19:40:32.634Z
+date: 2024-05-20T07:23:31.929Z
+updated: 2024-05-21T07:23:31.929Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-8-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

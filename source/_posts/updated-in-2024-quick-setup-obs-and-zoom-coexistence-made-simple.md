@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Quick Setup  OBS & Zoom Coexistence Made Simple\""
-date: 2024-05-18T19:30:58.283Z
-updated: 2024-05-19T19:30:58.283Z
+date: 2024-05-20T07:23:07.942Z
+updated: 2024-05-21T07:23:07.942Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-build-a-video-editing-career/"><u>Updated How to Build A Video Editing Career</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-online-video-flipper-top-tools-and-services/"><u>Updated 2024 Approved Online Video Flipper Top Tools and Services</u></a></li>
 </ul></div>
+
 

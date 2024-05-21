@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Using OBS in Android for 2024"
-date: 2024-05-18T19:41:04.350Z
-updated: 2024-05-19T19:41:04.350Z
+date: 2024-05-20T07:23:33.125Z
+updated: 2024-05-21T07:23:33.125Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-landscape-to-portrait-the-art-of-resizing-videos-for-social-media/"><u>Updated 2024 Approved From Landscape to Portrait The Art of Resizing Videos for Social Media</u></a></li>
 </ul></div>
+
 

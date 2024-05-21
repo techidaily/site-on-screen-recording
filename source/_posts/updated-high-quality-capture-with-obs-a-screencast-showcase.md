@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] High-Quality Capture with OBS  A Screencast Showcase\""
-date: 2024-05-18T19:41:37.799Z
-updated: 2024-05-19T19:41:37.799Z
+date: 2024-05-20T07:23:34.669Z
+updated: 2024-05-21T07:23:34.669Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-t2x-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo T2x 5G Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-top-free-mov-video-rotation-apps/"><u>New 2024 Approved The Top Free MOV Video Rotation Apps</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Record Gameplay with OBS Studio for 2024"
-date: 2024-05-18T19:50:36.807Z
-updated: 2024-05-19T19:50:36.807Z
+date: 2024-05-20T07:23:56.853Z
+updated: 2024-05-21T07:23:56.853Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-gif-speed-booster-best-tools-for-web-ios-and-android/"><u>Updated GIF Speed Booster Best Tools for Web, iOS, and Android</u></a></li>
 </ul></div>
+
 

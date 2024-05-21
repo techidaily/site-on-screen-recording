@@ -392,3 +392,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-s23-tactical-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy S23 Tactical Edition to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

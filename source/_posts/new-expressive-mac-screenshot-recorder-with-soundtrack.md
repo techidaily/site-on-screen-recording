@@ -493,3 +493,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-smart-7-hd-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 
+

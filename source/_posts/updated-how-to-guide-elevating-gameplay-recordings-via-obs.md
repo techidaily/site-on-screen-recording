@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How-To Guide  Elevating Gameplay Recordings via OBS\""
-date: 2024-05-18T19:52:16.509Z
-updated: 2024-05-19T19:52:16.509Z
+date: 2024-05-20T07:24:00.964Z
+updated: 2024-05-21T07:24:00.964Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-explore-the-best-selection-of-7-internet-based-audio-trimming-utilities/"><u>New In 2024, Explore the Best Selection of 7 Internet-Based Audio Trimming Utilities</u></a></li>
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

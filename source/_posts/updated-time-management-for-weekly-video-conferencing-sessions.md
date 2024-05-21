@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Time Management for Weekly Video Conferencing Sessions"
-date: 2024-05-18T19:54:12.304Z
-updated: 2024-05-19T19:54:12.304Z
+date: 2024-05-20T07:24:06.023Z
+updated: 2024-05-21T07:24:06.023Z
 tags: 
   - screen-recording
   - ai video
@@ -666,4 +666,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-12-pro-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 12 Pro 5G</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

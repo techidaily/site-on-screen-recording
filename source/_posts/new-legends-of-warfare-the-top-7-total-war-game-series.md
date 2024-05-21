@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Legends of Warfare  The Top 7 Total War Game Series\""
-date: 2024-05-18T19:40:03.763Z
-updated: 2024-05-19T19:40:03.763Z
+date: 2024-05-20T07:23:30.383Z
+updated: 2024-05-21T07:23:30.383Z
 tags: 
   - screen-recording
   - ai video
@@ -533,4 +533,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-free-mod-video-editing-software/"><u>Updated The Ultimate Guide to Free MOD Video Editing Software</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-10-high-quality-animated-text-generators-for-2024/"><u>Discover the Best 10 High-Quality Animated Text Generators for 2024</u></a></li>
 </ul></div>
+
 

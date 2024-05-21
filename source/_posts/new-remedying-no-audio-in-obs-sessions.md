@@ -1,7 +1,7 @@
 ---
 title: "[New] Remedying No Audio in OBS Sessions"
-date: 2024-05-18T19:50:14.669Z
-updated: 2024-05-19T19:50:14.669Z
+date: 2024-05-20T07:23:55.972Z
+updated: 2024-05-21T07:23:55.972Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-huawei-nova-y91-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Huawei Nova Y91 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/experts-selection-the-premier-mp3-snipper-software-for-mac-devices-updated/"><u>Experts Selection The Premier MP3 Snipper Software for Mac Devices, Updated</u></a></li>
 </ul></div>
+
 

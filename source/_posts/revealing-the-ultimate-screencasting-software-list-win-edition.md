@@ -988,3 +988,4 @@ By reading this passage, you must know how easy could be to capture and record y
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-xs-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone XS to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

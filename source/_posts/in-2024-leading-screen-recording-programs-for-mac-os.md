@@ -989,3 +989,4 @@ Through this article, we shared our top suggestions for the best screen recorder
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
 
+

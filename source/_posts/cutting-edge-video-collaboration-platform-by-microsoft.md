@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Video Collaboration Platform by Microsoft\""
-date: 2024-05-18T19:29:59.808Z
-updated: 2024-05-19T19:29:59.808Z
+date: 2024-05-20T07:23:05.883Z
+updated: 2024-05-21T07:23:05.883Z
 tags: 
   - screen-recording
   - ai video
@@ -874,4 +874,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/budget-video-editing-top-picks/"><u>Budget Video Editing Top Picks</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-smart-way-to-choose-an-aiff-converter-tips-and-recommendations/"><u>Updated 2024 Approved The Smart Way to Choose an Aiff Converter Tips and Recommendations</u></a></li>
 </ul></div>
+
 

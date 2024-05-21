@@ -642,3 +642,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://ai-video-apps.techidaily.com/new-mastering-aspect-ratios-for-engaging-social-media-content/"><u>New Mastering Aspect Ratios for Engaging Social Media Content</u></a></li>
 </ul></div>
 
+

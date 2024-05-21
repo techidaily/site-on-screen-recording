@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comprehensive Skype Screencasting with OBS\""
-date: 2024-05-18T19:36:27.049Z
-updated: 2024-05-19T19:36:27.049Z
+date: 2024-05-20T07:23:21.548Z
+updated: 2024-05-21T07:23:21.548Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-best-public-domain-video-resources-for-free/"><u>New In 2024, Discover the Best Public Domain Video Resources for Free</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-12t-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 12T Pro Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

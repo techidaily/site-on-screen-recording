@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Live to Recorded  Using OBS for Games\""
-date: 2024-05-18T19:35:31.722Z
-updated: 2024-05-19T19:35:31.722Z
+date: 2024-05-20T07:23:19.492Z
+updated: 2024-05-21T07:23:19.492Z
 tags: 
   - screen-recording
   - ai video
@@ -401,4 +401,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo T2 5G Phone Without Password?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 </ul></div>
+
 

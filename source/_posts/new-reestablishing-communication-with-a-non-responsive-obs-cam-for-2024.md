@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reestablishing Communication with a Non-Responsive OBS Cam for 2024\""
-date: 2024-05-18T19:37:30.415Z
-updated: 2024-05-19T19:37:30.415Z
+date: 2024-05-20T07:23:24.331Z
+updated: 2024-05-21T07:23:24.331Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-on-windows-made-easy-imovie-alternatives-2023-for-2024/"><u>New Video Editing on Windows Made Easy IMovie Alternatives 2023 for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-google-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Google Pixel 8 Pro.</u></a></li>
 </ul></div>
+
 

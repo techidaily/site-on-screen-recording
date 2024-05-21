@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting OBS Output  Common Fixes Explored\""
-date: 2024-05-18T19:38:53.786Z
-updated: 2024-05-19T19:38:53.786Z
+date: 2024-05-20T07:23:27.305Z
+updated: 2024-05-21T07:23:27.305Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-a18-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo A18 to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

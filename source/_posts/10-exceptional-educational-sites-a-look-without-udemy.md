@@ -1,7 +1,7 @@
 ---
 title: "\"10 Exceptional Educational Sites  A Look without Udemy\""
-date: 2024-05-18T19:51:59.559Z
-updated: 2024-05-19T19:51:59.559Z
+date: 2024-05-20T07:24:00.361Z
+updated: 2024-05-21T07:24:00.361Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y02t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y02T Device</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-easy-cinematography-a-beginners-guide-to-making-movies/"><u>2024 Approved Easy Cinematography A Beginners Guide to Making Movies</u></a></li>
 </ul></div>
+
 

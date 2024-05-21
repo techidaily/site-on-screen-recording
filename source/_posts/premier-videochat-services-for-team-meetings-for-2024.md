@@ -646,3 +646,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Camon 20 | Dr.fone</u></a></li>
 </ul></div>
 
+

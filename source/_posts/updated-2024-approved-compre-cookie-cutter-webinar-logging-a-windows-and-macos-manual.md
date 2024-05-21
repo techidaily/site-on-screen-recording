@@ -404,3 +404,4 @@ In the wake of recording an online course, they can likewise get all the data re
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 Pro to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

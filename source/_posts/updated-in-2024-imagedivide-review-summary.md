@@ -223,3 +223,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
 
+

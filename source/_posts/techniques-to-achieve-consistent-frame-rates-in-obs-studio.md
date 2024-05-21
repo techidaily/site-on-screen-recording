@@ -1,7 +1,7 @@
 ---
 title: "Techniques to Achieve Consistent Frame Rates in OBS Studio"
-date: 2024-05-18T19:50:59.577Z
-updated: 2024-05-19T19:50:59.577Z
+date: 2024-05-20T07:23:57.622Z
+updated: 2024-05-21T07:23:57.622Z
 tags: 
   - screen-recording
   - ai video
@@ -616,4 +616,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life/"><u>Updated The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-windows-10-video-editing-programs-for-beginners/"><u>New In 2024, Top Windows 10 Video Editing Programs for Beginners</u></a></li>
 </ul></div>
+
 

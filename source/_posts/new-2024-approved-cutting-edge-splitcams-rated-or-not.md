@@ -265,3 +265,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-editing-video.techidaily.com/using-the-ai-auto-reframe-feature-wondershare-filmora-tutorial/"><u>Using The AI Auto Reframe Feature | Wondershare Filmora Tutorial</u></a></li>
 </ul></div>
 
+

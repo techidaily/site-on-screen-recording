@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoiding Pitfalls  Securing Your Skype Recordings in OBS\""
-date: 2024-05-18T19:36:44.159Z
-updated: 2024-05-19T19:36:44.159Z
+date: 2024-05-20T07:23:22.153Z
+updated: 2024-05-21T07:23:22.153Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g13-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G13 Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-6-innovative-adobe-premiere-pro-techniques/"><u>New Unleash Your Creativity 6 Innovative Adobe Premiere Pro Techniques</u></a></li>
 </ul></div>
+
 

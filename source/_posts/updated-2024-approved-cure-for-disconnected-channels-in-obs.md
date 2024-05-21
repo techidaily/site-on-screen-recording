@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Cure for Disconnected Channels in OBS\""
-date: 2024-05-18T19:38:59.421Z
-updated: 2024-05-19T19:38:59.421Z
+date: 2024-05-20T07:23:27.572Z
+updated: 2024-05-21T07:23:27.572Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-sony-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Sony</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y27-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y27 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

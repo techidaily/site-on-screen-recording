@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Desktop Capture  OBS Vs. ShadowPlay\""
-date: 2024-05-18T19:43:15.850Z
-updated: 2024-05-19T19:43:15.850Z
+date: 2024-05-20T07:23:38.369Z
+updated: 2024-05-21T07:23:38.369Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-phantom-v-fold-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Phantom V Fold without App | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-online-video-makers-to-use/"><u>Updated Online Video Makers to Use</u></a></li>
 </ul></div>
+
 

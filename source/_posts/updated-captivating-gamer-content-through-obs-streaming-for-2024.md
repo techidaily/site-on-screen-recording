@@ -394,3 +394,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-audacity-on-ubuntu-step-by-step-tutorials-for-seamless-setup-upgrade-and-cleanup/"><u>2024 Approved Audacity on Ubuntu Step-by-Step Tutorials for Seamless Setup, Upgrade & Cleanup</u></a></li>
 </ul></div>
 
+

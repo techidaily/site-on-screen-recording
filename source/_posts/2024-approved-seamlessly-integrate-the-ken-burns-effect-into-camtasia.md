@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamlessly Integrate the Ken Burns Effect Into Camtasia\""
-date: 2024-05-18T19:30:33.379Z
-updated: 2024-05-19T19:30:33.379Z
+date: 2024-05-20T07:23:07.029Z
+updated: 2024-05-21T07:23:07.029Z
 tags: 
   - screen-recording
   - ai video
@@ -377,4 +377,5 @@ Follow @Max Wales
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A79 5G FRP</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

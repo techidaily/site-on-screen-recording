@@ -163,3 +163,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-transforming-shaky-footage-into-pro-quality-video-with-after-effects/"><u>New 2024 Approved Transforming Shaky Footage Into Pro-Quality Video with After Effects</u></a></li>
 </ul></div>
 
+

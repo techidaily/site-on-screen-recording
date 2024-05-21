@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Setting Up Your Smartphone as a Webcam Device\""
-date: 2024-05-18T19:48:49.017Z
-updated: 2024-05-19T19:48:49.017Z
+date: 2024-05-20T07:23:52.192Z
+updated: 2024-05-21T07:23:52.192Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/youtube-thumbnail-design-blueprint-size-style-and-success-for-2024/"><u>YouTube Thumbnail Design Blueprint Size, Style, and Success for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X6? | Dr.fone</u></a></li>
 </ul></div>
+
 

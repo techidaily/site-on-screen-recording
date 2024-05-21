@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Video Editing in OBS Studio for 2024"
-date: 2024-05-18T19:32:01.679Z
-updated: 2024-05-19T19:32:01.679Z
+date: 2024-05-20T07:23:10.683Z
+updated: 2024-05-21T07:23:10.683Z
 tags: 
   - screen-recording
   - ai video
@@ -519,4 +519,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S23 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-a-practical-walkthrough-for-logging-your-google-voice-calls-using-phone-applications-and-desktop-operating-systems/"><u>Updated In 2024, A Practical Walkthrough for Logging Your Google Voice Calls Using Phone Applications and Desktop Operating Systems</u></a></li>
 </ul></div>
+
 

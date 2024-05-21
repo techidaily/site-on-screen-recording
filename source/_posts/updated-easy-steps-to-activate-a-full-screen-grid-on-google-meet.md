@@ -626,3 +626,4 @@ Follow @Richard Bennett
 <li><a href="https://voice-adjusting.techidaily.com/streamlining-your-mixes-normalizing-audio-in-davinci-resolve/"><u>Streamlining Your Mixes Normalizing Audio in DaVinci Resolve</u></a></li>
 </ul></div>
 
+

@@ -574,3 +574,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-a2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi A2</u></a></li>
 </ul></div>
 
+

@@ -591,3 +591,4 @@ Follow @Ollie Mattison
 <li><a href="https://audio-shaping.techidaily.com/updated-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
 </ul></div>
 
+

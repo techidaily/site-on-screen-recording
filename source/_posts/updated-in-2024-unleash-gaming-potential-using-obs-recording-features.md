@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Unleash Gaming Potential - Using OBS Recording Features\""
-date: 2024-05-18T19:47:40.786Z
-updated: 2024-05-19T19:47:40.786Z
+date: 2024-05-20T07:23:49.499Z
+updated: 2024-05-21T07:23:49.499Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x8b-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor X8b to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
+
 

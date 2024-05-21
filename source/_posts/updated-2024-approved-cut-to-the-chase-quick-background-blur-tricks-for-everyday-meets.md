@@ -508,3 +508,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/updated-aspect-ratio-adjustment-in-fcp-tips-and-tricks-for-2024/"><u>Updated Aspect Ratio Adjustment in FCP Tips and Tricks for 2024</u></a></li>
 </ul></div>
 
+

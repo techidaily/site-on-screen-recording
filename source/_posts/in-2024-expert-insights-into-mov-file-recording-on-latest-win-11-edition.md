@@ -678,3 +678,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-sony-vegas-freeze-frame/"><u>Updated How to Create Sony Vegas Freeze Frame</u></a></li>
 </ul></div>
 
+

@@ -704,3 +704,4 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/updated-comprehensive-guide-to-the-wave-editor-highlights-critiques-and-walkthroughs/"><u>Updated Comprehensive Guide to the Wave Editor Highlights, Critiques, and Walkthroughs</u></a></li>
 </ul></div>
 
+

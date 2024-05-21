@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Deciphering the Status of SplitCam as a Recorder\""
-date: 2024-05-18T19:38:39.039Z
-updated: 2024-05-19T19:38:39.039Z
+date: 2024-05-20T07:23:26.748Z
+updated: 2024-05-21T07:23:26.748Z
 tags: 
   - screen-recording
   - ai video
@@ -236,4 +236,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y78t | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-nokia-150-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia 150 (2023)Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -435,3 +435,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 5G PC | Dr.fone</u></a></li>
 </ul></div>
 
+

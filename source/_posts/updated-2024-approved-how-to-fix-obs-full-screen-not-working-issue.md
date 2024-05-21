@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How To Fix OBS Full Screen Not Working Issue?\""
-date: 2024-05-18T19:51:51.928Z
-updated: 2024-05-19T19:51:51.928Z
+date: 2024-05-20T07:24:00.097Z
+updated: 2024-05-21T07:24:00.097Z
 tags: 
   - screen-recording
   - ai video
@@ -301,4 +301,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-15-luts-to-buy/"><u>Updated Top 15 LUTS to Buy</u></a></li>
 </ul></div>
+
 

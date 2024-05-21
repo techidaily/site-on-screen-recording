@@ -830,3 +830,4 @@ Developing GIFs is the ultimate fun to watch. If you're using MAC, Chrome, or Wi
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

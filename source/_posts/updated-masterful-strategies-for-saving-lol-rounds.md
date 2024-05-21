@@ -471,3 +471,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://audio-shaping.techidaily.com/best-audio-libraries-top-10-sites-for-high-quality-video-soundtracks/"><u>Best Audio Libraries Top 10 Sites for High-Quality Video Soundtracks</u></a></li>
 </ul></div>
 
+

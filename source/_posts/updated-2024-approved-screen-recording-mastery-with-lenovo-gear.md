@@ -529,3 +529,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lenovo-thinkphone-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lenovo ThinkPhone Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

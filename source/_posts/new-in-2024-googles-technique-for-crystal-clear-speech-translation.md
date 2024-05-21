@@ -272,3 +272,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c12-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Pro?</u></a></li>
 </ul></div>
 
+
