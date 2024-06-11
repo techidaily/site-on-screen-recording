@@ -1,7 +1,7 @@
 ---
 title: "\"Activating Built-In Screen Recorders  Mate 10/20 & P-Series Devices (P20, P10).\""
-date: 2024-05-20T07:23:14.054Z
-updated: 2024-05-21T07:23:14.054Z
+date: 2024-06-10T07:29:42.469Z
+updated: 2024-06-11T07:29:42.469Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Activating Built-In Screen Recorders: Mate 10/20 & P-Series Devices (P20, P10).\""
 excerpt: "\"This Article Describes Activating Built-In Screen Recorders: Mate 10/20 & P-Series Devices (P20, P10).\""
 keywords: "\"Mate 10/20 Screen Recorder,P-Series Recording Mode,P20 Built-In ScreenCapture,P10 Device Screen Record,Mate Devices ScreenCasting,Mobile Built-In Recorders,P-Series Camera Screening\""
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Activating Built-In Screen Recorders: Mate 10/20 & P-Series Devices (P20, P10)

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] SnapShot HD VideoRecorder"
-date: 2024-05-18T20:31:55.778Z
-updated: 2024-05-19T20:31:55.778Z
+date: 2024-06-10T07:29:39.742Z
+updated: 2024-06-11T07:29:39.742Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] SnapShot HD VideoRecorder"
 excerpt: "This Article Describes [Updated] SnapShot HD VideoRecorder"
 keywords: "\"HD Snapshot Recorder,SnapHD VideoCapture,HD SnapVideoRecorder,High-Quality VideoSnapshot,UltraHD VideoSnapper,Superior SnapHD Video,HD Snapshot Cam Device\""
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## SnapShot HD VideoRecorder

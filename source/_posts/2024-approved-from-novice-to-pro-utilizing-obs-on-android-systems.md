@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Pro  Utilizing OBS on Android Systems\""
-date: 2024-05-18T20:20:12.019Z
-updated: 2024-05-19T20:20:12.019Z
+date: 2024-06-10T07:29:43.883Z
+updated: 2024-06-11T07:29:43.883Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Novice to Pro: Utilizing OBS on Android Systems\""
 excerpt: "\"This Article Describes 2024 Approved: From Novice to Pro: Utilizing OBS on Android Systems\""
 keywords: "Android OBS Beginner Guide,OBS for Android Pro,Learn OBS in Android,Android OBS Mastery,OBS Android Tutorial,From Novice to Expert OBS,Android System OBS Usage"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## From Novice to Pro: Utilizing OBS on Android Systems

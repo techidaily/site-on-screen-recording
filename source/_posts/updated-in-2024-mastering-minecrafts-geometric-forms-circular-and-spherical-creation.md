@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Minecraft's Geometric Forms  Circular & Spherical Creation\""
-date: 2024-05-18T19:59:55.835Z
-updated: 2024-05-19T19:59:55.835Z
+date: 2024-06-10T07:29:41.248Z
+updated: 2024-06-11T07:29:41.248Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Mastering Minecraft's Geometric Forms: Circular & Spherical Creation\""
 excerpt: "\"This Article Describes [Updated] In 2024, Mastering Minecraft's Geometric Forms: Circular & Spherical Creation\""
 keywords: "\"Making Cube Shapes (Max Length: 23 Chars),Building Block Design (Max Length: 20 Chars),Circular Minecraft Tips (Max Length: 26 Chars),Spherical Blocks in Minecraft (Max Length: 31 Chars),Creating Cubic Structures (Max Length: 27 Chars),Crafting Shapes, Minecraft Style (Max Length: 39 Chars),Playful Sphere Creations MC (Max Length: 28 Chars)\""
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Mastering Minecraft's Geometric Forms: Circular & Spherical Creation

@@ -1,7 +1,7 @@
 ---
 title: "[New] Instant Display Image, Any Window OS"
-date: 2024-05-20T07:23:29.766Z
-updated: 2024-05-21T07:23:29.766Z
+date: 2024-06-10T07:29:36.497Z
+updated: 2024-06-11T07:29:36.497Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Instant Display Image, Any Window OS"
 excerpt: "This Article Describes [New] Instant Display Image, Any Window OS"
 keywords: "\"Instant Image Showcase,Windows OOS Images,Quick Display on OS,OS Image Rendering Fast,On-The-Spot OS Picture,Windowed Instant Image,Real-Time OS Graphics\""
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Instant Display Image, Any Window OS

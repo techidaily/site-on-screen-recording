@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Capturing Life in High Quality with Xiaomi's Mi 11 Screens"
-date: 2024-05-18T20:35:36.766Z
-updated: 2024-05-19T20:35:36.766Z
+date: 2024-06-10T07:29:39.088Z
+updated: 2024-06-11T07:29:39.088Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Capturing Life in High Quality with Xiaomi's Mi 11 Screens"
 excerpt: "This Article Describes [Updated] Capturing Life in High Quality with Xiaomi's Mi 11 Screens"
 keywords: "\"Xiaomi Mi 11 Clarity,Mi 11 Ultra Sharp,Premium Mi 11 Display,High-Res Mi 11 Screen,Mi 11 High Definition,Mi 11 Picture Quality,Superior Mi 11 Imagery\""
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Capturing Life in High Quality with Xiaomi's Mi 11 Screens

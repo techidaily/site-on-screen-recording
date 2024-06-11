@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capture Webcam Snapshots via VLC Media Player\""
-date: 2024-05-20T07:23:57.198Z
-updated: 2024-05-21T07:23:57.198Z
+date: 2024-06-10T07:29:41.344Z
+updated: 2024-06-11T07:29:41.344Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Capture Webcam Snapshots via VLC Media Player\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Capture Webcam Snapshots via VLC Media Player\""
 keywords: "VLC Webcam Snap,VLC Photo Capture,Capture Snaps with VLC,VLC Snapshot Tool,VLC Video Screen Grab,Snap VLC Playback,Webcam Capture in VLC"
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## Capture Webcam Snapshots via VLC Media Player

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Budget Computer - Mastering OBS Configurations\""
-date: 2024-05-18T20:19:45.873Z
-updated: 2024-05-19T20:19:45.873Z
+date: 2024-06-10T07:29:38.685Z
+updated: 2024-06-11T07:29:38.685Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Budget Computer - Mastering OBS Configurations\""
 excerpt: "\"This Article Describes [New] In 2024, Budget Computer - Mastering OBS Configurations\""
 keywords: "\"Budget PC Setup,Affordable OBS Guide,Basic OBS Tips,Cost-Effective Tech,Efficient OBS Configuration,Low-Cost Computer Tricks,Savvy OBS Mastery\""
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## Budget Computer - Mastering OBS Configurations

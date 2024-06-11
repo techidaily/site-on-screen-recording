@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS Armada  Cameras at Full Power Again\""
-date: 2024-05-20T07:26:41.475Z
-updated: 2024-05-21T07:26:41.475Z
+date: 2024-06-10T07:29:39.210Z
+updated: 2024-06-11T07:29:39.210Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, OBS Armada: Cameras at Full Power Again\""
 excerpt: "\"This Article Describes In 2024, OBS Armada: Cameras at Full Power Again\""
 keywords: "\"OBS Cam Live,Obs Armada Resume,High-Res OBS Streaming,OBS Full Camera Power,Armada Obs Cameras,Full Power OBS,Restored OBS Cameras\""
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## OBS Armada: Cameras at Full Power Again

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Conducting OBS Meetings via Zoom"
-date: 2024-05-20T07:25:00.124Z
-updated: 2024-05-21T07:25:00.124Z
+date: 2024-06-10T07:29:34.511Z
+updated: 2024-06-11T07:29:34.511Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Expert Tips for Conducting OBS Meetings via Zoom"
 excerpt: "This Article Describes Expert Tips for Conducting OBS Meetings via Zoom"
 keywords: "Zoom OBS Guide,Best OBS in Zoom,Zooming OBS Meets,Optimize OBS Zoom,OBS Techniques Zoom,Secure OBS on Zoom,Improve OBS via Zoom"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Expert Tips for Conducting OBS Meetings via Zoom

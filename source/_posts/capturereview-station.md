@@ -1,7 +1,7 @@
 ---
 title: "CaptureReview Station"
-date: 2024-05-20T07:23:11.528Z
-updated: 2024-05-21T07:23:11.528Z
+date: 2024-06-10T07:29:38.232Z
+updated: 2024-06-11T07:29:38.232Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes CaptureReview Station"
 excerpt: "This Article Describes CaptureReview Station"
 keywords: "\"Review Station Insights,Capture Reviews Analysis,Station Quality Scores,Video Review Hub,Product Capture Evaluation,Real-Time Reviews Tracking,Consumer Feedback Center\""
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## CaptureReview Station

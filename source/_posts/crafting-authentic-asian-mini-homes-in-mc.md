@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Authentic Asian Mini-Homes in MC\""
-date: 2024-05-20T07:24:05.238Z
-updated: 2024-05-21T07:24:05.238Z
+date: 2024-06-10T07:29:44.116Z
+updated: 2024-06-11T07:29:44.116Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Crafting Authentic Asian Mini-Homes in MC\""
 excerpt: "\"This Article Describes Crafting Authentic Asian Mini-Homes in MC\""
 keywords: "Asian Mini Homes MC Crafting,MC Asian Home Designs,Authentic Asian Dwellings MC,Miniature Homes Asia MC,Custom MC Asian Villas,MC Asian Housing Model,Original Asian House MC"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Crafting Authentic Asian Mini-Homes in MC

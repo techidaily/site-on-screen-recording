@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mac Users' Path to Professional Audio with Audacity"
-date: 2024-05-18T20:18:40.489Z
-updated: 2024-05-19T20:18:40.489Z
+date: 2024-06-10T07:29:45.748Z
+updated: 2024-06-11T07:29:45.748Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Mac Users' Path to Professional Audio with Audacity"
 excerpt: "This Article Describes In 2024, Mac Users' Path to Professional Audio with Audacity"
 keywords: "MacAudioProAudacity,AudacityMacUser,ProfiAudioAudacity,MacAudienceEditing,ProfessionalAudacityMac,AudioSetupMacAud,MacAudInterfaceProf"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Mac Users' Path to Professional Audio with Audacity

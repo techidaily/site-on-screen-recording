@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Comprehensive List of iOS-Compatible PS2 Games\""
-date: 2024-05-20T07:24:04.000Z
-updated: 2024-05-21T07:24:04.000Z
+date: 2024-06-10T07:29:45.028Z
+updated: 2024-06-11T07:29:45.028Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Comprehensive List of iOS-Compatible PS2 Games\""
 excerpt: "\"This Article Describes [Updated] Comprehensive List of iOS-Compatible PS2 Games\""
 keywords: "\"IOS PS2 Games List,PS2 Games for iPhones,Mobile Game Compatibility: PS2,Free iOS PS2 Gaming Apps,Portable PS2 Titles Android/iOS,Cross-Platform PS2 Games,Accessible PS2 Games on iOS\""
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Comprehensive List of iOS-Compatible PS2 Games

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] X-Sound Engineer Edition - PC\""
-date: 2024-05-18T20:38:42.727Z
-updated: 2024-05-19T20:38:42.727Z
+date: 2024-06-10T07:29:43.027Z
+updated: 2024-06-11T07:29:43.027Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] X-Sound Engineer Edition - PC\""
 excerpt: "\"This Article Describes [New] X-Sound Engineer Edition - PC\""
 keywords: "WinScreenRec,PlainScreencr,FreeScreenWin10,BasicScreener,ScreenCaptureWin,RecorderFreeWin,SimpleWindowsScreen"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## X-Sound Engineer Edition - PC

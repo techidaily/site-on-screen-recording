@@ -1,7 +1,7 @@
 ---
 title: "\"Midgard Alliance  Defenders of Ragnarok\""
-date: 2024-05-18T20:29:54.653Z
-updated: 2024-05-19T20:29:54.653Z
+date: 2024-06-10T07:29:36.218Z
+updated: 2024-06-11T07:29:36.218Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Midgard Alliance: Defenders of Ragnarok\""
 excerpt: "\"This Article Describes Midgard Alliance: Defenders of Ragnarok\""
 keywords: "Midgard Defense,Ragnarok Guardians,Alliance Warriors,Mythic Quest Players,Norse Epic Champions,Fantasy Battleforce,Heroes of Ragnarök"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Midgard Alliance: Defenders of Ragnarok

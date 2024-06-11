@@ -1,7 +1,7 @@
 ---
 title: "[New] Your Ultimate Guide to Mac Audio Capture via Audacity for 2024"
-date: 2024-05-18T20:35:50.233Z
-updated: 2024-05-19T20:35:50.233Z
+date: 2024-06-10T07:29:36.074Z
+updated: 2024-06-11T07:29:36.074Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Your Ultimate Guide to Mac Audio Capture via Audacity for 2024"
 excerpt: "This Article Describes [New] Your Ultimate Guide to Mac Audio Capture via Audacity for 2024"
 keywords: "\"Mac Audio Recording,Audacity Sound Capture,Mac Audiophile Tools,High-Quality Mac Audio,Digital Audio Editing (Audacity),Mac Studio Prepping (Audacity),Professional Mac Audio Capture\""
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Your Ultimate Guide to Mac Audio Capture via Audacity

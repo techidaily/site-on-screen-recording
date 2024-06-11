@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Miniature Homes  Japanese & Chinese Inspirations\""
-date: 2024-05-20T07:23:28.138Z
-updated: 2024-05-21T07:23:28.138Z
+date: 2024-06-10T07:29:33.644Z
+updated: 2024-06-11T07:29:33.644Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Miniature Homes: Japanese & Chinese Inspirations\""
 excerpt: "\"This Article Describes 2024 Approved: Miniature Homes: Japanese & Chinese Inspirations\""
 keywords: "Mini Home Japan,Japanese Mini House,Mini China Houses,Chinese Mini Homes,Japanese Miniscapes,Chinese Inspired Mini,Asian Miniaturist Designs"
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Miniature Homes: Japanese & Chinese Inspirations

@@ -1,7 +1,7 @@
 ---
 title: "\"Efficient OBS Adjustments on Cost-Effective Computers\""
-date: 2024-05-20T07:23:50.219Z
-updated: 2024-05-21T07:23:50.219Z
+date: 2024-06-10T07:29:42.501Z
+updated: 2024-06-11T07:29:42.501Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Efficient OBS Adjustments on Cost-Effective Computers\""
 excerpt: "\"This Article Describes Efficient OBS Adjustments on Cost-Effective Computers\""
 keywords: "\"Optimal OBS Use,Cost-Saving Tech,Efficient OBS Guide,Budget-Friendly PCs,Economical OBS Settings,Low-Cost Computing,Affordable Video Adjustments\""
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## Efficient OBS Adjustments on Cost-Effective Computers

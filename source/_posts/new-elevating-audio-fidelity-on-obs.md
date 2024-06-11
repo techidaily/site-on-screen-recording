@@ -1,7 +1,7 @@
 ---
 title: "[New] Elevating Audio Fidelity on OBS"
-date: 2024-05-20T07:23:15.354Z
-updated: 2024-05-21T07:23:15.354Z
+date: 2024-06-10T07:29:45.067Z
+updated: 2024-06-11T07:29:45.067Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Elevating Audio Fidelity on OBS"
 excerpt: "This Article Describes [New] Elevating Audio Fidelity on OBS"
 keywords: "\"OBS Audio Enhancement,OBS High Fidelity Sound,Elevated OBS Audio Quality,OBS Audio Clarity Boost,Improve OBS Sound Fidelity,High-End OBS Sound Settings,Optimize OBS Audio Performance\""
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Elevating Audio Fidelity on OBS

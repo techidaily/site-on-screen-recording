@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Best 12 Mouse-Focused PC Games for Enthusiasts\""
-date: 2024-05-18T20:27:45.847Z
-updated: 2024-05-19T20:27:45.847Z
+date: 2024-06-10T07:29:45.823Z
+updated: 2024-06-11T07:29:45.823Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Best 12 Mouse-Focused PC Games for Enthusiasts\""
 excerpt: "\"This Article Describes [Updated] Best 12 Mouse-Focused PC Games for Enthusiasts\""
 keywords: "\"PC Gaming Mouse Games,Best Mice in PC Games,Ultimate Mouse-Centric PC Titles,Top 12 Mouse-Focused PC Games,Mouse Precision Gameplay PC,Enthusiast's Best Mouse Games,Gaming with a Focus on Mice PC\""
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Best 12 Mouse-Focused PC Games for Enthusiasts
