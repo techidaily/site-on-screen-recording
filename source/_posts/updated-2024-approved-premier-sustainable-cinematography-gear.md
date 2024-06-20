@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Premier Sustainable Cinematography Gear\""
-date: 2024-05-20T07:23:35.195Z
-updated: 2024-05-21T07:23:35.195Z
+date: 2024-06-19T08:30:26.084Z
+updated: 2024-06-20T08:30:26.084Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Premier Sustainable Cinematography Gear\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Premier Sustainable Cinematography Gear\""
 keywords: "\"Eco-Friendly CineTools,Green FilmGear Essentials,Sustainable Filmmaking Equipment,Earth-Friendly Cinematography Tools,Eco-Cinema Gear Advantages,Green Production Devices,Sustainable Film Tech Trends\""
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Premier Sustainable Cinematography Gear

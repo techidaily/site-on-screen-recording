@@ -1,7 +1,7 @@
 ---
 title: "Navigating Name Change in Google Meet (Laptop/Mobile)"
-date: 2024-05-20T07:23:46.594Z
-updated: 2024-05-21T07:23:46.594Z
+date: 2024-06-19T08:30:26.059Z
+updated: 2024-06-20T08:30:26.059Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Navigating Name Change in Google Meet (Laptop/Mobile)"
 excerpt: "This Article Describes Navigating Name Change in Google Meet (Laptop/Mobile)"
 keywords: "Google Meet Name Update Guide,Laptop/Mobile Name Change Logic,Changing Names on Google Meet,Navigating Google Meet Editing,Google Meet Username Alteration,Personalizing Google Meet ID,Google Meet Account Renaming"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Navigating Name Change in Google Meet (Laptop/Mobile)

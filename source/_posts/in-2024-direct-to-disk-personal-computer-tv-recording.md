@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Direct to Disk - Personal Computer TV Recording\""
-date: 2024-05-18T20:03:43.035Z
-updated: 2024-05-19T20:03:43.035Z
+date: 2024-06-19T08:30:20.944Z
+updated: 2024-06-20T08:30:20.944Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Direct to Disk - Personal Computer TV Recording\""
 excerpt: "\"This Article Describes In 2024, Direct to Disk - Personal Computer TV Recording\""
 keywords: "HP Computer Recording Basics,Record Simple HP Systems,HP PC Audio Capture Tutorial,Basic HP Sound Recording Guide,Start Audio on HP Devices,HP Computing Recording Steps,Beginning HP Sound Recording"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Direct to Disk - Personal Computer TV Recording

@@ -1,7 +1,7 @@
 ---
 title: "\"On-Screen Recording Assistant\""
-date: 2024-05-18T20:20:44.597Z
-updated: 2024-05-19T20:20:44.597Z
+date: 2024-06-19T08:30:24.489Z
+updated: 2024-06-20T08:30:24.489Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes On-Screen Recording Assistant\""
 excerpt: "\"This Article Describes On-Screen Recording Assistant\""
 keywords: "\"Screen Capture Aid,Onscreen Record Helper,Live Video Assistant,Real-Time Screen Recorder,Interactive Display Saves,Efficient Screen Recording,Digital Recording Enhancer\""
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## On-Screen Recording Assistant

@@ -1,7 +1,7 @@
 ---
 title: "[New] Design and Construct Your Dream MC House"
-date: 2024-05-18T19:58:47.375Z
-updated: 2024-05-19T19:58:47.375Z
+date: 2024-06-19T08:30:26.402Z
+updated: 2024-06-20T08:30:26.402Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Design and Construct Your Dream MC House"
 excerpt: "This Article Describes [New] Design and Construct Your Dream MC House"
 keywords: "Dream MC House Design,Dream Home Construction,Custom MC Housing Plan,Personalized MC Structure,Unique MC Home Idea,Bespoke MC Living Space,MC Dreamhouse Blueprints"
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## Design and Construct Your Dream MC House

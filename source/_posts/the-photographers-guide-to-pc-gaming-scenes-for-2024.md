@@ -1,7 +1,7 @@
 ---
 title: "The Photographer’s Guide to PC Gaming Scenes for 2024"
-date: 2024-05-18T20:31:56.580Z
-updated: 2024-05-19T20:31:56.580Z
+date: 2024-06-19T08:30:16.123Z
+updated: 2024-06-20T08:30:16.123Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Photographer’s Guide to PC Gaming Scenes for 2024"
 excerpt: "This Article Describes The Photographer’s Guide to PC Gaming Scenes for 2024"
 keywords: "Game Photo Tips,Pc Gaming Lensing,Cutscenes in Games,Gameplay Photography,PC Gaming Images,Digital Game Artistry,Scenes Capture Techniques"
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## The Photographer’s Guide to PC Gaming Scenes

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Silent Blades & Righteous Honor  Your Next Game Adventure Awaits!\""
-date: 2024-05-20T07:23:28.945Z
-updated: 2024-05-21T07:23:28.945Z
+date: 2024-06-19T08:30:16.824Z
+updated: 2024-06-20T08:30:16.824Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Silent Blades & Righteous Honor: Your Next Game Adventure Awaits!\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Silent Blades & Righteous Honor: Your Next Game Adventure Awaits!\""
 keywords: "SilentBladesGame,HonoredAdventure,StealthActionGames,HeroicJourneyPlay,HonorousQuestFun,QuietCombatExcursion,RighteousGameEscape"
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Silent Blades & Righteous Honor: Your Next Game Adventure Awaits

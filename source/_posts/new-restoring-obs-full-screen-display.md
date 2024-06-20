@@ -1,7 +1,7 @@
 ---
 title: "[New] Restoring OBS Full Screen Display"
-date: 2024-05-20T07:23:32.176Z
-updated: 2024-05-21T07:23:32.176Z
+date: 2024-06-19T08:30:17.187Z
+updated: 2024-06-20T08:30:17.187Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Restoring OBS Full Screen Display"
 excerpt: "This Article Describes [New] Restoring OBS Full Screen Display"
 keywords: "\"OBS Full-Screen Fix,OBS Resolution Restore,HD Viewing on OBS,Clear OBS Fullscreen,Enhance OBS Image Quality,Optimal Screen Display OBS,Improve OBS Graphics\""
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Restoring OBS Full Screen Display

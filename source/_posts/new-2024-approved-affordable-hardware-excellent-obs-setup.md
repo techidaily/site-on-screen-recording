@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Affordable Hardware  Excellent OBS Setup\""
-date: 2024-05-20T07:23:19.979Z
-updated: 2024-05-21T07:23:19.979Z
+date: 2024-06-19T08:30:20.686Z
+updated: 2024-06-20T08:30:20.686Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Affordable Hardware: Excellent OBS Setup\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Affordable Hardware: Excellent OBS Setup\""
 keywords: "\"Affordable OBS,Hardware Essentials,Budget-Friendly OBS,Quality OBS Gear,Low-Cost OBS Systems,Efficient OBS Equipment,Cost-Effective Studio Setup\""
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Affordable Hardware: Excellent OBS Setup

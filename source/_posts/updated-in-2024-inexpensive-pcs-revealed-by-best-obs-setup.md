@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Inexpensive PCs Revealed by Best OBS Setup"
-date: 2024-05-18T20:39:01.726Z
-updated: 2024-05-19T20:39:01.726Z
+date: 2024-06-19T08:30:20.030Z
+updated: 2024-06-20T08:30:20.030Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Inexpensive PCs Revealed by Best OBS Setup"
 excerpt: "This Article Describes [Updated] In 2024, Inexpensive PCs Revealed by Best OBS Setup"
 keywords: "\"Cheap PC Deals,Budget-Friendly Computers,Affordable PC Options,Low-Cost Computers,Inexpensive Gaming Rigs,Value PC Buys,Economical Computer Setups\""
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Inexpensive PCs Revealed by Best OBS Setup

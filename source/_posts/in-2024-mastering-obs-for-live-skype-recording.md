@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering OBS for Live Skype Recording"
-date: 2024-05-20T07:23:59.078Z
-updated: 2024-05-21T07:23:59.078Z
+date: 2024-06-19T08:30:21.161Z
+updated: 2024-06-20T08:30:21.161Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Mastering OBS for Live Skype Recording"
 excerpt: "This Article Describes In 2024, Mastering OBS for Live Skype Recording"
 keywords: "OBS Skype Mastery,Skype Live Streaming,OBS Techniques,Skype Video Record,OBS Performance,Broadcast Recording,Skype Capture Tools"
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Mastering OBS for Live Skype Recording

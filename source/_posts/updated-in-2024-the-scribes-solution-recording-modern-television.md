@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Scribe's Solution  Recording Modern Television\""
-date: 2024-05-18T20:34:39.100Z
-updated: 2024-05-19T20:34:39.100Z
+date: 2024-06-19T08:30:16.856Z
+updated: 2024-06-20T08:30:16.856Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, The Scribe's Solution: Recording Modern Television\""
 excerpt: "\"This Article Describes [Updated] In 2024, The Scribe's Solution: Recording Modern Television\""
 keywords: "TV Show Scripting,Screenplay Recording,Digital Video Archive,Media Transcription,Broadcast Scripting,Content Capture TV,Live TV Scripting"
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## The Scribe's Solution: Recording Modern Television
