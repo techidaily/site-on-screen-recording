@@ -1,7 +1,7 @@
 ---
 title: "\"From Live Events to Records  The Pathway with 4 Key Steps on FB\""
-date: 2024-05-20T07:23:06.818Z
-updated: 2024-05-21T07:23:06.818Z
+date: 2024-06-27T02:24:19.695Z
+updated: 2024-06-28T02:24:19.695Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes From Live Events to Records: The Pathway with 4 Key Steps on FB\""
 excerpt: "\"This Article Describes From Live Events to Records: The Pathway with 4 Key Steps on FB\""
 keywords: "\"Event Record Transition,FB Event to Archive,Recording Live Events,Step-by-Step FB Archive,Social Media to Records,FB Event Conversion Path,Archiving Live on Facebook\""
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## From Live Events to Records: The Pathway with 4 Key Steps on FB

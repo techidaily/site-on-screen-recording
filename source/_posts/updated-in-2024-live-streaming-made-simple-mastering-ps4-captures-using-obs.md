@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Live Streaming Made Simple  Mastering PS4 Captures Using OBS\""
-date: 2024-05-20T07:24:12.560Z
-updated: 2024-05-21T07:24:12.560Z
+date: 2024-06-27T02:24:21.552Z
+updated: 2024-06-28T02:24:21.552Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Live Streaming Made Simple: Mastering PS4 Captures Using OBS\""
 excerpt: "\"This Article Describes [Updated] In 2024, Live Streaming Made Simple: Mastering PS4 Captures Using OBS\""
 keywords: "Simplified PS4 Streaming,OBS PS4 Broadcasts,Live PS4 Capturing,Easy OBS Streaming,Master PS4 Streaming,Simple OBS Recordings,Capture PS4 with OBS"
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Live Streaming Made Simple: Mastering PS4 Captures Using OBS

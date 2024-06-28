@@ -1,7 +1,7 @@
 ---
 title: "\"Stop Frames Dropping  OBS Troubleshooting Guide\""
-date: 2024-05-18T20:12:10.538Z
-updated: 2024-05-19T20:12:10.538Z
+date: 2024-06-27T02:24:03.273Z
+updated: 2024-06-28T02:24:03.273Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Stop Frames Dropping: OBS Troubleshooting Guide\""
 excerpt: "\"This Article Describes Stop Frames Dropping: OBS Troubleshooting Guide\""
 keywords: "\"Drop-Free OBS Streaming,OBS Frame Stability,Fix OBS Frame Loss,Troubleshoot OBS Drops,Secure OBS Broadcasts,Prevent OBS Disruptions,Improve OBS Performance\""
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Stop Frames Dropping: OBS Troubleshooting Guide

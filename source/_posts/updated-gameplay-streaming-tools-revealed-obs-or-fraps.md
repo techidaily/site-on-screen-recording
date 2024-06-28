@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Gameplay Streaming Tools Revealed  OBS or Fraps?\""
-date: 2024-05-20T07:24:12.210Z
-updated: 2024-05-21T07:24:12.210Z
+date: 2024-06-27T02:24:21.835Z
+updated: 2024-06-28T02:24:21.835Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Gameplay Streaming Tools Revealed: OBS or Fraps?\""
 excerpt: "\"This Article Describes [Updated] Gameplay Streaming Tools Revealed: OBS or Fraps?\""
 keywords: "GameStream OBS,StreamFraps,LiveGamingOBS,ProToolsStreaming,VideoGameOBS,FrapsStreamer,BroadcastToolsGS"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Gameplay Streaming Tools Revealed: OBS or Fraps?

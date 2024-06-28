@@ -1,7 +1,7 @@
 ---
 title: "How to Screen Cast or Record Your iMac's Display Quickly"
-date: 2024-05-18T20:40:18.527Z
-updated: 2024-05-19T20:40:18.527Z
+date: 2024-06-27T02:24:09.799Z
+updated: 2024-06-28T02:24:09.799Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Screen Cast or Record Your iMac's Display Quickly"
 excerpt: "This Article Describes How to Screen Cast or Record Your iMac's Display Quickly"
 keywords: "Quick iMac Screen Record,IMac Display Cast,Fast Mac Display Capture,Record iMac Screen Quickly,Speed up iMac Casting,Easy iMac Recording,Swift Mac Screencasting"
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How to Screen Cast or Record Your iMac's Display Quickly

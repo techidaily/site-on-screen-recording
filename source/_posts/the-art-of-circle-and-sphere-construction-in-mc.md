@@ -1,7 +1,7 @@
 ---
 title: "The Art of Circle and Sphere Construction in MC"
-date: 2024-05-20T07:23:16.884Z
-updated: 2024-05-21T07:23:16.884Z
+date: 2024-06-27T02:24:01.239Z
+updated: 2024-06-28T02:24:01.239Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "This Article Describes The Art of Circle and Sphere Construction in MC"
 excerpt: "This Article Describes The Art of Circle and Sphere Construction in MC"
 keywords: "MC Circles Construction,MC Sphere Building,Circle Creation MC,Sphere Design MC,Geometric Shapes MC,Math Constructions MC,Circular Formations MC"
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## The Art of Circle and Sphere Construction in MC
 
-# How to Build Circles and Spheres in Minecraft
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# How to Build Circles and Spheres in Minecraft ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

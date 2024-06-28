@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unleashing Creativity with Audacity Sound Capture on Your Mac\""
-date: 2024-05-20T07:23:16.715Z
-updated: 2024-05-21T07:23:16.715Z
+date: 2024-06-27T02:24:21.033Z
+updated: 2024-06-28T02:24:21.033Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Unleashing Creativity with Audacity Sound Capture on Your Mac\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Unleashing Creativity with Audacity Sound Capture on Your Mac\""
 keywords: "Mac Audio Creativity,Audacity Creative Mac,Mac Sound Recording,Audacity Mac Edit,Mac Creative Sound,Mac Captures Audio,Audacious Mac Tunes"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Unleashing Creativity with Audacity Sound Capture on Your Mac

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capture Every Word in Meetings - The Top 10 Free Recorders for Slack\""
-date: 2024-05-18T20:07:14.617Z
-updated: 2024-05-19T20:07:14.617Z
+date: 2024-06-27T02:24:02.079Z
+updated: 2024-06-28T02:24:02.079Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [New] In 2024, Capture Every Word in Meetings - The Top 10 Free Recorders for Slack\""
 excerpt: "\"This Article Describes [New] In 2024, Capture Every Word in Meetings - The Top 10 Free Recorders for Slack\""
 keywords: "\"Slack Meeting Recorder,Free Meeting Transcriber,Slack Audio Capture,Low-Cost Meeting Tools,Top Free Recording Software,Slack Compatible Recorders,Best Free Meeting Apps\""
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Capture Every Word in Meetings - The Top 10 Free Recorders for Slack
 
-# 10 FREE Recorder Apps for Slack Meetings & Video Conferencing
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# 10 FREE Recorder Apps for Slack Meetings & Video Conferencing ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

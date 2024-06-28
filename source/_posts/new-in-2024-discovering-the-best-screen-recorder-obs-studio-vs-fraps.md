@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Discovering the Best Screen Recorder  OBS Studio Vs Fraps\""
-date: 2024-05-18T20:28:39.055Z
-updated: 2024-05-19T20:28:39.055Z
+date: 2024-06-27T02:24:18.989Z
+updated: 2024-06-28T02:24:18.989Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Discovering the Best Screen Recorder: OBS Studio Vs Fraps\""
 excerpt: "\"This Article Describes [New] In 2024, Discovering the Best Screen Recorder: OBS Studio Vs Fraps\""
 keywords: "OBS vs Fraps Screen Rec,Top Screen Capture Tools,Best OBS Studio Option,Screen Recording Comparo,Fraps Alternative for PC,Choosing the Right Screen Rec,OBS Studio vs Fraps Review"
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Discovering the Best Screen Recorder: OBS Studio Vs Fraps

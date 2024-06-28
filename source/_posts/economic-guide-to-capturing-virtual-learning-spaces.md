@@ -1,7 +1,7 @@
 ---
 title: "Economic Guide to Capturing Virtual Learning Spaces"
-date: 2024-05-20T07:24:33.387Z
-updated: 2024-05-21T07:24:33.387Z
+date: 2024-06-27T02:24:01.700Z
+updated: 2024-06-28T02:24:01.700Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Economic Guide to Capturing Virtual Learning Spaces"
 excerpt: "This Article Describes Economic Guide to Capturing Virtual Learning Spaces"
 keywords: "\"VLE Optimization,E-Learning Economics,Virtual Space Education,Digital Learning Markets,LMS Value Capture,Online Course Strategy,Virtual Ed Investments\""
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Economic Guide to Capturing Virtual Learning Spaces

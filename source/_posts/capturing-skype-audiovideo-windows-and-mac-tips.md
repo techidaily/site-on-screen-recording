@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Skype Audio/Video  Windows & Mac Tips\""
-date: 2024-05-20T07:24:00.976Z
-updated: 2024-05-21T07:24:00.976Z
+date: 2024-06-27T02:24:17.859Z
+updated: 2024-06-28T02:24:17.859Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes Capturing Skype Audio/Video: Windows & Mac Tips\""
 excerpt: "\"This Article Describes Capturing Skype Audio/Video: Windows & Mac Tips\""
 keywords: "Skype Call Recording,Audio Capture Skype,Video Record Skype,Skype Screen Share Tips,Windows Skype Recordings,Mac Skype Screen Casts,Audio/Video Skype Capture"
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Capturing Skype Audio/Video: Windows & Mac Tips
 
-# How to Record Skype Meeting on Windows and Mac | Skype for Business
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# How to Record Skype Meeting on Windows and Mac | Skype for Business ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 
