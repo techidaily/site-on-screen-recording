@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Slack & Filmora for Smooth Meeting Operations"
-date: 2024-05-18T20:05:49.997Z
-updated: 2024-05-19T20:05:49.997Z
+date: 2024-07-04T15:59:40.526Z
+updated: 2024-07-05T15:59:40.526Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Integrating Slack & Filmora for Smooth Meeting Operations"
 excerpt: "This Article Describes [New] Integrating Slack & Filmora for Smooth Meeting Operations"
 keywords: "\"Slack-Filmora Collaboration,Meetings Streamlined by Slack,Filmora Integrated Chat,Video Conferencing Efficiency,Smooth Team Meeting Tools,Combining Slack & Filmmaker,Enhanced Remote Workflows\""
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## Integrating Slack & Filmora for Smooth Meeting Operations

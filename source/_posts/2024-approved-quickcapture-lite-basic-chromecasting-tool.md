@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  QuickCapture Lite  Basic Chromecasting Tool\""
-date: 2024-05-18T20:19:11.290Z
-updated: 2024-05-19T20:19:11.290Z
+date: 2024-07-04T15:59:41.455Z
+updated: 2024-07-05T15:59:41.455Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: QuickCapture Lite: Basic Chromecasting Tool\""
 excerpt: "\"This Article Describes 2024 Approved: QuickCapture Lite: Basic Chromecasting Tool\""
 keywords: "QuickCapture Lite,Chromecast Basics,Lite Capturing App,Simple Cast to TV,Chromecast Essentials,Basic Casting Tool,Streamlight Chromecast"
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## QuickCapture Lite: Basic Chromecasting Tool
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

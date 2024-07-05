@@ -1,7 +1,7 @@
 ---
 title: "[New] Ace Screen Recording Tools in the Public Domain"
-date: 2024-05-18T20:33:29.105Z
-updated: 2024-05-19T20:33:29.105Z
+date: 2024-07-04T15:59:46.421Z
+updated: 2024-07-05T15:59:46.421Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Ace Screen Recording Tools in the Public Domain"
 excerpt: "This Article Describes [New] Ace Screen Recording Tools in the Public Domain"
 keywords: "Ace Rec. Tool,Public Screen Capture,Free Screen Rec. Tools,Open Screen Recorders,Screen Rec. Dev.,Screen Rec. Ace,Unrestricted Screen Tech"
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Ace Screen Recording Tools in the Public Domain

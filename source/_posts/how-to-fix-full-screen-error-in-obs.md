@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Full Screen Error in OBS"
-date: 2024-05-20T07:23:36.660Z
-updated: 2024-05-21T07:23:36.660Z
+date: 2024-07-04T15:59:40.954Z
+updated: 2024-07-05T15:59:40.954Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Fix Full Screen Error in OBS"
 excerpt: "This Article Describes How to Fix Full Screen Error in OBS"
 keywords: "OBS Full Screen Fix,Clearing OBS Errors,OBS Freeze Solution,Stop OBS Glitch,OBS Blackout Troubleshoot,Resolve OBS Crash,Unfreeze OBS Display"
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## How to Fix Full Screen Error in OBS

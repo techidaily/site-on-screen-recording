@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)"
-date: 2024-05-20T07:23:37.044Z
-updated: 2024-05-21T07:23:37.044Z
+date: 2024-07-04T15:59:46.812Z
+updated: 2024-07-05T15:59:46.812Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)"
 excerpt: "This Article Describes [Updated] In 2024, Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)"
 keywords: "Nintendo Switch Fighters,Top Switch Gaming,Fighting Games Switch,Spectacular Switch Titles,Switch Gamer's Top Ten,Ultimate Fighting Switch Games,Switch Action Game List"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)

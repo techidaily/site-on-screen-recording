@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Digital Filmmaking  Recording Video Across Various Platforms\""
-date: 2024-05-18T20:41:13.297Z
-updated: 2024-05-19T20:41:13.297Z
+date: 2024-07-04T15:59:40.159Z
+updated: 2024-07-05T15:59:40.159Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Digital Filmmaking: Recording Video Across Various Platforms\""
 excerpt: "\"This Article Describes 2024 Approved: Digital Filmmaking: Recording Video Across Various Platforms\""
 keywords: "\"Filmmaking Tech Trends,Multi-Platform Video Rec,Digital Cinematography,Video Production Tools,Cross-Platform Editing,Filmmaking Software Guide,Streaming Content Creation\""
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Digital Filmmaking: Recording Video Across Various Platforms

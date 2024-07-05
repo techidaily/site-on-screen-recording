@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Storing Session Videos in GH"
-date: 2024-05-20T07:23:57.363Z
-updated: 2024-05-21T07:23:57.364Z
+date: 2024-07-04T15:59:48.167Z
+updated: 2024-07-05T15:59:48.167Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Storing Session Videos in GH"
 excerpt: "This Article Describes [New] In 2024, Storing Session Videos in GH"
 keywords: "Video Storage GH,GH Session Save,Hangouts Video Keep,Google Stor Vid,Hangouts Session,Cloud Video GH,Saving Chats in GH"
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Storing Session Videos in GH

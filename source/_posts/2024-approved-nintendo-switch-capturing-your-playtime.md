@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nintendo Switch  Capturing Your Playtime\""
-date: 2024-05-20T07:23:05.524Z
-updated: 2024-05-21T07:23:05.524Z
+date: 2024-07-04T15:59:47.232Z
+updated: 2024-07-05T15:59:47.232Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Nintendo Switch: Capturing Your Playtime\""
 excerpt: "\"This Article Describes 2024 Approved: Nintendo Switch: Capturing Your Playtime\""
 keywords: "\"Nintendo Switch Gaming Time,Switch Playtime Tracking,Joy-Con Activity Logging,Switch Gameplay Analysis,Nintendo Entertainment Moments,Switch Usage Duration,Playtime Capture on Switch\""
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Nintendo Switch: Capturing Your Playtime

@@ -1,7 +1,7 @@
 ---
 title: "[New] First Footage Assessment Breakdown"
-date: 2024-05-18T20:05:12.846Z
-updated: 2024-05-19T20:05:12.846Z
+date: 2024-07-04T15:59:44.216Z
+updated: 2024-07-05T15:59:44.216Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] First Footage Assessment Breakdown"
 excerpt: "This Article Describes [New] First Footage Assessment Breakdown"
 keywords: "First Footage Review,Initial Film Analysis,Preview Video Study,Footage Evaluation Overview,Starting Shot Insight,Early Capture Assessment,Primary Footage Breakdown"
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## First Footage Assessment Breakdown

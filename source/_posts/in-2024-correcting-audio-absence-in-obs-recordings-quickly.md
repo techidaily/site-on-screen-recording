@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Correcting Audio Absence in OBS Recordings Quickly"
-date: 2024-05-18T20:26:00.003Z
-updated: 2024-05-19T20:26:00.003Z
+date: 2024-07-04T15:59:39.572Z
+updated: 2024-07-05T15:59:39.572Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Correcting Audio Absence in OBS Recordings Quickly"
 excerpt: "This Article Describes In 2024, Correcting Audio Absence in OBS Recordings Quickly"
 keywords: "\"Color-Less Games,Removing Grayscale Effects,Enhancing Game Video Quality,Adding Colors to Gaming Footage,Restoring True Hues in Games,Game Recording Color Correction,Improve Gamers' Visual Experience\""
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Correcting Audio Absence in OBS Recordings Quickly

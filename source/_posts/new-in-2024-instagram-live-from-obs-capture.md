@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Instagram Live From OBS Capture"
-date: 2024-05-20T07:23:24.905Z
-updated: 2024-05-21T07:23:24.905Z
+date: 2024-07-04T15:59:43.549Z
+updated: 2024-07-05T15:59:43.549Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Instagram Live From OBS Capture"
 excerpt: "This Article Describes [New] In 2024, Instagram Live From OBS Capture"
 keywords: "\"OBS Live Streaming,Insta-Live Recording,OBS Event Sharing,Direct OBS Broadcast,Real-Time Video on Instagram,Instagram Live Capture,OBS Live Engagement\""
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Instagram Live From OBS Capture

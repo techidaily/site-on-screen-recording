@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Recording Techniques for Firaxis' Age of Empires II\""
-date: 2024-05-20T07:23:21.005Z
-updated: 2024-05-21T07:23:21.005Z
+date: 2024-07-04T15:59:41.827Z
+updated: 2024-07-05T15:59:41.827Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Recording Techniques for Firaxis' Age of Empires II\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Recording Techniques for Firaxis' Age of Empires II\""
 keywords: "AoE2 Quick Record,Age Recoding Tips,Age II Fast Save,Empire Game Saves,Speed Casting EA2,Empires Rapid Capture,AoE II Efficient Storage"
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Quick Recording Techniques for Firaxis' Age of Empires II
