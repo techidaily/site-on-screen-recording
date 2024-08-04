@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Altering Screenshot File Types on a Macintosh\""
-date: 2024-05-20T07:23:05.430Z
-updated: 2024-05-21T07:23:05.430Z
+date: 2024-07-24T08:49:53.624Z
+updated: 2024-07-25T08:49:53.624Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Altering Screenshot File Types on a Macintosh\""
 excerpt: "\"This Article Describes 2024 Approved: Altering Screenshot File Types on a Macintosh\""
 keywords: "Mac Screenshots Format,Mac Screenshot Conversion,Changing Mac Image Types,Mac Screenshot Editing,Macfile Screenshot Change,Format Macscreenshots,Transform Mac Screenshot Files"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Altering Screenshot File Types on a Macintosh
 
 # How to Change Screenshot File Formats on a Mac
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -29,6 +32,9 @@ Taking screenshots on a Mac computer is a straightforward process that requires 
 
 However, the process of changing the default screenshot file format on a Mac is needlessly complicated, but in this article, we will show you how you can accomplish this task in just a few simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -46,6 +52,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Supported Image Formats on Mac
@@ -54,6 +63,9 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -62,6 +74,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -139,6 +155,9 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -147,6 +166,9 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -183,6 +205,9 @@ _defaults write com.apple.screencapture type PNG_
 
 You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -199,6 +224,9 @@ Taking screenshots on a Mac computer is a straightforward process that requires 
 
 However, the process of changing the default screenshot file format on a Mac is needlessly complicated, but in this article, we will show you how you can accomplish this task in just a few simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -216,6 +244,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Supported Image Formats on Mac
@@ -268,6 +299,9 @@ _defaults write com.apple.screencapture type PNG_
 
 You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -286,6 +320,9 @@ However, the process of changing the default screenshot file format on a Mac is 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -301,6 +338,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Supported Image Formats on Mac
@@ -309,6 +349,9 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -317,6 +360,9 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -381,6 +427,8 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Downloading, Setting up and Using OBS on macOS"
-date: 2024-05-18T20:33:27.770Z
-updated: 2024-05-19T20:33:27.770Z
+date: 2024-07-24T10:28:09.122Z
+updated: 2024-07-25T10:28:09.122Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Complete Guide to Downloading, Setting up and Using OBS on macOS"
 excerpt: "This Article Describes The Complete Guide to Downloading, Setting up and Using OBS on macOS"
 keywords: "OBS Mac Setup Guide,OBS macOS Installation,OBS Usage for Mac Users,Mac OS OBS Download,OBS on macOS Configuration,OBS macOS Operational Tips,Quick OBS Mac Guide"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## The Complete Guide to Downloading, Setting up and Using OBS on macOS
@@ -54,18 +54,27 @@ OBS Studio is a complex software that comes with pre-installed screencasting cap
 
 Add on the Plus symbol and create the project. If you want to activate audio monitoring in OBS Studio: Right-click in the Output box, Open the Output mode or you can also go for Advanced Audio Properties:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![output recorder setup](https://images.wondershare.com/filmora/article-images/output-recorder-setup.jpg)
 
 **Step 2: Customize Record Only Feature**
 
 In OBS for Mac, this setting will deliver the sound of the source to the Desktop as it were. Work area sound should be enabled for the sound to be captured. As soon as you activate this option, navigate towards the recording interface.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize record](https://images.wondershare.com/filmora/article-images/customize-record.jpg)
 
 **Step 3: Set the Screen and Output Mode**
 
 In OBS Studio for Mac, this setting will broadcast the sound of the source to the stream and Desktop sound separately. This takes into mind individual sound control. To do so, go to the bottom right corner of your screen and pick "settings." Then, under "recording path," select the "output" option to specify the spot on your computer where you desire to keep the recordings. Right after that, press the Record button to start recording your Game Audio in parallel.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![output mode](https://images.wondershare.com/filmora/article-images/output-mode.jpg)
 
 ## 3\. How to Record Screen with OBS on Mac
@@ -76,12 +85,18 @@ OBS Studio is open-source, free software that is worth a try for all users. This
 
 To purchase OBS Studio, go to the OBS Project's official website and join up for their download portal. OBS is available for download and installation. After that, determine whether you want to use Windows, macOS, or Linux. Click the "Windows" download option on the left to acquire OBS for Windows. After clicking it, the download for OBS Studio will begin and the user will be able to locate it on their computer.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
 **Step 2: Add Scenes for Recording**
 
 OBS Studio will be available on their PC when the installation is complete, and players may use it to record their Valorous games. The software, on the other hand, does not come pre-configured for recording and must be set up manually. Scenes should be added. Open OBS and go to the bottom left of the screen to the "+" icon below "scenes." Add a "recording" scenario to the mix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
 
 **Step 3: Customize the Recording**
@@ -96,12 +111,18 @@ You may add a "Video Capture Device" to capture your webcam and an "Audio Input 
 
 Now, in the bottom left corner of the screen, click the "Scene" button, and then tap the Add icon next to the scene tab under the sources tab. A drop-down menu will display after selecting the add button, enabling you to add Game Capture and Audio Output Capture. Two more tabs will appear under the sources tab, which must be set. Choose a shooting location as well as a video type. Finally, pick "recording format" and "mp4" (or any other file type) from the drop-down menu. In the "Best Parameters for OBS Recordings," we'll go over various additional variables that need to be modified to ensure high-quality outputs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![setup the recording](https://images.wondershare.com/filmora/article-images/setup-the-recording.jpg)
 
 **Step 5: Start/Stop Recording**
 
 Users may start recording their gameplay by hitting the "Start Recording" button on the bottom-right of OBS Studio when everything is set up. To stop recording, simply press the Stop Recording button, and the video will be saved at the previously set location. Now is the moment to hit the "start recording" button.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Alternative Way to Record Screen on Mac
 
 Filmora is an easy-to-use and free OBS alternative with a basic user interface. This program, like OBS, allows you to capture your screen in several ways, including full screen, half of the screen, and so on. It's also an excellent audio recorder that enables you to capture system sound or microphones with a few simple clicks. Filmora contains a trimmer, which means you can easily alter your recorded files within this screen recording software, which is better than OBS. The recording option is a terrific method to capture games, a camera feed, or a display capture and keep it on your local device for sharing or editing later. You may use it to record any section of your screen and add narration from your microphone as well as video from your camera. You may add text, shapes, and photos to your video while it's being filmed. Furthermore, this program allows you to simply construct interesting animations and flawless transitions. Here are some insights into it.
@@ -114,6 +135,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Record Streaming with Wondershare Filmora
 
 **Step 1: Download and Install Filmora**
@@ -159,12 +183,18 @@ For macOS 10.12 or later
 
 To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
 **Step 2: Set Up Your Screen**
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
@@ -182,6 +212,9 @@ Just press the red-dotted Filmora button as soon as you get to a place where you
 
 The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
 ## Conclusion
@@ -204,6 +237,11 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
@@ -213,6 +251,9 @@ Step 3: Start Capturing
 
 After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
 
 Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
@@ -221,6 +262,9 @@ Just press the red-dotted Filmora button as soon as you get to a place where you
 
 The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
 ## Conclusion
@@ -237,12 +281,19 @@ For macOS 10.12 or later
 
 To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
 **Step 2: Set Up Your Screen**
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
@@ -252,6 +303,10 @@ Step 3: Start Capturing
 
 After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
 
 Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
@@ -286,6 +341,8 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

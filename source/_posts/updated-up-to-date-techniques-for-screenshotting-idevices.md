@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Up-to-Date Techniques for Screenshotting iDevices\""
-date: 2024-05-18T20:38:58.247Z
-updated: 2024-05-19T20:38:58.247Z
+date: 2024-07-24T10:37:15.441Z
+updated: 2024-07-25T10:37:15.441Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [Updated] Up-to-Date Techniques for Screenshotting iDevices\""
 excerpt: "\"This Article Describes [Updated] Up-to-Date Techniques for Screenshotting iDevices\""
 keywords: "IDevice Screenshots,IOS Screen Capture,Devices Image Save,IPhone Snapshot Tricks,IPad Screenshot Methods,Android Device Images,Tech Screenshot Tips"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Up-to-Date Techniques for Screenshotting iDevices
 
 # How to Record iPhone/iPad’s Screen
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -36,6 +39,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 * [Part 1: How to Record Screen with Built-in Screen Recorder in iPhone/iPad](#part1)
 * [Part 2: Use QuickTime to record iPhone/iPad screen](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Record Screen with Built-in Screen Recorder in iPhone/iPad \[For iOS 11 and Later Versions\]
 
  The iOS 11 has come with a built-in mobile screen recording feature, so if you're running the iOS 11 and later iOS versions, you can use the free recording tool of iPhone directly. This built-in app has provided a great alternative to the traditional methods to record screen videos without the use of third-party apps for iOS users. The built-in screen recorder has made the whole process very easy and simple. Follow the steps mentioned below if you want to record your iPhone/iPad’s screen.
@@ -50,6 +56,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
@@ -63,6 +72,9 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -71,12 +83,18 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 1\. Connect your iOS device (iPhone/iPad/iPod touch) to your Mac with a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
@@ -85,6 +103,9 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 6\. Click on the red record button when you want to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -122,12 +143,18 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 * [Part 1: How to Record Screen with Built-in Screen Recorder in iPhone/iPad](#part1)
 * [Part 2: Use QuickTime to record iPhone/iPad screen](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Record Screen with Built-in Screen Recorder in iPhone/iPad \[For iOS 11 and Later Versions\]
 
  The iOS 11 has come with a built-in mobile screen recording feature, so if you're running the iOS 11 and later iOS versions, you can use the free recording tool of iPhone directly. This built-in app has provided a great alternative to the traditional methods to record screen videos without the use of third-party apps for iOS users. The built-in screen recorder has made the whole process very easy and simple. Follow the steps mentioned below if you want to record your iPhone/iPad’s screen.
 
    1. If you don’t have a screen recorder toggle on the Control Center, you need to enable the Screen Recording feature in the Settings on your iPhone/iPad. First, tap the Settings app, and then tap Control Center > Customize Controls. Find **Screen Recording** then tap the green “+” button beside it to add the Screen Recording feature to Control Center.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
@@ -163,6 +190,9 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
@@ -185,6 +215,9 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -218,6 +251,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
@@ -227,6 +263,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
 
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
@@ -235,6 +274,9 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -249,6 +291,9 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
@@ -269,8 +314,19 @@ The recorded video will be saved in .mov file format which you can later export 
 
 iPhone/iPad screen recorder is a very useful tool when you want to record tutorials, demonstrations, or report bugs. The demand for mobile screen recorders is rapidly increasing. Youngsters also love recording funny clips and videos to share the video on social media networks and other platforms. So which method offered above is better, no definite answer. All you need to consider is your own situation. But if you are looking for a screen recorder to [record screen on computer](https://tools.techidaily.com/wondershare/filmora/download/), which also provides better video editing features, like [blurring the private info](https://tools.techidaily.com/wondershare/filmora/download/), then try Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -300,6 +356,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
    1. If you don’t have a screen recorder toggle on the Control Center, you need to enable the Screen Recording feature in the Settings on your iPhone/iPad. First, tap the Settings app, and then tap Control Center > Customize Controls. Find **Screen Recording** then tap the green “+” button beside it to add the Screen Recording feature to Control Center.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
@@ -335,6 +394,9 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
@@ -343,6 +405,9 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 6\. Click on the red record button when you want to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -357,6 +422,9 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -385,6 +453,8 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

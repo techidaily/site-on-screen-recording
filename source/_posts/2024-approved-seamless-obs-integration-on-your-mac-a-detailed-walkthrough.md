@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless OBS Integration on Your Mac  A Detailed Walkthrough\""
-date: 2024-05-18T20:23:11.157Z
-updated: 2024-05-19T20:23:11.157Z
+date: 2024-07-24T10:10:32.393Z
+updated: 2024-07-25T10:10:32.393Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Seamless OBS Integration on Your Mac: A Detailed Walkthrough\""
 excerpt: "\"This Article Describes 2024 Approved: Seamless OBS Integration on Your Mac: A Detailed Walkthrough\""
 keywords: "Mac OBS Integration,Seamless OBS Mac,OBS for Mac Guide,OBS Setup Mac,Mac OBS Walkthrough,Integrating OBS Mac,OBS Mac Tutorial"
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Seamless OBS Integration on Your Mac: A Detailed Walkthrough
@@ -44,8 +44,14 @@ Open the package after downloading it. Drag the OBS icon to the Applications fol
 
 Open OBS for the first time by going to the Applications folder and double-clicking on it. Selected 'Continue' will bring up a Welcome Screen for the Installer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![get-started](https://images.wondershare.com/filmora/article-images/get-started.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Best OBS Settings for Mac
 
 OBS Studio is a complex software that comes with pre-installed screencasting capabilities. Free software often lacks the breadth of features required for flawless broadcasting, but not with OSB Studio. Even though the program is free, it features all of the crucial components that characterize online broadcasting. Many additional parts and modules will be given by the software now and then. That suggests it's really necessary to dabble and refresh with it. Else, you can experience a few hassles in using OBS correctly.
@@ -54,12 +60,20 @@ OBS Studio is a complex software that comes with pre-installed screencasting cap
 
 Add on the Plus symbol and create the project. If you want to activate audio monitoring in OBS Studio: Right-click in the Output box, Open the Output mode or you can also go for Advanced Audio Properties:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![output recorder setup](https://images.wondershare.com/filmora/article-images/output-recorder-setup.jpg)
 
 **Step 2: Customize Record Only Feature**
 
 In OBS for Mac, this setting will deliver the sound of the source to the Desktop as it were. Work area sound should be enabled for the sound to be captured. As soon as you activate this option, navigate towards the recording interface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![customize record](https://images.wondershare.com/filmora/article-images/customize-record.jpg)
 
 **Step 3: Set the Screen and Output Mode**
@@ -68,6 +82,9 @@ In OBS Studio for Mac, this setting will broadcast the sound of the source to th
 
 ![output mode](https://images.wondershare.com/filmora/article-images/output-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Record Screen with OBS on Mac
 
 OBS Studio is open-source, free software that is worth a try for all users. This strategy may be used to solve the problem if you have two graphics cards, one of which is NVIDIA. The OBS black screen is most likely caused by OBS and the game you desire to record running on different graphics cards in this situation. The image of the game can't be acquired as they're on separate adapters, and it's not available on the device OBS is utilizing.
@@ -88,6 +105,9 @@ OBS Studio will be available on their PC when the installation is complete, and 
 
 Users should go to the Output tab and set the Video Bitrate to 6000 Kbps, Encoder to Hardware, and Audio Bitrate to 256 after entering the settings. Users may also adjust the location of their recording by choosing the save path location in the same settings tab., in the "recording" scene, click the "+" sign below "sources" on the bottom left of the screen, and add a "display capture." If you have more than one monitor, specify which one you wish to record.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![output tab](https://images.wondershare.com/filmora/article-images/output-tab.jpg)
 
 You may add a "Video Capture Device" to capture your webcam and an "Audio Input Capture" to gather the sounds from your microphone if you wish to. The next step is for users to go to the Audio tab and deactivate Desktop Audio. Users may add an audio input device, such as a microphone, by setting the Mic/Auxiliary device under the same tab.
@@ -96,6 +116,9 @@ You may add a "Video Capture Device" to capture your webcam and an "Audio Input 
 
 Now, in the bottom left corner of the screen, click the "Scene" button, and then tap the Add icon next to the scene tab under the sources tab. A drop-down menu will display after selecting the add button, enabling you to add Game Capture and Audio Output Capture. Two more tabs will appear under the sources tab, which must be set. Choose a shooting location as well as a video type. Finally, pick "recording format" and "mp4" (or any other file type) from the drop-down menu. In the "Best Parameters for OBS Recordings," we'll go over various additional variables that need to be modified to ensure high-quality outputs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![setup the recording](https://images.wondershare.com/filmora/article-images/setup-the-recording.jpg)
 
 **Step 5: Start/Stop Recording**
@@ -126,6 +149,117 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
+
+Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
+Step 3: Start Capturing
+
+**Step 3: Start Capturing**
+
+After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
+
+Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
+
+**Step 4: Directly Share to YouTube**
+
+The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+Unlike OBS, which only offers a few recording options, Filmora includes all of them. You may also add screen inscriptions and your camera footage as an overlay to the material you are recording using this feature. This device is also capable of capturing audio from the receiver. In just a few seconds, you may capture images and videos from your computer's screen, make comments, and share them with others. You'll need to put in some effort to figure out how OBS works. In comparison to other screen capturing apps, this one is unquestionably more difficult to use. For this reason, we've compiled the best of the top OBS alternative for your perusal – Wondershare Filmora. Whether you want to record your interaction, capture the video on your PC, or broadcast it live, an all-in-one OBS alternative has an option for you.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## How to Record Streaming with Wondershare Filmora
+
+**Step 1: Download and Install Filmora**
+
+To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
+
+**Step 2: Set Up Your Screen**
+
+After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
+
+![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
+
+Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
+Step 3: Start Capturing
+
+**Step 3: Start Capturing**
+
+After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
+
+![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
+
+Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
+
+**Step 4: Directly Share to YouTube**
+
+The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
+
+![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
+
+## Conclusion
+
+Unlike OBS, which only offers a few recording options, Filmora includes all of them. You may also add screen inscriptions and your camera footage as an overlay to the material you are recording using this feature. This device is also capable of capturing audio from the receiver. In just a few seconds, you may capture images and videos from your computer's screen, make comments, and share them with others. You'll need to put in some effort to figure out how OBS works. In comparison to other screen capturing apps, this one is unquestionably more difficult to use. For this reason, we've compiled the best of the top OBS alternative for your perusal – Wondershare Filmora. Whether you want to record your interaction, capture the video on your PC, or broadcast it live, an all-in-one OBS alternative has an option for you.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+## How to Record Streaming with Wondershare Filmora
+
+**Step 1: Download and Install Filmora**
+
+To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
+
+**Step 2: Set Up Your Screen**
+
+After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
@@ -174,6 +308,9 @@ Step 3: Start Capturing
 
 After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
 
 Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
@@ -184,84 +321,9 @@ The post-production editing capability may also be used to improve the recording
 
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
-## Conclusion
-
-Unlike OBS, which only offers a few recording options, Filmora includes all of them. You may also add screen inscriptions and your camera footage as an overlay to the material you are recording using this feature. This device is also capable of capturing audio from the receiver. In just a few seconds, you may capture images and videos from your computer's screen, make comments, and share them with others. You'll need to put in some effort to figure out how OBS works. In comparison to other screen capturing apps, this one is unquestionably more difficult to use. For this reason, we've compiled the best of the top OBS alternative for your perusal – Wondershare Filmora. Whether you want to record your interaction, capture the video on your PC, or broadcast it live, an all-in-one OBS alternative has an option for you.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-## How to Record Streaming with Wondershare Filmora
-
-**Step 1: Download and Install Filmora**
-
-To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
-
-![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
-
-**Step 2: Set Up Your Screen**
-
-After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
-
-![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
-
-Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
-Step 3: Start Capturing
-
-**Step 3: Start Capturing**
-
-After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
-
-![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
-
-Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
-
-**Step 4: Directly Share to YouTube**
-
-The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
-
-![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
-
-## Conclusion
-
-Unlike OBS, which only offers a few recording options, Filmora includes all of them. You may also add screen inscriptions and your camera footage as an overlay to the material you are recording using this feature. This device is also capable of capturing audio from the receiver. In just a few seconds, you may capture images and videos from your computer's screen, make comments, and share them with others. You'll need to put in some effort to figure out how OBS works. In comparison to other screen capturing apps, this one is unquestionably more difficult to use. For this reason, we've compiled the best of the top OBS alternative for your perusal – Wondershare Filmora. Whether you want to record your interaction, capture the video on your PC, or broadcast it live, an all-in-one OBS alternative has an option for you.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-## How to Record Streaming with Wondershare Filmora
-
-**Step 1: Download and Install Filmora**
-
-To begin with the Wondershare Filmora video recorder, you need to download the software. After you have downloaded the Wondershare Filmora file, it is time to install the program. To do so, open the downloaded file and follow the usual instructions to proceed further. After you are done with the installation, access the masterpiece from your desktop.
-
-![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
-
-**Step 2: Set Up Your Screen**
-
-After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
-
-![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
-
-Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
-Step 3: Start Capturing
-
-**Step 3: Start Capturing**
-
-After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
-
-![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
-
-Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
-
-**Step 4: Directly Share to YouTube**
-
-The post-production editing capability may also be used to improve the recording. There are a few ways to do this, such as by clicking Export at the top of a video editor's interface and then following the on-screen instructions. For easy uploading to a social media network like YouTube, just choose the video in the list and login into your channel.
-
-![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Unlike OBS, which only offers a few recording options, Filmora includes all of them. You may also add screen inscriptions and your camera footage as an overlay to the material you are recording using this feature. This device is also capable of capturing audio from the receiver. In just a few seconds, you may capture images and videos from your computer's screen, make comments, and share them with others. You'll need to put in some effort to figure out how OBS works. In comparison to other screen capturing apps, this one is unquestionably more difficult to use. For this reason, we've compiled the best of the top OBS alternative for your perusal – Wondershare Filmora. Whether you want to record your interaction, capture the video on your PC, or broadcast it live, an all-in-one OBS alternative has an option for you.
@@ -286,6 +348,8 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

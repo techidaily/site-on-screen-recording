@@ -1,7 +1,7 @@
 ---
 title: "\"Bushido Code Continuation - Top Similar Game Experiences\""
-date: 2024-05-18T20:29:02.777Z
-updated: 2024-05-19T20:29:02.777Z
+date: 2024-07-24T10:20:48.744Z
+updated: 2024-07-25T10:20:48.744Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes Bushido Code Continuation - Top Similar Game Experiences\""
 excerpt: "\"This Article Describes Bushido Code Continuation - Top Similar Game Experiences\""
 keywords: "Bushido Struggle,Samurai Games NextGen,Warrior Ethos Quest,Dojo Legacy Series,Bushido Journey Cont.,Martial Honors Play,Swordsmanship Challenge"
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Bushido Code Continuation - Top Similar Game Experiences
 
 # Top 10 Games Like Ghost of Tsushima
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -41,6 +44,9 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
@@ -169,6 +175,9 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
@@ -199,6 +208,9 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 **_Price:_** _$19.99 - $21.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![yakuza-0-poster](https://images.wondershare.com/filmora/article-images/yakuza-0-poster.jpg)
 
 Yakuza is an open-world Single-Player and Multi-Player action-adventure game. The story of games is based from 1988 to 1989\. Two characters can be controlled by the player, Kazuma Kiryu and Goro Majima, at specific and predetermined points in time. There are so many things to do in this open-world game. Players can explore the city, start side quests, have street fights, and more. The player can earn points by completing objectives like reaching a certain score and eating food at the restaurants. All these earned points can be used to get special items and upgrades. Money can also be earned by completing tasks or killing people.
@@ -219,6 +231,10 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![judgment-poster](https://images.wondershare.com/filmora/article-images/judgment-poster.jpg)
 
 Judgment is a single-player action video game. Meet Takayuki Yagami, a private detective who investigates a murder in Kamurocho. This game contains two fighting styles, which can be changed depending upon your choice, crane-style and tiger-style. Crane-style can be used to fight with groups and tiger-style can be used when fighting with individuals. The player also can run on walls and leapfrog while he is in fighting mode. Over time, Yagami unlocks new skills and fighting styles by earning more and more points. Apart from Fights and Bloodsheds, there is an investigation mode in the game, which allows the player to solve so many cases by looking at the signs and evidence. The player needs to follow the suspects without being seen by them to get to conclusions and solve the case. You are not bound to follow the storyline; you can take a side investigation case as well with the help of the notice board in his office. Will you be a successful detective and solve the cases to drive conclusions?
@@ -229,6 +245,9 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 **_Price:_** _$39.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-witcher-3-wild-hunt-poster](https://images.wondershare.com/filmora/article-images/the-witcher-3-wild-hunt-poster.jpg)
 
 The Witcher is one of the best games like Ghost of Tsushima because of the amazing story and adventure to its players. As Geralt of Rivia, you have an open world and several amazing places to be explored. The Wild Hunt feature of this game lets you play an amazing storyline and kill monsters that cross your way. Apart from the main story, the players are allowed to perform side tasks. If you have watched the Netflix series, The Witcher, you can easily relate this game to it. It almost contains all the same features of that series and can provide you with the same experience.
@@ -239,6 +258,9 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![star-wars-jedi-fallen-order-poster](https://images.wondershare.com/filmora/article-images/star-wars-jedi-fallen-order-poster.jpg)
 
 Are you ready to face and fight with the huge and powerful galactic Empire? This is a game like Ghost of Tsushima that puts you in the shoes of a Jedi Padawan, known as Cal Kestis. Just like Ghost of Tsushima, this game is also based on melee combats. On this journey of the universe, you will encounter so many monsters and foes. Protect yourself and kill all those who are against you with the help of your lightsaber. Cal is also given the power of force to use against his enemies to kill them.
@@ -259,6 +281,9 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
@@ -307,6 +332,9 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 **_Price:_** _$31.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sekiro-shadows-die-twice-poster](https://images.wondershare.com/filmora/article-images/sekiro-shadows-die-twice-poster.jpg)
 
 If you have played the Ghost of Tsushima and like it so much, you will definitely like this game. Sekiro is a bit more complex and difficult Shinobi-themed game as compare to Ghost of Tsushima. Unlike Ghost of Tsushima, this game contains many monsters to fight with and defeat using Katana. There are two ways of killing your foes, fighting them directly in combat or go stealthy to kill them without getting yourself noticed. This game requires you to use strategy and timing to kill the enemies. Without these two things, it won't be easy to eliminate them.
@@ -347,6 +375,9 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![judgment-poster](https://images.wondershare.com/filmora/article-images/judgment-poster.jpg)
 
 Judgment is a single-player action video game. Meet Takayuki Yagami, a private detective who investigates a murder in Kamurocho. This game contains two fighting styles, which can be changed depending upon your choice, crane-style and tiger-style. Crane-style can be used to fight with groups and tiger-style can be used when fighting with individuals. The player also can run on walls and leapfrog while he is in fighting mode. Over time, Yagami unlocks new skills and fighting styles by earning more and more points. Apart from Fights and Bloodsheds, there is an investigation mode in the game, which allows the player to solve so many cases by looking at the signs and evidence. The player needs to follow the suspects without being seen by them to get to conclusions and solve the case. You are not bound to follow the storyline; you can take a side investigation case as well with the help of the notice board in his office. Will you be a successful detective and solve the cases to drive conclusions?
@@ -357,6 +388,9 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 **_Price:_** _$39.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![the-witcher-3-wild-hunt-poster](https://images.wondershare.com/filmora/article-images/the-witcher-3-wild-hunt-poster.jpg)
 
 The Witcher is one of the best games like Ghost of Tsushima because of the amazing story and adventure to its players. As Geralt of Rivia, you have an open world and several amazing places to be explored. The Wild Hunt feature of this game lets you play an amazing storyline and kill monsters that cross your way. Apart from the main story, the players are allowed to perform side tasks. If you have watched the Netflix series, The Witcher, you can easily relate this game to it. It almost contains all the same features of that series and can provide you with the same experience.
@@ -367,6 +401,9 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![star-wars-jedi-fallen-order-poster](https://images.wondershare.com/filmora/article-images/star-wars-jedi-fallen-order-poster.jpg)
 
 Are you ready to face and fight with the huge and powerful galactic Empire? This is a game like Ghost of Tsushima that puts you in the shoes of a Jedi Padawan, known as Cal Kestis. Just like Ghost of Tsushima, this game is also based on melee combats. On this journey of the universe, you will encounter so many monsters and foes. Protect yourself and kill all those who are against you with the help of your lightsaber. Cal is also given the power of force to use against his enemies to kill them.
@@ -377,6 +414,9 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 **_Price:_** _$29.99 - $49.99_
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![middle-earth-shadow-of-war-poster](https://images.wondershare.com/filmora/article-images/middle-earth-shadow-of-war-poster.jpg)
 
 This is another astounding game like Ghost of Tsushima. It is a battle-intense game that allows you to use melee combats to protect your people and kingdom. To stop the Sauron's army, you have to use the melee mastery and spiritual connection to use the power against the army. It seems impossible to stop this army at first sight, but when using your full potential and power gathered from spiritual beings, this is not a big deal to defeat them. This game contains a wide range of weapons to use and creatures to fight with. You have to use new strategies and plans to defeat them in the battle, making this game thrilling and adventurous.
@@ -387,16 +427,28 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -425,6 +477,9 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
@@ -445,6 +500,9 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 **_Price:_** _$59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![assassins-creed-valhalla-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-valhalla-poster.jpg)
 
 If you are looking for a game like Ghost of Tsushima, this game is a must-try game. Assassin's Creed Valhalla comes with an astounding and interesting story. Apart from its story, its combat system is way more improved and advanced than all the previous games in this series. Its environment and landscapes are so stunning that the players can never ignore them without going there. Assassin's Creed Valhalla has attracted players worldwide with its beautiful and amazing combat mechanism in its open-world games. It lets you lead your clan to raid against Saxon troops and other foes. With its various enemies, you will never get bored of using the same moves and attacking tactics. You have to develop a new strategy each time you raid a clan or fight your enemies. (PS: Some gamers even said that Ghost of Tsushima is what Valhalla should be like)
@@ -485,6 +543,9 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 **_Price:_** _$39.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the-witcher-3-wild-hunt-poster](https://images.wondershare.com/filmora/article-images/the-witcher-3-wild-hunt-poster.jpg)
 
 The Witcher is one of the best games like Ghost of Tsushima because of the amazing story and adventure to its players. As Geralt of Rivia, you have an open world and several amazing places to be explored. The Wild Hunt feature of this game lets you play an amazing storyline and kill monsters that cross your way. Apart from the main story, the players are allowed to perform side tasks. If you have watched the Netflix series, The Witcher, you can easily relate this game to it. It almost contains all the same features of that series and can provide you with the same experience.
@@ -495,6 +556,9 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![star-wars-jedi-fallen-order-poster](https://images.wondershare.com/filmora/article-images/star-wars-jedi-fallen-order-poster.jpg)
 
 Are you ready to face and fight with the huge and powerful galactic Empire? This is a game like Ghost of Tsushima that puts you in the shoes of a Jedi Padawan, known as Cal Kestis. Just like Ghost of Tsushima, this game is also based on melee combats. On this journey of the universe, you will encounter so many monsters and foes. Protect yourself and kill all those who are against you with the help of your lightsaber. Cal is also given the power of force to use against his enemies to kill them.
@@ -505,6 +569,9 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 **_Price:_** _$29.99 - $49.99_
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![middle-earth-shadow-of-war-poster](https://images.wondershare.com/filmora/article-images/middle-earth-shadow-of-war-poster.jpg)
 
 This is another astounding game like Ghost of Tsushima. It is a battle-intense game that allows you to use melee combats to protect your people and kingdom. To stop the Sauron's army, you have to use the melee mastery and spiritual connection to use the power against the army. It seems impossible to stop this army at first sight, but when using your full potential and power gathered from spiritual beings, this is not a big deal to defeat them. This game contains a wide range of weapons to use and creatures to fight with. You have to use new strategies and plans to defeat them in the battle, making this game thrilling and adventurous.
@@ -515,6 +582,9 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
@@ -523,6 +593,9 @@ This game may not show you some of the amazing landscapes of china but it will s
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -553,6 +626,8 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

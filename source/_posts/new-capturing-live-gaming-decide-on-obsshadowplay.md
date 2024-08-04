@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Live Gaming - Decide on OBS/ShadowPlay\""
-date: 2024-05-18T20:39:49.282Z
-updated: 2024-05-19T20:39:49.282Z
+date: 2024-07-24T10:38:38.793Z
+updated: 2024-07-25T10:38:38.793Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Capturing Live Gaming - Decide on OBS/ShadowPlay\""
 excerpt: "\"This Article Describes [New] Capturing Live Gaming - Decide on OBS/ShadowPlay\""
 keywords: "Gaming Streaming Basics,OBS for Gamers,ShadowPlay Explained,Live Game Capture,Broadcast Tools Compared,Virtual Reality Gaming,Efficient Gaming Stream"
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## Capturing Live Gaming - Decide on OBS/ShadowPlay
@@ -21,6 +21,9 @@ If you are an avid gamer and you are not recording your gameplay and uploading o
 
 Primarily, you will need a gameplay recording software and there is no dearth of gameplay and screen recording software. The two most popular free gameplay recorders are OBS Studio and ShadowPlay. In order to help you choose OBS or ShadowPlay, we have provided you with a complete comparison of ShadowPlay vs OBS recording software. Go through all the points minutely and understand their differences and pick the perfect one for recording your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 1\. Key Features of OBS and ShadowPlay
 
 OBS and ShadowPlay are both completely free to use for recording your gameplay as well as your capturing desktop screen. OBS is open-source software and it has a cross-platform structure which is why it supports all computer operating systems. It is popular among gamers for live streaming on Twitch and YouTube.
@@ -45,6 +48,9 @@ Most importantly, you can live stream your gameplay on almost any online video s
 
 ### Nvidia ShadowPlay
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
 
 **Gameplay Capture** \- ShadowPlay lets you record gameplay at 8K with 30FPS. This is unmatched by any free video recording software. You can also record gameplay at 4K HDR with 60FPS. It comes with hardware acceleration to ensure the performance does not get affected while recording in the background.
@@ -59,6 +65,9 @@ Most importantly, you can live stream your gameplay on almost any online video s
 
 Just like OBS, ShadowPlay enables you to broadcast gameplay in real-time on YouTube Live, Twitch, and Facebook Live.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Comparison ShadowPlay vs OBS
 
 Here are the key points of differences between OBS and ShadowPlay that will help you decide between OBS or ShadowPlay.
@@ -103,6 +112,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -111,6 +123,9 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -157,6 +172,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -165,6 +183,9 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -189,6 +210,8 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "\"AZ Video Logger  Full Application Breakdown\""
-date: 2024-05-18T19:57:04.947Z
-updated: 2024-05-19T19:57:04.947Z
+date: 2024-07-24T09:31:25.757Z
+updated: 2024-07-25T09:31:25.757Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes AZ Video Logger: Full Application Breakdown\""
 excerpt: "\"This Article Describes AZ Video Logger: Full Application Breakdown\""
 keywords: "Video Conferencing Software,Top Video Calls Tools,Best Video Meeting Platforms,Efficient Video Chat Apps,Advanced Video Call Services,Excellent Video Communication Tools,Key Video Conference Solutions"
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## AZ Video Logger: Full Application Breakdown
@@ -46,6 +46,9 @@ Price:
 
 AZ Screen Recorder is completely free with no watermark or other limitations. However, to remove ads, you need to buy the subscription, which only costs **$2.99.**
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Key Features Of AZ Screen Recorder
 
 There are numerous great features that make AZ Screen Recorder a must-have tool for anyone who wants to record their screen, such as:
@@ -72,10 +75,16 @@ Step2 Launch the app and grant all the necessary permissions, such as access to 
 
 Step3 On the app’s main menu, an overlay will appear with **four buttons.** Tap the **Settings** option to configure the recording settings. Here, you can set resolution, bit-rate, frame rate, orientation, record audio, audio source, output directory, fix the green screen, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![az recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/Picture4.jpg)
 
 Step4 Once you are done with your settings, go back and tap the **Record** icon. Tap the **Live Stream** icon and choose **Live Platform**. In our case, we selected **Facebook.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![recording and live streaming on az recorder](https://images.wondershare.com/filmora/article-images/2022/11/recording-and-live-streaming-on-az-recorder.jpg)
 
 Step5 Tap the “**Continue as...”** button to provide access, set who can see your live video/screen, and tap **OK**. Next, tap **Continue** and set the stream's caption. Tap **Start Live Streaming**, select **Start Now,** and your live recording and streaming will begin in no time.
@@ -130,6 +139,9 @@ Step2 Now, run the software on your PC/Mac and click **“Create New Project.”
 
 Step3 From the **"Wondershare Screen Recorder"** window, set up which part of the screen you want to record, i.e., full screen, custom, or target screen recording. Set the speaker and microphone settings and click the **drop-down** icon for more **Settings.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![filmora recorder window](https://images.wondershare.com/filmora/article-images/2022/11/filmora-recorder-window.png)
 
 Step4 Finally, select the **Start** icon to begin your video. To complete the recording, click the **Stop** icon, and your recorded clip will be saved to the desired destination.
@@ -174,22 +186,36 @@ There are numerous great features that make AZ Screen Recorder a must-have tool 
 
 **Live Stream and Recording:**  With the **AZ Screen Recorder Live Stream** feature, you can stream and record your video on YouTube or Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Part 3\. How To Record A Live Stream With AZ Screen Recorder?
 
 Here's the step-by-step process for recording a live stream on YouTube/Facebook using the AZ screen recorder app:
 
 Step1 Head to the **Google Play Store** on your Android device or **App Store** on your iOS device. Please search for the app and use the **Install** button to download it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![installing az recorder app](https://images.wondershare.com/filmora/article-images/2022/11/installing-az-recorder-app.jpg)
 
 Step2 Launch the app and grant all the necessary permissions, such as access to Gallery, use of a microphone, camera, etc.
 
 Step3 On the app’s main menu, an overlay will appear with **four buttons.** Tap the **Settings** option to configure the recording settings. Here, you can set resolution, bit-rate, frame rate, orientation, record audio, audio source, output directory, fix the green screen, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![az recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/Picture4.jpg)
 
 Step4 Once you are done with your settings, go back and tap the **Record** icon. Tap the **Live Stream** icon and choose **Live Platform**. In our case, we selected **Facebook.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![recording and live streaming on az recorder](https://images.wondershare.com/filmora/article-images/2022/11/recording-and-live-streaming-on-az-recorder.jpg)
 
 Step5 Tap the “**Continue as...”** button to provide access, set who can see your live video/screen, and tap **OK**. Next, tap **Continue** and set the stream's caption. Tap **Start Live Streaming**, select **Start Now,** and your live recording and streaming will begin in no time.
@@ -244,10 +270,16 @@ Step2 Now, run the software on your PC/Mac and click **“Create New Project.”
 
 Step3 From the **"Wondershare Screen Recorder"** window, set up which part of the screen you want to record, i.e., full screen, custom, or target screen recording. Set the speaker and microphone settings and click the **drop-down** icon for more **Settings.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![filmora recorder window](https://images.wondershare.com/filmora/article-images/2022/11/filmora-recorder-window.png)
 
 Step4 Finally, select the **Start** icon to begin your video. To complete the recording, click the **Stop** icon, and your recorded clip will be saved to the desired destination.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The AZ screen recorder software can be used to create a video tutorial, capture gaming moments, stream online videos, and more. The app has several excellent features that make it a good choice for recording live streams. It also includes the ability to record in high definition and set multiple audio sources.
@@ -280,6 +312,8 @@ Hopefully, you find this in-depth review helpful and can now successfully record
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

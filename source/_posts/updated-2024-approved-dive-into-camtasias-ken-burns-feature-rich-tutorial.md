@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
-date: 2024-05-18T19:57:30.298Z
-updated: 2024-05-19T19:57:30.298Z
+date: 2024-07-24T09:32:04.927Z
+updated: 2024-07-25T09:32:04.927Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
 keywords: "Camtasia Ken Burns,Burns Tutorial,Video Editing Guide,Tutorial Features,Screen Capture Technique,Creative Tutorials,Editing Demos"
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial
@@ -53,6 +53,83 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### Step 1\. Import Your Images/Still Photos
+
+If you are looking to add the Ken Burns effect to your videos using Wondershare Filmora, the first step is to open the menu and import the video and photos you want to include in your video.
+
+Now drag all the visual content onto your timeline. After you have added photos and videos to the timeline, it is now time to add the Ken Burns effect to make your video look more engaging than ever.
+
+#### Step 2\. Applying the Ken Burns Effect
+
+You need to double-click on the photo or video present on your timeline. At this point, click on the animation tab and choose Preset. From here, add the pan and zoom preset to your video by dragging it onto your timeline or double-clicking on it. This will quickly add a Ken Burns effect to your video.
+
+If you want to have more control over how the Ken Burns effect appears on your video, or you want to make further adjustments, you can use the crop and zoom tool window that allows you to select the pan and zoom effect. From here, you have the option to adjust the size and position on your own relying on the start and end frames that give you more control over how to add the effect. This option is for those video editors and content creators who want a highly customized Ken Burns effect.
+
+#### Step 3\. Make Adjustments & Preview
+
+After you have added the Ken Burns effect to your video, you have the ability to preview the video by pressing the play button that is in the preview window. If you believe that the result is not exactly as you desired, you can once again go to the timeframes to make necessary changes and modifications.
+
+#### Step 4\. Save Your Video
+
+Once you are fully satisfied with the Ken Burns effect on your video, you can save and export the clip using the export button. You can export the video in a multitude of formats including MP4, WMV, AVI, MKV, MOV, GIF, and more. You can also upload your video directly to YouTube or Vimeo.
+
+Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Oct 26, 2023• Proven solutions
+
+**Ken Burns** is a documentary filmmaker who used this particular effect so much that it got named after him. The Ken Burns effect involves slow-paced zoom and pan over a still image to evoke a sense of movement, so the audience believes that they are watching a video and not just a slide show of still photos. There are many editing tools that can help you add the Ken Burns effect to your video and Camtasia 9 is one of them.
+
+One of the most positive impacts generated by the Camtasia Ken Burns effect is that it enables your still photos to be used in a video as though they were a part of it. The effect is not only easy to understand but also quite user-friendly to apply. That is why it is often used by beginners and amateur YouTubers and content creators to add flair to their videos. Let's see how you can use the Camtasia Ken Burns effect.
+
+## How to Make a Ken Burns Effect in Camtasia 9?
+
+You have to bear in mind that Camtasia 9 isn’t the easiest editing software to use, and you will have to go through multiple steps to add the Ken Burns effect.
+
+#### Step 1\. Open a New Project & Import Images
+
+The first step you need to take to add the Ken Burns effect to your video is to open a new project in Camtasia 9\. The next thing you have to do is import the images you want to use and add them to the Media Bin. This will enable you to work on the images and add the Ken Burns effect.
+
+#### Step 2\. Adding Camtasia Ken Burns Effect
+
+Now you need to right-click on the photo present on track 1 and select the duration. Set the duration to 30 seconds. Once you have done that, you need to position the play head at the end of the video. On the left side of the screen, there is a menu that allows you to choose animations. Ensure that your **Zoom and Pan** tab is visible and active.
+
+The square you see in the Zoom-n-Pan tab should be dragged to the right, so it appears to be panning through the image while the photo moves toward the left. Here you will see a small arrow on track 1 on your timeline.
+
+At this point, all you need to do is drag that particular arrow to the left, so it spreads across the length of your video. Play the preview by pressing the space bar, and you will see the Ken Burns effect in motion.
+
+In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
+
+That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Step 1\. Import Your Images/Still Photos
@@ -93,6 +170,10 @@ Follow @Max Wales
 
 One of the most positive impacts generated by the Camtasia Ken Burns effect is that it enables your still photos to be used in a video as though they were a part of it. The effect is not only easy to understand but also quite user-friendly to apply. That is why it is often used by beginners and amateur YouTubers and content creators to add flair to their videos. Let's see how you can use the Camtasia Ken Burns effect.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## How to Make a Ken Burns Effect in Camtasia 9?
 
 You have to bear in mind that Camtasia 9 isn’t the easiest editing software to use, and you will have to go through multiple steps to add the Ken Burns effect.
@@ -111,6 +192,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -181,6 +266,9 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Step 1\. Import Your Images/Still Photos
@@ -205,70 +293,9 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Oct 26, 2023• Proven solutions
-
-**Ken Burns** is a documentary filmmaker who used this particular effect so much that it got named after him. The Ken Burns effect involves slow-paced zoom and pan over a still image to evoke a sense of movement, so the audience believes that they are watching a video and not just a slide show of still photos. There are many editing tools that can help you add the Ken Burns effect to your video and Camtasia 9 is one of them.
-
-One of the most positive impacts generated by the Camtasia Ken Burns effect is that it enables your still photos to be used in a video as though they were a part of it. The effect is not only easy to understand but also quite user-friendly to apply. That is why it is often used by beginners and amateur YouTubers and content creators to add flair to their videos. Let's see how you can use the Camtasia Ken Burns effect.
-
-## How to Make a Ken Burns Effect in Camtasia 9?
-
-You have to bear in mind that Camtasia 9 isn’t the easiest editing software to use, and you will have to go through multiple steps to add the Ken Burns effect.
-
-#### Step 1\. Open a New Project & Import Images
-
-The first step you need to take to add the Ken Burns effect to your video is to open a new project in Camtasia 9\. The next thing you have to do is import the images you want to use and add them to the Media Bin. This will enable you to work on the images and add the Ken Burns effect.
-
-#### Step 2\. Adding Camtasia Ken Burns Effect
-
-Now you need to right-click on the photo present on track 1 and select the duration. Set the duration to 30 seconds. Once you have done that, you need to position the play head at the end of the video. On the left side of the screen, there is a menu that allows you to choose animations. Ensure that your **Zoom and Pan** tab is visible and active.
-
-The square you see in the Zoom-n-Pan tab should be dragged to the right, so it appears to be panning through the image while the photo moves toward the left. Here you will see a small arrow on track 1 on your timeline.
-
-At this point, all you need to do is drag that particular arrow to the left, so it spreads across the length of your video. Play the preview by pressing the space bar, and you will see the Ken Burns effect in motion.
-
-In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
-
-## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
-
-That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### Step 1\. Import Your Images/Still Photos
-
-If you are looking to add the Ken Burns effect to your videos using Wondershare Filmora, the first step is to open the menu and import the video and photos you want to include in your video.
-
-Now drag all the visual content onto your timeline. After you have added photos and videos to the timeline, it is now time to add the Ken Burns effect to make your video look more engaging than ever.
-
-#### Step 2\. Applying the Ken Burns Effect
-
-You need to double-click on the photo or video present on your timeline. At this point, click on the animation tab and choose Preset. From here, add the pan and zoom preset to your video by dragging it onto your timeline or double-clicking on it. This will quickly add a Ken Burns effect to your video.
-
-If you want to have more control over how the Ken Burns effect appears on your video, or you want to make further adjustments, you can use the crop and zoom tool window that allows you to select the pan and zoom effect. From here, you have the option to adjust the size and position on your own relying on the start and end frames that give you more control over how to add the effect. This option is for those video editors and content creators who want a highly customized Ken Burns effect.
-
-#### Step 3\. Make Adjustments & Preview
-
-After you have added the Ken Burns effect to your video, you have the ability to preview the video by pressing the play button that is in the preview window. If you believe that the result is not exactly as you desired, you can once again go to the timeframes to make necessary changes and modifications.
-
-#### Step 4\. Save Your Video
-
-Once you are fully satisfied with the Ken Burns effect on your video, you can save and export the clip using the export button. You can export the video in a multitude of formats including MP4, WMV, AVI, MKV, MOV, GIF, and more. You can also upload your video directly to YouTube or Vimeo.
-
-Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -297,6 +324,8 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

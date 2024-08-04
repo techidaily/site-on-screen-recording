@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Recording Your Screen & Videos on Android\""
-date: 2024-05-20T07:23:47.703Z
-updated: 2024-05-21T07:23:47.703Z
+date: 2024-07-24T09:15:44.732Z
+updated: 2024-07-25T09:15:44.732Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Recording Your Screen & Videos on Android\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Recording Your Screen & Videos on Android\""
 keywords: "Android Screen Recorder,Mobile Video Capture,Android Screen Casting,Save Screen Android,Android Video Recording,Quick Android Screenshots,Android Screen Share"
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Recording Your Screen & Videos on Android
@@ -38,6 +38,9 @@ iPhone users that have [iOS 11 running on their devices can use built-in apps](h
 
 If you are looking for a recording software which also allows you to edit your video footage with plentiful video editing features, we recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * Add Markers to important points during recording
@@ -61,6 +64,9 @@ Open the Google Play application on your phone and search for the Lollipop Scree
 
 #### Step 2 Fine-tuning the settings
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder.jpg)
 
 Lollipop Screen Recorder features only three settings, that let you choose whether you want to shoot in Landscape or Portrait mode, change the resolution of the video recording and enable the audio recording feature.
@@ -69,6 +75,9 @@ It is important to pay attention to the size of the file you are producing, espe
 
 #### Step 3  Recording the screen of an Android device
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
 
 Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
@@ -79,6 +88,9 @@ After you tap on the icon a message will pop up on the screen informing you that
 
 The app's notification bar is going to be located at the top of the Smartphone's screen, during the screen recording session, so in order to stop recording you simply need to find the notification with the label 'Recording Screen' and press stop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-recorded-file.jpg)
 
 Go back to the Lollipop Screen Recorder and you'll be able to find the video file in the app's main window. You can play the video directly from the Lollipop Screen recorder or you can share it to your Gmail account directly from the app. If you don't like the screen recording you made, you can tap on the Delete button and start a new session.
@@ -91,10 +103,16 @@ _[Find out more video recorders for Android Phones and Tablets](https://tools.te
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
 
 Using an app to record the screen of your Android smartphone is just one method in which this task can be accomplished. Let's have a look at a few other methods that can also be used to record an Android Smartphone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Capture your Android screen with ADB
 
 This option is great in the event of app doesn’t work for you. Android SDK are available to download from [Android developer](http://developer.android.com/sdk/index.html). This feature allows you to record video via USB with the bundled Android Debug Bridge. To use this feature, your device should run on Android 4.4 or later.
@@ -103,12 +121,18 @@ Android Debug Bridge is a command-line utility that can control your Android Sma
 
 #### Step 1: Enabling the ADB
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
 
 Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
 
 #### Step 2: Connecting the Android Smartphone to a computer
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-confirm.jpg)
 
 Use the USB cable to connect your Android device to a computer, and before proceeding any further enable the USB Debugging and Developer features on your phone.
@@ -123,6 +147,9 @@ You should be able to see the terminal window on your computer's screen. Run tes
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
@@ -133,6 +160,9 @@ The session cannot be longer than three minutes, but if you want to stop recordi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Capture Android Screen on a Computer with Mirroring Software
 
 Both the methods I mentioned above require Android 4.1 (Jelly bean) or later on your device. That doesn’t necessarily mean that you can’t record video with older android devices.
@@ -152,6 +182,9 @@ Click on the Android Recorder button to stop the session, and once the screen ca
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Method 3: Capture Screen on Android with Capture Card
 
 Capture Cards are devices that enable you to record screens on a wide range of different devices including X-box or PS4\. Although they are frequently used to capture the gameplay of a video game, capture cards can also be used to capture a screen on an Android Smartphone.
@@ -242,6 +275,9 @@ _[Find out more video recorders for Android Phones and Tablets](https://tools.te
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
 
 Using an app to record the screen of your Android smartphone is just one method in which this task can be accomplished. Let's have a look at a few other methods that can also be used to record an Android Smartphone screen.
@@ -270,6 +306,9 @@ A pop-up message should appear on your Smartphone's screen asking you if you'd l
 
 You should be able to see the terminal window on your computer's screen. Run test commands just to be sure that everything works perfectly, but if everything is in order the terminal should look like this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
@@ -284,6 +323,9 @@ The session cannot be longer than three minutes, but if you want to stop recordi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Capture Android Screen on a Computer with Mirroring Software
 
 Both the methods I mentioned above require Android 4.1 (Jelly bean) or later on your device. That doesn’t necessarily mean that you can’t record video with older android devices.
@@ -371,6 +413,9 @@ It is important to pay attention to the size of the file you are producing, espe
 
 #### Step 3  Recording the screen of an Android device
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
 
 Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
@@ -393,6 +438,9 @@ _[Find out more video recorders for Android Phones and Tablets](https://tools.te
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
 
 Using an app to record the screen of your Android smartphone is just one method in which this task can be accomplished. Let's have a look at a few other methods that can also be used to record an Android Smartphone screen.
@@ -405,12 +453,18 @@ Android Debug Bridge is a command-line utility that can control your Android Sma
 
 #### Step 1: Enabling the ADB
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
 
 Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
 
 #### Step 2: Connecting the Android Smartphone to a computer
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-confirm.jpg)
 
 Use the USB cable to connect your Android device to a computer, and before proceeding any further enable the USB Debugging and Developer features on your phone.
@@ -421,10 +475,17 @@ A pop-up message should appear on your Smartphone's screen asking you if you'd l
 
 You should be able to see the terminal window on your computer's screen. Run test commands just to be sure that everything works perfectly, but if everything is in order the terminal should look like this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
@@ -435,6 +496,9 @@ The session cannot be longer than three minutes, but if you want to stop recordi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Capture Android Screen on a Computer with Mirroring Software
 
 Both the methods I mentioned above require Android 4.1 (Jelly bean) or later on your device. That doesn’t necessarily mean that you can’t record video with older android devices.
@@ -454,6 +518,9 @@ Click on the Android Recorder button to stop the session, and once the screen ca
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Capture Screen on Android with Capture Card
 
 Capture Cards are devices that enable you to record screens on a wide range of different devices including X-box or PS4\. Although they are frequently used to capture the gameplay of a video game, capture cards can also be used to capture a screen on an Android Smartphone.
@@ -532,6 +599,9 @@ After you tap on the icon a message will pop up on the screen informing you that
 
 The app's notification bar is going to be located at the top of the Smartphone's screen, during the screen recording session, so in order to stop recording you simply need to find the notification with the label 'Recording Screen' and press stop.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-recorded-file.jpg)
 
 Go back to the Lollipop Screen Recorder and you'll be able to find the video file in the app's main window. You can play the video directly from the Lollipop Screen recorder or you can share it to your Gmail account directly from the app. If you don't like the screen recording you made, you can tap on the Delete button and start a new session.
@@ -576,6 +646,9 @@ You should be able to see the terminal window on your computer's screen. Run tes
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
@@ -605,6 +678,9 @@ Click on the Android Recorder button to stop the session, and once the screen ca
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Capture Screen on Android with Capture Card
 
 Capture Cards are devices that enable you to record screens on a wide range of different devices including X-box or PS4\. Although they are frequently used to capture the gameplay of a video game, capture cards can also be used to capture a screen on an Android Smartphone.
@@ -617,6 +693,9 @@ What if this also doesn’t work for you? Don’t give up. You still stand a cha
 
 Sometimes you shouldn’t depend on installing apps. With the help of a ROM flasher, you can get a screen recorded included in your devices ROM. Therefore, if you already have a custom ROM running on your device, better to have a look if a screen recorder is installed. If so, it is a matter of activating it.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -645,6 +724,8 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

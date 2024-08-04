@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture"
-date: 2024-05-20T07:23:10.222Z
-updated: 2024-05-21T07:23:10.222Z
+date: 2024-07-24T08:51:18.391Z
+updated: 2024-07-25T08:51:18.391Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture"
 excerpt: "This Article Describes [New] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture"
 keywords: "Sims 4 Basics,Sims 4 Tips,Sims 4 Strategies,Sims 4 Techniques,Capturing in Sims 4,Mastering Sims 4 Play,Sims 4 Gameplay Guide"
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## The Ultimate Guide to Sims 4 Gameplay Capture
@@ -31,6 +31,10 @@ Way 4. [Use OBS to Record Sims 4](#part4)
 
 Way 5. [Use Windows Game Bar to Record Sims 4](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Way 1\. Record Sims 4 with the Built-in Recorder
 
 The easiest way to record Sims 4 gameplay is by using Sims 4 built-in recorder. However, you cannot record your gameplay continuously for hours. In fact, the recorder is designed to video few important moments in your gameplay. You can use hotkeys to record seamlessly. You can switch between different views easily and you can create a movie timeline in simple steps. Here are the steps on how to record Sims 4 gameplay for free.
@@ -63,6 +67,9 @@ Step 1: Start by downloading and installing Filmora. Launch Filmora and click on
 
 Step 2: Go to Record menu and click on Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 3: Select the recording screen size for recording Sims 4.
@@ -75,6 +82,10 @@ Step 4: Click on the Record button and you will get a few seconds to prepare you
 
 Step 5: Press F9 on your keyboard to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Bandicam to Record Sims 4
 
 Bandicam is a popular gameplay recording software and it is quite renowned in the gaming community. Even though it is a premium software, you have to pay one-time fee to get access to all advanced features. The software does not make the gameplay lag when it is recording in the background. You can capture Sims 4 gameplay at 4k resolution as well as 480 fps if available on your screen. Here are the steps on how to record Sims 4 gameplay on PC.
@@ -85,6 +96,9 @@ Step 1: Download and install Bandicam. Launch Bandicam and go to General and Vid
 
 Step 2: Go to Home tab and click on Game recording option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![customize sims4 recording area bandicam](https://images.wondershare.com/filmora/article-images/customize-sims-4-record-area-bandicam.jpg)
 
 Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
@@ -93,6 +107,9 @@ Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
 
 Step 4: If you want to stop recording, click on Stop button.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 4\. Use OBS to Record Sims 4
 
 Open Broadcaster Software is extremely popular among gamers who use the platform to live stream their gameplay. However, you can use OBS to record your gameplay and the same is applicable to recording Sims 4\. The software is available for free and there are advance settings and configurations available to record any gameplay. Here are the steps on how to record Sims 4 gameplay for free.
@@ -103,6 +120,9 @@ Step 2: Enter a label and click on OK button.
 
 Step 3: From Mode drop-down list, select Capture Any Fullscreen Application option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![record sims4 with obs](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 Step 4: Click on OK button and open Sims 4 on full screen. On OBS, you will see Sims 4 gameplay on the window.
@@ -149,6 +169,9 @@ Step 4: Use 5/6/7/8/9 to memorize the desired scene and press V key to start rec
 
 Step 5: Once you are done, press V key again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Record Sims 4 with Filmora Screen Recorder
 
 If you want to record your Sims 4 gameplay for hours, Sims 4 recorder is not suitable as you can record only for a few minutes. Besides, if you want to upload your recorded gameplay on YouTube, Twitch, and various such platforms, you need to record high-quality video and edit the recorded video like a professional, we recommend [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) \- Filmora. You can record Sims 4 gameplay as well as your webcam with audio if you want. Here are the steps on how to record Sims 4 gameplay for YouTube.
@@ -163,10 +186,16 @@ For macOS 10.12 or later
 
 Step 1: Start by downloading and installing Filmora. Launch Filmora and click on New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Go to Record menu and click on Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 3: Select the recording screen size for recording Sims 4.
@@ -185,6 +214,9 @@ Bandicam is a popular gameplay recording software and it is quite renowned in th
 
 Step 1: Download and install Bandicam. Launch Bandicam and go to General and Videos tab and get the configurations perfect.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run bandicam](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
 Step 2: Go to Home tab and click on Game recording option.
@@ -207,6 +239,10 @@ Step 2: Enter a label and click on OK button.
 
 Step 3: From Mode drop-down list, select Capture Any Fullscreen Application option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![record sims4 with obs](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 Step 4: Click on OK button and open Sims 4 on full screen. On OBS, you will see Sims 4 gameplay on the window.
@@ -219,6 +255,9 @@ If you do not want to install any external software to record Sims 4 but you are
 
 Step 1: Press Windows + G keys together to open Windows Game Bar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![winodws 10 game bar capture](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 2: Open Sims 4 game and to start recording, press Windows + Alt + R keys together to start recording.
@@ -253,6 +292,9 @@ Step 4: Use 5/6/7/8/9 to memorize the desired scene and press V key to start rec
 
 Step 5: Once you are done, press V key again.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 2\. Record Sims 4 with Filmora Screen Recorder
 
 If you want to record your Sims 4 gameplay for hours, Sims 4 recorder is not suitable as you can record only for a few minutes. Besides, if you want to upload your recorded gameplay on YouTube, Twitch, and various such platforms, you need to record high-quality video and edit the recorded video like a professional, we recommend [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) \- Filmora. You can record Sims 4 gameplay as well as your webcam with audio if you want. Here are the steps on how to record Sims 4 gameplay for YouTube.
@@ -267,6 +309,9 @@ For macOS 10.12 or later
 
 Step 1: Start by downloading and installing Filmora. Launch Filmora and click on New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Go to Record menu and click on Record PC Screen option.
@@ -275,14 +320,23 @@ Step 2: Go to Record menu and click on Record PC Screen option.
 
 Step 3: Select the recording screen size for recording Sims 4.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sims4 recording area filmora](https://images.wondershare.com/filmora/article-images/select-recording-area-sims4-filmora.jpg)
 
 Step 4: Click on the Record button and you will get a few seconds to prepare your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![recording sims 4 with filmora](https://images.wondershare.com/filmora/article-images/start-recording-sims4-with-filmora.jpg)
 
 Step 5: Press F9 on your keyboard to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Bandicam to Record Sims 4
 
 Bandicam is a popular gameplay recording software and it is quite renowned in the gaming community. Even though it is a premium software, you have to pay one-time fee to get access to all advanced features. The software does not make the gameplay lag when it is recording in the background. You can capture Sims 4 gameplay at 4k resolution as well as 480 fps if available on your screen. Here are the steps on how to record Sims 4 gameplay on PC.
@@ -297,6 +351,9 @@ Step 2: Go to Home tab and click on Game recording option.
 
 Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recording sims4 with bandicam](https://images.wondershare.com/filmora/article-images/recording-sims4-with-bandicam.jpg)
 
 Step 4: If you want to stop recording, click on Stop button.
@@ -311,6 +368,9 @@ Step 2: Enter a label and click on OK button.
 
 Step 3: From Mode drop-down list, select Capture Any Fullscreen Application option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record sims4 with obs](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 Step 4: Click on OK button and open Sims 4 on full screen. On OBS, you will see Sims 4 gameplay on the window.
@@ -323,6 +383,10 @@ If you do not want to install any external software to record Sims 4 but you are
 
 Step 1: Press Windows + G keys together to open Windows Game Bar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![winodws 10 game bar capture](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 2: Open Sims 4 game and to start recording, press Windows + Alt + R keys together to start recording.
@@ -331,6 +395,9 @@ Step 3: To stop recording, press Windows + Alt + R again.
 
 Step 4: Go to Wigets > Gallery to check out the recorded video.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are an avid player of Sims 4, you should record your gameplay and upload on online platforms such as YouTube. If your gameplay is interesting, you can get traction from online viewers. We have stated all the possible ways on how to record Sims 4 gameplay on PC. We recommend Wondershare Filmora as it is a professional tool to record gameplay as well as edit as per requirements.
@@ -357,6 +424,10 @@ Step 4: Use 5/6/7/8/9 to memorize the desired scene and press V key to start rec
 
 Step 5: Once you are done, press V key again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Way 2\. Record Sims 4 with Filmora Screen Recorder
 
 If you want to record your Sims 4 gameplay for hours, Sims 4 recorder is not suitable as you can record only for a few minutes. Besides, if you want to upload your recorded gameplay on YouTube, Twitch, and various such platforms, you need to record high-quality video and edit the recorded video like a professional, we recommend [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) \- Filmora. You can record Sims 4 gameplay as well as your webcam with audio if you want. Here are the steps on how to record Sims 4 gameplay for YouTube.
@@ -387,6 +458,9 @@ Step 4: Click on the Record button and you will get a few seconds to prepare you
 
 Step 5: Press F9 on your keyboard to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Bandicam to Record Sims 4
 
 Bandicam is a popular gameplay recording software and it is quite renowned in the gaming community. Even though it is a premium software, you have to pay one-time fee to get access to all advanced features. The software does not make the gameplay lag when it is recording in the background. You can capture Sims 4 gameplay at 4k resolution as well as 480 fps if available on your screen. Here are the steps on how to record Sims 4 gameplay on PC.
@@ -405,6 +479,9 @@ Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
 
 Step 4: If you want to stop recording, click on Stop button.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Way 4\. Use OBS to Record Sims 4
 
 Open Broadcaster Software is extremely popular among gamers who use the platform to live stream their gameplay. However, you can use OBS to record your gameplay and the same is applicable to recording Sims 4\. The software is available for free and there are advance settings and configurations available to record any gameplay. Here are the steps on how to record Sims 4 gameplay for free.
@@ -415,18 +492,27 @@ Step 2: Enter a label and click on OK button.
 
 Step 3: From Mode drop-down list, select Capture Any Fullscreen Application option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![record sims4 with obs](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 Step 4: Click on OK button and open Sims 4 on full screen. On OBS, you will see Sims 4 gameplay on the window.
 
 Step 5: Click on Start Recording button on OBS and go back to Sims 4 and start playing and the recording will be there in the background.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 5\. Use Windows Game Bar to Record Sims 4
 
 If you do not want to install any external software to record Sims 4 but you are looking for a better alternative to Sims 4 built-in recorder, Windows Game Bar is a great option. Windows Game Bar comes pre-installed on Windows 10 and you can capture any gameplay and take screenshots as required. Here are the steps on how to record Sims 4 gameplay for free.
 
 Step 1: Press Windows + G keys together to open Windows Game Bar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![winodws 10 game bar capture](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 2: Open Sims 4 game and to start recording, press Windows + Alt + R keys together to start recording.
@@ -435,6 +521,9 @@ Step 3: To stop recording, press Windows + Alt + R again.
 
 Step 4: Go to Wigets > Gallery to check out the recorded video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are an avid player of Sims 4, you should record your gameplay and upload on online platforms such as YouTube. If your gameplay is interesting, you can get traction from online viewers. We have stated all the possible ways on how to record Sims 4 gameplay on PC. We recommend Wondershare Filmora as it is a professional tool to record gameplay as well as edit as per requirements.
@@ -459,6 +548,8 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

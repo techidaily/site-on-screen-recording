@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Top 10 Games Like GTA V\""
-date: 2024-05-20T07:23:30.819Z
-updated: 2024-05-21T07:23:30.820Z
+date: 2024-07-24T09:04:18.163Z
+updated: 2024-07-25T09:04:18.163Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Top 10 Games Like GTA V\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Top 10 Games Like GTA V\""
 keywords: "\"Slidecast Tech 2023,Future Slidecasts,Innovate Slidecast,Slideshow Cams 2023,Creative Cam Slide,Modern Slidecasting,Camera-Based Slides\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Urban Escapades: Top 10 Games Akin to GTA V
 
 Understandably, you may be looking for other games like GTA if you've enjoyed being in Los Santos and Blaine County, but find that things are getting stale. Despite Rockstar's continued tease of GTA 6, most of us have already experienced that world since 2013\. We've collected a few of our favorite GTA-inspired substitutes for you to enjoy in the meantime. We've compiled 10 games like GTA V to keep you occupied until we find out what's next for the series.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Red Dead Redemption 2
 
 ![red-dead-redemption-2-poster](https://images.wondershare.com/filmora/article-images/red-dead-redemption-2-poster.jpg)
@@ -37,6 +40,9 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
@@ -57,6 +63,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
@@ -95,6 +104,9 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
@@ -115,6 +127,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 ### 6.Yakuza 0
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
@@ -131,8 +146,14 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -149,8 +170,14 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
@@ -171,6 +198,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 ### 9.Mafia: Definitive Edition
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
@@ -225,8 +255,14 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
@@ -247,6 +283,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ### 3.Watch Dogs 2
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
@@ -265,6 +304,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ### 4.Saints Row: The Third
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
@@ -339,6 +381,9 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 ### 8.The Saboteur
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
@@ -357,6 +402,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
@@ -377,6 +425,10 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -413,8 +465,14 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
@@ -435,6 +493,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ### 3.Watch Dogs 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
@@ -471,8 +532,14 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -491,6 +558,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 ### 6.Yakuza 0
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
@@ -509,6 +579,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -525,6 +598,9 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
@@ -547,6 +623,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 ### 9.Mafia: Definitive Edition
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
@@ -565,6 +644,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -583,6 +665,9 @@ In the franchise's history, Grand Theft Auto IV was the first game to have onlin
 
 • Independence FM provides custom in-game music.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## **Final Verdict**
 
 So, this was our list of 10 best games like GTA 5\. We tried our best to keep those titles in this list that are closely related to GTA 5 and offers similar gameplay experience. Although the dynamics of these games will be different compared to GTA 5, you will enjoy the gameplay.
@@ -601,6 +686,9 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
@@ -621,6 +709,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
@@ -641,6 +732,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ### 4.Saints Row: The Third
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
@@ -661,6 +755,9 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -697,6 +794,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -713,8 +813,14 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
@@ -755,6 +861,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 ### 10.Grand Theft Auto IV
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
@@ -795,6 +904,8 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

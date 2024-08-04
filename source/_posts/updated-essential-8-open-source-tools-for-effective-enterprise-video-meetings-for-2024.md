@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024"
-date: 2024-05-20T07:23:15.847Z
-updated: 2024-05-21T07:23:15.847Z
+date: 2024-07-24T08:54:19.942Z
+updated: 2024-07-25T08:54:19.942Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,17 @@ categories:
 description: "This Article Describes [Updated] Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024"
 excerpt: "This Article Describes [Updated] Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024"
 keywords: "\"Video Meeting Essentials,Open Source Video Tools,Enterprise Meeting Software,Effective Video Conferencing,Open-Source Collaboration,Streamlined Video Tech,Open Source Communicators\""
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Essential 8 Open Source Tools for Effective Enterprise Video Meetings
 
 # 8 Best Open Source Video Conferencing Software for Enterprise
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -33,8 +37,14 @@ thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/fi
 
  In this article, we will look at the ten best open source video conferencing software suitable for enterprises.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 10 Best Open Source Meeting Software
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [Jitsi](https://jitsi.org/)
 
 **Price:** Free
@@ -49,6 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/fi
 
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
 
 **Price:** There are several pricing plans for Bitrix24 as follows:
@@ -65,8 +78,14 @@ thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/fi
 * It supports free and unlimited audio/video calls.
 * It supports mobile video conferencing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Bitrix24](https://images.wondershare.com/filmora/article-images/bitrix24.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Rocket.Chat](https://rocket.chat/)
 
 **Price:**
@@ -112,6 +131,10 @@ thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/fi
 
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 6\. [Livestorm](https://livestorm.co/)
 
 **Price:**
@@ -162,6 +185,9 @@ thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/fi
 * You can customize notifications and set alerts.
 * It has modern apps for several platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Zulipchat](https://images.wondershare.com/filmora/article-images/zulipchat.JPG)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -184,6 +210,13 @@ Follow @Richard Bennett
 
  In this article, we will look at the ten best open source video conferencing software suitable for enterprises.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 10 Best Open Source Meeting Software
 
 ### 1\. [Jitsi](https://jitsi.org/)
@@ -198,6 +231,9 @@ Follow @Richard Bennett
 * It offers better quality and lower latency.
 * It supports advanced video routing for scalable video coding, bandwidth estimation, and simulcast, among others.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
@@ -233,6 +269,9 @@ Follow @Richard Bennett
 * It offers free audio and video conferencing.
 * It supports screen sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
 ### 4\. [Riot](https://about.riot.im/)
@@ -249,6 +288,9 @@ Follow @Richard Bennett
 
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
 
 **Price:** Free
@@ -279,6 +321,13 @@ Follow @Richard Bennett
 * It allows online video meetings via instant and scheduled meetings.
 * Users can share screens, videos, and presentations in HD with their members.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
 ### 7\. [OpenVidu](https://openvidu.io/)
@@ -298,6 +347,9 @@ Follow @Richard Bennett
 
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
 
 **Price:**
@@ -315,6 +367,9 @@ Follow @Richard Bennett
 
 ![Zulipchat](https://images.wondershare.com/filmora/article-images/zulipchat.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -351,6 +406,9 @@ Follow @Richard Bennett
 
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
 
 **Price:** There are several pricing plans for Bitrix24 as follows:
@@ -386,6 +444,9 @@ Follow @Richard Bennett
 
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Riot](https://about.riot.im/)
 
 **Price:** Free
@@ -398,6 +459,9 @@ Follow @Richard Bennett
 * It supports both video and audio calls and conferences.
 * It supports file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
@@ -414,6 +478,9 @@ Follow @Richard Bennett
 
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. [Livestorm](https://livestorm.co/)
 
 **Price:**
@@ -430,8 +497,14 @@ Follow @Richard Bennett
 * It allows online video meetings via instant and scheduled meetings.
 * Users can share screens, videos, and presentations in HD with their members.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. [OpenVidu](https://openvidu.io/)
 
 **Price:**
@@ -447,8 +520,14 @@ Follow @Richard Bennett
 * Offers unlimited video call recording using predefined layouts.
 * It supports screen sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
 
 **Price:**
@@ -464,8 +543,14 @@ Follow @Richard Bennett
 * You can customize notifications and set alerts.
 * It has modern apps for several platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Zulipchat](https://images.wondershare.com/filmora/article-images/zulipchat.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -486,8 +571,14 @@ Follow @Richard Bennett
 
  In this article, we will look at the ten best open source video conferencing software suitable for enterprises.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 10 Best Open Source Meeting Software
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [Jitsi](https://jitsi.org/)
 
 **Price:** Free
@@ -500,6 +591,10 @@ Follow @Richard Bennett
 * It offers better quality and lower latency.
 * It supports advanced video routing for scalable video coding, bandwidth estimation, and simulcast, among others.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
@@ -537,6 +632,9 @@ Follow @Richard Bennett
 
 ![Rocket.Chat](https://images.wondershare.com/filmora/article-images/rocketchat.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Riot](https://about.riot.im/)
 
 **Price:** Free
@@ -549,6 +647,9 @@ Follow @Richard Bennett
 * It supports both video and audio calls and conferences.
 * It supports file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
@@ -563,6 +664,9 @@ Follow @Richard Bennett
 * It offers a meeting recording and screen sharing feature.
 * It has a moderating system that allows the moderator to adjust individual user permissions during a conference.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
 ### 6\. [Livestorm](https://livestorm.co/)
@@ -583,6 +687,14 @@ Follow @Richard Bennett
 
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. [OpenVidu](https://openvidu.io/)
 
 **Price:**
@@ -598,6 +710,9 @@ Follow @Richard Bennett
 * Offers unlimited video call recording using predefined layouts.
 * It supports screen sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
 
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
@@ -645,6 +760,8 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

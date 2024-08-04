@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Fix OBS Camera Not Working"
-date: 2024-05-20T07:23:49.550Z
-updated: 2024-05-21T07:23:49.550Z
+date: 2024-07-24T09:16:49.584Z
+updated: 2024-07-25T09:16:49.584Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Fix OBS Camera Not Working"
 excerpt: "This Article Describes [New] How to Fix OBS Camera Not Working"
 keywords: "OBS Camera Troubleshooting,Resolve OBS Cam Issue,OBS Camera Fix Guide,Stop OBS Cam Error,Reconnect OBS Video,Fixing OBS Video Lag,Troubleshoot OBS Cam Not Working"
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## How to Fix OBS Camera Not Working
@@ -21,6 +21,9 @@ Open Broadcaster Software (OBS) is a free tool that enables you to broadcast mus
 
 Assuming you are a post for freeware that can do screen recording properly and profitably, an OBS screen recorder is warmly encouraged. Even better, its outstanding ability is to cope with live spillage by supporting numerous popular web-based features. In video conferencing software like Skype, Zoom, Teams, Google Meet, or Facebook Messenger Rooms, you may notice a video source issue labeled "OBS camera not showing" in the OBS Studio. And you may question what it is and how to utilize the virtual camera Virtually every streamer around the world knows about OBS (Open Broadcaster Software), a free open-sourced streaming and recording application. That being said, users of OBS still run into a handful of technical troubles from time to time and the "OBS camera not working" issue is a classic example. So OBS appears to fail to pick up your camera all of a sudden and you don't know what to do to fix it? Then you have arrived in the correct spot as down below, you will discover some of the most common solutions to the problem of "OBS camera stops working" presently.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Update to the Newest Windows Version
 
 Regularly upgrading drivers and the newest versions of Windows can cure most issues on your computer, including OBS difficulties.
@@ -35,10 +38,16 @@ Step 1: First, open the Device Manager window.
 
 Step 2: Find and right-click your camera in the list, choose Uninstall, then unplug the webcam from the computer. Wait a bit and reconnect the camera to the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![device manager](https://images.wondershare.com/filmora/article-images/device-manager.jpg)
 
 Step 3: Also, you may upgrade the camera driver from Device Manager by locating and right-clicking on the webcam, then choosing Update Driver then restarting your computer and checking if the issue remains.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Method 3: Fix Webcam Problem with OBS Not Functioning
 
 There are several reasons why you may be seeing a blank screen where you expect to see your video feed - it could be a permissions problem, a software conflict, or a simple settings error on the website or app. As long as the camera isn't physically damaged or malfunctioning, your difficulties may be quickly remedied by following a few easy troubleshooting procedures. In case other programs are utilizing the camera and producing the webcam not functioning issue on OBS.
@@ -57,6 +66,9 @@ Step 3: Check the options Deactivate When Not Showing. Perform the same processe
 
 If the webcam is still not functioning on OBS, visit the webcam settings by completing the same steps before and tweak items like camera resolution, FPS, video format, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Method 5: Add Your Webcam as A Source
 
 At the moment everything is set to default and you could notice your camera looks softer than it should and also cropped. Once you're pleased with your choices, press Configure Video and this will bring up your camera's attributes and settings. What you'll have accessible to you can depend on your camera, but you'll also have access to things like brightness, contrast, sharpness, and so on. Add your camera as a source and then right-click and pick Properties.
@@ -81,6 +93,9 @@ Step 1: Install and Launch the Software
 
 To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Setup Webcam Recording
@@ -93,6 +108,10 @@ Step 3: Start Recording
 
 To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 4: Save Webcam Recordings
@@ -117,12 +136,18 @@ Step 2: Setup Webcam Recording
 
 To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 3: Start Recording
 
 To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 4: Save Webcam Recordings
@@ -141,6 +166,10 @@ Step 1: Install and Launch the Software
 
 To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Setup Webcam Recording
@@ -159,6 +188,9 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -177,6 +209,9 @@ Step 2: Setup Webcam Recording
 
 To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 3: Start Recording
@@ -189,6 +224,9 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -213,6 +251,8 @@ OBS Studio is especially popular in the gaming community since it helps you crea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Guide to Screen Capture on Laptops and ChromeOS"
-date: 2024-05-20T07:23:57.921Z
-updated: 2024-05-21T07:23:57.921Z
+date: 2024-07-24T09:22:26.848Z
+updated: 2024-07-25T09:22:26.848Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Quick Guide to Screen Capture on Laptops and ChromeOS"
 excerpt: "This Article Describes [New] Quick Guide to Screen Capture on Laptops and ChromeOS"
 keywords: "Laptop Screen Capture Guide,Chromebook Screenshots,Chrome OS Capture Tips,Easy Laptop Capturing,Quick Laptop Shot Techniques,Laptop Image Saving Steps,ChromeOS Screen Snaps"
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Quick Guide to Screen Capture on Laptops and ChromeOS
@@ -29,6 +29,9 @@ Most of us now take webcams for granted. Yet, webcams are fantastic tools that h
 
 In this article, we will help you navigate these issues and learn how to record video on HP laptops running on Windows 7 and Chromebooks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -46,6 +49,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## How to Use the HP Laptop Webcam to Record Video?
@@ -80,6 +86,9 @@ Click **OK** to save the adjustments and continue.
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
@@ -88,6 +97,10 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## How to Record Video on HP Chromebooks?
@@ -134,6 +147,9 @@ Most of us now take webcams for granted. Yet, webcams are fantastic tools that h
 
 In this article, we will help you navigate these issues and learn how to record video on HP laptops running on Windows 7 and Chromebooks.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -151,6 +167,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## How to Use the HP Laptop Webcam to Record Video?
@@ -179,6 +198,10 @@ Using the **Zoom Function Settings,** you can use **Face Tracking** to automatic
 
 Click **OK** to save the adjustments and continue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![hp-webcam-recorder-zoom.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-zoom.jpg)
 
 #### 4.Add Effects and Filters
@@ -193,8 +216,14 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## How to Record Video on HP Chromebooks?
 
 [Chromebook](https://tools.techidaily.com/wondershare/filmora/download/) have become increasingly popular over recent years. Google’s low-cost laptops have even come to dominate the education market in the US. Unfortunately, Chromebooks do not come with a pre-installed application for recording or streaming video. If you are using an HP Chromebook and want to record video you must visit the [Chrome Web Store](https://chrome.google.com/webstore/unsupported) and download a screen recording app. Now, here are a lot of potential apps to choose from. However, we recommend using [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder).
@@ -239,6 +268,9 @@ Most of us now take webcams for granted. Yet, webcams are fantastic tools that h
 
 In this article, we will help you navigate these issues and learn how to record video on HP laptops running on Windows 7 and Chromebooks.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -256,8 +288,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the HP Laptop Webcam to Record Video?
 
 To use the webcam built-in HP laptop, you need to make sure that you have the HP MediaSmart Software installed as well as the latest webcam driver.
@@ -274,6 +312,9 @@ Adjust the webcam settings by selecting **Settings** on the right-hand side of t
 
 You can also use the **Advanced Settings** tab to make further adjustments. After you have made all your adjustments, click **OK** to save your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
 
 #### 3. Record Webcam Videos
@@ -290,6 +331,9 @@ Click **OK** to save the adjustments and continue.
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
@@ -298,6 +342,9 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## How to Record Video on HP Chromebooks?
@@ -328,6 +375,9 @@ Screencast-O-Matic have [a selection of other tutorials which can be accessed he
 
 To recap, if you are running an HP laptop on Windows 7, you will need to download the latest MediaSmart software to record videos for better experience. If you have an HP Chromebook, you will need to download a screen recording app from the Chrome Web Store.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -361,6 +411,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## How to Use the HP Laptop Webcam to Record Video?
@@ -395,6 +448,9 @@ Click **OK** to save the adjustments and continue.
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
@@ -403,6 +459,10 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## How to Record Video on HP Chromebooks?
@@ -461,6 +521,8 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
 
 
 
