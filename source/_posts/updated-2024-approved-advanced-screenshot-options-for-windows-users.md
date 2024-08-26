@@ -1,0 +1,190 @@
+---
+title: "\"[Updated] 2024 Approved  Advanced Screenshot Options for Windows Users\""
+date: 2024-08-25T03:23:22.747Z
+updated: 2024-08-26T03:23:22.747Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] 2024 Approved: Advanced Screenshot Options for Windows Users\""
+excerpt: "\"This Article Describes [Updated] 2024 Approved: Advanced Screenshot Options for Windows Users\""
+keywords: "\"Win Screenshot Tools,Windows Capture Features,Advanced Windows ImgCapture,ScreenSave Windows Techniques,Extended Windows Snapshot,WinSnapPro Tools,High-End Windows Captures\""
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
+---
+
+## Advanced Screenshot Options for Windows Users
+
+# How To Record Your Screen On Windows 8
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+There can be many reasons as to why you need to record computer screen on your Windows 8 PC. Whether you want to record your screen for revision purposes, whether you want to have a particular video or movie on your computer save list, or even if you are the proud owner of a gaming page on YouTube and need to record your gameplay. Recording your screen on Windows 8 does not need to be something that is difficult. And there are extensions and softwares in place to aid you in recording on Windows 8.
+
+* [Part 1: Use Advanced Software For Pro Recorders](#part1)
+* [Part 2: Use Build-in Steps Recorder on Windows 8](#part2)
+* [Part 3: Use Free Chrome Extension](#part3)
+* [Part 4: Use Free Recording Software](#part4)
+
+---
+
+## Part 1: Use Advanced Software For Pro Recorders
+
+Filmora is an editing tool for professional [video recorders](https://tools.techidaily.com/wondershare/filmora/download/) and editors. Voted 4 out of 5 stars it can be used as a brilliant alternative editing software to Windows Movie Maker and iMovie for those on Macs. As a user of Filmora Wondershare there is no doubt that you will be impressed with the number of functions that are available with the software and also the general capability of it.
+
+In terms of what videos you can import and edit etc. On its newest release of Filmora, it will no longer just be a video editor but it will have a screen recording function added to it as well, as well as a video stabiliser and reverse tool. Best thing about this is current users of the software will be able to download this update complete free of charge. So, how could this function be used?
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
+
+![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+ **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
+
+![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+ **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
+
+## Part 2: How to Record Screen with Steps Recorder on Windows 8
+
+If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
+
+**Step 1**: Press **Start** button on keyboard, and then click **Accessories** \> **Problem Steps Recorder** \> **Start Record** on Windows 8.
+
+**Step 2**: Now, start doing what you want to be recorded. During recording, you can choose **Add Comment** to input texts. Then click **OK**.
+
+![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
+
+**Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: Use Free Chrome Extension
+
+[Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
+
+They have done something for their user base in the form of removing all in-app purchases and making all features including those that were previously premium features. Free for all to use on Windows 8.
+
+Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
+
+![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+Steps to download and use it to record computer screen:
+
+ **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
+
+ **Step 2:**  Capture your video - You can decide what section of the screen if not the whole screen. Supports both PNG and horizontal scrolling, can capture desktop screen.
+
+ **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
+
+ **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+## Part 4: Use Free Recording Software
+
+Ezvid Free Screen Recorders (<https://www.ezvid.com/>) is one of the best free screen recording software on Windows 8\. Ezvid records computer screens but not just websites but games and everything else you may want to record. It has very many features that include a facecam, voice synthesis and screen drawing.
+
+Below is the tutorial video on how to record computer screen:
+
+Here's the stpes:
+
+ **Step 1:**  Download and Install Ezvid Free Screen Recorders latest version on Windows 8\. Open the software.
+
+ **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
+
+![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+ **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
+
+ **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-flipping-the-script-how-to-revamp-your-tiktok-username-effectively/"><u>[New] 2024 Approved  Flipping the Script  How to Revamp Your TikTok Username Effectively</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-no-flair-just-facts-dissecting-recordcast/"><u>[New] 2024 Approved  No Flair, Just Facts  Dissecting RecordCast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-can-you-store-high-quality-videos-in-128gb/"><u>[New] Can You Store High-Quality Videos in 128Gb?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-calendar-integration-for-efficient-google-meets/"><u>[New] In 2024, Calendar Integration for Efficient Google Meets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-to-your-personal-youtube-collection/"><u>[New] In 2024, Navigating to Your Personal YouTube Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-windows-10-storage-guide-how-to-save-and-organize-mov/"><u>[New] In 2024, Windows 10 Storage Guide  How to Save and Organize .mov</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-minimagic-mugger-assessment-and-opinions-for-2024/"><u>[New] Minimagic Mugger Assessment & Opinions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-techs-compilation-browsers-with-the-best-snapshot-capabilities-for-2024/"><u>[New] Top Tech's Compilation  Browsers with the Best Snapshot Capabilities for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-apex-4k-screen-recorder-options-analysis/"><u>[Updated] 2024 Approved  Apex 4K Screen Recorder Options Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-discovering-linuxs-top-screenshots-tools/"><u>[Updated] 2024 Approved  Discovering Linux's Top Screenshots Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>[Updated] 2024 Approved  Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>[Updated] 2024 Approved  High Definition Recording  Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-stream-control-showdown-is-obs-best-over-twitch-studio/"><u>[Updated] 2024 Approved  Stream Control Showdown  Is OBS Best over Twitch Studio?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-recording-companion-az-tests-and-alternatives/"><u>[Updated] 2024 Approved  Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-the-impact-of-your-instagram-videos/"><u>[Updated] Elevating the Impact of Your Instagram Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[Updated] Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-6-figure-success-starts-with-smart-hashtagging/"><u>[Updated] In 2024, 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>[Updated] In 2024, Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pixelpilot-video-snapshot/"><u>[Updated] In 2024, PixelPilot Video Snapshot</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-slow-motion-instagram-a-reel-guide/"><u>[Updated] Mastering Slow-Motion Instagram  A Reel Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quickvision-w11-simple-desktop-capture-tool-for-2024/"><u>[Updated] QuickVision W11  Simple Desktop Capture Tool for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-essential-guide-to-win10s-video-grabbing-software-for-2024/"><u>[Updated] The Essential Guide to Win10's Video Grabbing Software for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>[Updated] The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-of-adobe-presenters-video-features-for-2024/"><u>[Updated] Unlocking the Potential of Adobe Presenter's Video Features for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vintage-track-simulators-the-quintet-for-2024/"><u>[Updated] Vintage Track Simulators  The Quintet for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-choosing-the-finest-webcams-our-expert-guide/"><u>2024 Approved  Choosing the Finest Webcams - Our Expert Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-collage-manual-tips-and-tricks/"><u>2024 Approved  Complete Collage Manual  Tips and Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-god-of-war-ragnarok-release-date/"><u>2024 Approved  God of War Ragnarok Release Date</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-harmony-hub-tech-evolution/"><u>2024 Approved  Harmony Hub  Tech Evolution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-logitech-4k-pro-webcam-a-comprehensive-overview/"><u>2024 Approved  Logitech 4K Pro Webcam - A Comprehensive Overview</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-low-cost-hardware-obs-optimization-tips/"><u>2024 Approved  Low-Cost Hardware  OBS Optimization Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>2024 Approved  Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-best-chatgpt-extensions-for-vs-code/"><u>6 Best ChatGPT Extensions for VS Code</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/clayton-c-peddy-leading-abbyy-as-the-esteemed-chief-information-security-officer/"><u>Clayton C. Peddy: Leading ABBYY as the Esteemed Chief Information Security Officer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-5-live-stream-video-recorders-for-remote-sessions/"><u>Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harmonyhook-screen-recordings-a-review-for-2024/"><u>HarmonyHook Screen Recordings  A Review for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-xr-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone XR Lock Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-extend-the-moment-filmmaking-in-iphone-slow-mo/"><u>In 2024, Extend the Moment  Filmmaking in iPhone Slow Mo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-windows-desktop-snapshot-learn-it-for-free-today/"><u>In 2024, Windows Desktop Snapshot  Learn It for Free Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premier-terraria-maps-to-maximize-mining-success/"><u>Premier Terraria Maps to Maximize Mining Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/strategies-to-outlast-your-competitors-in-snapping-for-2024/"><u>Strategies to Outlast Your Competitors in Snapping for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>The Ultimate Comparison  Top Screen Recorders, Focusing on Recmeister</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
