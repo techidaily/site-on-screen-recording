@@ -1,7 +1,7 @@
 ---
 title: "[New] RapidRun FrameFrozen Capture"
-date: 2024-08-29T21:37:52.605Z
-updated: 2024-08-30T21:37:52.605Z
+date: 2024-09-03T12:54:44.171Z
+updated: 2024-09-04T12:54:44.171Z
 tags: 
   - screen-recording
   - ai video
@@ -53,7 +53,7 @@ Let's look at the steps of recording **the iPhone's slow-motion camera.**
 After you are done recording some great slow-motion videos, it's time to edit them and turn those great videos into a masterpiece. By editing the videos, you can turn your videos unique and stand out. You can add filters, trim, crop, and change the speed. Now, let's see in detail how to use the editing features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1982456" src="//a.impactradius-go.com/gen-ad-code/5597632/1982456/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ### Changing the slow-motion to the regular speed
 
@@ -65,15 +65,15 @@ After you are done recording some great slow-motion videos, it's time to edit th
 
 ![change slow motion to regular](https://images.wondershare.com/filmora/article-images/change-slow-motion-to-regular-speed-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 **Step 4:** If you only want to change some SLO-MO parts to regular speed, then you must adjust the white line according to the part.
 
 **Step 5:** After you have adjusted the thing, you can tap on the "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Change the speed
 
@@ -88,7 +88,7 @@ After you are done recording some great slow-motion videos, it's time to edit th
 **Step 5:** Once satisfied with your video, choose the "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1983446" src="//a.impactradius-go.com/gen-ad-code/5597632/1983446/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ### Straighten, crop, and Trimming the Slow-motion video
 
@@ -101,12 +101,21 @@ After you are done recording some great slow-motion videos, it's time to edit th
 ![trim slow motion video iphone](https://images.wondershare.com/filmora/article-images/trim-slow-motion-video-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 4:** You can also crop the videos by tapping on the crop icon and then dragging the borders for cropping the video to your desired size.
 
 **Step 5:** If satisfied with the results, tap on the "Done" option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adjust exposure, color, and contrast for the Slow-motion video
 
 **Step 1:** Select the video you wish to edit and tap on "Edit" in the Photos app. You will see various icons on the slider, which will help you change the entire video look.
@@ -119,6 +128,12 @@ After you are done recording some great slow-motion videos, it's time to edit th
 
 **Step 5:** Tap on the filter icon to add your favorite filters to your gallery. After you are done with everything, you can Tap on the "Done" option to save all the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs of Slow-Motion Video
 
  **How do you slow down a video on iPhone 13?**
@@ -137,9 +152,6 @@ Stop-motion is a filmmaking method that uses a succession of still images to mak
 
 Yes, slow motion is available in the front camera iPhone. However, this feature is only available in iPhone 11 or later models. iPhone 11 has introduced this fantastic feature and changed the whole selfie game, and the feature is known as “Slofie."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 iPhone offers various easy-to-use and creative tools and apps for producing innovative and fun slow-motion videos. One can even create slow-motion videos on back and front cameras if you have iPhone 11 or later models. Your inventiveness has no bounds when using these instruments. You can take part creatively and entertainingly to create your slow-mo movies that will stand out and make people happy by following a few basic and easy procedures.

@@ -1,7 +1,7 @@
 ---
 title: "[New] Precise Methods for Recording Your FaceTime Communication"
-date: 2024-08-29T21:33:32.915Z
-updated: 2024-08-30T21:33:32.915Z
+date: 2024-09-03T12:54:49.323Z
+updated: 2024-09-04T12:54:49.323Z
 tags: 
   - screen-recording
   - ai video
@@ -60,7 +60,10 @@ Step 2: Go to File> New Screen Recording option.
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 3: You can start recording anytime you want by pressing the Record button.
 
@@ -75,7 +78,10 @@ Step 5: Once you are done recording, press the Stop button.
 Step 6: You can go to File> Save option to save the recorded video file.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 3\. Use Wondershare Filmora Recorder
 
@@ -96,8 +102,7 @@ Step 2: Launch the application and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Step 3: Go to Record > Record PC Screen option.
 
@@ -105,28 +110,31 @@ Step 4: Set screen size as per FaceTime application window that you want to reco
 
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 5: Open FaceTime app and prepare for FaceTime call. Click on the Record button to start recording the screen.
 
 You will get a few buffer seconds to start your FaceTime call after which the recording will start.
 
 Step 6: Click on Stop button to stop recording whenever it is done.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Record FaceTime on iPhone
 
 There are many who ask the common question “Can you screen record FaceTime on iPhone?” The answer is yes and the steps are very easy if your iPhone has iOS 11 or higher. Otherwise, you can record your iPhone screen through your Mac as well. Here are the
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1976998" src="//a.impactradius-go.com/gen-ad-code/5597632/1976998/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Way 1\. iPhone Screen Recording Feature
 
 Most users make FaceTime calls from their iPhones. Recording FaceTime video calls has been an issue and finally, the issue is resolved by Apple as they have included an inbuilt screen recording feature from iOS 11 onwards. Therefore, if your iPhone runs on iOS 11 or above, you can record your FaceTime call with iPhone screen recording feature. Here are the steps to record FaceTime calls on iPhone.
 
 ![iphone screen recording](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 1: Go to Settings> Control Centre.
 
 Step 2: Enable Screen Recording option.
@@ -139,6 +147,9 @@ Step 5: Tap on Screen Recording icon. Start your FaceTime call and it will be re
 
 Once you are done, tap on Stop and the recorded video will be saved in iPhone Photos.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993652" src="//a.impactradius-go.com/gen-ad-code/5597632/1993652/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Way 2\. Record iPhone Screen Through Mac
 
 If your iPhone is running on an older version of iOS, you can still record your FaceTime video call with audio. For that, you need to connect your iPhone to your Mac and while you make the FaceTime call on your iPhone, it will be recorded through Mac. We will be using QuickTime Player on Mac to record your FaceTime call on iPhone. Here are the steps to follow rigorously.
@@ -149,9 +160,6 @@ Step 2: Open QuickTime on your Mac and go to File> New Movie Recording.
 
 ![new movie recording](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 Step 3: Click on Arrow icon beside Record button and under Camera section, select your iPhone. Your iPhone display should now be mirroring on Mac.
 
 ![mirror iphone to mac](https://images.wondershare.com/filmora/article-images/mirror-iphone-to-mac.jpg)
@@ -160,13 +168,13 @@ Step 4: Turn up the volume on QuickTime. Click on Record button to start recordi
 
 ![recording facetime iphone](https://images.wondershare.com/filmora/article-images/recording-facetime-iphone-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1531879" src="//a.impactradius-go.com/gen-ad-code/5597632/1531879/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step 5: Open FaceTime on iPhone and make the video call. Your video call is getting recorded on your mac through QuickTime.
 
 Step 6: Once you are done, click on Stop button to stop recording. Go to File> Save option to save the recording on your device storage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 Hopefully, you have the answer to your question “Can you record FaceTime on Mac or iPhone?” The steps to record FaceTime get easier when you have the latest macOS and iOS installed on your respective devices. This is because of the presence of inbuilt screen recording feature. For Mac, we recommend Filmora for flawless and high-quality FaceTime call recording. iPhone users can record their iPhone FaceTime screen through their Mac as well.

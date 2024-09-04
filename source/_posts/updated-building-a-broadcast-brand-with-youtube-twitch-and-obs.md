@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building a Broadcast Brand with YouTube, Twitch and OBS"
-date: 2024-08-29T21:34:57.159Z
-updated: 2024-08-30T21:34:57.159Z
+date: 2024-09-03T12:54:47.668Z
+updated: 2024-09-04T12:54:47.668Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ In all circumstances, you need to either produce a stream key in your account se
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1993650" src="//a.impactradius-go.com/gen-ad-code/5597632/1993650/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ### Step 2\. Installing and Setting OBS
 
@@ -44,6 +44,12 @@ OBS Studio is available for all main operating systems such as Windows, Mac OS, 
 
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
 
 Now that you're set up to the stream, the first step is to select your resolution, frame rate, and bitrate. The greater each of them, the more bandwidth and horsepower you'll require from your PC. If you've got a high-speed internet connection and a strong PC, then you can probably stream at 1080p60 at a high bitrate. But you also need to balance this with offering a stream that's not going to buffer like wild for your viewers who could be on poorer connections. Remember, if you're not a partner on Twitch, you won't have transcoding, thus the experience might be awful for viewers with sluggish connections.
@@ -53,7 +59,10 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4\. Adding Scene and Sources
 
@@ -61,6 +70,9 @@ A scene may be simply added in OBS by clicking on the addition symbol indicated 
 
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1531882" src="//a.impactradius-go.com/gen-ad-code/5597632/1531882/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Step 5\. Adding a Twitch Chat
 
 Adding your twitch chat to your broadcasts may help make your viewers feel more included by enabling them to see their message live on the screen. You may add your Twitch chat box to your live broadcast in OBS by utilizing the browser source. The best practice when employing a chat box is to make sure to have your visuals, displays, and overlays set up to accommodate it. Get the widget URL from your favorite provider and copy it to your clipboard. This is what you will be adding to your OBS sources to add the chat to your overlay. If you’re using Twitch, this will be provided to you once you pick your basic settings for your chat style and layout. In the “Sources” section of OBS, go to the “+” in the bottom left corner, and pick, “Browser” to create a new browser source window.
@@ -68,10 +80,13 @@ Adding your twitch chat to your broadcasts may help make your viewers feel more 
 ![twitch chat](https://images.wondershare.com/filmora/article-images/twitch-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe id="iframe_1374819" src="//a.impactradius-go.com/gen-ad-code/5597632/1374819/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## Part 3: Stream to YouTube with OBS
 
@@ -90,33 +105,21 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 ![go live](https://images.wondershare.com/filmora/article-images/go-live.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ****Step 4:** Now click Schedule Stream, and check to make sure that all the parameters are accurate and that the video is correctly labeled and described. When ready, choose Create Stream.
 
 ![schedule stream](https://images.wondershare.com/filmora/article-images/schedule-stream.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ****Link OBS to YouTube**
 
 ****Step 1:** Download OBS from the official website and install it like you would any other application. Run it as an administrator, and proceed into the Settings panel using the appropriate button situated in the lower right corner.
 
 ![link obs to youtube](https://images.wondershare.com/filmora/article-images/link-obs-to-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ****Step 2:** Go to the Stream tab using the left-hand menu and pick YouTube -RTMPS from the Service drop-down box.
 
 ****Step 3:** Click Audio on the left-hand menu. Each audio device on that page represents one possible audio source in your broadcast. If you want viewers to hear in-game or desktop audio, assign one of the Desktop Audio options to your system’s audio output. If you want your viewers to hear you, pick your microphone from the drop-down next to Mic/Auxiliary Audio.
@@ -125,10 +128,6 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ****Start Streaming**
 
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
@@ -136,7 +135,16 @@ With all of the aforementioned settings in place and your YouTube channel ready 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5: Conclusion
 

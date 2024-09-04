@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Optimal OBS Configurations for Thrifty Computers"
-date: 2024-08-29T21:39:44.481Z
-updated: 2024-08-30T21:39:44.481Z
+date: 2024-09-03T12:54:42.058Z
+updated: 2024-09-04T12:54:42.058Z
 tags: 
   - screen-recording
   - ai video
@@ -31,9 +31,6 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -43,7 +40,7 @@ Output tab, which is the resolution of the video that the people will watch. For
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1770776" src="//a.impactradius-go.com/gen-ad-code/5597632/1770776/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
@@ -53,15 +50,6 @@ Once you are done with the general video settings now it's time you should come 
 
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
 
 **Encoder:**
@@ -91,25 +79,37 @@ By default, the profile option is disabled and you should keep these settings as
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
 **Sample Rate and Channels:**
@@ -130,13 +130,16 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
@@ -144,7 +147,7 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1424527" src="//a.impactradius-go.com/gen-ad-code/5597632/1424527/16446" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
@@ -156,6 +159,9 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1374819" src="//a.impactradius-go.com/gen-ad-code/5597632/1374819/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.

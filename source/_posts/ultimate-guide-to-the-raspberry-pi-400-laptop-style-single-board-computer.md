@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer
-date: 2024-08-29T21:38:35.020Z
-updated: 2024-08-30T21:38:35.020Z
+date: 2024-09-03T12:54:43.384Z
+updated: 2024-09-04T12:54:43.384Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer
@@ -68,6 +68,9 @@ Andrew Hayward / Lifewire
 
  It was one of last year’s greatest new gadgets, and now Oculus has returned with a sequel. The Oculus Quest 2 is smaller and lighter, yet more powerful and with a much better screen—yet it costs $100 less than the original. How did that happen? Well, it’s not all great news, thanks to a couple of cost-cutting measures that you’ll feel and potentially see, but the end result is ultimately a better and more affordable device that serves as an ideal gateway into VR.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993650" src="//a.impactradius-go.com/gen-ad-code/5597632/1993650/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Design and Comfort: Compromises were made
 
  The Oculus Quest 2 sticks to the familiar modern VR playbook as a module that you strap onto your face to immerse yourself within its digital worlds but features some different material and construction choices than the original. Unfortunately, the design choices largely are not upgrades compared to the original headset
@@ -84,12 +87,14 @@ Andrew Hayward / Lifewire
 
 ![Oculus Rift 2](https://www.lifewire.com/thmb/JkgQv_Sk0ofSL0Sp-jKmqe84xak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-2-a7792535288542dba45c8bc32f882be2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Tracking and Controllers: Some improvements, some drawbacks
 
  The Oculus Quest 2 uses the same kind of “inside-out” tracking system that relies on four cameras on the visor to track the wireless controllers or even your hands, rather than relying on external tracking sensors as some PC-based systems do. Like the original, it works amazingly well, allowing for fluid, six-degrees-of-freedom movement in games and minimizing both initial setup and the time it takes to get going each session. It also means that you can use the Oculus Quest 2_anywhere_ without the need for any kind of external hardware or accessories.
@@ -98,9 +103,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Andrew Hayward / Lifewire
 
  But there is a potential loss for function and comfort with one other particular aspect of the headset itself: IPD adjustment. Inter-pupillary distance, or IPD, is the physical distance between your eyes, and a headset must account for it to effectively deliver clear, 3D experiences. On the original Quest, a physical slider let you precisely adjust the distance to match your own face. With the Quest 2, however, there are just three settings, and you can physically shift the placement of the lenses to choose the position that is closest to your own.
@@ -112,13 +114,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Oculus Quest 2](https://www.lifewire.com/thmb/gwWuuSfTzWNDoS45b-iG9qG32-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-4-27f169e7e71b4372a38e13332b7b1364.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setup Process: You’ll need a phone… and Facebook
 
  You should charge the Oculus Quest 2 out of the box, as the modest total battery life means a partially-charged headset isn’t going to last very long. You will need a[smartphone](https://www.lifewire.com/best-smartphones-4043781) , either Android or iPhone, and the free Oculus app to complete setup, as well. Once the headset has a good charge, begin setup from the mobile app and then follow the guided directions, which will involve putting on, adjusting, and getting familiar with the headset itself.
@@ -127,6 +129,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There’s one other potential hitch with the Oculus Quest 2 that wasn’t present with the original: the new headset_requires_ a[Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) and there’s no way around it. Facebook owns Oculus, and while the first Quest could be used simply with an Oculus account, the new one requires the social media account. For some, that may be a deal-breaker, given frustrations over privacy and the increasing role that Facebook plays in our society, so just know that going in.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993654" src="//a.impactradius-go.com/gen-ad-code/5597632/1993654/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Performance: It’s a big upgrade
 
  The original Oculus Quest did a fine job of delivering immersive VR experiences that didn’t feel compromised or significantly downgraded, even if it didn’t hit the same visual peaks as pricier, PC-powered headsets. And it was pretty amazing that the Quest did so with the Qualcomm Snapdragon 835 processor, a chip found in 2017’s flagship smartphones.
@@ -145,18 +150,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  I felt the Quest 2’s enhancements more prominently in some games over others. Laser sword-swinging music game Beat Saber, for example, ran well on the first headset and isn’t that different here—just smoother and clearer-looking. But with the online battle royale shooter Population: One, the cleaner-looking textures and more fluid performance helped mitigate some of the light motion sickness I felt playing on the first Quest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Sound Quality: Works fine without headphones
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Battery: You’ll get a couple hours
 
  Like the original headset, the Oculus Quest 2 is rated for 2-3 hours of usage on a full charge. For such a compact, standalone headset, I think that’s reasonable. You get a couple hours to play, and then you can take a breather and do other things while it charges.
@@ -165,12 +162,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/Ns2S3DQVema5UEDDSO8n3N7SC_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-7-0a0e40b6a3064fe7abc985f0900dbeff.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1495277" src="//a.impactradius-go.com/gen-ad-code/5597632/1495277/17189" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Software: Use the headset or connect to PC
 
  The headset’s own interface hasn’t changed much from the first Quest, taking place in a 3D home-like environment with floating menus that you can access via the motion controllers. It’s a pretty easy way to choose between your currently installed games and apps, install anything else in your library, purchase and download new content, and access video content including apps like Netflix, YouTube, and SlingTV.
@@ -187,6 +183,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Games: A good, growing selection
 
  Although those aforementioned games and some others are still only found on PC (or maybe PlayStation VR on the PlayStation 4 or 5), the Oculus Quest platform has amassed a very nice selection of native games that you can download and play right on the headset.There is no difference in compatibility between the headsets: all Quest games play on Quest 2 and vice versa, just with performance differences.
@@ -201,15 +203,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: It’s an amazing value
 
  The Oculus Quest was already impressively priced at $399, so launching the more powerful Oculus Quest 2 at $299 is pretty phenomenal. Granted, the design compromises are a little frustrating, and I would’ve rather paid more for a better strap and more precise IPD settings like on the original—but those are the tweaks made to try and broaden the market for the Quest and VR as a whole. Still, even with those design annoyances, the Quest 2 is an incredible value for a portable, fully self-contained VR game console.
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/TDsFPvRGkhZaFzIaNnKRk1_xO4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-8-Comparison-1b0c51b029da41389167e103a4c4843a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975555" src="//a.impactradius-go.com/gen-ad-code/5597632/1975555/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  Andrew Hayward / Lifewire
 
 ## Oculus Quest 2 vs. PlayStation VR
@@ -227,7 +229,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The significant performance upgrade and surprising price drop outweigh some of the annoying design shifts with the Oculus Quest 2, making it the must-have VR headset for just about everyone. Not only does it play a great library of on-headset games, but it can also connect to a powerful PC to play even more games on top of that. Add to that the ease of use, quality gameplay, and immersive visuals, and the Oculus Quest 2 is another brilliant VR game console.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -235,6 +240,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Quest 2

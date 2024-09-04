@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to Zoom Engagement  Unlocking Communication Success for 2024\""
-date: 2024-08-29T21:31:35.647Z
-updated: 2024-08-30T21:31:35.647Z
+date: 2024-09-03T12:54:51.539Z
+updated: 2024-09-04T12:54:51.539Z
 tags: 
   - screen-recording
   - ai video
@@ -78,12 +78,18 @@ When the **Show message preview** box is unchecked, Zoom prevents the text of th
 When it comes to texting there are several options available for you to choose **how to chat in Zoom**. For instance, you can send a message to everyone in the chat or send a private message to one of the participants, mention participant(s) while typing a message, and can even send a file to them if need be. You can learn how to do all these by following their corresponding methods given below:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe id="iframe_1993645" src="//a.impactradius-go.com/gen-ad-code/5597632/1993645/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ### 1\. How to Mention People in Zoom Chat?
 
 As it is with most social media platforms these days, even in Zoom chat, you can use the @ sign followed by the starting few characters of the person you want to mention. When you start typing, a list of participants with the matching names would appear, and you can then choose the one you want to mention.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to Send Chat Announcements?
 
 **Note:** Configuring and using the **Announcements** feature is **only available for the paid members.**
@@ -102,11 +108,14 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What File Types Does Zoom Chat Support?
 
 **Note:** Restricting file types and configuring other options granularly can only be done if you have purchased a paid subscription plan.
@@ -114,23 +123,20 @@ Launch Zoom app and sign into your account. Click the **Chat** icon from the top
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Save Zoom Chats
 
 Zoom also allows you to save your text conversions for future references. You can either save the chats manually, or configure Zoom to do that for you automatically. Both the processes are explained below:
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. How to Configure Autosave Chats
 
@@ -140,15 +146,18 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 
 ![Zoom Meeting Basic In meeting settings](https://images.wondershare.com/filmora/article-images/set-zoom-meeting-basic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Step 2: Enable Autosave
 
 Turn on the toggle switch next to **Auto saving chats** to configure your Zoom account to save the chats automatically when a meeting starts.
 
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to Save Zoom Chats Manually
 
 #### Step 1: Launch Chat Panel and Review the Conversation
@@ -157,15 +166,15 @@ During a meeting/conference session, click the **Chat** icon from the bottom to 
 
 ![Zoom Meeting Chat  Save](https://images.wondershare.com/filmora/article-images/save-chat-in-zoom-meeting-manually.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982570" src="//a.impactradius-go.com/gen-ad-code/5597632/1982570/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 #### Step 2: Save the Chat Manually
 
 Click the **More** icon (with three horizontal dots) from the bottom-right corner of the chat pane, click **Save Chat**, and follow the on-screen instructions from there to save **Zoom chat** manually.
 
 **Note:** By default, the chats are saved in a **Notepad** file, and can be found in the **Documents** folder of your account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Disable Chat in Zoom as a Host?
 
 If you are hosting a Zoom meeting, you can control the way people chat. To elaborate, you can either allow or disallow **Zoom private chat** for the members in a particular session, or can permanently disable the chat feature for your Zoom account altogether. To learn how to configure Zoom for both of these, you can follow the steps given below:
@@ -183,7 +192,10 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. How to Permanently Disable Zoom Chats?
 
@@ -196,7 +208,10 @@ Open an Internet browser, sign in to your Zoom account on the web, click **Setti
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Turn off the **Chat** toggle switch, and on the **Turn OFF for “Chat”** box that pops up next, click **Turn Off** to disable all types of chats and the related features, i.e. including **Zoom private chat** and auto saving.
 
@@ -230,9 +245,6 @@ As long as you are chatting using **Zoom chat**, other participants cannot see y
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

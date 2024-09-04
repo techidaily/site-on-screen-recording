@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record a Video Presentation Using Adobe Captivate"
-date: 2024-08-29T21:30:53.178Z
-updated: 2024-08-30T21:30:53.178Z
+date: 2024-09-03T12:54:52.326Z
+updated: 2024-09-04T12:54:52.326Z
 tags: 
   - screen-recording
   - ai video
@@ -151,5 +151,5 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

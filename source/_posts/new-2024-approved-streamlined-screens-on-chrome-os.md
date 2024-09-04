@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Streamlined Screens on Chrome OS\""
-date: 2024-08-29T21:39:53.036Z
-updated: 2024-08-30T21:39:53.036Z
+date: 2024-09-03T12:54:41.895Z
+updated: 2024-09-04T12:54:41.895Z
 tags: 
   - screen-recording
   - ai video
@@ -31,15 +31,18 @@ If you are not seeing the recorder out of the box then you will need to access t
 
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Recorder Screen
 
 Once you are done with settings up the flag or you are using the latest Chrome OS now it's time to move to record your screen. Go to the lower right button of your OS screen and click on the shelf as shown in the figure below. A new window will appear, now you will need to click on the screen capture.
 
 ![chrome recorder screen screen capture](https://images.wondershare.com/filmora/article-images/chrome-recorder-screen-screen-capture.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Soon as you click on the screen capture, you will be prompted to a new screen with a variety of options for the tool as shown. Here you can choose a specific target area on the screen for screenshots as well as screen videos from the “Capture Area” in the figure. You can switch using the two options as shown in the figure below. To finally start recording, click “Start Capturing” as shown in the figure.
 
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
@@ -49,7 +52,16 @@ Finally, once you are done recording and now it's time to stop recording. You ju
 ![chrome stop recording](https://images.wondershare.com/filmora/article-images/chrome-stop-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: Other Alternative Ways to Record Chrome Screen
 
@@ -70,14 +82,20 @@ Once you are finished signing in and installing, it's time to set microphone set
 ![screencastify set microphone new browser](https://images.wondershare.com/filmora/article-images/screencastify-set-microphone-new-browser.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
 
 ![screencastify click that icon record](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
 
@@ -87,34 +105,37 @@ Another Google addon for screen recording is Awesome screenshot and screen recor
 
 ![awesome screenshot and screen recorder](https://images.wondershare.com/filmora/article-images/awesome-screenshot-and-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After adding the extension a new window will appear to set up your extension. There are three steps, first, you will need to sign up using your Google account. After that, the next step is to pin the addon to the top bar. For that click on the extension icon and pin it to the bar as shown in 3 in the figure. Click next and finish the setup.
 
 ![awesome screenshot pin extension](https://images.wondershare.com/filmora/article-images/awesome-screenshot-pin-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Let's come to the recording of the screen. Open up the extension from the pinned icon and you will see its GUI. Select “record” and click on the “Desktop” icon as shown. Do the simple settings by selecting the storing facility, enabling the microphone, setting resolution, and enabling the camera. In the end, click start recording. Next, you will select the screen or a specific application window. Once it's chosen click share as shown in the figure. To stop the sharing click on the “Stop Sharing” button to stop.
 
 ![awesome screenshot setting resolution](https://images.wondershare.com/filmora/article-images/awesome-screenshot-setting-resolution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977004" src="//a.impactradius-go.com/gen-ad-code/5597632/1977004/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 3\. Nimbus
 
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
 ##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
