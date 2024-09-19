@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Slack & Filmora  Scheduling Meetings Flawlessly\""
-date: 2024-09-06T19:10:13.905Z
-updated: 2024-09-13T18:58:49.969Z
+date: 2024-09-11T17:06:59.009Z
+updated: 2024-09-18T17:42:02.081Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ So, follow our lead on how to schedule a meeting in a few clicks.
 * [Part 2: How to Record Slack Meetings](#part2)
 * [Part 3: Slack Video Call Settings](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part1: How to Schedule a Meeting on Slack
 
 To schedule a meeting anywhere is a tedious task, but, luckily, not on Slack. Figuring out the free slots on your guest's schedule can now be automated using Outlook or Google Calendar app to schedule a meeting on Slack.
@@ -70,20 +63,6 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Record Slack Meetings
 
 All the text messages on Slack are backed up and can easily be searched and shared again. But, what if you start an audio or video Slack meeting? Until now, no feature enables you to record Slack meeting.
@@ -96,23 +75,9 @@ Here is how you can record Slack meeting.
 
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3.Tap on **Add** **to** **Slack**.
 
@@ -130,13 +95,6 @@ Here is how you can record Slack meeting.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7.Click on **Join** to start the meeting.
 
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
@@ -144,26 +102,6 @@ Here is how you can record Slack meeting.
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
 
@@ -175,16 +113,22 @@ The settings tab in the video call enables you to create a name for the video ca
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -195,10 +139,10 @@ With this powerful tool and our guide at hand, you can transform your work life 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -216,18 +160,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-toy-wheels-tournament-tunes/"><u>[New] 2024 Approved Toy Wheels Tournament Tunes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>[New] Best Budget Gaming Accessories Keyboards & Mice Under $99</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ipad-timelapse-essentials-for-beginners-for-2024/"><u>[New] IPad Timelapse Essentials for Beginners for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-spectacular-racing-sims-number-one-to-five-for-2024/"><u>[New] Spectacular Racing Sims Number One to Five for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ballot-box-bonanza-topping-politic-simulations/"><u>[Updated] 2024 Approved Ballot Box Bonanza Topping Politic Simulations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>[Updated] Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-5-browser-screen-recorders/"><u>2024 Approved Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-20-free-websites-for-downloading-movie-and-tv-show-captions-2024s-latest-list/"><u>Best 20 Free Websites for Downloading Movie and TV Show Captions - 2024'S Latest List!</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/effortless-transformation-techniques-maintaining-high-fidelity-in-hevc-to-mp4-conversion/"><u>Effortless Transformation Techniques: Maintaining High Fidelity in HEVC to MP4 Conversion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-videos-you-love-from-pinterest-for-free-for-2024/"><u>Get the Videos You Love From Pinterest for Free for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/guaranteed-steps-to-safely-partition-a-mac-hard-disk-without-data-loss/"><u>Guaranteed Steps to Safely Partition a Mac Hard Disk Without Data Loss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-a-portable-software-menu-to-windows-11-and-11/"><u>How to Add a Portable Software Menu to Windows 11 & 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-incorporating-creative-effects-into-your-zoom-meetings-step-by-step-for-2024/"><u>[Updated] Incorporating Creative Effects Into Your Zoom Meetings Step-by-Step for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audiophiles-top-picks-for-high-quality-window-based-podcasts-8/"><u>2024 Approved Audiophile's Top Picks for High-Quality Window-Based Podcasts (#8)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>2024 Approved Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-capture-software-showdown-obs-studio-vs-fraps/"><u>2024 Approved Optimal Capture Software Showdown OBS Studio V/S Fraps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfect-recorder-chromebooks-best-friend/"><u>2024 Approved Perfect Recorder Chromebook's Best Friend</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/assemble-and-build-your-own-google-vr-viewing-device-for-2024/"><u>Assemble and Build Your Own Google VR Viewing Device for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flavorful-filmmaking-made-easy-the-best-tips-for-food-videography-for-2024/"><u>Flavorful Filmmaking Made Easy The Best Tips for Food Videography for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-recording-skills-for-every-lenovo-user/"><u>In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-full-screen-mastery-achieved-in-obs/"><u>In 2024, Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-zte-blade-a73-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 ZTE Blade A73 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivo-mkv-a-formato-avi-gratuitamente-via-internet-con-movavi/"><u>Transforma Archivo MKV a Formato AVI Gratuitamente Vía Internet Con Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-the-five-must-have-ai-applications-for-modern-enterprises/"><u>Unlocking Potential: The Five Must-Have AI Applications for Modern Enterprises</u></a></li>
 </ul></div>
 
