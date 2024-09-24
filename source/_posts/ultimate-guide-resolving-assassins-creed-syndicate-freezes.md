@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Assassin’s Creed Syndicate Freezes"
-date: 2024-09-15T20:39:20.836Z
-updated: 2024-09-18T20:15:08.888Z
+date: 2024-09-22T23:05:34.598Z
+updated: 2024-09-23T21:35:11.889Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -62,13 +69,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -76,6 +76,13 @@ If this method doesn’t help, check out your graphics driver.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -88,16 +95,17 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -110,20 +118,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -135,6 +136,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -145,10 +153,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -175,14 +183,25 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[New] 2024 Approved The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-securing-gaming-triumphs-record-save-and-archive-ps4-games-for-2024/"><u>[New] Securing Gaming Triumphs Record, Save & Archive PS4 Games for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-record-gameplay-on-windows-11-for-2024/"><u>[Updated] How to Record Gameplay on Windows 11 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-itunes-video-capture-techniques/"><u>[Updated] Mastering iTunes Video Capture Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-your-youtube-presence-via-featured-channel-strategy-for-2024/"><u>[Updated] Maximizing Your Youtube Presence via Featured Channel Strategy for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-asus-rog-phone-7-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Asus ROG Phone 7 Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-media-flexibility-in-vlc-through-mp4-conversions-for-2024/"><u>Maximizing Media Flexibility in VLC Through MP4 Conversions for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamline-your-tech-expertise-with-io-screen-recording/"><u>Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-10-treasures-exciting-new-apps-and-games-await/"><u>Windows 10 Treasures Exciting New Apps & Games Await</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-10-recorders-that-wont-break-your-wallet/"><u>[New] 2024 Approved Top 10 Recorders That Won't Break Your Wallet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elevate-your-mobile-music-collection-with-inshot-for-2024/"><u>[New] Elevate Your Mobile Music Collection with InShot for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>[New] In 2024, Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-virtual-background-for-google-meet-for-2024/"><u>[Updated] Best Virtual Background for Google Meet for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-composing-the-unseen-background-sounds-for-movie-teasers/"><u>[Updated] Composing the Unseen Background Sounds for Movie Teasers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-durecorder-uncovered-features-and-analysis/"><u>[Updated] DuRecorder Uncovered Features and Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-enhanced-clarity-clear-background-in-cam-recordings/"><u>[Updated] In 2024, Enhanced Clarity Clear Background in Cam Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-preferred-speech-to-text-ipad-apps-3/"><u>[Updated] In 2024, Preferred Speech-to-Text iPad Apps #3</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/"><u>[Updated] The Easy Way to Screen Record - Your Ultimate Guide on Mi 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-art-of-quiet-video-capture-methods-for-2024/"><u>[Updated] Unveiling the Art of Quiet Video Capture Methods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/historys-high-scorers-on-reddit-top-10-list/"><u>History's High Scorers on Reddit - Top 10 List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-choosing-the-right-screen-recorder-outside-of-xbox/"><u>In 2024, Choosing the Right Screen Recorder, Outside of Xbox</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone SE (2020)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-camon-20-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Camon 20 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs/"><u>In 2024, How-To Guide Advanced Techniques for Skype Screenshots via OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-live-twitch-streams-top-5-tips/"><u>In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revel-in-every-box-with-these-strategies/"><u>In 2024, Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-defaults-of-the-modern-terminal-win11/"><u>Restoring Defaults of the Modern Terminal (Win11)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings-for-2024/"><u>Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-inside-clubhouse-dissecting-its-core-ethos-features-and-significance-in-the-modern-era/"><u>Updated In 2024, Inside Clubhouse Dissecting Its Core Ethos, Features, and Significance in the Modern Era</u></a></li>
 </ul></div>
 
