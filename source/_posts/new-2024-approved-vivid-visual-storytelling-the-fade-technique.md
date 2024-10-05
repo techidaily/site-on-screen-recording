@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Vivid Visual Storytelling  The Fade Technique\""
-date: 2024-09-26T17:02:04.520Z
-updated: 2024-09-29T17:50:53.706Z
+date: 2024-09-30T16:45:31.237Z
+updated: 2024-10-04T19:22:19.386Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Apply Fade Motion Effects to Video
 
 Besides the regular dissolve and fade transitions, you can also apply motion fade effect to make your footage more vivid. Here is how to apply the motion fade effect to video in Filmora.
@@ -71,13 +78,6 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Add Sample Colors at the beginning and end of the video clip
 
 In case that you don’t want to hide any frames in your video, you can add a black screen or blue screen or whatever color screen at the beginning and end of the clip first, and then apply Dissolve or fade transitions or motion fade effect.
@@ -87,6 +87,20 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
 
@@ -100,13 +114,6 @@ Here are Preset and Customize options available, in order to create a fade effec
 
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
 
 So easy, isn’t it? You can now download the software and make fade-in and fade-out effects with the animation keyframing in Filmora. You can read on to unlock more creative usage of the [animation keyframing](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -114,32 +121,25 @@ So easy, isn’t it? You can now download the software and make fade-in and fade
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Besides fade-in and fade-out videos, Filmora can fade in and fade out audio easily. Check the details in our guide about how to fade in and [fade out audio in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) or watch the video tutorial below.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explaining how to add fade in fade out effects to videos, control the duration of transitions, as well as how to use the keyframing animations to create transitions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -157,24 +157,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>[New] 2024 Approved Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-cost-free-cam-screen-recording-apps/"><u>[New] 2024 Approved The Essential Guide to Cost-Free Cam Screen Recording Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-audio-connection-must-have-tips-for-podcasters/"><u>[New] Perfect Audio Connection Must-Have Tips for Podcasters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-serene-gaming-selection-quietest-phone-apps-for-2024/"><u>[New] Serene Gaming Selection Quietest Phone Apps for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-curriculum-capturers-selection-defining-the-most-effective-recorders/"><u>[Updated] 2024 Approved Curriculum Capturer's Selection Defining the Most Effective Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-end-scenes-unlocked-tutorials-to-enhance-viewing-experience/"><u>[Updated] 2024 Approved End Scenes Unlocked Tutorials to Enhance Viewing Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-8-guide-to-recording-system-sound-and-mic-inputs/"><u>[Updated] 2024 Approved The Ultimate 8 Guide to Recording System Sound & Mic Inputs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-instagram-creativity-with-musical-elements/"><u>[Updated] Elevate Instagram Creativity with Musical Elements</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-step-by-step-path-to-authentic-selfie-verification-on-ig/"><u>[Updated] In 2024, A Step-by-Step Path to Authentic Selfie Verification on IG</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-practices-in-on-screen-moment-preservation/"><u>2024 Approved Best Practices in On-Screen Moment Preservation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-screen-snapping-tips-to-enhance-your-gaming-experience/"><u>2024 Approved Essential Screen-Snapping Tips to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-capture-app-windows-10-edition/"><u>2024 Approved Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-virtual-vanguards-identifying-the-top-7-fps-powerhouses/"><u>2024 Approved Virtual Vanguards Identifying the Top 7 FPS Powerhouses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/affordable-facetime-replacements-for-android-for-2024/"><u>Affordable FaceTime Replacements for Android for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-luminous-leadership-elevating-content-through-insta-hits/"><u>In 2024, Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-steps-to-success-capturing-your-google-meet-sessions/"><u>In 2024, Steps to Success Capturing Your Google Meet Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/leading-mac-graphics-recorder/"><u>Leading Mac Graphics Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-for-beyond-sharex-review/"><u>The Ultimate Guide for Beyond-ShareX Review</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-mac-alt/"><u>Updated In 2024, Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[New] 2024 Approved Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[New] 2024 Approved How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-urban-uprising-video-game-list-like-gta-v/"><u>[New] 2024 Approved Urban Uprising Video Game List Like GTA V</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-gameplay-on-windows-11/"><u>[New] In 2024, How to Record Gameplay on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-riddle-me-this-the-ultimate-room-conundrums-for-2024/"><u>[New] Riddle Me This The Ultimate Room Conundrums for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-latency-for-real-time-obs-viewing/"><u>[Updated] 2024 Approved Optimizing Latency for Real-Time OBS Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-reviewing-vlc-as-a-multimedia-recorder/"><u>[Updated] 2024 Approved Reviewing VLC as a Multimedia Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-the-digital-landscape-discover-these-10-sites-of-3d-graffiti-brilliance/"><u>[Updated] Navigate the Digital Landscape Discover These 10 Sites of 3D Graffiti Brilliance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-kinetic-analysis-exploration/"><u>[Updated] Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-advice-on-logging-google-voice-chats/"><u>Expert Advice on Logging Google Voice Chats</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-12-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi 12 FRP</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-photography-choices-for-sharpest-4k-reflections/"><u>Top Photography Choices for Sharpest 4K Reflections</u></a></li>
 </ul></div>
 

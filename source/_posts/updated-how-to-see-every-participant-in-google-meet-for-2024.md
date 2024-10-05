@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to See Every Participant in Google Meet for 2024"
-date: 2024-09-23T17:43:30.134Z
-updated: 2024-09-29T17:11:59.182Z
+date: 2024-10-02T17:20:04.132Z
+updated: 2024-10-04T18:00:50.226Z
 tags: 
   - screen-recording
   - ai video
@@ -68,10 +68,10 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
@@ -80,18 +80,18 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
@@ -118,10 +118,17 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
@@ -139,13 +146,6 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 **Note:** Also, check whether the extension is installed or not. If it is available, try re-installing it. If it is still not visible, update Google chrome.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3 : Check the working in Google Meet**
 
@@ -174,10 +174,10 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -195,22 +195,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-advanced-io-screen-capturing-techniques/"><u>[New] In 2024, Advanced IO Screen Capturing Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[New] In 2024, Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-screen-capture-in-google-video-conferencing-for-2024/"><u>[New] Navigating Screen Capture in Google Video Conferencing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-showdown-of-streamers-which-platform-rules-obs-or-twitch-studio-in-2024/"><u>[New] Showdown of Streamers Which Platform Rules, OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-alternative-tools-that-outperform-sharex/"><u>[Updated] Alternative Tools That Outperform ShareX</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-easy-guide-to-entering-google-meet-on-devices-for-2024/"><u>[Updated] Easy Guide to Entering Google Meet on Devices for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-view-comprehensively-shared-images-and-movies-by-friends-in-2024/"><u>[Updated] How To View Comprehensively Shared Images and Movies by Friends, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamline-screen-recording-for-gaming-joy/"><u>[Updated] Streamline Screen Recording for Gaming Joy</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>[Updated] The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capture-every-word-a-guide-to-recording-in-google-meet/"><u>2024 Approved Capture Every Word A Guide to Recording in Google Meet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>2024 Approved OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expertise-in-speech-transcription-with-googles-tools/"><u>Expertise in Speech Transcription with Google's Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/gathering-groups-video-content-easily-for-2024/"><u>Gathering Groups' Video Content Easily for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-10c-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark 10C to iPod | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-starting-an-instantaneous-broadcast-for-2024/"><u>The Fundamentals of Starting an Instantaneous Broadcast for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-saving-facebook-messenger-calls/"><u>[New] 2024 Approved Essential Techniques for Saving Facebook Messenger Calls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[New] 2024 Approved In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-ensure-periscope-videos-are-secured-post-record/"><u>[New] How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-win10-gamers-ultimate-guide-to-screen-recordings-for-2024/"><u>[New] Win10 Gamers' Ultimate Guide to Screen Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-breaking-the-barrier-uploading-and-live-broadcasting-vids-to-fb/"><u>[Updated] 2024 Approved Breaking the Barrier Uploading and Live Broadcasting Vids to FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveil-the-potential-of-zoom-filters-for-excellence/"><u>[Updated] Unveil the Potential of Zoom Filters for Excellence</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-extended-examination-of-uncomplicated-hdr-photography/"><u>2024 Approved Extended Examination of Uncomplicated HDR Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-the-future-of-drones-today-and-tomorrow/"><u>2024 Approved Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-setting-up-your-mac-for-flawless-minecraft-sessions/"><u>2024 Approved Setting Up Your Mac for Flawless Minecraft Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-contenders-face-off-which-is-superior-chatgpt-or-gemini-in-the-art-of-code/"><u>AI Contenders Face Off: Which Is Superior, ChatGPT or Gemini, in the Art of Code?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y78-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y78 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-voice-transcription-appraisal/"><u>In 2024, Voice Transcription Appraisal</u></a></li>
 </ul></div>
 

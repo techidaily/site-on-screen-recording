@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Screenshot Options for Windows Users\""
-date: 2024-08-25T03:23:22.747Z
-updated: 2024-08-26T03:23:22.747Z
+date: 2024-09-30T19:32:43.832Z
+updated: 2024-10-04T21:47:16.983Z
 tags: 
   - screen-recording
   - ai video
@@ -62,11 +62,34 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -78,8 +101,12 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -91,8 +118,12 @@ Steps to download and use it to record computer screen:
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Use Free Recording Software
 
 Ezvid Free Screen Recorders (<https://www.ezvid.com/>) is one of the best free screen recording software on Windows 8\. Ezvid records computer screens but not just websites but games and everything else you may want to record. It has very many features that include a facecam, voice synthesis and screen drawing.
@@ -107,34 +138,21 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +160,19 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] 2024 Approved Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quieting-background-sounds-in-media-capture-free-and-paid/"><u>[New] 2024 Approved Quieting Background Sounds in Media Capture (Free & Paid)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-smoothscreensaver-lightweight-recording-tool-for-2024/"><u>[Updated] SmoothScreenSaver Lightweight Recording Tool for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unbiased-take-on-recordcast-efficacy/"><u>2024 Approved Unbiased Take on RecordCast Efficacy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-racing-titles-our-five-favorites-for-2024/"><u>Elite Racing Titles Our Five Favorites for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-screen-recording-on-your-hp-laptop-effortlessly-for-2024/"><u>Navigating Screen Recording on Your HP Laptop Effortlessly for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sneak-peek-affordable-apple-watch-se-inspection-and-review/"><u>Sneak Peek: Affordable Apple Watch SE Inspection and Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steps-to-subtract-one-year-from-dates-using-microsoft-excel/"><u>Steps to Subtract One Year From Dates Using Microsoft Excel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-refresh-your-ati-driver-software-in-windows-easily/"><u>The Ultimate Tutorial: Refresh Your ATI Driver Software in Windows Easily</u></a></li>
+</ul></div>
+

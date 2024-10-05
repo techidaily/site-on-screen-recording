@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Optimal OBS Configurations for Thrifty Computers"
-date: 2024-09-23T19:38:41.010Z
-updated: 2024-09-29T19:05:54.629Z
+date: 2024-09-28T07:14:17.688Z
+updated: 2024-10-04T16:52:18.680Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,13 @@ Therefore, after vast research on the internet, our team came up with an optimal
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
@@ -32,10 +39,10 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
@@ -93,10 +100,10 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
@@ -104,10 +111,10 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
@@ -130,13 +137,6 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
@@ -148,17 +148,17 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
@@ -237,14 +237,16 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[New] In 2024, Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-relaxation-reigns-top-pc-titles/"><u>[Updated] 2024 Approved Relaxation Reigns Top PC Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1716069627899-updated-in-2024-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[Updated] In 2024, Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10).</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-review-and-compare-streamlabs-and-embedding-platforms/"><u>[Updated] Review and Compare StreamLabs & Embedding Platforms</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-play-store-experience-on-amazon-fire-devices-a-comprehensive-overview/"><u>Google Play Store Experience on Amazon Fire Devices: A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-holistic-photo-tale-architect-platform/"><u>In 2024, Holistic Photo Tale Architect Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>In 2024, Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/overview-djis-ultra-hd-vr-flight-headsets-for-2024/"><u>Overview DJI's Ultra-HD VR Flight Headsets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-advanced-recording-in-windows-a-beginners-guide/"><u>[New] In 2024, Advanced Recording in Windows A Beginner's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>[Updated] A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-virtual-conversations-a-google-meet-handbook-for-2024/"><u>[Updated] Navigating Virtual Conversations A Google Meet Handbook for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-guide-capturing-time-lapse-on-your-ipad-for-2024/"><u>[Updated] Quick Guide Capturing Time Lapse on Your iPad for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ensuring-accurate-earnings-tracking-for-creators/"><u>2024 Approved Ensuring Accurate Earnings Tracking for Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-level-tips-for-expert-vimeo-recording/"><u>2024 Approved Pro-Level Tips for Expert Vimeo Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-capture-showdown-obs-vs-shadow/"><u>2024 Approved Screen Capture Showdown OBS vs Shadow</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-usb-wifi-adapter-pce-ac56-drivers-resolving-connectivity-issues-in-widows-os/"><u>ASUS USB WiFi Adapter (PCE-AC56) Drivers: Resolving Connectivity Issues in Widows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-ways-to-adjust-speed-on-snapchat-videos-and-the-best-alternative-for-2024/"><u>Best Ways to Adjust Speed on Snapchat Videos (And the Best Alternative for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unleashing-screen-content-with-zdsofts-magic/"><u>Unleashing Screen Content with ZDSoft's Magic</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-linguistic-abilities-does-santa-claus-possess/"><u>What Linguistic Abilities Does Santa Claus Possess?</u></a></li>
 </ul></div>
 

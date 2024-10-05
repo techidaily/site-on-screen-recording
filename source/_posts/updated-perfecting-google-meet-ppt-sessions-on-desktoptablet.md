@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Google Meet PPT Sessions on Desktop/Tablet"
-date: 2024-08-25T03:27:11.483Z
-updated: 2024-08-26T03:27:11.483Z
+date: 2024-10-03T06:57:47.975Z
+updated: 2024-10-04T21:07:53.358Z
 tags: 
   - screen-recording
   - ai video
@@ -85,6 +85,13 @@ If you decide to go with the latter option, then click the “Present” option.
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
@@ -98,8 +105,12 @@ Step 2) To start sharing your screen, press the three-button icon which appears 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
 
 To be sure if the screen is being shared check the top of the iPhone or iPad and if there is a red stripe, it means the screen is being broadcasted to participants. Moreover, do not worry while switching apps, you will still be in the Google Meet session even if you go onto PowerPoint or Google Slides while sharing your screen on a mobile or tablet device.
@@ -107,11 +118,12 @@ To be sure if the screen is being shared check the top of the iPhone or iPad and
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
 The process of presenting a PowerPoint or Google Slides during a Google Meet session on an android is very similar to that of an Apple device.
@@ -134,20 +146,28 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 
 ![stop PPT sharing on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-sharing-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQ about Presenting PowerPoint on Google Meet
 
 1. **Can others see you while you are presenting a PPT?**
@@ -168,25 +188,11 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +200,24 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovative-strategies-for-captivate-demonstrations/"><u>[New] 2024 Approved Innovative Strategies for Captivate Demonstrations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023-for-2024/"><u>[New] Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-professional-techniques-for-webcam-integration-and-capture/"><u>[New] In 2024, Professional Techniques for WebCam Integration & Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>[New] In 2024, Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>[New] Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-aperture-advocates-the-top-10-camera-optics-guide/"><u>2024 Approved Aperture Advocates The Top 10 Camera Optics Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-beginners-guide-to-gameye-win10/"><u>A Beginner's Guide to GamEye Win10</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C53 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/comprehensive-study-gecatas-game-record-functionality-for-2024/"><u>Comprehensive Study Gecata's Game Record Functionality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-much-better-is-an-rtx-for-gaming-and-creativity/"><u>How Much Better Is an RTX for Gaming and Creativity?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-play-mkv-videos-in-itunes-convert-them-for-free-into-mp4-or-mov/"><u>How to Play MKV Videos in iTunes - Convert Them for Free Into MP4 or MOV!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>In 2024, Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XS In Different Conditionsin</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-a14-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy A14 4G FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892500504-inside-scoop-on-apples-futuristic-foldable-phone-anticipated-cost-scheduled-release-key-specs-and-exciting-rumors/"><u>Inside Scoop on Apple's Futuristic Foldable Phone - Anticipated Cost, Scheduled Release, Key Specs & Exciting Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapid-fire-direct3d-acquisition-made-easy/"><u>Rapid-Fire Direct3D Acquisition Made Easy</u></a></li>
+</ul></div>
+
