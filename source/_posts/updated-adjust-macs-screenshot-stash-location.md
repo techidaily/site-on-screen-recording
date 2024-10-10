@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adjust Mac's Screenshot Stash Location"
-date: 2024-08-17T15:41:51.000Z
-updated: 2024-08-18T15:41:51.000Z
+date: 2024-10-06T08:18:41.647Z
+updated: 2024-10-09T16:13:18.195Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -73,8 +87,18 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -88,16 +112,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +130,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/0plus-amazing-youtube-shortcuts-you-should-know/"><u>[New] 20+ Amazing YouTube Shortcuts You Should Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-effectively-archive-snapchat-videos-on-mobile-phones-for-2024/"><u>[New] How to Effectively Archive Snapchat Videos on Mobile Phones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-capture-to-share-expert-insights-into-screen-recording-software/"><u>[New] In 2024, From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pair-monitor-logging-process/"><u>[New] Pair Monitor Logging Process</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-vlog-with-proper-tripod-angles/"><u>[Updated] 2024 Approved Elevating Your Vlog with Proper Tripod Angles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-find-your-ideal-photo-editor-top-15-free-budget-apps-reviewed-for-2024/"><u>[Updated] Find Your Ideal Photo Editor Top #15 Free, Budget Apps Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-gaming-power-up-perfecting-your-switch-pro-on-steam-for-2024/"><u>[Updated] Gaming Power-Up Perfecting Your Switch Pro on Steam for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-hd-webcams-essential-purchasing-tips/"><u>[Updated] In 2024, Top 10 HD Webcams Essential Purchasing Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-videorecordermax-9-in-depth-performance-check-for-2024/"><u>[Updated] VideoRecorderMax 9 In-Depth Performance Check for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/engaging-audiennas-a-captivate-presentation-guide-for-2024/"><u>Engaging Audiennas A Captivate Presentation Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-features-of-nvidias-adaptable-generative-ai-insights-into-accessibility-for-users/"><u>Exploring the Features of NVIDIA’s Adaptable Generative AI: Insights Into Accessibility for Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flawless-conversion-guide-transforming-mp4-files-into-mpg-format-on-both-mac-and-pc/"><u>Flawless Conversion Guide: Transforming MP4 Files Into MPG Format on Both Mac and PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-eye-candy-index-the-top-8-videos/"><u>In 2024, Eye Candy Index The Top 8 Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-flashclip-quick-checkup-review/"><u>In 2024, FlashClip Quick Checkup Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-power-of-irecorder-in-action/"><u>In 2024, The Power of iRecorder in Action</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leap-into-efficiency-with-quick-srt-to-txt-2023-guide-for-2024/"><u>Leap Into Efficiency with Quick SRT to TXT 2023 Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/live-streaming-showdown-streamlabs-vs-obs-face-off/"><u>Live Streaming Showdown Streamlabs Vs. OBS Face-Off</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-5-lite-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 5 Lite Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-dealing-with-port-reset-failures-in-windows-11-drivers/"><u>Troubleshooting Tips: Dealing with Port Reset Failures in Windows 11 Drivers</u></a></li>
+</ul></div>
+
