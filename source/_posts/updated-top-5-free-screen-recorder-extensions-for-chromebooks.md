@@ -1,7 +1,7 @@
 ---
 title: "[Updated] TOP 5 Free Screen Recorder Extensions for Chromebooks"
-date: 2024-10-08T14:29:06.210Z
-updated: 2024-10-10T05:28:49.601Z
+date: 2024-10-15T16:12:58.258Z
+updated: 2024-10-16T20:59:02.430Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ Tap the Screencastify symbol in the upper right corner of your Chrome program ag
 At the point when you're finished recording, tap the "Stop" symbol in the recording controls at the lower part of the screen. Name the video you recorded and close the tab to allow Screencastify to wrap up handling the video and saving the video to Google Drive.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Nimbus
@@ -62,6 +62,13 @@ Open Chrome Web Store, enter Nimbus in the hunt box. Add Nimbus Screenshot and S
 
 ![nimbus recorder](https://images.wondershare.com/filmora/article-images/nimbus-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2\. Customize the Extension**
 
 Send off the extension, click "Record video". You can redo sound and video settings on the following page.
@@ -71,13 +78,6 @@ Send off the extension, click "Record video". You can redo sound and video setti
 **Step 3: Start/Stop Recording**
 
 Click "Start Record" to send off the recording. To delay or end the recording, simply click the extension and pick "Pause" or "Quit Recording".
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. OpenVid Chromebook Screen Recorder
 
@@ -111,13 +111,6 @@ Send off the screen recorder easily through the Chrome extension, click "Open Fr
 
 ![screencast o matic](https://images.wondershare.com/filmora/article-images/screen-o-matic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Customize the Screen Recorder Extension**
 
 Change portrayal settings for receiver and PC sound If you've chosen 'PC screen' or 'both,' change the border of the specked square shape outlining your screen to fit the segment of the screen you wish to record. Press the record "Rec" button to begin recording
@@ -141,10 +134,16 @@ Sign for Loom's free individuals and then add Loom's Chrome extension to Chrome 
 ![launch loom](https://images.wondershare.com/filmora/article-images/launch-loom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Setup the Extension**
@@ -156,6 +155,13 @@ Click on "New Video" > Record a Video and then customize the screen for recordin
 **Step 3: Start/Save Recording**
 
 Select Recording Mode either it will be the Screen Only, Screen and Camera, or Screen/Camera Only, and then Choose Current Window or A Chrome Tab >Click on "Begin Recording". And then hit the ‘Quit Recording’ and Basic Editing for Sharing or Local Downloading
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,18 +191,24 @@ Chromebooks accompany a pre-introduced screen recorder that permits all Chromebo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-exclusive-guide-to-prime-livestream-sites/"><u>[New] In 2024, Exclusive Guide to Prime Livestream Sites</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-vocal-excellence-techniques-for-capturing-flawless-audio/"><u>[New] In 2024, Vocal Excellence Techniques for Capturing Flawless Audio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-vsdc-capture-expert-analysis-and-top-replacements/"><u>[New] In 2024, VSDC Capture Expert Analysis & Top Replacements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-preserve-your-display-win-os-snapshots-explained-for-2024/"><u>[New] Preserve Your Display Win OS Snapshots Explained for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-zoom-room-usage-for-first-time-users/"><u>[New] Zoom Room Usage for First-Time Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-harmonize-hues-learning-to-edit-tamil-tracks-for-ringtones/"><u>[Updated] Harmonize Hues Learning to Edit Tamil Tracks for Ringtones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-discover-top-tier-clicker-games-for-a-fulfilling-pc-experience/"><u>[Updated] In 2024, Discover Top-Tier Clicker Games for a Fulfilling PC Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-google-meet-conversation-blueprint-for-success/"><u>2024 Approved The Google Meet Conversation Blueprint for Success</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-lava-blaze-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Lava Blaze Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-and-install-t630-mouse-driver-for-windows-7-10/"><u>How to Download & Install T630 Mouse Driver for Windows 7-10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-90-gt-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor 90 GT FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-m-audio-track-glitches-with-simplicity/"><u>Resolve M-Audio Track Glitches with Simplicity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-free-mobile-applications-transforming-audio-into-captivating-visuals-for-ios-and-android-users-for-2024/"><u>Updated The Ultimate Guide to Free Mobile Applications Transforming Audio Into Captivating Visuals for iOS & Android Users for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>[New] 2024 Approved The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-complete-guide-to-record-google-meet-for-free-as-hostpaticipants/"><u>[New] Complete Guide to Record Google Meet for Free [As Host/Paticipants]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-conquering-broadcasts-merge-obs-zoom-with-ease-for-2024/"><u>[New] Conquering Broadcasts Merge OBS, Zoom with Ease for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dive-into-todays-top-8-viral-video-phenomena/"><u>[New] Dive Into Today’s Top 8 Viral Video Phenomena</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-6-modern-architecture-in-mc-world/"><u>[New] In 2024, Premier 6 Modern Architecture in MC World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transforming-media-landscape-an-exclusive-look-at-magix-vpx-for-2024/"><u>[New] Transforming Media Landscape An Exclusive Look at Magix VPX for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-android-screen-recording-tutorial-essentials/"><u>[Updated] Android Screen Recording Tutorial Essentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>[Updated] Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio-for-2024/"><u>[Updated] Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vlc-player-from-live-viewing-to-recording-for-2024/"><u>[Updated] VLC Player From Live Viewing to Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-leading-5-video-conference-recorders-for-seamless-captures/"><u>2024 Approved Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-performance-nvidia-geforce-titan-x-edition-drivers-for-free/"><u>Enhance Performance: NVIDIA GeForce TITAN X Edition Drivers for Free</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-features-of-the-synology-rt2600ac-wifi-router-superior-distance-coverage-and-parental-controls-for-a-safer-internet-experience/"><u>Explore the Features of the Synology RT2600ac WiFi Router: Superior Distance Coverage and Parental Controls for a Safer Internet Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/hurdlehop-pausevidsnapshot/"><u>HurdleHop PauseVidSnapshot</u></a></li>
+<li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-recurring-bugs-in-age-of-wonders-planetfall-for-windows-users/"><u>Troubleshooting Guide: Fixing Recurring Bugs in Age of Wonders: Planetfall for Windows Users</u></a></li>
+<li><a href="https://win-unique.techidaily.com/wie-speichern-sie-wiederhergestellte-excel-dateien-nach-der-restaurierung-meineruckgewinnung/"><u>Wie Speichern Sie Wiederhergestellte Excel-Dateien Nach Der Restaurierung? - MeineRückgewinnung</u></a></li>
 </ul></div>
 

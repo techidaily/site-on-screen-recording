@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2024-10-08T12:55:34.391Z
-updated: 2024-10-10T11:27:40.744Z
+date: 2024-10-14T18:30:37.396Z
+updated: 2024-10-16T16:58:45.661Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -72,6 +72,13 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -101,6 +108,13 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -124,21 +138,7 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -148,14 +148,14 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
@@ -167,20 +167,27 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
- Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 ## Disable overlays
 
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -194,13 +201,6 @@ There are mainly two methods for you to update the graphics driver:
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
 
@@ -227,21 +227,24 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[New] 2024 Approved Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks/"><u>[New] 2024 Approved Seamless Methodology Viewing Favorited and Well-Liked YouTube Remarks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensive-manual-best-practices-for-using-mobizen-recording-tool/"><u>[New] In 2024, Comprehensive Manual Best Practices for Using Mobizen Recording Tool</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-stepwise-approach-to-planning-online-collaborative-meets/"><u>[Updated] 2024 Approved A Stepwise Approach to Planning Online Collaborative Meets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-the-steam-switch-pro-controller/"><u>[Updated] Essential Tips for the Steam Switch Pro Controller</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-5-android-video-capture-apps-for-screen-recording/"><u>[Updated] In 2024, Best 5 Android Video Capture Apps for Screen Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-pixels-of-hilarity-with-adobe-tools/"><u>[Updated] Pixels of Hilarity with Adobe Tools</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlocking-tiktoks-photoshop-magic-effortlessly/"><u>[Updated] Unlocking TikTok's Photoshop Magic Effortlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-11-gamers-guide-to-excellent-game-capturing-for-2024/"><u>[Updated] Windows 11 Gamers' Guide to Excellent Game Capturing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-immersive-memories-a-compreeved-guide-to-saving-your-vr-gaming-journey/"><u>2024 Approved Immersive Memories A Compreeved Guide to Saving Your VR Gaming Journey</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-n3-flip-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find N3 Flip Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/football-manager-2e0-troubleshooting-the-common-launch-errors-and-crashes/"><u>Football Manager 2E0 - Troubleshooting the Common Launch Errors and Crashes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-garmin-gpsmap-64st-the-ultimate-all-in-one-portable-gps-device/"><u>In-Depth Analysis of the Garmin GPSMAP 64St: The Ultimate All-In-One Portable GPS Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-cleaning-up-liked-tracks-a-guide-for-your-spotify-playlist/"><u>Master the Art of Cleaning Up Liked Tracks: A Guide for Your Spotify Playlist</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gimbal-picks-for-dslr-quality-videos/"><u>Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/windowsmac-tutorials-for-skype-audio-and-video-archive-for-2024/"><u>Windows/Mac Tutorials for Skype Audio & Video Archive for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-complete-stardew-compendium-focus-on-ginger-isle/"><u>[New] 2024 Approved The Complete Stardew Compendium Focus on Ginger Isle</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-wintvrecorder-effortless-free-live-tv-saving-software/"><u>[New] 2024 Approved WinTVRecorder Effortless, FREE Live TV Saving Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[New] Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-dissecting-sharex-opinions-and-picks/"><u>[New] Dissecting ShareX Opinions & Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-detailed-steps-for-a-flawless-ps3-gameplay-recording-process/"><u>[New] In 2024, Detailed Steps for a Flawless PS3 Gameplay Recording Process</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimizing-engagement-in-the-new-facebook-algorithms-era-for-2024/"><u>[New] Optimizing Engagement in the New Facebook Algorithms Era for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>[New] Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-pathway-to-prime-streaming-from-obs-to-social-media-for-2024/"><u>[New] The Pathway to Prime Streaming From OBS to Social Media for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-actions-screening-tech-report/"><u>[Updated] 2024 Approved Cutting-Edge Actions Screening Tech Report</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-agile-approaches-storing-ppt-speeches-for-2024/"><u>[Updated] Agile Approaches Storing PPT Speeches for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>2024 Approved Streaming to the Next Level The Top 5 Game Cameras Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-premium-video-creation-tool-for-mac-get-movavi-free/"><u>Download Premium Video Creation Tool for Mac - Get Movavi Free!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-windows-tips-for-efficient-live-tv-saving/"><u>Essential Windows Tips for Efficient Live TV Saving</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 8? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-frame-drops-in-age-of-empires-iv-a-comprehensive-guide/"><u>Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-error-0x803f8001-issue-on-your-minecraft-launcher-in-windows-operating-systems/"><u>Resolving the 'Error 0X803F8001' Issue on Your Minecraft Launcher in Windows Operating Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/visionboost-converter-windows-mac-online-version/"><u>VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-extras-gone-missing-now-here/"><u>Windows 10 Screen Extras - Gone Missing, Now Here</u></a></li>
 </ul></div>
 

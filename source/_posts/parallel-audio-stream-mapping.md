@@ -1,7 +1,7 @@
 ---
 title: "Parallel Audio Stream Mapping"
-date: 2024-08-17T15:36:07.001Z
-updated: 2024-08-18T15:36:07.001Z
+date: 2024-10-11T17:17:26.563Z
+updated: 2024-10-16T16:21:59.438Z
 tags: 
   - screen-recording
   - ai video
@@ -55,8 +55,12 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -74,8 +78,12 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -102,20 +110,26 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +137,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-apowersoft-masterclass-top-pc-screen-recorder-analysis/"><u>[New] Apowersoft Masterclass Top PC Screen Recorder Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>[Updated] 2024 Approved Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-beginners-glossary-for-instagram-chat-rooms-for-2024/"><u>[Updated] Beginner's Glossary for Instagram Chat Rooms for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sports-and-screen-capture-the-best-ways-to-document-the-action-for-2024/"><u>[Updated] Sports and Screen Capture The Best Ways to Document the Action for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-technique-for-capturing-time-on-iphone/"><u>[Updated] The Ultimate Technique for Capturing Time on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speech-capture-simplified-ipad-edition/"><u>2024 Approved Speech Capture Simplified IPad Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y28-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y28 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-updated-epson-xp-330-print-device-driver-here/"><u>Get the Updated Epson XP-330 Print Device Driver Here</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-create-local-disk-backups-of-network-drives-using-windows-11/"><u>How to Create Local Disk Backups of Network Drives Using Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplify-your-work-the-best-5-mac-snipper-applications/"><u>In 2024, Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-find-x6-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Find X6 for Streaming | Dr.fone</u></a></li>
+</ul></div>
+

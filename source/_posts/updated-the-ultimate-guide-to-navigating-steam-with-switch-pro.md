@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Navigating Steam with Switch Pro"
-date: 2024-08-17T15:37:28.005Z
-updated: 2024-08-18T15:37:28.005Z
+date: 2024-10-11T20:51:58.544Z
+updated: 2024-10-16T21:20:24.540Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
@@ -77,16 +84,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
 1. You will be required to open Steam and enter the settings menu if Big Picture doesn't open automatically when you connect the Pro Controller.
@@ -100,13 +101,21 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -117,9 +126,6 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
@@ -127,15 +133,17 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +151,22 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling/"><u>[New] 2024 Approved Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-a-vocal-identity-steps-for-impactful-video-overdubs-for-2024/"><u>[New] Crafting a Vocal Identity Steps for Impactful Video Overdubs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superior-choices-4k-screen-recorder-programs-for-2024/"><u>[New] Superior Choices 4K Screen Recorder Programs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>[New] The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economical-microphones-catered-to-vloggers/"><u>[Updated] 2024 Approved Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>2024 Approved Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/diy-ssd-replacement-for-your-toshiba-satellite-c50-comprehensive-beginners-walkthrough/"><u>DIY SSD Replacement for Your Toshiba Satellite C50: Comprehensive Beginner's Walkthrough</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-billboard-advertising-mastering-the-art-of-outdoor-communication/"><u>Effective Billboard Advertising: Mastering the Art of Outdoor Communication</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-diagnosing-and-fixing-the-windows-10-error-code-0x80solved-how-to-fix-the-0x80072efd-error-in-windows-10-into-a-smoothly-running-system/"><u>Expert Tips for Diagnosing and Fixing the Windows 10 Error Code 0X80([Solved] How to Fix the 0X80072EFD Error in Windows 10 Into a Smoothly Running System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-pro-manycam-top-of-the-line-virtual-camera-app/"><u>Live Streaming Pro - ManyCam: Top-of-the-Line Virtual Camera App</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-a-players-handbook-for-resolving-mw2-pc-freezing-and-crashing-problems/"><u>Overcoming Technical Hurdles: A Player's Handbook for Resolving MW2 PC Freezing & Crashing Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pro-video-essentials-the-finest-portable-laptop-brands-for-2024/"><u>Pro Video Essentials The Finest Portable Laptop Brands for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-top-8-android-collaboration-platforms-for-2024/"><u>Ultimate Guide to Top 8 Android Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726221062806-movaviavi/"><u>オンラインでのMovavi無料AVIファイル変換サービス - 即座にアクセス可能</u></a></li>
+</ul></div>
+

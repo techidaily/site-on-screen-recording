@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path"
-date: 2024-10-01T16:49:42.656Z
-updated: 2024-10-05T06:48:35.104Z
+date: 2024-10-11T17:00:20.372Z
+updated: 2024-10-16T18:25:33.150Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +77,16 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -93,6 +99,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -104,13 +117,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,20 +133,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-quick-play-music-10-best-apps-phones/"><u>[New] 2024 Approved Quick Play Music 10 Best Apps, Phones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-finest-6-video-snaggers-for-mac-users-now/"><u>[New] 2024 Approved The Finest 6 Video Snaggers for Mac Users Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[New] How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-silent-insights-into-improving-visual-elements/"><u>[New] Silent Insights Into Improving Visual Elements</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[Updated] 2024 Approved Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-take-screenshots-on-xbox-one/"><u>[Updated] In 2024, How to Take Screenshots on Xbox One</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/analyzing-screen-capture-tech-for-professionals-for-2024/"><u>Analyzing Screen Capture Tech for Professionals for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturewin10-top-tier-recorder/"><u>CaptureWin10 Top-Tier Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/choosing-the-right-fps-30-or-60-which-is-better-in-2024/"><u>Choosing the Right FPS 30 or 60, Which Is Better, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-insight-into-apples-artificial-intelligence-showcased-at-wwdc-24/"><u>Comprehensive Insight Into Apple's Artificial Intelligence Showcased at WWDC 24</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eclipsed-hard-drive-control-disturbances/"><u>Eclipsed Hard Drive Control Disturbances</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-camon-20-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Camon 20 phone? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-razer-kiyo-webcam-full-breakdown/"><u>In 2024, Razer Kiyo Webcam Full Breakdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>In 2024, Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages-for-2024/"><u>Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-concurrent-display-registration/"><u>[New] 2024 Approved Concurrent Display Registration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-posts-top-3-instagram-highlight-methods-for-2024/"><u>[New] Boost Your Posts Top 3 Instagram Highlight Methods for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-comprehensive-review-of-next-gen-camera-systems/"><u>2024 Approved A Comprehensive Review of Next-Gen Camera Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>2024 Approved Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-permanently-unplug-discord-services/"><u>2024 Approved Permanently Unplug Discord Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screenmaster-mastering-window-recordings-on-spring/"><u>2024 Approved ScreenMaster Mastering Window Recordings on Spring</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-broadcast-iptv-across-platforms/"><u>In 2024, Broadcast IPTV Across Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-map-masters-reveal-top-five-for-gold-collection/"><u>In 2024, Map Masters Reveal Top Five For Gold Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-the-deck-to-deck-experience-with-durecorder/"><u>In 2024, Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>In 2024, Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-fb-top-8-free-downloader-tools-for-2024/"><u>Unlocking FB Top 8 Free Downloader Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-sound-engineering-game-free-behringer-driver-software-for-instant-download/"><u>Upgrade Your Sound Engineering Game – Free Behringer Driver Software for Instant Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026889988-mp3/"><u>スマートフォン上でMP3プレイヤー機能を利用する最適手引書</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Make a Ken Burns Effect in Camtasia 9?"
-date: 2024-08-17T15:37:41.802Z
-updated: 2024-08-18T15:37:41.802Z
+date: 2024-10-15T20:11:01.200Z
+updated: 2024-10-16T16:24:25.770Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,24 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/0-must-have-keyword-gurus-for-video-success-for-2024/"><u>[New] 10 Must-Have Keyword Gurus for Video Success for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-camstudio-screen-recorder-review-2023/"><u>[New] CamStudio Screen Recorder Review 2023</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-breakdown-chilled-delights-on-your-screen/"><u>[New] Detailed Breakdown Chilled Delights on Your Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intelligentsia-inbox-premier-general-knowledge-vids/"><u>[New] Intelligentsia Inbox Premier General Knowledge Vids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-leading-tools-to-personalize-and-enhance-your-speech-on-the-go-for-2024/"><u>[New] Leading Tools to Personalize and Enhance Your Speech on the Go for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-6-techniques-for-clear-unblemished-photo-edits/"><u>[New] Masterclass 6 Techniques for Clear, Unblemished Photo Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-obs-installation-and-usage-on-mac-systems/"><u>[New] Mastering OBS Installation and Usage on Mac Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-integrating-obs-streams-with-the-worlds-largest-social-network-fb/"><u>[Updated] 2024 Approved Integrating OBS Streams with the World's Largest Social Network, FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-practices-for-sharing-desktopsmobile-screens-in-meet-for-2024/"><u>[Updated] Best Practices for Sharing Desktops/Mobile Screens in Meet for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-recording-review-and-examination/"><u>[Updated] In 2024, Recording Review and Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-techniques-broadcasting-via-obs-to-facebook/"><u>[Updated] Optimizing Techniques Broadcasting via OBS to Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-essential-step-by-step-for-mac-file-formats/"><u>2024 Approved The Essential Step-by-Step for Mac File Formats</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-note-12-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi Note 12 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y100i-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y100i FRP Bypass</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-rated-mkv-player-mobile-laptop/"><u>In 2024, Top-Rated MKV Player Mobile, Laptop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/inside-the-world-of-superior-screen-recording-with-recmeister/"><u>Inside the World of Superior Screen Recording with Recmeister</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-pc-upgrade-journey-with-guidance-from-toms-hardware/"><u>Navigate Your PC Upgrade Journey with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
+</ul></div>
+

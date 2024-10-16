@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Switching Mac Screenshot Types Easily\""
-date: 2024-09-26T17:11:58.455Z
-updated: 2024-09-29T17:11:12.806Z
+date: 2024-10-15T19:58:54.116Z
+updated: 2024-10-16T21:50:04.985Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Image Formats on Mac
@@ -68,10 +68,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,16 +79,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -128,10 +122,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -149,22 +143,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-peering-behind-recordcasts-curtain/"><u>[New] 2024 Approved Peering Behind RecordCast's Curtain</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-flaskful-formula-freaks/"><u>[New] FLASKFUL FORMULA FREAKS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screen-recorder-showdown-features-and-prices-compared/"><u>[New] In 2024, Screen Recorder Showdown Features and Prices Compared</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>[New] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unfollow-patterns-on-instagram-explored/"><u>[Updated] 2024 Approved Unfollow Patterns on Instagram Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-windows-11-video-recording-software-guide-for-2024/"><u>[Updated] Advanced Windows 11 Video Recording Software Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>[Updated] Capture Dynamic Movements IPad Timelapse Tips for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-eliminate-background-noise-from-video-files-freepriced/"><u>[Updated] Eliminate Background Noise From Video Files (Free/Priced)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-device-independent-techniques-for-capturing-youtube-live-streams-for-2024/"><u>[Updated] Mastering Device-Independent Techniques for Capturing YouTube Live Streams for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-17-apps-clear-unwanted-images/"><u>2024 Approved Leading 17 Apps Clear Unwanted Images</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-boost-your-sites-traffic-with-advanced-analytics-tools/"><u>Cookiebot-Enhanced: Boost Your Site's Traffic with Advanced Analytics Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-t2x-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo T2x 5G Unlock Without Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-of-360-degree-media/"><u>In 2024, Behind the Scenes of 360-Degree Media</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-entry-level-gaming-edit-suite-reviews-for-2024/"><u>Top Entry-Level Gaming Edit Suite Reviews for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformar-video-asf-al-apto-mp4-por-alta-calidad-guia-completa-y-gratuita-herramienta-de-conversion-en-linea-de-movavi/"><u>Transformar Video ASF Al Apto MP4 Por Alta Calidad, Guía Completa Y Gratuita - Herramienta De Conversión en Línea De Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-gadgets-with-toms-reviews/"><u>Unveiling the Latest Gadgets with Tom's Reviews</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472067816-why-does-my-iphone-display-irregular-websites-on-screen-time-heres-how-to-correct-it/"><u>Why Does My iPhone Display Irregular Websites on Screen Time? Here’s How to Correct It!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-raise-the-bar-top-8-speed-up-video-apps/"><u>[New] 2024 Approved Raise the Bar Top 8 Speed Up Video Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-premier-4k-cameras-of-today/"><u>[New] In 2024, Discover the Premier 4K Cameras of Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-heartfelt-gaming-premium-3ds-emulators-android-friendly/"><u>[New] In 2024, Heartfelt Gaming Premium 3DS Emulators, Android-Friendly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-free-video-capture-apps-exploring-the-leaders/"><u>[New] In 2024, Top Free Video Capture Apps – Exploring the Leaders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-5-masterful-fluid-interaction-titles/"><u>[Updated] 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-complete-resource-for-aspiring-xbox-streaming-pros/"><u>[Updated] A Complete Resource for Aspiring Xbox Streaming Pros</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-farm-fanatics-forecast-future-of-virtual-harvesting-for-2024/"><u>[Updated] Farm Fanatics’ Forecast Future of Virtual Harvesting for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-securely-archiving-your-google-voice-talks/"><u>[Updated] Securely Archiving Your Google Voice Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-tactics-to-record-gameplay-in-minecraft-via-macos/"><u>[Updated] Top 5 Tactics to Record Gameplay in Minecraft via MacOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-what-is-screencasting-and-how-to-choose-the-right-screencasting-software/"><u>[Updated] What Is Screencasting and How to Choose the Right Screencasting Software?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-11r-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus 11R</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-linking-gmail-and-outlook-on-windows/"><u>Enhancing Productivity: Linking Gmail and Outlook on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>In 2024, Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-future-of-web-engagement-7-must-have-chatgpt-tools-for-google-chrome-users/"><u>Navigate the Future of Web Engagement: 7 Must-Have ChatGPT Tools for Google Chrome Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-hd-video-replay-devices/"><u>Premium HD Video Replay Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-gratuitement-un-fichier-wav-en-format-avi-avec-movavi/"><u>Transformez Gratuitement Un Fichier WAV en Format AVI Avec Movavi</u></a></li>
 </ul></div>
 

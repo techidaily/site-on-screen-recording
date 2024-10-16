@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Zoom Meeting Fundamentals for the Uninitiated"
-date: 2024-08-17T15:34:41.991Z
-updated: 2024-08-18T15:34:41.991Z
+date: 2024-10-15T16:32:23.101Z
+updated: 2024-10-16T17:46:52.460Z
 tags: 
   - screen-recording
   - ai video
@@ -67,8 +67,12 @@ Optionally, you can choose the user’s role, specify their job title or add the
 Looking for some other webinar software? We’ve picked some of the best webinar software that you can use, you can check the [Best Webinar Software List here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Start a Webinar with Zoom?
 
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
@@ -76,8 +80,12 @@ After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Sim
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
 Furthermore, you can choose to set up a one time or a recurring webinar, and in case you opt for a recurring type of webinar you can choose if the webinar will take place daily, weekly or monthly. Keep in mind that a single webinar cannot occur more than fifty sessions.
@@ -96,9 +104,6 @@ The process of inviting panelists to a webinar is straightforward since you just
 
 ![Invite people to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-people-to-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Zoom allows you to invite up to a hundred panelists to a webinar, and you just have to add their names and emails to the corresponding boxes and click on the checkbox next to the Send invitation to all newly added panelists immediately option.
 
 Click on the Save button to send invitations to panelists. Panelists on recurring webinars will be invited to all webinars in the series, but you can also add or remove panelists between two webinars.
@@ -107,19 +112,18 @@ The invitation process for attendees depends on whether or not a webinar require
 
 ![Invite Attendees  to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-attendees-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hosts of webinars that require registration must send the registration link to attendees and each attendee must fill in the registration form. Afterward, they will receive an email that contains a unique join link. You can invite attendees to register for a webinar by copying the registration URL and sharing it through your website or your email. Optionally you can click on the Copy the invitation option and copy the invitation Zoom created, or use the Email me the invitation feature to get a copy of the invitation you can forward to the attendees.
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do Attendees Join a Zoom Webinar?
 
@@ -129,12 +133,16 @@ In some cases, you can also gain access to the join link from the registration c
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
 Webinar attendees can only interact with a webinar by raising their hands, chatting with the host and panelists or participating in Q&A panels.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the Difference between a Zoom Meeting and a Zoom Webinar?
 
@@ -150,16 +158,11 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -167,3 +170,22 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/"><u>[New] 2024 Approved The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts/"><u>[New] Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-techniques-for-soundless-video-for-2024/"><u>[New] Essential Techniques for Soundless Video for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-android-device-screen-capture-made-simple-and-gratis/"><u>[Updated] 2024 Approved Android Device Screen Capture Made Simple and Gratis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-archive-your-nintendo-switch-gameplay/"><u>[Updated] In 2024, How to Archive Your Nintendo Switch Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-record-everything-pay-nothing-screen-tools-for-all-users/"><u>[Updated] In 2024, Record Everything, Pay Nothing - Screen Tools for All Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/10-sandbox-innovations-you-shouldnt-skip-for-2024/"><u>10 Sandbox Innovations You Shouldn't Skip for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-insight-whats-hot-on-23-social-sphere/"><u>2024 Approved Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-wealth-of-words-carminati-ajay-and-his-money-making-mantra-on-youtube/"><u>2024 Approved The Wealth of Words Carminati (Ajay) and His Money-Making Mantra on Youtube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-x6-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco X6 Unlock Without Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-windows-11-wi-fi-networks-secret-key/"><u>Discovering Your Windows 11 Wi-Fi Network's Secret Key</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>
+
