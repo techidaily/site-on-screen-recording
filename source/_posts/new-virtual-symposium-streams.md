@@ -1,7 +1,7 @@
 ---
 title: "[New] Virtual Symposium Streams"
-date: 2024-10-11T19:55:00.745Z
-updated: 2024-10-16T20:22:35.020Z
+date: 2024-10-16T16:05:06.333Z
+updated: 2024-10-22T16:10:41.522Z
 tags: 
   - screen-recording
   - ai video
@@ -66,6 +66,13 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
@@ -75,10 +82,16 @@ The Audio option contains Microphone and Computer audio options that can be used
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
@@ -88,16 +101,10 @@ In order to start recording your webinar, you just need to click on the Record b
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
@@ -106,13 +113,6 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
@@ -120,10 +120,16 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
@@ -149,16 +155,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-expertise-in-speech-transcription-with-googles-tools-for-2024/"><u>[New] Expertise in Speech Transcription with Google's Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-beyond-capture-understanding-mycams-advanced-features/"><u>[Updated] 2024 Approved Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-video-calls-uncompromising-security-and-ease-for-startups/"><u>[Updated] Best Video Calls Uncompromising Security & Ease for Startups</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-watchlist-restoring-suggested-videos/"><u>[Updated] Enhancing Watchlist Restoring Suggested Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-vdsm-video-recorder-prospectus-detailed-study/"><u>[Updated] In 2024, VDSM Video Recorder Prospectus Detailed Study</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interactive-overlays-redefining-experience/"><u>[Updated] Interactive Overlays Redefining Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-tutorial-mastering-meets-background-blur/"><u>[Updated] Simplified Tutorial Mastering Meet's Background Blur</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-guide-to-transforming-videos-and-audios-into-different-formats/"><u>Easy Guide to Transforming Videos and Audios Into Different Formats</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel A05s Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/one-ring-anywhere-setting-up-your-primary-phone-number-on-various-devices-effortlessly/"><u>One Ring, Anywhere: Setting Up Your Primary Phone Number on Various Devices Effortlessly</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/1716464548345-tiny-snippets-deciphered-important-facts/"><u>Tiny Snippets Deciphered Important Facts!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enriched-minecraft-experience-via-ram-expansion/"><u>[New] Enriched Minecraft Experience via RAM Expansion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavor-leaders-must-watch-culinary-youtube-stars-for-2024/"><u>[New] Flavor Leaders Must-Watch Culinary YouTube Stars for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-mac-programming-options-excluding-bandicam/"><u>[New] In 2024, Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-screen-capture-on-chromebook-the-5-superior-tools-for-2024/"><u>[New] Master Screen Capture on Chromebook The 5 Superior Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vdq-video-snatcher-assessment-comprehensive-analysis-for-2024/"><u>[New] VDQ Video Snatcher Assessment Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-recording-made-easy-free-x-recorder-for-pc/"><u>[Updated] Audio Recording Made Easy Free X-Recorder for PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-techniques-for-excellent-sound-no-mic-included-for-2024/"><u>[Updated] Cutting-Edge Techniques for Excellent Sound, No Mic Included for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlocking-potential-your-guide-to-effective-improvements/"><u>[Updated] In 2024, Unlocking Potential Your Guide to Effective Improvements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-real-time-screen-replay-on-chrome-pcs/"><u>[Updated] Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-use-loilo-game-recorder/"><u>2024 Approved How to Use LoiLo Game Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncover-top-8-websites-with-free-3d-text-psds/"><u>2024 Approved Uncover Top 8 Websites with Free 3D Text PSDs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crear-tarjetas-de-felicitaciones-con-facilidad-el-mejor-software-gratuito-vs-pago-en-tu-eleccion/"><u>Crear Tarjetas De Felicitaciones Con Facilidad: El Mejor Software Gratuito vs Pago en Tu Elección</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-audio-overhaul-methods-for-content-creators-online/"><u>In 2024, Audio Overhaul Methods for Content Creators Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pairing-powerhouses-easy-steps-to-join-obs-zoom-for-2024/"><u>Pairing Powerhouses Easy Steps to Join OBS, Zoom for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nubia-z50-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/segmented-screen-success-is-splitcam-superior/"><u>Segmented Screen Success Is SplitCam Superior?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-comprehensive-guide-to-farming-on-ginger-islet-for-2024/"><u>The Comprehensive Guide to Farming on Ginger Islet for 2024</u></a></li>
 </ul></div>
 

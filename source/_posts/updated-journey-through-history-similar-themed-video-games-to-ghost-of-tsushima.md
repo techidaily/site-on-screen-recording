@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Journey Through History  Similar Themed Video Games to Ghost of Tsushima\""
-date: 2024-08-17T15:28:23.036Z
-updated: 2024-08-18T15:28:23.036Z
+date: 2024-10-19T16:06:01.456Z
+updated: 2024-10-22T16:07:08.033Z
 tags: 
   - screen-recording
   - ai video
@@ -149,14 +149,39 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>[New] 2024 Approved Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-evaluating-brightness-in-hdr-quality-assessment-complete/"><u>[New] 2024 Approved Evaluating Brightness in HDR Quality Assessment Complete?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-explore-our-favorite-minecraft-houses-layouts/"><u>[New] In 2024, Explore Our Favorite Minecraft Houses Layouts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-motivating-hr-chronicles-the-best-ten-vids/"><u>[New] Motivating HR Chronicles - The Best Ten Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-knowledge-for-saving-app-activity/"><u>[Updated] 2024 Approved Essential Knowledge for Saving App Activity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unveil-secrets-how-to-master-video-angles-using-vlc/"><u>[Updated] 2024 Approved Unveil Secrets How to Master Video Angles Using VLC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[Updated] In 2024, Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-game-gathering-best-7-shooter-experiences-for-2024/"><u>[Updated] Ultimate Game Gathering Best 7 Shooter Experiences for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>2024 Approved Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903701820-2024s-premier-selection-of-free-hard-drive-defrag-software-find-the-best-today/"><u>2024’S Premier Selection of Free Hard Drive Defrag Software - Find the Best Today!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-spark-20-proplus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Spark 20 Pro+ to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
