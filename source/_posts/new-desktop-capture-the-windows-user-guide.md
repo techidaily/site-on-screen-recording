@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Desktop Capture  The Windows User Guide\""
-date: 2024-10-15T20:49:38.180Z
-updated: 2024-10-16T17:42:48.756Z
+date: 2024-10-22T03:10:08.623Z
+updated: 2024-10-28T03:29:30.144Z
 tags: 
   - screen-recording
   - ai video
@@ -58,9 +58,29 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
@@ -70,15 +90,22 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3. Saving and Exporting Screenshots
@@ -87,14 +114,14 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
-The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
@@ -112,13 +139,6 @@ This popular app for taking screenshots has been bundled with all versions of th
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
 #### Step 1: Snapping a Screenshot with Snipping Tool
@@ -127,13 +147,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -141,13 +154,6 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -164,13 +170,6 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -206,6 +205,19 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -221,24 +233,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[New] 2024 Approved Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigate-your-way-to-perfect-content-top-12-flipscreen-cams/"><u>[New] 2024 Approved Navigate Your Way to Perfect Content Top 12 Flipscreen Cams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1716069859818-new-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10-for-2024/"><u>[New] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10). For 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-samsungs-photo-manipulation-software-a-review/"><u>[Updated] 2024 Approved Samsung's Photo Manipulation Software A Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/"><u>2024 Approved Accelerating FB Video Optimal Speeds Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-method-integrating-links-into-tiktok-bios/"><u>2024 Approved Optimal Method Integrating Links Into TikTok Bios</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>2024 Approved Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-full-potential-zdsoft-screen-recorder/"><u>2024 Approved Unlocking Full Potential ZDSoft Screen Recorder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-top-6-mac-capture-software-selections-for-2024/"><u>Discover Top 6 Mac Capture Software Selections for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elevate-your-lenovo-experience-with-advanced-capture-methods-for-2024/"><u>Elevate Your Lenovo Experience with Advanced Capture Methods for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-gamer-perks-lowest-priced-monitors-and-keyboards-for-2024/"><u>Essential Gamer Perks Lowest Priced Monitors & Keyboards for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tools-list-best-ten-spotify-audio-recording-apps/"><u>Essential Tools List Best Ten Spotify Audio Recording Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/future-vision-evolving-trends-in-multicam-video-technology/"><u>Future Vision Evolving Trends in Multicam Video Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-effortless-video-capturing-on-win11-os/"><u>In 2024, Effortless Video Capturing on Win11 OS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>In 2024, Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-merge-videos-without-watermarks-7-top-picks/"><u>New Merge Videos Without Watermarks 7 Top Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secrets-unveiled-best-practices-for-recording-roblox-games-on-a-mac-for-2024/"><u>Secrets Unveiled Best Practices for Recording Roblox Games on a Mac for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/urban-masterpiece-unveiled-in-depth-cities-skylines-game-analysis/"><u>Urban Masterpiece Unveiled: In-Depth Cities: Skylines Game Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-capture-tool-for-windows-10-professional/"><u>[New] Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capturing-consciousness-proven-techniques-for-documenting-virtual-play/"><u>[Updated] 2024 Approved Capturing Consciousness Proven Techniques for Documenting Virtual Play</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-epic-martial-arts-arcade-classics-revisited-for-2024/"><u>[Updated] Epic Martial Arts Arcade Classics Revisited for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exclusive-list-of-the-premier-mac-screenshots-tools/"><u>[Updated] Exclusive List of the Premier Mac Screenshots Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-impactful-online-ads-on-a-limited-budget-for-2024/"><u>[Updated] How to Create Impactful Online Ads on a Limited Budget for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mac-high-quality-video-and-audible-recording/"><u>2024 Approved Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-rx-heritage-bundle/"><u>2024 Approved RX Heritage Bundle</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-safekeeping-sensitive-visuals-from-public-eyes/"><u>2024 Approved Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-of-the-best-10-leading-video-call-apps-for-iphones-and-android/"><u>Best of the Best 10 Leading Video Call Apps for iPhones & Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-apples-latest-innovations-unveiling-the-distinct-features-of-the-upcoming-airpods-model-4-a-comprehensive-guide-by-zdnet/"><u>Comparing Apple's Latest Innovations: Unveiling the Distinct Features of the Upcoming AirPods Model 4 - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-apples-newest-4k-television-3rd-generation-unveiled/"><u>Comprehensive Evaluation: Apple's Newest 4K Television, 3Rd Generation Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-20-proplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark 20 Pro+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-downloading-standardized-youtube-images-with-ease-and-precision/"><u>In 2024, Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>In 2024, Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unveiling-the-differences-between-ig-reels-vs-stories/"><u>In 2024, Unveiling the Differences Between IG Reels Vs Stories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-2007-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2007 Files from Virus-Infected Pen Drives for Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-eloquent-expression-of-germans-essential-25-phrases/"><u>The Eloquent Expression of Germans - Essential 25 Phrases</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-call-of-duty-modern-warfare-3-fixing-the-persistent-memory-error-12707/"><u>Troubleshoot Your Call of Duty: Modern Warfare 3 - Fixing the Persistent Memory Error 12707</u></a></li>
 </ul></div>
 

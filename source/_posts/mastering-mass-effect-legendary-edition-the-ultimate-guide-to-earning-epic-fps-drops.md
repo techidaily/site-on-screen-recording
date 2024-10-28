@@ -1,7 +1,7 @@
 ---
 title: Mastering Mass Effect Legendary Edition - The Ultimate Guide to Earning Epic FPS Drops
-date: 2024-10-18T16:06:29.062Z
-updated: 2024-10-22T16:09:23.968Z
+date: 2024-10-21T00:08:25.421Z
+updated: 2024-10-28T03:29:44.572Z
 tags:
   - win11
   - win10
@@ -69,13 +69,6 @@ After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Verify integrity of game files
 
  Any missing or corrupted game files can cause a wide range of issues. And you need to make sure your files are intact by repairing your game on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -85,6 +78,19 @@ After you save the changes, test your gameplay.
  1) Open your Origin client. Click**My Game Library** . Then right-click on your game title and select**Repair** .  
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -96,14 +102,14 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -141,6 +147,13 @@ Here’s how to update drivers with Driver Easy:
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run your game in high priority
 
  Even though your computer is able to run Mass Effect, you’ll need to set your game’s priority if you need a bit more FPS. This is more necessary when your computer is multitasking.
@@ -163,13 +176,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -182,21 +188,41 @@ If this didn’t give you any luck, try the next fix below.
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate your game’s exe file on your system.
 
 4) Click **MassEffectLauncher**  and click **Add** .  
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
@@ -221,42 +247,15 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
@@ -277,10 +276,10 @@ Here’s how to do this:
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
@@ -290,6 +289,13 @@ Here’s how to do this:
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
@@ -316,24 +322,24 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions/"><u>[New] 2024 Approved Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-get-savvy-with-io-screener-a-primer/"><u>[New] 2024 Approved Get Savvy with IO Screener A Primer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-stardews-successors-top-10-farming-sim-picks-for-2024/"><u>[New] Stardew's Successors Top 10 Farming Sim Picks for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-guide-to-record-google-meet-on-smartphones/"><u>[New] Step-by-Step Guide to Record Google Meet on Smartphones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[Updated] 2024 Approved Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-efficiently-record-on-xiaomi-mi-11-a-beginners-handbook-for-2024/"><u>[Updated] Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-experts-insight-efficiently-using-mobizen-for-capturing-screens-for-2024/"><u>[Updated] Expert's Insight Efficiently Using Mobizen for Capturing Screens for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-recording-video-calls-on-pctablet/"><u>[Updated] In 2024, Essential Guide Recording Video Calls on PC/Tablet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-saving-videos-from-vlc-live-streaming/"><u>[Updated] Saving Videos From VLC Live Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlinedwebcamtechniqueinstruction/"><u>[Updated] StreamlinedWebCamTechniqueInstruction</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterclass-in-capturing-video-frames/"><u>2024 Approved Masterclass in Capturing Video Frames</u></a></li>
-<li><a href="https://games-able.techidaily.com/companionable-combat-discover-the-coolest-two-person-phone-adventures-top-15/"><u>Companionable Combat: Discover the Coolest Two-Person Phone Adventures (Top 15)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-workplace-communication-standards-with-ai-assistance/"><u>Elevating Workplace Communication Standards with AI Assistance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-performance-free-nvidia-rtx-2060-super-drivers-tailored-for-windows-11-download/"><u>Enhance Performance: Free NVIDIA RTX 2060 Super Drivers Tailored for Windows 11 Download</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Motorola Edge+ (2023)?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-f23-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo F23 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-job-advertisements-in-social-networks/"><u>Navigating Job Advertisements in Social Networks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-game-recording-made-easy-3-options-for-every-gamer/"><u>New 2024 Approved Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-future-in-flight-hubsan-h501s-hovering-highlights-for-2024/"><u>The Future in Flight Hubsan H501S Hovering Highlights for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cost-effective-obs-setup-tips/"><u>[New] Cost-Effective OBS Setup Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-online-presence-with-obs-on-youtube-and-twitch/"><u>[New] Elevate Your Online Presence with OBS on YouTube & Twitch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-frost-giants-redemption-gods-unleashed/"><u>[New] Frost Giants' Redemption Gods Unleashed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-visual-virtuosity-enhancement-no-money-more-magic/"><u>[Updated] 2024 Approved Visual Virtuosity Enhancement No Money, More Magic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-bandicam-know-how-a-complete-review/"><u>[Updated] In 2024, Essential Bandicam Know-How - A Complete Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-microphone-efficiency-checklist/"><u>[Updated] In 2024, Microphone Efficiency Checklist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-video-editing-software-showdown-bandicam-vs-camtasia/"><u>[Updated] In 2024, Video Editing Software Showdown Bandicam vs Camtasia</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-refining-online-discussions-in-google-meet/"><u>[Updated] Refining Online Discussions in Google Meet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-rapida-ed-economica-i-5-modi-migliori-per-cambiare-formato-da-avi-a-mp4-gratuitamente/"><u>Conversione Rapida Ed Economica: I 5 Modi Migliori per Cambiare Formato Da AVI a MP4 Gratuitamente</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/el-optimo-clonador-gratis-para-windows-comparacion-entre-xxclone-y-otras-opciones-libres/"><u>El Optimo Clonador Gratis Para Windows: Comparación Entre XXClone Y Otras Opciones Libres</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elite-10-royale-combat-titles-for-2024/"><u>Elite 10 Royale Combat Titles for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Pop 7 Pro FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>In 2024, Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-slidecasting-simplified-a-modern-webcam-approach/"><u>In 2024, Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/insights-into-income-average-earnings-per-advertisement-playback-in-2024/"><u>Insights Into Income Average Earnings per Advertisement Playback, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/oneclickfreeze-easy-screen-recording-quit-for-2024/"><u>OneClickFreeze Easy Screen Recording Quit for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-your-projects-proportions-with-aspect-ratio-for-2024/"><u>Perfecting Your Project's Proportions with Aspect Ratio for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715701125640-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>The Ultimate Cut for Quality Offline iPad Gaming!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno without backup.</u></a></li>
 </ul></div>
 

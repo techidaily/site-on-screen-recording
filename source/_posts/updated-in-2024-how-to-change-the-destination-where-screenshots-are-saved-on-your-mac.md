@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Change the Destination Where Screenshots Are Saved on Your Mac"
-date: 2024-08-17T15:26:18.601Z
-updated: 2024-08-18T15:26:18.601Z
+date: 2024-10-23T05:48:11.173Z
+updated: 2024-10-27T22:43:13.946Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -73,8 +87,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -88,15 +106,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +124,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-route-to-a-great-twitch-recording-journey-for-2024/"><u>[New] The Route to a Great Twitch Recording Journey for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-voice-over-fundamentals-from-syncing-dialogue-to-final-cut-for-2024/"><u>[New] Voice Over Fundamentals From Syncing Dialogue to Final Cut for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-potential-exploring-ginger-valley/"><u>[Updated] 2024 Approved Unlocking Potential Exploring Ginger Valley</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cut-down-on-hassle-with-easy-ipad-recording-methods-for-2024/"><u>[Updated] Cut Down On Hassle With Easy iPad Recording Methods for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-firefoxs-best-screenshot-add-ons-for-2024/"><u>[Updated] Firefox's Best Screenshot Add-Ons for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-smooth-ipad-video-recording/"><u>[Updated] In 2024, Mastering the Art of Smooth iPad Video Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-measures-for-outstanding-ppt-video-quality/"><u>[Updated] Innovative Measures for Outstanding PPT Video Quality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-solve-non-playing-fb-videos-on-iphone-for-2024/"><u>[Updated] Solve Non-Playing FB Videos on iPhone for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-game-recording-software-ranked-and-rated-for-2024/"><u>[Updated] Top 5 Game Recording Software Ranked and Rated for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effective-habits-to-monitor-and-record-gotomeetings/"><u>2024 Approved Effective Habits to Monitor and Record GoToMeetings</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-hdr-over-sdr-elevating-your-video-creation-process-for-2024/"><u>Choosing HDR over SDR Elevating Your Video Creation Process for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-techniques-for-efficient-hp-notebook-screen-recording/"><u>Cutting-Edge Techniques for Efficient HP Notebook Screen Recording</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-automate-calendar-events-to-zoom-on-mobile-devices/"><u>In 2024, Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1728508895235-powerpoint/"><u>PowerPointデータの救済 - 見落とされがちな回復手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-technology-unveiled-explore-openais-cutting-edge-gpt-4-system/"><u>The Future of Technology Unveiled: Explore OpenAI's Cutting-Edge GPT-4 System</u></a></li>
+</ul></div>
+

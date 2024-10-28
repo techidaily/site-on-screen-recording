@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Vivid Visual Storytelling  The Fade Technique\""
-date: 2024-10-16T16:02:27.557Z
-updated: 2024-10-22T16:04:52.639Z
+date: 2024-10-21T22:22:53.870Z
+updated: 2024-10-27T22:16:21.757Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 ![Ripple & Dissolve Transtions in Filmora9 ](https://images.wondershare.com/filmora/article-images/ripple-dissolve-transtions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * You can adjust the duration of the Dissolve transition to get a better result.
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -68,14 +75,21 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 
 ![Add  Fade Motion Effects to video in Filmora  ](https://images.wondershare.com/filmora/article-images/fade-motion-effects-animation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add Sample Colors at the beginning and end of the video clip
@@ -84,22 +98,21 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 
 ![Add  black color screen   to video in Filmora  ](https://images.wondershare.com/filmora/article-images/add-sample-color-screen-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -115,10 +128,10 @@ Here are Preset and Customize options available, in order to create a fade effec
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
@@ -135,13 +148,6 @@ YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explain
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -157,18 +163,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-inside-out-a-thorough-examination-of-dji-phantom-4/"><u>[New] 2024 Approved Inside Out A Thorough Examination of DJI Phantom 4</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-nailing-your-live-on-facebook-a-recorders-manual-for-2024/"><u>[New] Nailing Your Live on Facebook A Recorder's Manual for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-windowsmac-meeting-record-skype-guide/"><u>[New] Windows/Mac Meeting Record - Skype Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-enhancing-synchronization-between-cameras-and-obs-for-2024/"><u>[Updated] Enhancing Synchronization Between Cameras and OBS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-and-download-with-ease-using-movavi-video-editor/"><u>Convert and Download with Ease Using Movavi Video Editor</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-non-functional-hp-laptop-cameras-in-the-windows-10-operating-system/"><u>DIY Fixes for Non-Functional HP Laptop Cameras in the Windows 10 Operating System</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery-for-2024/"><u>Enhance Visibility in IGTV 6 Insider Tips for Video Size Mastery for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-strategies-for-high-quality-youtube-recording-for-2024/"><u>Essential Strategies for High-Quality YouTube Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>In 2024, Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-or-omniverse-unpacking-the-digital-spheres/"><u>In 2024, Metaverse or Omniverse? Unpacking the Digital Spheres</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-itel-p55plus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Itel P55+ Phone Now with These Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y17s-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y17s? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/qc35-ii-analysis-unmatched-quiet-for-work-and-leisure/"><u>QC35 II Analysis: Unmatched Quiet for Work & Leisure</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-mac-gif-recording-top-10-picks/"><u>[New] 2024 Approved Professional Mac GIF Recording Top 10 Picks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069738443-new-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010-for-2024/"><u>[New] Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10). For 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-complete-screenrec-manual-for-laptops/"><u>[Updated] In 2024, The Complete ScreenRec Manual for Laptops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutmaster-insights-full-video-editor-evaluation/"><u>[Updated] SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-evolutionary-path-from-novice-to-expert-in-audio-recording-for-film/"><u>[Updated] The Evolutionary Path From Novice to Expert in Audio Recording for Film</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gamescene-capturers-compendium/"><u>2024 Approved GameScene Capturer's Compendium</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-superior-practices-for-mute-videography/"><u>2024 Approved Superior Practices for Mute Videography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-does-youtube-work-after-a-video-is-uploaded-for-2024/"><u>How Does YouTube Work After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-screen-with-vidmore-screen-recorder/"><u>How to Record Screen with Vidmore Screen Recorder</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-11-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 11 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-connection-blizzard-inactive/"><u>No Connection: Blizzard Inactive</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fatal-exception-in-wow-understanding-and-fixing-error-132/"><u>Resolving Fatal Exception in WoW: Understanding and Fixing Error 132</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-transferring-dvd-content-onto-your-xbox-one-x-or-s-using-windows-11-or-mac/"><u>Step-by-Step Guide to Transferring DVD Content Onto Your Xbox One X or S Using Windows 11 or Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-asus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Asus Phones</u></a></li>
 </ul></div>
 

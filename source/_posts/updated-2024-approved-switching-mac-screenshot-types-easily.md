@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Switching Mac Screenshot Types Easily\""
-date: 2024-10-15T19:58:54.116Z
-updated: 2024-10-16T21:50:04.985Z
+date: 2024-10-27T07:00:57.897Z
+updated: 2024-10-27T19:39:33.086Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,24 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
 
@@ -68,10 +74,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,10 +85,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -122,10 +128,16 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,22 +155,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-raise-the-bar-top-8-speed-up-video-apps/"><u>[New] 2024 Approved Raise the Bar Top 8 Speed Up Video Apps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-premier-4k-cameras-of-today/"><u>[New] In 2024, Discover the Premier 4K Cameras of Today</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-heartfelt-gaming-premium-3ds-emulators-android-friendly/"><u>[New] In 2024, Heartfelt Gaming Premium 3DS Emulators, Android-Friendly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-free-video-capture-apps-exploring-the-leaders/"><u>[New] In 2024, Top Free Video Capture Apps – Exploring the Leaders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-5-masterful-fluid-interaction-titles/"><u>[Updated] 5 Masterful Fluid Interaction Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-complete-resource-for-aspiring-xbox-streaming-pros/"><u>[Updated] A Complete Resource for Aspiring Xbox Streaming Pros</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-farm-fanatics-forecast-future-of-virtual-harvesting-for-2024/"><u>[Updated] Farm Fanatics’ Forecast Future of Virtual Harvesting for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-securely-archiving-your-google-voice-talks/"><u>[Updated] Securely Archiving Your Google Voice Talks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-tactics-to-record-gameplay-in-minecraft-via-macos/"><u>[Updated] Top 5 Tactics to Record Gameplay in Minecraft via MacOS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-what-is-screencasting-and-how-to-choose-the-right-screencasting-software/"><u>[Updated] What Is Screencasting and How to Choose the Right Screencasting Software?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-11r-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus 11R</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-linking-gmail-and-outlook-on-windows/"><u>Enhancing Productivity: Linking Gmail and Outlook on Windows</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>In 2024, Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-the-future-of-web-engagement-7-must-have-chatgpt-tools-for-google-chrome-users/"><u>Navigate the Future of Web Engagement: 7 Must-Have ChatGPT Tools for Google Chrome Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/premium-hd-video-replay-devices/"><u>Premium HD Video Replay Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-gratuitement-un-fichier-wav-en-format-avi-avec-movavi/"><u>Transformez Gratuitement Un Fichier WAV en Format AVI Avec Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-converting-moments-into-memorable-gifs/"><u>[Updated] In 2024, Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/10plus-proven-methods-to-enhance-zoom-session-captures/"><u>10+ Proven Methods to Enhance Zoom Session Captures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>2024 Approved Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/3-ways-to-record-ps4-gameplay-for-2024/"><u>3 Ways to Record PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-poco-x6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco X6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-4k-screen-recorder-applications-for-2024/"><u>Best 4K Screen Recorder Applications for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/frame-rate-considerations-for-high-quality-videos/"><u>Frame Rate Considerations for High-Quality Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/party-pulse-perfect-dj-content-for-events-for-2024/"><u>Party Pulse Perfect DJ Content for Events for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-capture-central-apowsort-vs-alternatives-explored-for-2024/"><u>Screen Capture Central Apowsort vs Alternatives Explored for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/wiedergabe-fix-fur-dvds-unter-windows-und-mac-losung-finden/"><u>Wiedergabe-Fix Für DVDs Unter Windows Und Mac – Lösung Finden</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2024-10-11T18:13:27.931Z
-updated: 2024-10-16T19:06:11.978Z
+date: 2024-10-25T06:08:57.091Z
+updated: 2024-10-27T23:41:21.409Z
 tags:
   - chatgpt
   - open-ai
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -68,24 +75,30 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
- While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
 ## 3\. Create and Modify Audio Files
 
@@ -98,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 * Adjust the sample rate, bit rate, or channels of an audio file
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
 
@@ -139,16 +145,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -172,18 +172,24 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-mastering-iphones-sound-capture/"><u>[New] 2024 Approved Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-strategies-for-discord-video-streamers/"><u>[New] 2024 Approved Step-By-Step Strategies for Discord Video Streamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[New] Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-3-best-ios-video-editors-free-tips-and-guides/"><u>[Updated] Top 3 Best iOS Video Editors FREE Tips & Guides</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-instagram-engage-obs-live-streaming/"><u>2024 Approved Instagram Engage OBS Live Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-smart-selections-ideal-mac-software-for-video-snatching/"><u>2024 Approved Smart Selections Ideal Mac Software for Video Snatching</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/inners-guide-to-sony-vegas-and-youtube-cutting/"><u>A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/economical-android-communication-tools-list-for-2024/"><u>Economical Android Communication Tools List for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-retrieve-or-withdraw-an-email-after-its-been-sent-using-outlook/"><u>Expert Advice: How to Retrieve or Withdraw an Email After It's Been Sent Using Outlook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/exploring-free-screencast-software-options-on-mac-for-2024/"><u>Exploring Free Screencast Software Options on Mac for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-blitzing-sharing-easy-youtube-playlist-methods/"><u>In 2024, Blitzing Sharing Easy YouTube Playlist Methods</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 12 Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/journey-through-japan-best-video-games-akin-to-ghost-of-tsushima/"><u>Journey Through Japan Best Video Games Akin to Ghost of Tsushima</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleashing-potential-advanced-xbox-live-captures/"><u>[New] 2024 Approved Unleashing Potential Advanced Xbox Live Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-7-excellent-screen-capture-tools/"><u>[New] 7 Excellent Screen Capture Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fight-to-the-end-nintendos-top-10-fighters/"><u>[New] In 2024, Fight to the End Nintendo's Top 10 Fighters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-personal-flair-fonts-for-ae-projects/"><u>[New] Incorporating Personal Flair Fonts for AE Projects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-revolutionize-slack-discussions-with-10-free-recorders-for-2024/"><u>[New] Revolutionize Slack Discussions with 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions/"><u>[Updated] 2024 Approved Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clearing-up-audio-in-skype-conferences/"><u>[Updated] Clearing Up Audio in Skype Conferences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cost-efficient-4k-camera-options-(1k-for-2024/"><u>[Updated] Cost-Efficient 4K Camera Options <$1K for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-to-follow-guide-for-configuring-streamlabs-obs-for-2024/"><u>[Updated] Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevating-your-marketing-game-making-impactful-fb-videos/"><u>[Updated] In 2024, Elevating Your Marketing Game Making Impactful FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exclusive-the-leading-five-fb-videos/"><u>[Updated] In 2024, Exclusive The Leading Five FB Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-pages-to-production-creating-a-movie-blueprint/"><u>[Updated] In 2024, From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-jumpstart-your-journey-essential-youtubing-skills-course-for-2024/"><u>[Updated] Jumpstart Your Journey Essential YouTubing Skills Course for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-facebook-blue-verification-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking Facebook Blue Verification A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-cutting-edge-green-tools-shaping-film/"><u>In 2024, Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>In 2024, Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-video-privacy-techniques-for-obscuring-details/"><u>Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculpting-soft-amplitude-in-fl-studio-tracks/"><u>Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/tinyshot-critique-of-small-scale-recording-app-for-2024/"><u>TinyShot Critique of Small-Scale Recording App for 2024</u></a></li>
 </ul></div>
 

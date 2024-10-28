@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2024-10-15T16:24:19.553Z
-updated: 2024-10-22T16:17:27.322Z
+date: 2024-10-25T17:27:24.359Z
+updated: 2024-10-28T06:40:38.411Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Sifu
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -47,13 +47,6 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -72,6 +65,13 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -79,6 +79,13 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -107,13 +114,6 @@ There are mainly two methods for you to update the graphics driver:
 * **Hide HUD** : No
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -148,13 +148,6 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
@@ -167,13 +160,6 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 ## Disable overlays
@@ -183,10 +169,10 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -197,8 +183,22 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -227,19 +227,24 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-by-step-techniques-for-google-meet-coordination/"><u>[New] 2024 Approved Step-by-Step Techniques for Google Meet Coordination</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-capture-strategies-for-roblox-games-mac-edition/"><u>[New] Advanced Capture Strategies for Roblox Games (Mac Edition)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-excellent-video-recorders-for-desktops/"><u>[New] Excellent Video Recorders for Desktops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-removing-photo-borders/"><u>[New] The Ultimate Guide to Removing Photo Borders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-7-economical-screen-recorders-for-pcs-for-2024/"><u>[New] Top 7 Economical Screen Recorders for PCs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-free-webcam-video-capture-software-for-2024/"><u>Best Free Webcam Video Capture Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertissez-gratuitement-vos-fichiers-ppm-en-images-jpeg-en-ligne-movavi/"><u>Convertissez Gratuitement Vos Fichiers PPM en Images JPEG en Ligne - MOVAVI</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-pratique-restaurer-un-disque-dur-wd-exterieur-raw-en-securite-sans-pertes-dinformations/"><u>Guide Pratique : Restaurer Un Disque Dur WD Extérieur RAW en Sécurité, Sans Pertes D'Informations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-high-dynamic-range-the-future-of-photo-techniques-for-2024/"><u>Harnessing High Dynamic Range The Future of Photo Techniques for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>In 2024, Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-minicam-record-evaluation-and-backup-software/"><u>In 2024, MiniCam Record Evaluation & Backup Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-strategic-placements-for-elevating-youtube-videos/"><u>In 2024, Strategic Placements for Elevating YouTube Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneers-in-tech-their-take-on-the-rise-of-ai/"><u>Pioneers in Tech: Their Take on the Rise of AI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-your-secrets-a-guide-to-finding-passwords-in-macos-keychain-techwise/"><u>Unlocking Your Secrets: A Guide to Finding Passwords in macOS Keychain | TechWise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-dividing-footage-top-splitcams-worth-in-review/"><u>[New] 2024 Approved Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlock-instagrams-hidden-features-voice-modification/"><u>[New] 2024 Approved Unlock Instagram's Hidden Features Voice Modification</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-x-digital-editor-pc-compatibility/"><u>[New] 2024 Approved X-Digital Editor PC Compatibility</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-25-essential-no-cost-photography-tools-for-creatives/"><u>[Updated] 2024 Approved 25 Essential No-Cost Photography Tools for Creatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-top-10-cameras-in-the-new-os/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 Cameras in the New OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-zoom-audio-capture-techniques/"><u>[Updated] 2024 Approved Ultimate ZOOM Audio Capture Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-efficient-ways-to-archive-facetime-chats-for-2024/"><u>[Updated] Efficient Ways to Archive FaceTime Chats for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-video-workflow-capture-save-refine-using-adobe-connect-for-2024/"><u>[Updated] Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-superior-online-audio-devices-ranked/"><u>[Updated] Superior Online Audio Devices Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>2024 Approved Old to New Crafting a Video Journey From Classic Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/clipcrafter-window-edition-for-2024/"><u>ClipCrafter Window Edition for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comprehensive-guide-to-youtube-video-captioning/"><u>Comprehensive Guide to YouTube Video Captioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds/"><u>In 2024, Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-perfection-apply-filters-to-your-videos/"><u>In 2024, Picture Perfection Apply Filters to Your Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/multi-user-android-calls-the-top-8-tools-for-2024/"><u>Multi-User Android Calls The Top 8 Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-11-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus 11 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-mutable-nature-of-the-patekfly-tripod-12/"><u>The Mutable Nature of the Patekfly Tripod 12</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph-for-2024/"><u>Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph for 2024</u></a></li>
 </ul></div>
 
