@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2024-10-22T18:12:48.899Z
-updated: 2024-10-27T18:58:46.244Z
+date: 2024-10-28T22:02:26.900Z
+updated: 2024-11-02T19:49:17.809Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,6 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -49,10 +42,16 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -76,23 +75,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -116,10 +102,10 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -132,10 +118,16 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -147,6 +139,20 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -186,24 +192,17 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-list-of-instagram-downloaders/"><u>[New] 2024 Approved The Ultimate List of Instagram Downloaders</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-displays-for-picture-perfect-editing-choices/"><u>[New] Essential Displays for Picture Perfect Editing [Choices]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-for-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-google-meet-mastery-for-free-hostparticipants-ultimate-handbook/"><u>[New] In 2024, Google Meet Mastery for Free Host/Participant's Ultimate Handbook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-masterclass-in-elegance-blurring-borders-for-zoom-for-2024/"><u>[New] Masterclass in Elegance Blurring Borders for Zoom for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[Updated] In 2024, Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-strategies-logging-lectures-in-ppt/"><u>[Updated] In 2024, Quick Strategies Logging Lectures in PPT</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-8-android-video-chat-apps-beyond-duostrios-for-2024/"><u>[Updated] Innovative 8 Android Video Chat Apps Beyond Duos/Trios for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-precision-recording-tips-for-gamers-and-videographers/"><u>[Updated] Precision Recording Tips for Gamers and Videographers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ranked-the-best-5-iphones-for-effortless-podcast-access/"><u>[Updated] Ranked The Best 5 iPhones for Effortless Podcast Access</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-tricks-to-document-league-of-legends-games-efficiently-for-2024/"><u>[Updated] Top Tricks to Document League of Legends Games Efficiently for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[Updated] Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/7-critical-considerations-for-high-end-smart-tvs/"><u>7 Critical Considerations for High-End Smart TVs</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/boost-your-data-management-leveraging-the-power-of-simplified-recovery-in-sql-servers/"><u>Boost Your Data Management: Leveraging the Power of Simplified Recovery in SQL Servers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/four-desired-improvements-for-the-next-generation-ai-gpt-5/"><u>Four Desired Improvements for the Next Generation AI, GPT-5</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-f5-pro-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-direct-guide-to-modifying-macs-default-snapshots/"><u>In 2024, Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-timeline-to-babel-like-multilingualism-fact-or-fiction/"><u>The Timeline to Babel-Like Multilingualism: Fact or Fiction?</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-5-methods-to-effortlessly-move-images-from-your-lenovo-pc-to-an-ios-device/"><u>Top 5 Methods to Effortlessly Move Images From Your Lenovo PC to an iOS Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-call-customization-applications-ranked/"><u>[New] 2024 Approved Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-level-workshop-programming-timer-functions-for-obs-productions-for-2024/"><u>[New] Expert-Level Workshop Programming Timer Functions for OBS Productions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-securing-your-online-discussions/"><u>[New] Securing Your Online Discussions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-visual-journey-through-pc-games-snapping-the-best-for-2024/"><u>[Updated] A Visual Journey Through PC Games - Snapping the Best for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-olympic-thaw-figure-skating-extravaganza/"><u>[Updated] Olympic Thaw Figure Skating Extravaganza</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-28-practical-tips-for-streaming-online-courses-on-a-budget/"><u>2024 Approved 28 Practical Tips for Streaming Online Courses on a Budget</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>2024 Approved Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-asus-rog-phone-7-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Asus ROG Phone 7 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-your-epic-games-installer-solved/"><u>How to Fix the Black Screen Problem in Your Epic Games Installer (Solved)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ideal-6-screen-recorders-for-mac-users/"><u>In 2024, Ideal 6 Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-c65-by-drfone-android/"><u>Three Ways to Sim Unlock Poco C65</u></a></li>
 </ul></div>
 

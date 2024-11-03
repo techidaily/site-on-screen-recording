@@ -1,7 +1,7 @@
 ---
 title: "\"The Digital Artisan's Guide  Mastering Screen Recordings in macOS\""
-date: 2024-10-24T23:57:47.226Z
-updated: 2024-10-27T22:54:38.070Z
+date: 2024-11-01T23:06:43.021Z
+updated: 2024-11-02T16:15:03.606Z
 tags: 
   - screen-recording
   - ai video
@@ -128,23 +128,9 @@ Click on the start recording button and you will see a new window will pop up to
 
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Use Filmora
 
@@ -173,10 +159,10 @@ Before starting your recording it's important to have a look at the detailed rec
 ![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
@@ -197,13 +183,6 @@ First, you will need to look into your applications row on your desktop screen. 
 
 ![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
 
 ![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
@@ -212,16 +191,16 @@ Click on the start recording button and you will see a new window will pop up to
 
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Use Filmora
 
@@ -239,15 +218,36 @@ First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/create-a-project-mac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
 
 ![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After following the above steps, you will see the Filmora recorder has been launched as shown. You can select different capturing modes for your screen recording using the “Full Screen” options. Moreover, the frame size of your capturing can also be adjusted using custom values for size. Choose microphone input for your video through mic settings and enable/disable system audio anytime in this window. The recording can be started with the circular icon on this window as shown in the figure.
 
 Before starting your recording it's important to have a look at the detailed recording settings. To access those settings just click on the settings icon on the GUI of the recorder as can be seen in the above picture. Once you have clicked on it, you will see a new window of settings as shown.
 
 ![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
 
@@ -256,10 +256,10 @@ Soon as you start capturing your screen recording, you will a timer will start t
 This is how you can record your screen with an amazing recorder that comes with the WonderShare Filmora application on your MacBook Air.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -278,13 +278,6 @@ Once you are done with launching the GUI of the application, it's time to learn 
 
 ![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
 
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
@@ -292,6 +285,20 @@ Click on the start recording button and you will see a new window will pop up to
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Use Filmora
 
@@ -324,13 +331,6 @@ You can choose the destination folder for your recording from the “Save To” 
 Soon as you start capturing your screen recording, you will a timer will start the countdown. Once it's finished, your recording will be started. After some time you think, it's time to finish recording then you don’t have to worry about that too. All you have to do is by clicking the small icon in the top-right icon bar of the desktop screen of your MacBook Air as shown in the picture below attached.
 
 This is how you can record your screen with an amazing recorder that comes with the WonderShare Filmora application on your MacBook Air.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -360,22 +360,21 @@ There may be other tools and screen recorders in the market available for your M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-evaluating-fraps-as-a-screen-grab-pro/"><u>[New] Evaluating Fraps as a Screen Grab Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-staticscreen-snapshot-on-demand-steps/"><u>[New] In 2024, StaticScreen Snapshot On-Demand Steps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-the-world-of-zoom-audio-to-text-tools-for-2024/"><u>[New] Navigating the World of Zoom Audio to Text Tools for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] The Insider's Guide to Ultimate Audio Equipment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-becoming-proficient-in-ez-grabber-technology/"><u>[Updated] 2024 Approved Becoming Proficient in EZ Grabber Technology</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>[Updated] 2024 Approved Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-excellent-ears-in-scholarly-spaces-for-2024/"><u>[Updated] Excellent Ears in Scholarly Spaces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-implementing-exact-timestamp-features-for-youtube/"><u>[Updated] Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-lenovo-screen-capture-tools-effortlessly/"><u>[Updated] Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-methods-for-documenting-overwatch-engagements-for-2024/"><u>[Updated] Streamlined Methods for Documenting Overwatch Engagements for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-g24-power-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola G24 Power Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/capture-words-from-your-speech-in-microsoft-word-easily-for-2024/"><u>Capture Words From Your Speech in Microsoft Word Easily for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-a78-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo A78 5G</u></a></li>
-<li><a href="https://video-capture.techidaily.com/optimal-mac-screen-capturing-unveiling-the-top-5-strategies-for-2024/"><u>Optimal Mac Screen Capturing Unveiling The Top 5 Strategies for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unleash-a-world-of-new-melodies-make-apple-music-radio-your-primary-music-discovery-tool-today/"><u>Unleash a World of New Melodies - Make Apple Music Radio Your Primary Music Discovery Tool Today!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/wiederauffinden-und-rekonstruktion-geloschter-dokumente-auf-einem-windows-10-pc-mit-7-effizienten-methoden/"><u>Wiederauffinden Und Rekonstruktion Gelöschter Dokumente Auf Einem Windows #10 PC Mit 7 Effizienten Methoden</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mr-beasts-financial-reach/"><u>[New] 2024 Approved Mr. Beast's Financial Reach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-balancing-bitrate-in-obs-broadcasts/"><u>[New] In 2024, Balancing Bitrate in OBS Broadcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-secrets-to-superior-sprouts-in-the-world-of-valheim/"><u>[New] Secrets to Superior Sprouts in the World of Valheim</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-right-approach-for-accurate-google-speech-to-text-for-2024/"><u>[New] The Right Approach for Accurate Google Speech-to-Text for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zero-clutter-max-impact-professional-tips-for-striking-virtual-presence/"><u>[New] Zero Clutter, Max Impact Professional Tips for Striking Virtual Presence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-snaprecorder-expert-breakdowns/"><u>[Updated] 2024 Approved SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-snipping-video-time-a-youtube-editors-handbook/"><u>[Updated] 2024 Approved Snipping Video Time A YouTube Editors' Handbook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplify-your-macs-sound-recording-journey-with-audacity/"><u>2024 Approved Simplify Your Mac's Sound Recording Journey with Audacity</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-civi-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Civi 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/durable-child-friendly-cameras-for-waterplay/"><u>Durable Child-Friendly Cameras for Waterplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/flashlog-screen-grab-review-and-substitutes/"><u>FlashLog Screen Grab Review and Substitutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-choosing-the-best-portable-microphones-for-macos-users/"><u>In 2024, Choosing the Best Portable Microphones for MacOS Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/international-arbitral-awards-must-be-final-and-binding-within-the-terms-agreed-upon-by-the-parties-and-should-not-contravene-the-public-policy-of-the-count136/"><u>International Arbitral Awards Must Be Final and Binding Within the Terms Agreed upon by the Parties and Should Not Contravene the Public Policy of the Country Where Enforcement Is Sought.</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-the-art-of-video-annotations-on-tiktok-a-comprehensive-walkthrough/"><u>Mastering the Art of Video Annotations on TikTok: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/preeminent-5-cloud-video-capture-systems/"><u>Preeminent 5 Cloud Video Capture Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-google-pixel-7a-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Google Pixel 7a Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Mass Effect Legendary Edition - The Ultimate Guide to Earning Epic FPS Drops
-date: 2024-10-21T00:08:25.421Z
-updated: 2024-10-28T03:29:44.572Z
+date: 2024-10-31T02:05:46.787Z
+updated: 2024-11-02T16:08:25.062Z
 tags:
   - win11
   - win10
@@ -69,6 +69,19 @@ After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Verify integrity of game files
 
  Any missing or corrupted game files can cause a wide range of issues. And you need to make sure your files are intact by repairing your game on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -78,19 +91,6 @@ After you save the changes, test your gameplay.
  1) Open your Origin client. Click**My Game Library** . Then right-click on your game title and select**Repair** .  
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -102,20 +102,27 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
- Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -148,10 +155,10 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
@@ -188,42 +195,15 @@ If this didn’t give you any luck, try the next fix below.
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Locate your game’s exe file on your system.
 
 4) Click **MassEffectLauncher**  and click **Add** .  
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
   
@@ -247,15 +227,36 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
@@ -275,13 +276,6 @@ Here’s how to do this:
   
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
@@ -290,16 +284,16 @@ Here’s how to do this:
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -322,24 +316,20 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cost-effective-obs-setup-tips/"><u>[New] Cost-Effective OBS Setup Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-online-presence-with-obs-on-youtube-and-twitch/"><u>[New] Elevate Your Online Presence with OBS on YouTube & Twitch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-frost-giants-redemption-gods-unleashed/"><u>[New] Frost Giants' Redemption Gods Unleashed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-visual-virtuosity-enhancement-no-money-more-magic/"><u>[Updated] 2024 Approved Visual Virtuosity Enhancement No Money, More Magic</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-bandicam-know-how-a-complete-review/"><u>[Updated] In 2024, Essential Bandicam Know-How - A Complete Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-microphone-efficiency-checklist/"><u>[Updated] In 2024, Microphone Efficiency Checklist</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-video-editing-software-showdown-bandicam-vs-camtasia/"><u>[Updated] In 2024, Video Editing Software Showdown Bandicam vs Camtasia</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-refining-online-discussions-in-google-meet/"><u>[Updated] Refining Online Discussions in Google Meet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversione-rapida-ed-economica-i-5-modi-migliori-per-cambiare-formato-da-avi-a-mp4-gratuitamente/"><u>Conversione Rapida Ed Economica: I 5 Modi Migliori per Cambiare Formato Da AVI a MP4 Gratuitamente</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/el-optimo-clonador-gratis-para-windows-comparacion-entre-xxclone-y-otras-opciones-libres/"><u>El Optimo Clonador Gratis Para Windows: Comparación Entre XXClone Y Otras Opciones Libres</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elite-10-royale-combat-titles-for-2024/"><u>Elite 10 Royale Combat Titles for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Pop 7 Pro FRP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>In 2024, Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-slidecasting-simplified-a-modern-webcam-approach/"><u>In 2024, Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/insights-into-income-average-earnings-per-advertisement-playback-in-2024/"><u>Insights Into Income Average Earnings per Advertisement Playback, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/oneclickfreeze-easy-screen-recording-quit-for-2024/"><u>OneClickFreeze Easy Screen Recording Quit for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-your-projects-proportions-with-aspect-ratio-for-2024/"><u>Perfecting Your Project's Proportions with Aspect Ratio for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715701125640-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>The Ultimate Cut for Quality Offline iPad Gaming!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno without backup.</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-connecting-dots-spotify-plus-discord-easy-steps/"><u>[Updated] 2024 Approved Connecting Dots Spotify + Discord Easy Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-step-by-step-screen-and-video-capture-on-android/"><u>[Updated] 2024 Approved Step-by-Step Screen and Video Capture on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-instagram-ringtone-making-manual/"><u>[Updated] 2024 Approved The Ultimate Instagram Ringtone Making Manual</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>[Updated] 2024 Approved Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skybound-creativity-essential-editing-skills-for-drone-films/"><u>2024 Approved Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728489914511-windows/"><u>立馬修复：解決Windows计算机磁碟丢失文件问题</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-legacy-classic-pokemon-experience/"><u>Android's Legacy: Classic Pokémon Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-mycam-changes-video-recording-at-home-an-in-depth-review/"><u>In 2024, How MyCam Changes Video Recording at Home – An In-Depth Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ins-and-outs-of-earning-from-youtube/"><u>In 2024, The Ins and Outs of Earning From YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-webinar-recording-techniques/"><u>Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/practical-ways-to-archive-online-discussions/"><u>Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/reclaim-lost-files-the-ifind-pro-raid-recovery-suite-safe-and-secure-retrieval-of-raid-015-data/"><u>Reclaim Lost Files: The iFind Pro RAID Recovery Suite - Safe and Secure Retrieval of Raid 0/1/5 Data</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-10-virtual-reality-games-for-iphone-gamers-for-2024/"><u>Top 10 Virtual Reality Games for iPhone Gamers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-how-to-fix-a-stuck-update-process/"><u>Troubleshooting Windows 10: How to Fix a Stuck Update Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/windows-10-users-guide-saving-mov-files-flawlessly-for-2024/"><u>Windows 10 Users' Guide Saving .mov Files Flawlessly for 2024</u></a></li>
 </ul></div>
 

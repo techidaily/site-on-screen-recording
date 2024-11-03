@@ -1,7 +1,7 @@
 ---
 title: Improving Recognition of Rare Codings
-date: 2024-08-10T18:48:53.605Z
-updated: 2024-08-11T18:48:53.605Z
+date: 2024-10-31T23:59:00.410Z
+updated: 2024-11-02T17:51:07.359Z
 categories:
   - repair-tools
 description: This Article Describes Improving Recognition of Rare Codings
@@ -16,14 +16,8 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
 # How do I Fix an Unsupported Video Codec?
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on12 Jun, 2024
 * Min Reading 6  Min
@@ -37,9 +31,6 @@ Table of Content
 
 [Free Download Windows  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Missing codec error](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/uploads/2020/07/missing-codec-video-not-playing-1.png)
 
 _Figure: Missing codec error in Films & TV app_
@@ -77,8 +68,12 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -130,6 +125,13 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -141,8 +143,18 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -158,24 +170,14 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -200,6 +202,13 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -227,8 +236,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,6 +243,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-techniques-perfecting-live-sports-broadcast-recording/"><u>[New] 2024 Approved Prime Techniques Perfecting Live Sports Broadcast Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elite-emulators-for-budget-switch-games-for-2024/"><u>[New] Elite Emulators for Budget Switch Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-video-communication-tools-list-for-2024/"><u>[New] Essential Video Communication Tools List for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/armonizing-visuals-and-soundtracks-with-youtubes-video-editor-for-2024/"><u>[New] Harmonizing Visuals & Soundtracks with YouTube's Video Editor for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] In 2024, Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-steps-to-obtain-free-audio-for-videos/"><u>[Updated] In 2024, Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-high-quality-webcam-capture-made-easy-review/"><u>[Updated] In 2024, High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps-for-2024/"><u>Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>In 2024, Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-live-streams-from-obs-to-fb/"><u>In 2024, Mastering Live Streams From OBS to FB</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/losung-fur-systemwiederherstellungskompatibilitat-und-unbekannter-fehler-code-0x80070-groovytxt-entschlusselt/"><u>Lösung Für Systemwiederherstellungskompatibilität Und Unbekannter Fehler (Code 0X80070 groovy.txt) [Entschlüsselt]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/section-3b-fact-facts-about-ocular-pharmacology-and-therapeutics/"><u>Section 3B: Fact. Facts About Ocular Pharmacology and Therapeutics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/solo-strategies-making-your-podcast-sensational/"><u>Solo Strategies Making Your Podcast Sensational</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-pathway-to-recognition-youtubers-guide-to-personal-brands-for-2024/"><u>The Pathway to Recognition YouTubers' Guide to Personal Brands for 2024</u></a></li>
+</ul></div>
 

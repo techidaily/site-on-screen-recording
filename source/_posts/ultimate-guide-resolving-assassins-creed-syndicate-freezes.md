@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Assassin’s Creed Syndicate Freezes"
-date: 2024-10-23T04:19:23.834Z
-updated: 2024-10-28T01:53:04.437Z
+date: 2024-10-31T23:44:42.035Z
+updated: 2024-11-02T23:03:02.239Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -62,19 +69,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -82,13 +76,6 @@ If this method doesn’t help, check out your graphics driver.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -100,20 +87,20 @@ If this method doesn’t help, check out your graphics driver.
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
@@ -129,16 +116,23 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -150,13 +144,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -164,6 +151,13 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -191,21 +185,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>[New] Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-novice-to-pro-the-ultimate-instagram-story-journey/"><u>[New] In 2024, From Novice to Pro The Ultimate Instagram Story Journey</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[New] In 2024, Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-asgardian-crusade-final-quest/"><u>[New] The Asgardian Crusade Final Quest</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-6-minecraft-village-house-ideas-for-2024/"><u>[New] Top 6 Minecraft Village House Ideas for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-transform-your-mobile-broadcasting-top-tips-in-obs-studio-for-2024/"><u>[New] Transform Your Mobile Broadcasting Top Tips in OBS Studio for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>[Updated] 2024 Approved Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-mac-programming-options-excluding-bandicam/"><u>[Updated] Best Mac Programming Options Excluding Bandicam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-securing-your-gaming-victories-through-fbx/"><u>[Updated] In 2024, Securing Your Gaming Victories Through FBX</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-creating-chuckles-with-gifs-a-meme-masterclass/"><u>2024 Approved Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-close-up-views-in-google-meet/"><u>2024 Approved Mastering Close-Up Views in Google Meet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-convert-jpg-and-png-images-to-pdf-on-an-iphone-for-2024/"><u>How to Convert JPG and PNG Images to PDF on an iPhone for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-insights-into-gesture-based-user-input/"><u>In 2024, Advanced Insights Into Gesture-Based User Input</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>In 2024, Unplugged Delight Your Guide to Free Screen-Free Games for Android</u></a></li>
-<li><a href="https://facebook.techidaily.com/investigating-validity-of-facebooks-security-mail-address/"><u>Investigating Validity of Facebook's Security Mail Address</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-definitive-top-ten-nintendo-switch-combat-apps-max-156/"><u>[New] In 2024, Definitive Top Ten Nintendo Switch Combat Apps (Max 156)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leveraging-nvidia-tools-for-screen-capture/"><u>[New] In 2024, Leveraging NVIDIA Tools for Screen Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-multiplatform-iptv-live-streaming/"><u>[New] In 2024, Multiplatform IPTV Live Streaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-the-power-of-whiteboards-on-zoom-platforms-across-multiple-devices/"><u>[New] Unleashing the Power of Whiteboards on Zoom Platforms Across Multiple Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-farm-family-bonding-the-ultimate-agritainment-guide/"><u>[Updated] 2024 Approved Farm Family Bonding The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-3-ways-to-record-switch-gameplay/"><u>[Updated] 3 Ways to Record Switch Gameplay</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-choosing-your-best-gif-creator-a-comparative-analysis-for-2024/"><u>[Updated] Choosing Your Best GIF Creator A Comparative Analysis for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pitchperception-sound-examination/"><u>[Updated] In 2024, PitchPerception Sound Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-economical-switch-replicas-for-2024/"><u>[Updated] Innovative Economical Switch Replicas for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-journey-to-jewels-5-optimal-terrafirma-mapping-for-2024/"><u>[Updated] Journey to Jewels 5 Optimal Terrafirma Mapping for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-tool-for-perfect-openings-anywhere-you-go/"><u>2024 Approved Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/practices-for-youtube-outro-design/"><u>Best Practices for YouTube Outro Design</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-reviews-the-most-effective-programs-to-mend-corrupt-photographs/"><u>Expert Reviews: The Most Effective Programs to Mend Corrupt Photographs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spearhead-sales-the-power-of-polished-professional-prose/"><u>Spearhead Sales: The Power of Polished Professional Prose</u></a></li>
+<li><a href="https://techtrends.techidaily.com/spy-shots-the-next-gen-google-pixel-9-anticipated-specifications-price-points-release-window-revealed/"><u>Spy Shots! The Next-Gen Google Pixel 9: Anticipated Specifications, Price Points, Release Window Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-file-wma-in-wmv-offline-e-gratis-con-moveavi/"><u>Trasforma I File WMA in WMV Offline E Gratis Con Moveavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-ax8-wi-fi-6-router-range-extender-is-it-future-ready/"><u>Ultimate Guide to the Netgear Nighthawk AX8 Wi-Fi 6 Router Range Extender: Is It Future-Ready?</u></a></li>
 </ul></div>
 
