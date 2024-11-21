@@ -1,7 +1,7 @@
 ---
 title: "Game On, No More Interruptions: Conquering the Challenge of Fortnite PC Crashes in 202"
-date: 2024-10-27T03:34:10.917Z
-updated: 2024-11-02T21:20:32.768Z
+date: 2024-11-16T21:41:50.335Z
+updated: 2024-11-21T08:49:09.801Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 **Don’t worry if Titanfall 2 keeps crashing on your PC** . Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Titanfall 2 players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 8. **[Reinstall Titanfall 2](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Titanfall 2
 
@@ -73,6 +81,10 @@ Below are the system requirements for Titanfall 2:
 
  If your PC fails to meet Titanfall 2 minimum system requirements, you may not be able to run the game properly on your PC. In such a case, you need to **upgrade your hardware first** . If you don’t know how to check the DirectX version on your PC, you can refer to the first step in the post: [ Download DirectX 12 for Windows 10 \[SOLVED\]](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  Corrupted or outdated drivers usually lead to the Titanfall 2 crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
@@ -104,31 +116,11 @@ Below are the system requirements for Titanfall 2:
 
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install the latest Titanfall 2 patch
 
  The developers of Titanfall 2 release regular game patches to fix bugs. It’s possible that a recent patch has caused the game crashing issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Add Titanfall 2 as an exception to your third-party antivirus application
 
@@ -141,10 +133,7 @@ Below are the system requirements for Titanfall 2:
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair Titanfall 2
@@ -156,13 +145,14 @@ Below are the system requirements for Titanfall 2:
 3. Select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -175,13 +165,6 @@ Below are the system requirements for Titanfall 2:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
@@ -199,10 +182,7 @@ Below are the system requirements for Titanfall 2:
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Titanfall 2
@@ -214,13 +194,6 @@ Below are the system requirements for Titanfall 2:
 3. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Uninstall.png)
 4. Download and reinstall Titanfall 2.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Titanfall 2 to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -247,21 +220,17 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-share-screen-on-google-meet/"><u>[New] 2024 Approved How to Share Screen on Google Meet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-choose-your-arena-top-platforms-without-cross-play-in-apex-legends/"><u>[New] Choose Your Arena Top Platforms Without Cross-Play in Apex Legends</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-record-and-relive-iphoneandroid-google-meet-sessions/"><u>[New] In 2024, Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-achieving-cinematic-motion-with-camtasia-for-2024/"><u>[New] The Ultimate Guide to Achieving Cinematic Motion with Camtasia for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveil-the-power-of-vrecorder-installs-demystified-for-2024/"><u>[New] Unveil the Power of VRecorder Installs Demystified for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hacking-hd-problems-clearing-chromes-video-blockade-on-social-platforms/"><u>[Updated] Hacking HD Problems Clearing Chrome's Video Blockade on Social Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leveraging-virtual-board-features-for-enhanced-collaboration-in-zoom/"><u>[Updated] In 2024, Leveraging Virtual Board Features for Enhanced Collaboration in Zoom</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-earning-potential-with-strategic-facebook-video-ads-for-2024/"><u>[Updated] Maximizing Earning Potential with Strategic Facebook Video Ads for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-success-the-ultimate-guide-for-facetime-conversations/"><u>[Updated] Recording Success The Ultimate Guide for FaceTime Conversations</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-secure-growth-of-your-tiktok-fanbase-for-2024/"><u>[Updated] Secure Growth of Your TikTok Fanbase for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-skaldic-battle-asgard-vs-jotunheim/"><u>[Updated] Skaldic Battle Asgard vs Jotunheim</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-expertise-full-guide-to-record-your-macscreens/"><u>[Updated] The Ultimate Expertise Full Guide to Record Your MacScreens</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-hues-and-highlights-editing-techniques-for-impact/"><u>2024 Approved Hues & Highlights Editing Techniques for Impact</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1724765510657-macx-dvd-ripper-pro-windows/"><u>官方網站 MacX DVD Ripper Pro Windows版 - 高保障性影像備份工具</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-shorts-tutorial-crafting-compact-engaging-videos/"><u>In 2024, YouTube Shorts Tutorial Crafting Compact, Engaging Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-media-boost-link-your-facebook-story-4-methods-for-2024/"><u>Social Media Boost Link Your Facebook Story [4 Methods] for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>[New] In 2024, Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-short-form-video-content-on-youtube/"><u>[New] In 2024, Boosting Your Short-Form Video Content on Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-integrate-sound-and-filter-magic-into-your-windows-10-photos-app-for-2024/"><u>[New] Integrate Sound & Filter Magic Into Your Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>[Updated] Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-download-and-launch-an-easy-path-with-vrecord-for-2024/"><u>[Updated] Download and Launch An Easy Path with VRecord for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[Updated] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-hdd-picks-for-expanding-your-xbox/"><u>[Updated] Top HDD Picks for Expanding Your Xbox</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/bridging-worlds-unveiling-the-best-6-in-nft-art-for-2024/"><u>Bridging Worlds Unveiling the Best 6 in NFT Art for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harmonyheed-evaluating-audio-artifacts-for-2024/"><u>HarmonyHeed Evaluating Audio Artifacts for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-to-simulate-historical-alterations/"><u>In 2024, Tricks to Simulate Historical Alterations</u></a></li>
 </ul></div>
 

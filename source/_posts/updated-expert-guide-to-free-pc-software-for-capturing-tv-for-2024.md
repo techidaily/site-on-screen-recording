@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Guide to Free PC Software for Capturing TV for 2024"
-date: 2024-10-26T18:44:57.952Z
-updated: 2024-10-28T05:21:32.635Z
+date: 2024-11-17T18:51:21.175Z
+updated: 2024-11-20T17:13:24.742Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record TV shows on Windows 7/8 for Free
@@ -68,10 +65,7 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
@@ -83,6 +77,10 @@ Click on the Guide feature, and browse through the TV program in order to select
 #### Step 4
 
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
 
@@ -101,10 +99,7 @@ After you've launched the program, find the Game DVR icon that is located in the
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
@@ -134,10 +129,7 @@ However, NextPVR also works as a standalone program, and in order to start recor
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,16 +147,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-mp3-conversion-from-mp3-files-to-youtube-videos-3-ways/"><u>[New] 2024 Approved Easy MP3 Conversion From MP3 Files to YouTube Videos [3 Ways]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-recording-success-the-ultimate-guide-for-facetime-conversations/"><u>[New] 2024 Approved Recording Success The Ultimate Guide for FaceTime Conversations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-skyrocket-to-partner-status-crush-that-critical-10000-view-benchmark/"><u>[New] In 2024, Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-voice-memo-recording-on-your-iphone/"><u>[Updated] Effortless Voice Memo Recording on Your iPhone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-obs-settings-for-low-cost-hardware/"><u>[Updated] Perfect OBS Settings for Low-Cost Hardware</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-effective-mov-file-saving-on-windows-11-for-2024/"><u>[Updated] Tips for Effective MOV File Saving on Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-video-trimming-on-windows-10-tips-for-efficiency-and-precision/"><u>2024 Approved Mastering Video Trimming on Windows 10 Tips for Efficiency and Precision</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/bandicam-reviewed-the-latest-tech-enhancements-and-tips-for-2024/"><u>Bandicam Reviewed The Latest Tech Enhancements and Tips for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-component-analysis-by-toms-hardware-gurus/"><u>Comprehensive Computer Component Analysis by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-wmv-video-stitching-software-our-top-5-recommendations-for-2024/"><u>New Free WMV Video Stitching Software Our Top 5 Recommendations for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tp-links-tl-wr9e-travel-routers-ultimate-miniature-wi-fi-solution-in-a-small-package/"><u>TP-Link's TL-WR9e Travel Routers: Ultimate Miniature Wi-Fi Solution in a Small Package</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-efficient-workflow-capturing-mac-screens-with-just-shortcuts/"><u>[New] 2024 Approved Mastering the Art of Efficient Workflow Capturing Mac Screens with Just Shortcuts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-gaming-screens-selecting-the-top-5-ps5/"><u>[New] 2024 Approved Ultimate Gaming Screens Selecting the Top 5 (PS5)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-design-ideas-top-6-mc-village-residences/"><u>[Updated] Design Ideas Top 6 MC Village Residences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-round-up-the-most-effective-9-digital-recorders-for-2024/"><u>[Updated] Expert Round-Up The Most Effective 9 Digital Recorders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>2024 Approved Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-set-your-tiktok-track-as-ringtone/"><u>A Step-by-Step Guide to Set Your TikTok Track as Ringtone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-8-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 8 Plus?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastery-over-airwaves-recording-techniques-for-live-sounds-for-2024/"><u>Mastery Over Airwaves Recording Techniques for Live Sounds for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-elevate-your-video-production-top-4k-video-editing-software/"><u>New In 2024, Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secrets-to-excellent-screen-recordings-on-lenovo-for-2024/"><u>Secrets to Excellent Screen Recordings on Lenovo for 2024</u></a></li>
 </ul></div>
 

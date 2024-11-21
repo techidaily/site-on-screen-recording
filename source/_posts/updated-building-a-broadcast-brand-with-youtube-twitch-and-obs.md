@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building a Broadcast Brand with YouTube, Twitch and OBS"
-date: 2024-11-06T17:02:42.661Z
-updated: 2024-11-11T16:51:47.076Z
+date: 2024-11-15T16:29:33.486Z
+updated: 2024-11-20T19:49:48.787Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,7 @@ In all circumstances, you need to either produce a stream key in your account se
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2\. Installing and Setting OBS
@@ -49,17 +46,7 @@ OBS Studio is available for all main operating systems such as Windows, Mac OS, 
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
@@ -70,11 +57,23 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4\. Adding Scene and Sources
 
 A scene may be simply added in OBS by clicking on the addition symbol indicated in the picture below. Once you have chosen this, you will simply be prompted to pick a name for the scene. All of your overlays, sources, and basic on-screen items will need to be introduced through a specified scene. Once you have created your scene and titled it, make sure it is chosen and proceed to the box on the right side of the picture below to click the plus symbol. This brings up the many sources you may pick from for your freshly constructed scenario. The good thing is, once you have inserted a source in one scene, you can simply use it again in another.
 
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5\. Adding a Twitch Chat
 
@@ -94,13 +93,6 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![streamkey](https://images.wondershare.com/filmora/article-images/streamkey.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 3:** Once authenticated, it’s time to travel to YouTube Studio. Choose the Camera icon on the upper right-hand side of the main YouTube page and then select Go Live.
 
 ![go live](https://images.wondershare.com/filmora/article-images/go-live.jpg)
@@ -110,10 +102,7 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 ![schedule stream](https://images.wondershare.com/filmora/article-images/schedule-stream.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Link OBS to YouTube**
@@ -121,13 +110,6 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 ****Step 1:** Download OBS from the official website and install it like you would any other application. Run it as an administrator, and proceed into the Settings panel using the appropriate button situated in the lower right corner.
 
 ![link obs to youtube](https://images.wondershare.com/filmora/article-images/link-obs-to-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Step 2:** Go to the Stream tab using the left-hand menu and pick YouTube -RTMPS from the Service drop-down box.
 
@@ -137,18 +119,15 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Start Streaming**
 
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Conclusion
 
@@ -178,17 +157,18 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-pioneering-photography-examination-with-counterparts/"><u>[New] Pioneering Photography Examination with Counterparts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-essentials-to-initiate-in-google-meet/"><u>[New] The Essentials to Initiate in Google Meet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-hunters-top-5-video-recording-recommendations/"><u>[Updated] 2024 Approved Hunters' Top 5 Video Recording Recommendations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-30-vs-60-fps-for-2024-which-to-use-in-video-recording/"><u>[Updated] 30 Vs. 60 FPS for 2024 Which To Use in Video Recording?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-simplifying-the-world-of-ifunnys-meme-application/"><u>[Updated] Simplifying the World of iFunny's Meme Application</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-optimize-your-video-written-by-your-name/"><u>2024 Approved Optimize Your Video' Written By [Your Name]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-ultimate-youtube-watch-list-highest-watched-in-24-hours/"><u>2024 Approved Ultimate YouTube Watch List Highest-Watched in 24 Hours</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/essential-ingredients-for-triumphant-tiktok-marketing-plans-for-2024/"><u>Essential Ingredients for Triumphant TikTok Marketing Plans for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-can-creators-earn-from-product-video-reviews/"><u>In 2024, Can Creators Earn From Product Video Reviews?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/motion-magic-quick-photography-tricks-for-samsung-users-for-2024/"><u>Motion Magic Quick Photography Tricks for Samsung Users for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-bandicams-new-features-the-2023-breakdown/"><u>Navigating Bandicam's New Features – The 2023 Breakdown</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superior-style-for-text-mobility/"><u>[New] 2024 Approved Superior Style for Text Mobility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-techniques-for-sizing-up-your-instagram-video-reach-for-2024/"><u>[New] Essential Techniques for Sizing Up Your Instagram Video Reach for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-handsonguide-to-yourwebcamrecord/"><u>[New] In 2024, HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-momentum-at-rest-best-idle-pc-games/"><u>[Updated] In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-zoomers-handbook-for-captivating-video-and-audio-content-for-2024/"><u>[Updated] The Complete Zoomer's Handbook for Captivating Video and Audio Content for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-discover-the-chime-of-the-bell-waveform/"><u>2024 Approved Discover the Chime of the Bell Waveform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improve-teleconference-experience-fixing-zoom-sound/"><u>2024 Approved Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-webcam-video-capture-using-vlc/"><u>Easy Webcam Video Capture Using VLC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hp-elitebook-850-g6-storage-upgrade-tutorial-step-by-step-instructional-video/"><u>HP EliteBook 850 G6 Storage Upgrade Tutorial: Step-by-Step Instructional Video</u></a></li>
+<li><a href="https://win-dash.techidaily.com/universal-3gpmp4-converter-easily-transform-videos-between-popular-formats-like-avi-mkv-mpg-more/"><u>Universal 3GP/MP4 Converter: Easily Transform Videos Between Popular Formats Like AVI, MKV, MPG More!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-details-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights</u></a></li>
 </ul></div>
 

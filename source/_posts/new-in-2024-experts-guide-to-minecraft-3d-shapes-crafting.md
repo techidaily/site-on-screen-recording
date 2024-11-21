@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Expert's Guide to Minecraft 3D Shapes Crafting"
-date: 2024-10-24T19:59:05.847Z
-updated: 2024-10-27T18:43:33.731Z
+date: 2024-11-20T05:18:50.148Z
+updated: 2024-11-20T20:07:32.584Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Minecraft is famous for its cube-shaped structure. The entire world of Minecraft
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to make a circle in Minecraft: A Step by Step Guide
 
 If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
@@ -49,6 +53,10 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
 
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
@@ -57,14 +65,11 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## How to make a Sphere in Minecraft
 
@@ -75,26 +80,20 @@ The only difference between making a circle and a sphere is the difference in di
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -112,13 +111,6 @@ Creating such amazing things and sharing them on your social media and video sha
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -134,20 +126,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>[New] Learning Vector Artistry An Overview for Starters & Software Picks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimal-recording-for-virtual-meetings-top-5-equipment-lists/"><u>[Updated] 2024 Approved Optimal Recording for Virtual Meetings Top 5 Equipment Lists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[Updated] 2024 Approved The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-quality-recording-of-your-roblox-journeys-on-mac/"><u>[Updated] How-To Quality Recording of Your Roblox Journeys on Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-in-class-ps3-virtual-games-for-pc/"><u>[Updated] In 2024, Best-in-Class PS3 Virtual Games for PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-for-virtual-business-growth/"><u>[Updated] The Blueprint for Virtual Business Growth</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-effortlessly-the-5-most-popular-iphone-gps-navigation-tools/"><u>Explore Effortlessly: The 5 Most Popular iPhone GPS Navigation Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 14 Plus | Stellar</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bridging-the-gap-with-quantum-hdr-knowledge/"><u>In 2024, Bridging the Gap with Quantum HDR Knowledge</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-8-best-fbx-game-recorder-alternatives/"><u>In 2024, Top 8 Best FBX Game Recorder Alternatives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-how-to-successfully-program-and-optimize-universal-remotes/"><u>Unlock the Secrets: How To Successfully Program and Optimize Universal Remotes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/untouched-live-visual-recorders-for-2024/"><u>Untouched Live Visual Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-memories-to-reels-building-stellar-slideshows-for-facebook/"><u>[New] In 2024, From Memories to Reels Building Stellar SlideShows for Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-mac-programming-options-excluding-bandicam/"><u>[New] In 2024, Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-screen-capture-on-chromebook-the-5-superior-tools-for-2024/"><u>[New] Master Screen Capture on Chromebook The 5 Superior Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vdq-video-snatcher-assessment-comprehensive-analysis-for-2024/"><u>[New] VDQ Video Snatcher Assessment Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-recording-made-easy-free-x-recorder-for-pc/"><u>[Updated] Audio Recording Made Easy Free X-Recorder for PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-tech-skills-learn-how-to-record-your-mac-display/"><u>[Updated] Essential Tech Skills Learn How to Record Your Mac Display</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ios-recording-tools-guide/"><u>[Updated] In 2024, IOS Recording Tools Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-optimal-image-quality-with-advanced-picture-settings-on-a-4k-smart-tv-from-samsung/"><u>Achieving Optimal Image Quality with Advanced Picture Settings on a 4K Smart TV From Samsung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/angiogenesis-and-invasion/"><u>Angiogenesis and Invasion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-character-adventures-windows-movie-maker-for-animators-for-2024/"><u>Crafting Character Adventures Windows Movie Maker for Animators for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-comprehensive-guide-to-farming-on-ginger-islet-for-2024/"><u>The Comprehensive Guide to Farming on Ginger Islet for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ost-engaging-history-youtube-creators-for-students-for-2024/"><u>The Most Engaging History YouTube Creators for Students for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-live-band-webcasts-for-2024/"><u>Ultimate Live Band Webcasts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi 14 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

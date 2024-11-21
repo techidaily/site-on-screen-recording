@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops"
-date: 2024-11-05T06:00:04.416Z
-updated: 2024-11-12T06:06:58.929Z
+date: 2024-11-17T21:44:39.310Z
+updated: 2024-11-20T22:25:17.891Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ If you are interested in using this fantastic tool, the following article will c
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
 The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
@@ -57,6 +61,10 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -66,10 +74,7 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -91,10 +96,7 @@ Go to your home page and launch the Microsoft Whiteboard.
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
@@ -114,13 +116,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -149,10 +144,7 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -170,17 +162,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficiencyinusingyourwebcamforcapturing/"><u>[New] 2024 Approved EfficiencyInUsingYourWebcamForCapturing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-advanced-tips-excelling-at-slide-show-recordings-for-2024/"><u>[New] Advanced Tips Excelling at Slide Show Recordings for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-assessing-video-streaming-giants-vs-manycam/"><u>[New] Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-mastery-with-vsdc-reviewed-for-2024/"><u>[New] Screen Recording Mastery with VSDC Reviewed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlabs-vs-obs-which-livestream-tool-reigns-supreme/"><u>[Updated] 2024 Approved Streamlabs Vs. OBS Which Livestream Tool Reigns Supreme?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insta-vid-techniques-scaling-videos-to-perfect-size-in-fcpx/"><u>[Updated] In 2024, Insta-Vid Techniques Scaling Videos to Perfect Size in FCPX</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-skyrocketing-status-15-clever-methods-for-rapid-social-media-stardom-on-instagram/"><u>[Updated] Skyrocketing Status 15 Clever Methods for Rapid Social Media Stardom on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-economical-virtual-reality-solutions/"><u>[Updated] Unveiling Economical Virtual Reality Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>2024 Approved Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-gt-5-by-drfone-android/"><u>How to Bypass FRP from Realme GT 5?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photobook-to-film-the-guide-for-digitizing-classic-photographs/"><u>In 2024, Photobook to Film The Guide for Digitizing Classic Photographs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210756788-9780711280656-tarot-magick/"><u>Tarot Magick | Free Book</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-sharex-insight-reviews-and-competing-choices/"><u>[New] 2024 Approved The ShareX Insight Reviews & Competing Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveiling-the-secrets-to-premieres-full-screen-mode/"><u>[New] 2024 Approved Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-audio-quality-boost-for-skype-calls-for-2024/"><u>[New] Audio Quality Boost for Skype Calls for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-eyechrome-studio-direct-os-screencap/"><u>[Updated] 2024 Approved EyeChrome Studio Direct OS Screencap</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-prime-ppts-into-high-quality-clips/"><u>[Updated] 2024 Approved Prime PPTs Into High-Quality Clips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>[Updated] 2024 Approved Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-superior-picks-top-9-chat-and-call-apps-for-smartphones-iosandroid/"><u>[Updated] 2024 Approved Superior Picks Top 9 Chat & Call Apps for Smartphones iOS/Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-high-quality-streaming-top-5-recorder-devices-reviewed/"><u>[Updated] High-Quality Streaming Top 5 Recorder Devices Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-selection-7-superior-fps-games/"><u>[Updated] In 2024, Elite Selection 7 Superior FPS Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-restorerite-professionals-insight/"><u>[Updated] In 2024, RestoreRite Professionals Insight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-top-6-creative-mojave-dwellings/"><u>[Updated] Ultimate Guide to Top 6 Creative Mojave Dwellings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-down-barriers-to-affordable-editing-power/"><u>2024 Approved Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-g310-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia G310 FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ais-game-changing-role-in-the-evolving-job-landscape-7-key-transformations/"><u>Generative AI's Game-Changing Role in the Evolving Job Landscape: 7 Key Transformations</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/leverage-team-potential-through-superior-linguistic-software/"><u>Leverage Team Potential Through Superior Linguistic Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723262401278-mastering-technology-find-the-best-deals-on-computers-at-your-site-name-savvy-shoppers-paradise/"><u>Mastering Technology: Find the Best Deals on Computers at [Your Site Name] - Savvy Shopper’s Paradise!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-showdown-for-gamers-for-2024/"><u>Screen Recorder Showdown for Gamers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2024-11-10T00:56:00.543Z
-updated: 2024-11-12T03:28:11.789Z
+date: 2024-11-18T08:13:53.461Z
+updated: 2024-11-21T01:01:40.110Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Sifu
 
 **Sifu** , the hardcore beat ’em up action-adventure game developed and published by French studio Sloclap, is finally out! Just like any other third-person action game that features intense hand-to-hand combat, Sifu’s gaming experience relies heavily on smooth frame rates. If you’re suffering from FPS and performance drops while playing Sifu on your PC, don’t worry! This article will help you fix these issues. After reading it, you should be able to boost the in-game FPS and play it smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -32,13 +36,6 @@ Sifu
 5. **[Change Windows power plan](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -66,10 +63,7 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -107,13 +101,6 @@ There are mainly two methods for you to update the graphics driver:
 * **Hide HUD** : No
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -160,14 +147,11 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -184,29 +168,21 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
 
@@ -233,24 +209,17 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>[New] 10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quick-quality-grabs-for-your-vids/"><u>[New] 2024 Approved Quick, Quality Grabs for Your Vids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-excellent-webcam-recorders-on-windows-10/"><u>[New] Excellent Webcam Recorders on Windows 10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-pcsmartphone-session-recorder/"><u>[New] The Ultimate PC/Smartphone Session Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-8-top-choices-your-go-to-templates-on-ig/"><u>[New] Unveiling 8 Top Choices Your Go-To Templates on IG</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screencast-o-matic-review-everything-you-need-to-know/"><u>[Updated] 2024 Approved Screencast-O-Matic Review Everything You Need To Know</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-precision-focused-speech-conversion-using-google-services/"><u>[Updated] In 2024, Precision-Focused Speech Conversion Using Google Services</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-privishield-shield-and-cam-cover/"><u>[Updated] In 2024, PriviShield Shield & Cam Cover</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-mac-screenshot-strategy-revealed/"><u>[Updated] In 2024, The Ultimate Mac Screenshot Strategy Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-non-gta-narratives-exploring-alternative-stories-for-2024/"><u>[Updated] Non-GTA Narratives Exploring Alternative Stories for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-simplified-approaches-to-insta-photovideo-resharing/"><u>[Updated] Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-fonepaw-screen-recorder-review/"><u>2024 Approved Fonepaw Screen Recorder Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/achieve-optimal-game-performance-update-your-geforce-rtx-2080-tis-graphics-card-driver-now/"><u>Achieve Optimal Game Performance: Update Your GeForce RTX 2080 Ti's Graphics Card Driver Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-connectivity-problems-what-to-do-when-iphone-cant-stay-on-wi-fi-network/"><u>Fix Connectivity Problems: What To Do When iPhone Can't Stay on Wi-Fi Network</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-g2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo G2 Phone with Broken Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-game-frequently-encounters-crashes/"><u>Resolved: Why Insurgency: Sandstorm Game Frequently Encounters Crashes</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-f14-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy F14 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/underlying-issues-with-video-editing-tool-performance/"><u>Underlying Issues with Video Editing Tool Performance.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dji-phantom-3-performance-analysis/"><u>[New] DJI Phantom 3 Performance Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>[New] In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-expert-guides-to-mobile-screen-recording/"><u>[Updated] 2024 Approved Expert Guides to Mobile Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-addressing-disrupted-video-in-obs-studio/"><u>[Updated] Addressing Disrupted Video in OBS Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-finding-your-fanbase-obs-or-twitch-studio-for-2024/"><u>[Updated] Finding Your Fanbase OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>[Updated] Picture Perfect Software and Websites to Amp Up Your Photos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/co-pilot-revolutionizing-chatgpt-features-and-capabilities-explored/"><u>Co-Pilot Revolutionizing ChatGPT: Features and Capabilities Explored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/discovering-the-power-of-fraps-in-video-capture-for-2024/"><u>Discovering the Power of Fraps in Video Capture for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/expertentechnischer-kundenservice-fur-datensicherung-wiederaufbereitung-und-synchrone-kopie/"><u>Expertentechnischer Kundenservice Für Datensicherung, Wiederaufbereitung Und Synchrone Kopie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-call-of-duty-wwii-error-4128-tips-and-solutions-for-gamers/"><u>Overcoming Call of Duty WWII Error 4128: Tips and Solutions for Gamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-yuva-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Yuva 3 FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

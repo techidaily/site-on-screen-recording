@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Assassin’s Creed Syndicate Freezes"
-date: 2024-11-04T16:10:17.122Z
-updated: 2024-11-11T19:06:50.856Z
+date: 2024-11-17T19:21:27.534Z
+updated: 2024-11-20T17:18:02.762Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -49,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 | **Memory**    | 8 GB RAM                          | 16 GB RAM                             |
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
 
@@ -72,23 +69,13 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
@@ -105,7 +92,15 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -117,15 +112,16 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -137,13 +133,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -151,13 +140,6 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -185,24 +167,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovative-use-of-plugins-for-skype-call-capture-in-obs/"><u>[New] 2024 Approved Innovative Use of Plugins for Skype Call Capture in OBS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/xtract-and-save-video-previews-free-and-easy-for-2024/"><u>[New] Extract and Save Video Previews, Free & Easy for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-frost-giants-redemption-gods-unleashed-for-2024/"><u>[New] Frost Giants' Redemption Gods Unleashed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leading-10-covert-media-collection-tools/"><u>[New] In 2024, Leading 10 Covert Media Collection Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-flying-tech-available-right-now/"><u>[New] Premium Flying Tech Available Right Now</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-free-easy-to-use-srt-translation-services-explored/"><u>[New] Top Free, Easy-to-Use SRT Translation Services Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-download-obs-studio-for-mac/"><u>[Updated] 2024 Approved How to Download OBS Studio for Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-precision-in-video-documentation-windowsosxiphone-methods/"><u>[Updated] In 2024, Precision in Video Documentation Windows/OSX/iPhone Methods</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unraveling-the-secrets-of-recording-hulu-across-computersmobile/"><u>[Updated] In 2024, Unraveling the Secrets of Recording Hulu Across Computers/Mobile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-insiders-method-for-rl-recording-for-2024/"><u>[Updated] The Insider's Method for RL Recording for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-turn-up-the-volume-enabling-sound-on-tweeted-videos/"><u>[Updated] Turn Up the Volume Enabling Sound on Tweeted Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-list-of-window-screenshot-utilities/"><u>[Updated] Ultimate List of Window Screenshot Utilities</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-intuitivestepsforyoucamuseandrecording/"><u>2024 Approved IntuitiveStepsForYouCamUseAndRecording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-navigating-the-online-marketplace-for-profitable-yt-content/"><u>2024 Approved Navigating the Online Marketplace for Profitable YT Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-seamless-integration-of-youtube-melodies-into-imovie/"><u>2024 Approved Seamless Integration of YouTube Melodies Into iMovie</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>2024 Approved Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>In 2024, GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-vlc-video-trimmer-for-mac-how-to-cut-clips-without-losing-a-single-pixel-for-2024/"><u>New VLC Video Trimmer for Mac How to Cut Clips Without Losing a Single Pixel for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-free-video-editing-apps-with-special-effects-for-ios-and-android/"><u>Updated 2024 Approved Top Free Video Editing Apps with Special Effects for iOS and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[New] 2024 Approved From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cut-the-cable-catch-the-game-10-best-streaming-apps-for-sport-and-football-watching-for-2024/"><u>[New] Cut the Cable, Catch the Game! 10 Best Streaming Apps for Sport and Football Watching for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>[New] In 2024, Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-resolving-disconnected-sound-on-obs-broadcast/"><u>[New] In 2024, Resolving Disconnected Sound on OBS Broadcast</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-learning-leaders-expert-picks-of-10-best-classroom-recorders-for-2024/"><u>[New] Learning Leaders Expert Picks of 10 Best Classroom Recorders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastery-in-mac-screen-capture-format-conversion/"><u>[New] Mastery in Mac Screen Capture Format Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-archive-powerpoint-into-video-repository/"><u>[Updated] 2024 Approved Archive PowerPoint Into Video Repository</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-10-virtual-clashes/"><u>[Updated] 2024 Approved Elite 10 Virtual Clashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Performance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/demystifying-and-repairing-the-notorious-0x0000000a-blue-screen-error/"><u>Demystifying and Repairing the Notorious 0X0000000A Blue Screen Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/effective-method-for-personalizing-fb-page-coverage/"><u>Effective Method for Personalizing FB Page Coverage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-steps-for-high-quality-twitch-broadcasts-for-2024/"><u>Essential Steps for High-Quality Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-internet-joke-architect/"><u>In 2024, Internet Joke Architect</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x50-gtfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X50 GTFRP Lock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-playbook-capturing-ps3-game-highlights-for-2024/"><u>The Ultimate Playbook Capturing PS3 Game Highlights for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

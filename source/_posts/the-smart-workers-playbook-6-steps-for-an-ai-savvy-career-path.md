@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2024-10-28T03:32:11.891Z
-updated: 2024-11-02T19:57:28.151Z
+date: 2024-11-18T05:40:55.793Z
+updated: 2024-11-20T16:30:42.467Z
 tags:
   - chatgpt
   - open-ai
@@ -39,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
@@ -68,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
@@ -79,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
@@ -98,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 * Adjust the sample rate, bit rate, or channels of an audio file
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
 
@@ -133,10 +128,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -166,21 +158,21 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[New] 2024 Approved Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-decoding-the-secrets-of-high-quality-screen-recordings-with-showmore-for-2024/"><u>[New] Decoding the Secrets of High-Quality Screen Recordings with ShowMore for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-eyedome-xtreme-ultimate-os-video-snapper/"><u>[New] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-multitasking-with-picture-in-picture/"><u>[New] Mastering the Art of Multitasking with Picture In Picture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-voice-over-fundamentals-from-syncing-dialogue-to-final-cut/"><u>[New] Voice Over Fundamentals From Syncing Dialogue to Final Cut</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-music-to-instagram-story-in-2024/"><u>[Updated] How to Add Music to Instagram Story, In 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tiktoks-triumph-the-most-shared-videos-on-twitter/"><u>[Updated] In 2024, TikTok's Triumph The Most Shared Videos on Twitter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-video-grabber-software-in-windows-11-for-2024/"><u>[Updated] Mastering Video Grabber Software in Windows 11 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-shrouded-screen-images-techniques-for-redacting-info/"><u>[Updated] Shrouded Screen Images Techniques for Redacting Info</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effortless-artistry-convert-photographs-to-cartoon-characters/"><u>Effortless Artistry Convert Photographs to Cartoon Characters</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-edit-youtube-videos-ultimate-guide/"><u>How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10C to Outlook | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-veiled-glance-at-digital-diary-fb/"><u>In 2024, Veiled Glance at Digital Diary (FB)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-solutions-for-overcoming-the-401-access-denied-problem/"><u>Mastering Solutions for Overcoming the 401 Access Denied Problem</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-platform-face-off-going-live-with-obstwitch-for-2024/"><u>The Platform Face-Off Going Live with OBS/Twitch for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-ready-free-rtx-2060-super-graphics-card-driver-software/"><u>Windows 11 Ready – Free RTX 2060 Super Graphics Card Driver Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>[New] 2024 Approved A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069427444-new-2024-approved-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>[New] 2024 Approved The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[New] Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-high-quality-video-communication-ranking-the-top-10-mobile-apps/"><u>[New] In 2024, High-Quality Video Communication Ranking the Top 10 Mobile Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-preventing-frames-gaps-for-flawless-video-captures/"><u>[New] Preventing Frames Gaps for Flawless Video Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-skype-with-obs/"><u>[Updated] 2024 Approved How to Record Skype with OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-mac-screenshots-exploring-five-simple-methods/"><u>[Updated] Effortless Mac Screenshots Exploring Five Simple Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stepwise-guide-to-conducting-video-chats-on-laptop-via-whatsapp/"><u>[Updated] Stepwise Guide to Conducting Video Chats on Laptop via WhatsApp</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlock-your-potential-one-thousand-new-likesmonth/"><u>2024 Approved Unlock Your Potential One Thousand New Likes/Month</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/api-mastery-with-chatgpt-practical-tips/"><u>API Mastery with ChatGPT: Practical Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-site-traffic-with-cookiebot-technology/"><u>Enhanced Site Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-artistry-top-android-collage-apps/"><u>In 2024, Mastering Mobile Artistry - Top Android Collage Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-sub4sub-like-a-pro-begin-here-for-expert-tips-for-2024/"><u>Navigating Sub4sub Like a Pro? Begin Here for Expert Tips for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reset-hari-ini-mengenal-teknologi-pemulihan-microsoft-refs/"><u>Reset Hari Ini - Mengenal Teknologi Pemulihan Microsoft ReFS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-last-epoch-crash-problem-a-comprehensive-guide-for-windows-users/"><u>Solving the 'Last Epoch Crash' Problem: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-presentation-maker-for-2024/"><u>What Is an AI Presentation Maker for 2024</u></a></li>
 </ul></div>
 

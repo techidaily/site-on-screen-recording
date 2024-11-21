@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Vivid Visual Storytelling  The Fade Technique\""
-date: 2024-11-06T03:07:48.853Z
-updated: 2024-11-12T01:43:06.478Z
+date: 2024-11-15T19:51:34.443Z
+updated: 2024-11-20T22:41:29.300Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ If you’re using the latest version of Filmora, there’re several ways you can
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Add Dissolve Transitions to Video to Fade in and Fade out Video Footage
 
 The first way to fade in and fade out the footage in Filmora is by applying dissolve transition. The dissolve, also called lap dissolve sometimes, is a gradual transition from one image to another. It is often used when the first image starts to disappear and the next image starts to display gradually.
@@ -45,10 +49,18 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
 ![Add Dissolve to Fade video in Filmora9 ](https://images.wondershare.com/filmora/article-images/dissolve-transtion-filmora9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Drag the Dissolve transition to the beginning part of the clip, and then drag the Dissolve transition again to the end of the clip.
 
@@ -57,10 +69,7 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 ![Ripple & Dissolve Transtions in Filmora9 ](https://images.wondershare.com/filmora/article-images/ripple-dissolve-transtions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You can adjust the duration of the Dissolve transition to get a better result.
@@ -68,10 +77,7 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Apply Fade Motion Effects to Video
@@ -81,13 +87,6 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 * Click the clip in the timeline and then switch to the Animation tab, scroll down and you will see the Preset Motions (Legacy) option in the Preset tab.
 
 ![Add  Fade Motion Effects to video in Filmora  ](https://images.wondershare.com/filmora/article-images/fade-motion-effects-animation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
@@ -103,10 +102,7 @@ We’ve made a video tutorial about how to fade in and fade out video easily in 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -135,13 +131,6 @@ YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explain
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -157,18 +146,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-slide-show-to-screen-share-recording-tips-for-professionals/"><u>[New] 2024 Approved From Slide Show to Screen Share Recording Tips for Professionals</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-edge-selecting-9-superior-online-microphone-recorders/"><u>[New] 2024 Approved Leading Edge Selecting 9 Superior Online Microphone Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-the-best-curated-list-of-spectacular-offline-ios-titles/"><u>[Updated] 2024 Approved Best of the Best Curated List of Spectacular Offline iOS Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-universal-techniques-for-streaming-to-disk-from-youtube/"><u>[Updated] In 2024, Universal Techniques for Streaming to Disk From YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-graphics-drivers-free-download-guide-for-windows-111087-users/"><u>Amd Rx 6800 Graphics Drivers - Free Download Guide for Windows 11/10/8/7 Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-videography-top-cameras/"><u>Cutting-Edge Videography Top Cameras</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guida-passo-passo-per-eliminare-i-file-di-backup-inutilizzati-su-seagate-dashboard/"><u>Guida Passo-Passo per Eliminare I File Di Backup Inutilizzati Su Seagate Dashboard</u></a></li>
-<li><a href="https://win11.techidaily.com/hidden-actions-for-context-menus-on-windows-editions/"><u>Hidden Actions for Context Menus on Windows Editions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 8 Plus?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-charting-tracks-on-spotify/"><u>In 2024, Top Charting Tracks on Spotify</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-realignment-for-chatgpt-service-errors/"><u>Mastering the Art of Realignment for ChatGPT Service Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-removing-liquid-from-inside-your-phone-speakers/"><u>Step-by-Step Guide: Removing Liquid From Inside Your Phone Speakers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-7-tips-for-capturing-live-online-classes-gratis-for-2024/"><u>[New] 7 Tips for Capturing Live Online Classes Gratis for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-affordable-tools-the-10-free-screen-sharing-platforms/"><u>[New] Best Affordable Tools The 10 Free Screen Sharing Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-screen-recorders-for-google-meet-you-should-try-free-and-paid-for-2024/"><u>[New] Best Screen Recorders for Google Meet You Should Try [Free and Paid] for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-velocity-hero-4-versus-ghost-s-racing/"><u>[New] Capturing Velocity Hero 4 Versus Ghost-S Racing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-hacking-the-art-of-high-quality-twitch-video-captures/"><u>[New] In 2024, Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-learn-to-record-mi-11s-display-effortlessly/"><u>[New] Learn to Record Mi 11'S Display Effortlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zoom-makeover-effortless-background-softening-for-2024/"><u>[New] Zoom Makeover Effortless Background Softening for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>[Updated] 2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-seamless-experience-with-iphone-vr-video-playback/"><u>[Updated] In 2024, Seamless Experience with iPhone VR Video Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-sync-obs-with-facebook-for-2024/"><u>[Updated] The Ultimate Guide to Sync OBS with Facebook for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-technique-programming-a-time-counter-in-obs-for-2024/"><u>[Updated] Ultimate Technique Programming a Time Counter in OBS for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-gif-recorder-for-mac/"><u>Best Gif Recorder for Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-asus-rog-phone-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Asus ROG Phone 7 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-find-x7-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Find X7 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-disruption-alert-southwest-grounds-20k-flights-critical-update-on-passenger-impact/"><u>Massive Disruption Alert: Southwest Grounds 20K Flights - Critical Update on Passenger Impact</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/nocturnal-notes-expert-advice-on-low-light-photos/"><u>Nocturnal Notes Expert Advice on Low Light Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tech-tools-for-streaming-a-detailed-overview-on-tv-recording/"><u>Tech Tools for Streaming A Detailed Overview on TV Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/value-airborne-inventors-budget-friendly-flight-tools/"><u>Value Airborne Inventors Budget-Friendly Flight Tools</u></a></li>
 </ul></div>
 

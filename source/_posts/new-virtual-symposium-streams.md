@@ -1,7 +1,7 @@
 ---
 title: "[New] Virtual Symposium Streams"
-date: 2024-11-07T04:53:05.931Z
-updated: 2024-11-11T21:25:41.446Z
+date: 2024-11-19T20:14:38.594Z
+updated: 2024-11-20T17:15:35.346Z
 tags: 
   - screen-recording
   - ai video
@@ -48,15 +48,20 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
@@ -70,10 +75,7 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
@@ -88,25 +90,11 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -128,6 +116,10 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -143,24 +135,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-crafting-impactful-ppt-tutorials-for-online-learning-sessions/"><u>[New] 2024 Approved Crafting Impactful PPT Tutorials for Online Learning Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-minecraft-homestead-blueprint-series/"><u>[New] 2024 Approved Minecraft Homestead Blueprint Series</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>[New] 2024 Approved Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines-for-2024/"><u>[New] Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-hear-the-difference-mac-in-sound-recording/"><u>[New] In 2024, Hear the Difference Mac in Sound Recording</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-simplified-webcam-editing-and-distribution-methods/"><u>[New] Simplified WebCam Editing & Distribution Methods</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-voice-memo-grab-and-examine/"><u>[Updated] 2024 Approved Voice Memo Grab & Examine</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhanced-avi-player-ultimate-performance-pcmobile/"><u>[Updated] In 2024, Enhanced Avi Player Ultimate Performance PC/Mobile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tonal-terrain-mac-audio-artistry/"><u>[Updated] Tonal Terrain Mac Audio Artistry</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-iphones-for-mobile-gaming-expert-recommendations/"><u>Best iPhones for Mobile Gaming - Expert Recommendations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-converting-youtube-videos-into-engaging-gifs-on-devices/"><u>In 2024, Converting YouTube Videos Into Engaging GIFs on Devices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New In 2024, How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-steps-for-logging-playthroughs/"><u>Quick Steps for Logging Playthroughs</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-google-pixel-fold-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Google Pixel Fold Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transitioning-timeless-images-a-tech-savvy-approach/"><u>Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-insights-utilizing-chatgpt-in-your-data-analytic-practices/"><u>Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>Updated 2024 Approved 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-into-the-future-jaunt-vrs-potential-explored/"><u>[New] 2024 Approved Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-5-top-android-ps2-game-simulators-for-2024/"><u>[New] 5 Top Android PS2 Game Simulators for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ounteract-fake-views-boosting-genuine-audience-size-for-2024/"><u>[New] Counteract Fake Views Boosting Genuine Audience Size for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-xbox-screen-recording-techniques-for-2024/"><u>[New] Essential Guide to Xbox Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-setup-obs-and-zoom-coexistence-made-simple/"><u>[Updated] In 2024, Quick Setup OBS & Zoom Coexistence Made Simple</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>[Updated] Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-the-art-of-captivating-instagram-video-audiences/"><u>2024 Approved Master the Art of Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-10-cost-free-screen-capture-apps-for-mac-users/"><u>In 2024, Top 10 Cost-Free Screen Capture Apps for Mac Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s23-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S23 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

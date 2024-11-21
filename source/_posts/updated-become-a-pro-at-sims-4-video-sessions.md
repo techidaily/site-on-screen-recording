@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Become a Pro at Sims 4 Video Sessions"
-date: 2024-11-07T05:07:25.638Z
-updated: 2024-11-11T22:10:37.320Z
+date: 2024-11-14T07:44:31.360Z
+updated: 2024-11-20T18:20:09.564Z
 tags: 
   - screen-recording
   - ai video
@@ -61,19 +61,6 @@ Step 1: Start by downloading and installing Filmora. Launch Filmora and click on
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to Record menu and click on Record PC Screen option.
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
@@ -87,6 +74,10 @@ Step 4: Click on the Record button and you will get a few seconds to prepare you
 ![recording sims 4 with filmora](https://images.wondershare.com/filmora/article-images/start-recording-sims4-with-filmora.jpg)
 
 Step 5: Press F9 on your keyboard to stop recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Use Bandicam to Record Sims 4
 
@@ -104,14 +95,11 @@ Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
 
 ![recording sims4 with bandicam](https://images.wondershare.com/filmora/article-images/recording-sims4-with-bandicam.jpg)
 
-Step 4: If you want to stop recording, click on Stop button.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 4: If you want to stop recording, click on Stop button.
 
 ## Way 4\. Use OBS to Record Sims 4
 
@@ -155,13 +143,6 @@ Way 4. [Use OBS to Record Sims 4](#part4)
 
 Way 5. [Use Windows Game Bar to Record Sims 4](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 1\. Record Sims 4 with the Built-in Recorder
 
 The easiest way to record Sims 4 gameplay is by using Sims 4 built-in recorder. However, you cannot record your gameplay continuously for hours. In fact, the recorder is designed to video few important moments in your gameplay. You can use hotkeys to record seamlessly. You can switch between different views easily and you can create a movie timeline in simple steps. Here are the steps on how to record Sims 4 gameplay for free.
@@ -175,6 +156,10 @@ Step 3: You have to enter into built-in camera mode by pressing Tab key. Once yo
 Step 4: Use 5/6/7/8/9 to memorize the desired scene and press V key to start recording your gameplay.
 
 Step 5: Once you are done, press V key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. Record Sims 4 with Filmora Screen Recorder
 
@@ -197,10 +182,7 @@ Step 2: Go to Record menu and click on Record PC Screen option.
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Select the recording screen size for recording Sims 4.
@@ -224,6 +206,10 @@ Step 1: Download and install Bandicam. Launch Bandicam and go to General and Vid
 Step 2: Go to Home tab and click on Game recording option.
 
 ![customize sims4 recording area bandicam](https://images.wondershare.com/filmora/article-images/customize-sims-4-record-area-bandicam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Rec button on the top bar to record Sims 4 gameplay.
 
@@ -359,6 +345,10 @@ Step 1: Press Windows + G keys together to open Windows Game Bar.
 
 ![winodws 10 game bar capture](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Open Sims 4 game and to start recording, press Windows + Alt + R keys together to start recording.
 
 Step 3: To stop recording, press Windows + Alt + R again.
@@ -377,13 +367,6 @@ Way 4. [Use OBS to Record Sims 4](#part4)
 
 Way 5. [Use Windows Game Bar to Record Sims 4](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 1\. Record Sims 4 with the Built-in Recorder
 
 The easiest way to record Sims 4 gameplay is by using Sims 4 built-in recorder. However, you cannot record your gameplay continuously for hours. In fact, the recorder is designed to video few important moments in your gameplay. You can use hotkeys to record seamlessly. You can switch between different views easily and you can create a movie timeline in simple steps. Here are the steps on how to record Sims 4 gameplay for free.
@@ -397,6 +380,10 @@ Step 3: You have to enter into built-in camera mode by pressing Tab key. Once yo
 Step 4: Use 5/6/7/8/9 to memorize the desired scene and press V key to start recording your gameplay.
 
 Step 5: Once you are done, press V key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. Record Sims 4 with Filmora Screen Recorder
 
@@ -414,6 +401,10 @@ Step 1: Start by downloading and installing Filmora. Launch Filmora and click on
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to Record menu and click on Record PC Screen option.
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
@@ -422,25 +413,11 @@ Step 3: Select the recording screen size for recording Sims 4.
 
 ![sims4 recording area filmora](https://images.wondershare.com/filmora/article-images/select-recording-area-sims4-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Click on the Record button and you will get a few seconds to prepare your screen.
 
 ![recording sims 4 with filmora](https://images.wondershare.com/filmora/article-images/start-recording-sims4-with-filmora.jpg)
 
 Step 5: Press F9 on your keyboard to stop recording.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. Use Bandicam to Record Sims 4
 
@@ -449,6 +426,10 @@ Bandicam is a popular gameplay recording software and it is quite renowned in th
 Step 1: Download and install Bandicam. Launch Bandicam and go to General and Videos tab and get the configurations perfect.
 
 ![run bandicam](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Go to Home tab and click on Game recording option.
 
@@ -473,10 +454,7 @@ Step 3: From Mode drop-down list, select Capture Any Fullscreen Application opti
 ![record sims4 with obs](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Click on OK button and open Sims 4 on full screen. On OBS, you will see Sims 4 gameplay on the window.
@@ -525,18 +503,20 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-best-webcam-recorders-for-windows-11/"><u>[New] 2024 Approved The Best Webcam Recorders for Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-efficient-techniques-saving-google-meets-on-phones-for-2024/"><u>[New] Efficient Techniques Saving Google Meets on Phones for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-11-free-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[Updated] 11 FREE YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-harnessing-the-power-of-free-windows-video-tools/"><u>[Updated] Harnessing the Power of Free Windows Video Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>2024 Approved Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-submission-a-filmmakers-guide-to-360-video/"><u>2024 Approved Navigating YouTube Submission A Filmmaker's Guide to 360 Video</u></a></li>
-<li><a href="https://win-best.techidaily.com/guide-setting-up-an-application-password-to-get-email-notifications-from-aomei-backupper/"><u>Guide: Setting Up an Application Password to Get Email Notifications From AOMEI Backupper</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-the-action-overwatch-video-recordings/"><u>In 2024, Capturing the Action Overwatch Video Recordings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-f15-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy F15 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>Perfecting Your Craft Making Time-Lapse Films with iPad</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-iphone-shots-free-swift-red-eye-elimination-techniques-for-2024/"><u>Revolutionize Your iPhone Shots Free, Swift Red-Eye Elimination Techniques for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unihertz-atom-xl-analysis-compact-yet-sturdy-a-mini-marvel-in-smartphones/"><u>Unihertz Atom XL Analysis: Compact Yet Sturdy - A Mini Marvel in Smartphones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[New] 2024 Approved Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-free-cam-screen-recorder-review-and-best-alternatives/"><u>[New] 2024 Approved Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-efficient-gaming-footage-with-camcapture/"><u>[New] Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-skillful-minecraft-players-building-circular-and-spherical-objects/"><u>[Updated] 2024 Approved Skillful Minecraft Players Building Circular & Spherical Objects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-get-tech-savvy-expert-guide-for-mac-screen-recording-via-shortcuts/"><u>[Updated] Get Tech-Savvy Expert Guide for Mac Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-engagement-with-facebook-posting-360-degree-photos-on-mobile-for-2024/"><u>[Updated] Maximize Engagement with Facebook Posting 360-Degree Photos on Mobile for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vlc-video-recording-performance-study/"><u>[Updated] VLC Video Recording Performance Study</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-6-plus-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 6 Plus IMEI Checker</u></a></li>
+<li><a href="https://win-help.techidaily.com/creating-your-own-handmade-flip-book-album-with-printed-images-on-flipbuilder/"><u>Creating Your Own Handmade Flip Book Album with Printed Images on FlipBuilder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-ways-to-record-vimeo-videos-for-2024/"><u>Easy Ways to Record Vimeo Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-connection-problems-with-network-settings-reset-guide/"><u>Fix Common iPhone Connection Problems with Network Settings Reset Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-streaming-audio-online/"><u>How to Record Streaming Audio Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>In 2024, Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/lone-earbud-problem-resolution-guide-for-2024/"><u>Lone Earbud Problem Resolution Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-word-on-a-budget-how-to-enjoy-this-tool-without-spending-money/"><u>Microsoft Word on a Budget: How to Enjoy This Tool Without Spending Money</u></a></li>
 </ul></div>
 
