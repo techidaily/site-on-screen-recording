@@ -1,7 +1,7 @@
 ---
 title: "[Updated] TOP 5 Free Screen Recorder Extensions for Chromebooks"
-date: 2024-11-16T21:41:00.601Z
-updated: 2024-11-21T03:41:42.798Z
+date: 2024-11-25T23:49:09.484Z
+updated: 2024-11-29T19:05:48.084Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,10 @@ Tap the Screencastify symbol in the upper right corner of your Chrome program ag
 
 At the point when you're finished recording, tap the "Stop" symbol in the recording controls at the lower part of the screen. Name the video you recorded and close the tab to allow Screencastify to wrap up handling the video and saving the video to Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Nimbus
 
 Nimbus Screenshot and screen video recorder is a screen recording apparatus accessible for download in the chrome web store. This screen recording apparatus functions as a program extension for most workstations including Chromebooks. It assists you with recording both the inner and outside sound easily and will be an ideal fit assuming that you're anticipating recording screencasts, instructional exercises, item show recordings, and so forth It at present has over 10,00,000 million dynamic clients across the globe.
@@ -60,10 +64,6 @@ Open Chrome Web Store, enter Nimbus in the hunt box. Add Nimbus Screenshot and S
 Send off the extension, click "Record video". You can redo sound and video settings on the following page.
 
 ![nimbus capture options](https://images.wondershare.com/filmora/article-images/nimbus-capture-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Start/Stop Recording**
 
@@ -107,12 +107,16 @@ Change portrayal settings for receiver and PC sound If you've chosen 'PC screen'
 
 ![run screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Save the Recording**
 
 Press the Pause button to briefly quit recording. After clicking "Done," click "Save/Upload" to save your video. If you picked the "Transfer to Screencast-o-Matic.com" choice when you distributed your video, it will be accessible when you sign in to your Screencast-o-Matic account
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Loom
@@ -128,7 +132,7 @@ Sign for Loom's free individuals and then add Loom's Chrome extension to Chrome 
 ![launch loom](https://images.wondershare.com/filmora/article-images/launch-loom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Setup the Extension**
@@ -138,16 +142,12 @@ Click on "New Video" > Record a Video and then customize the screen for recordin
 ![set up loom extensions](https://images.wondershare.com/filmora/article-images/loom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Start/Save Recording**
 
 Select Recording Mode either it will be the Screen Only, Screen and Camera, or Screen/Camera Only, and then Choose Current Window or A Chrome Tab >Click on "Begin Recording". And then hit the ‘Quit Recording’ and Basic Editing for Sharing or Local Downloading
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,19 +177,22 @@ Chromebooks accompany a pre-introduced screen recorder that permits all Chromebo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-basic-steps-flip-video-using-vlc-software/"><u>[New] Basic Steps Flip Video Using VLC Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-gamers-guide-to-high-quality-live-recording-for-2024/"><u>[New] Gamers' Guide to High-Quality Live Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webinar-recording-tactics-zero-price-strategy/"><u>[New] In 2024, Webinar Recording Tactics Zero Price Strategy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-non-zoom-video-conferencing-tools-desktopmobile-for-2024/"><u>[Updated] Best Non-Zoom Video Conferencing Tools (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-essential-guide-for-adding-depth-and-style-in-instagram-stories/"><u>[Updated] In 2024, The Essential Guide for Adding Depth & Style in Instagram Stories</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-blaze-2-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Blaze 2 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-14-ultra-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi 14 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-convos-introducing-us-exclusive-chatgpt-plus-us20mth/"><u>Boost Your Convos: Introducing U.S.-exclusive ChatGPT Plus (US$20/Mth)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/culinary-adventure-at-home/"><u>Culinary Adventure at Home</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-top-family-friendly-films-streaming-on-amazon-prime-video-in-july-2024/"><u>Discover the Top Family-Friendly Films Streaming on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-gaming-through-time-with-top-5-pc-based-ps1-game-emulators/"><u>In 2024, Gaming Through Time with Top 5 PC-Based PS1 Game Emulators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked ZTE Axon 40 Lite Phone?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-tgapng/"><u>Movavi - TGAファイルをPNGに自由に変換可能</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-highest-resolution-elevating-quality-with-drone-edits/"><u>The Highest Resolution Elevating Quality with Drone Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterful-use-of-digital-boards-in-web-meetings-across-appleandroid-and-laptops/"><u>[New] 2024 Approved Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-complete-guide-to-iphone-7-screen-recordings/"><u>[New] 2024 Approved The Complete Guide to iPhone 7 Screen Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-crystalvision-pro-screen-capturing-101/"><u>[New] CrystalVision Pro Screen Capturing 101</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[New] Exploring Screen Capture with Apowersoft, No Cost Involved</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-free-android-capturer/"><u>[New] In 2024, Ultimate Free Android Capturer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>[New] Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-best-cameras-elevating-podcast-engagement/"><u>[Updated] 2024 Approved Best Cameras Elevating Podcast Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-the-spectacular-with-nikon-d500-in-4k/"><u>[Updated] Capture the Spectacular with Nikon D500 in 4K</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-guide-screen-snapshots-in-windows-free-tutorials-for-2024/"><u>[Updated] Easy Guide Screen Snapshots in Windows (Free Tutorials) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-getting-to-grips-with-bandicam-your-guide-through-2023s-updates/"><u>[Updated] Getting to Grips with Bandicam – Your Guide Through 2023'S Updates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-rise-to-greatness-the-best-inspiring-movies/"><u>2024 Approved Rise to Greatness The Best Inspiring Movies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-6-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/creative-constructs-top-6-minimalist-mini-mansions/"><u>Creative Constructs Top 6 Minimalist Mini-Mansions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/dive-into-iphones-audio-memos-made-simple/"><u>Dive Into iPhone's Audio Memos Made Simple</u></a></li>
+<li><a href="https://techidaily.com/instant-vpn-configuration-tips-a-simple-step-by-step-process-for-secure-browsing/"><u>Instant VPN Configuration Tips: A Simple Step-by-Step Process for Secure Browsing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/uniform-visual-clarity-in-microsoft-teams-conferences/"><u>Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
 </ul></div>
 

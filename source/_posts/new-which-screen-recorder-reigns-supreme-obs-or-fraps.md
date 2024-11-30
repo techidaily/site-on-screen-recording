@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Which Screen Recorder Reigns Supreme  OBS or Fraps?\""
-date: 2024-11-16T01:25:03.653Z
-updated: 2024-11-21T02:54:15.459Z
+date: 2024-11-28T22:10:12.146Z
+updated: 2024-11-29T16:25:48.354Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ Live Streaming: OBS supports live broadcasting of videos on various online platf
 Besides, the customizable hotkeys for different functions make the recording operating seamless.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fraps -
@@ -51,11 +51,11 @@ System Requirements – Fraps is compatible with the older version of Windows su
 
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How To Use OBS Studio and Fraps -
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OBS: Here are the steps on how to record video with OBS Studio
 
@@ -74,7 +74,7 @@ Step 4: Go to Controls tab, click on Start Recording to start recording.
 ![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: When your recording is done, click on Stop Recording option under Controls tab.
@@ -87,11 +87,19 @@ Step 2: Open the application and under General tab, check the required parameter
 
 ![fraps general required parameters](https://images.wondershare.com/filmora/article-images/fraps-heneral-required-parameters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Go to Movies tab and set the settings as required.
 
 ![fraps movies settings](https://images.wondershare.com/filmora/article-images/fraps-movies-settings.jpg)
 
 Step 4: Open the screen that you want to record and press F9 to start recording with Fraps. To stop recording, press F9 key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Comparison - Fraps vs OBS
 
@@ -127,10 +135,6 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -140,7 +144,7 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -156,12 +160,16 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
@@ -179,20 +187,20 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -211,17 +219,9 @@ Step 2: Customize the recording screen size and select the audio source as requi
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -251,21 +251,16 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-core-6-social-media-tools-for-corporate-engagement/"><u>[New] Core 6 Social Media Tools for Corporate Engagement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-epic-imagery-crafting-inspiring-instagram-posts-top20/"><u>[New] Epic Imagery Crafting Inspiring Instagram Posts #Top20</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-advanced-io-screen-capturing-techniques/"><u>[New] In 2024, Advanced IO Screen Capturing Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-screen-capture-in-google-video-conferencing-for-2024/"><u>[New] Navigating Screen Capture in Google Video Conferencing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-showdown-of-streamers-which-platform-rules-obs-or-twitch-studio-in-2024/"><u>[New] Showdown of Streamers Which Platform Rules, OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-best-no-cost-lut-downloads/"><u>[New] Ultimate List Best No-Cost LUT Downloads</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-vr-in-schools-the-evolving-educational-sphere-for-2024/"><u>[New] VR in Schools The Evolving Educational Sphere for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-alternative-tools-that-outperform-sharex/"><u>[Updated] Alternative Tools That Outperform ShareX</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-easy-guide-to-entering-google-meet-on-devices-for-2024/"><u>[Updated] Easy Guide to Entering Google Meet on Devices for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-pivoting-to-passive-income-the-youtube-expedition-without-ads/"><u>[Updated] In 2024, Pivoting to Passive Income The YouTube Expedition Without Ads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capture-every-word-a-guide-to-recording-in-google-meet/"><u>2024 Approved Capture Every Word A Guide to Recording in Google Meet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-captivating-intros-on-mobile-platforms/"><u>Crafting Captivating Intros on Mobile Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expertise-in-speech-transcription-with-googles-tools/"><u>Expertise in Speech Transcription with Google's Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-winscomrssvdll-errors-in-windows-os/"><u>How to Rectify WinscomrssvDLL Errors in Windows OS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/restoring-lost-eyes-only-snapshots-on-snapchat/"><u>Restoring Lost Eyes-Only Snapshots on Snapchat</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-c51-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco C51? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-minecraft-domicile-easy-to-build-residential-plans/"><u>[New] 2024 Approved Minecraft Domicile Easy-To-Build Residential Plans</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-8-top-picks-for-seamless-screen-recording-experience/"><u>[New] 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>[New] In 2024, Expert's Insight Efficiently Using Mobizen for Capturing Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-growth-strategy-handbook/"><u>[New] The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing-for-2024/"><u>[New] Unleash Creativity Learning Sony Vegas Techniques for YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-apex-racecraft-games-5-top-titles/"><u>2024 Approved Apex Racecraft Games 5 Top Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-camstudio-recording-tech-a-comprehensive-2023-analysis/"><u>2024 Approved CamStudio Recording Tech A Comprehensive 2023 Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-speeches-learn-no-cost-audio-effect-techniques-here/"><u>2024 Approved Transforming Speeches Learn No-Cost Audio Effect Techniques Here</u></a></li>
+<li><a href="https://win-superb.techidaily.com/iphone-1516-4/"><u>如何將電腦中的音樂移動到 iPhone 15/16: 4簡單方法解鎖技術</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-value-4k-monitors-for-savvy-shoppers/"><u>Best Value 4K Monitors for Savvy Shoppers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-correct-opengl32dll-file-missing-errors/"><u>Effective Strategies to Correct OpenGL32.dll File Missing Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer
-date: 2024-11-19T06:20:57.894Z
-updated: 2024-11-20T18:10:47.293Z
+date: 2024-11-29T03:09:29.600Z
+updated: 2024-11-30T00:21:48.093Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer
@@ -13,17 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 
 4.5
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Meta Quest 2
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/G1C0A6m5hPeWOPp97vWLX5BvA4o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
 
@@ -52,7 +44,7 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/KO4q8p9NOXatDIXmzsBBpQgN5eA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
@@ -96,7 +88,15 @@ Andrew Hayward / Lifewire
 
 ![Oculus Rift 2](https://www.lifewire.com/thmb/JkgQv_Sk0ofSL0Sp-jKmqe84xak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-2-a7792535288542dba45c8bc32f882be2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tracking and Controllers: Some improvements, some drawbacks
 
@@ -105,6 +105,10 @@ Andrew Hayward / Lifewire
  The Quest 2’s wireless, motion-sensing Oculus Touch controllers are identical in function to the original, but are a little heavier and have a larger surface with space to rest your thumb when not in use. That’s handy. Each has an analog stick and two face buttons, along with a trigger button and a grip button. Oculus also swapped out the magnetically-attached battery doors from the first Quest controllers—which would sometimes slide open when I used the original—for ones that simply click into place. That’s a win for function over form.
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -118,10 +122,6 @@ Andrew Hayward / Lifewire
 
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setup Process: You’ll need a phone… and Facebook
 
  You should charge the Oculus Quest 2 out of the box, as the modest total battery life means a partially-charged headset isn’t going to last very long. You will need a[smartphone](https://www.lifewire.com/best-smartphones-4043781) , either Android or iPhone, and the free Oculus app to complete setup, as well. Once the headset has a good charge, begin setup from the mobile app and then follow the guided directions, which will involve putting on, adjusting, and getting familiar with the headset itself.
@@ -129,6 +129,10 @@ Andrew Hayward / Lifewire
  Part of the setup process, and the process each time you use the headset, is to designate your play space by “drawing” a barrier within the augmented view of your surroundings seen through the headset’s cameras. From there, the headset determines whether you have enough space for active, room-scale experiences, or you can choose a stationary setup for seated play modes. During active play, a virtual barrier called the Oculus Guardian appears when you get close to the edges of your designated play space to help you avoid crashing into your surroundings. It’s all rather clever and effective.
 
  There’s one other potential hitch with the Oculus Quest 2 that wasn’t present with the original: the new headset_requires_ a[Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) and there’s no way around it. Facebook owns Oculus, and while the first Quest could be used simply with an Oculus account, the new one requires the social media account. For some, that may be a deal-breaker, given frustrations over privacy and the increasing role that Facebook plays in our society, so just know that going in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance: It’s a big upgrade
 
@@ -148,10 +152,6 @@ Andrew Hayward / Lifewire
 
  I felt the Quest 2’s enhancements more prominently in some games over others. Laser sword-swinging music game Beat Saber, for example, ran well on the first headset and isn’t that different here—just smoother and clearer-looking. But with the online battle royale shooter Population: One, the cleaner-looking textures and more fluid performance helped mitigate some of the light motion sickness I felt playing on the first Quest.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sound Quality: Works fine without headphones
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
@@ -164,11 +164,11 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/Ns2S3DQVema5UEDDSO8n3N7SC_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-7-0a0e40b6a3064fe7abc985f0900dbeff.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: Use the headset or connect to PC
 
@@ -182,17 +182,9 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/72vxixVr7kdKoLfUC3QkIrBl26I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-6-12fcb6054cf2475191bc613a3f26bcfc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Andrew Hayward / Lifewire
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Games: A good, growing selection
 
@@ -213,6 +205,10 @@ Andrew Hayward / Lifewire
  The Oculus Quest was already impressively priced at $399, so launching the more powerful Oculus Quest 2 at $299 is pretty phenomenal. Granted, the design compromises are a little frustrating, and I would’ve rather paid more for a better strap and more precise IPD settings like on the original—but those are the tweaks made to try and broaden the market for the Quest and VR as a whole. Still, even with those design annoyances, the Quest 2 is an incredible value for a portable, fully self-contained VR game console.
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/TDsFPvRGkhZaFzIaNnKRk1_xO4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-8-Comparison-1b0c51b029da41389167e103a4c4843a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -235,6 +231,10 @@ Andrew Hayward / Lifewire
 * [Oculus Rift S](https://www.lifewire.com/oculus-rift-s-review-4764112)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -267,24 +267,19 @@ Andrew Hayward / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-affordable-webinar-tools-for-efficient-recording-for-2024/"><u>[New] Affordable Webinar Tools for Efficient Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[New] Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-experts-guide-to-minecraft-3d-shapes-crafting/"><u>[New] In 2024, Expert's Guide to Minecraft 3D Shapes Crafting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-game-away-your-worries-the-coolest-titles/"><u>[New] In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-gaming-experience-record-games-on-win10/"><u>[New] Maximizing Gaming Experience Record Games on Win10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-recording-real-time-google-meetings-for-2024/"><u>[New] Recording Real-Time Google Meetings for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-rethinking-streaming-new-platforms-challenge-obs-for-2024/"><u>[New] Rethinking Streaming New Platforms Challenge OBS for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-video-output-the-adobe-presenter-way/"><u>[Updated] 2024 Approved Optimizing Video Output The Adobe Presenter Way</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-switching-mac-screenshot-types-easily/"><u>[Updated] 2024 Approved Switching Mac Screenshot Types Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-digital-board-usage-during-web-conferences-on-diverse-devices/"><u>[Updated] Essential Tips for Digital Board Usage During Web Conferences on Diverse Devices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premium-extensions-catalog-ae-edition/"><u>[Updated] In 2024, Premium Extensions Catalog AE Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ting-your-vlogs-with-high-quality-editing-premiere-pro-style-for-2024/"><u>Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-candids-canvas-transforming-photos-with-editing-tips/"><u>In 2024, Candid's Canvas Transforming Photos with Editing Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfecting-your-linkedin-summary-statement/"><u>Perfecting Your LinkedIn Summary Statement</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/prime-position-tripod-essential-for-adventures/"><u>Prime Position Tripod: Essential for Adventures</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-security-basics-in-windows-11-setup/"><u>Restoring Security Basics in Windows 11 Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-modifying-gps-location-on-android-and-ios-devices/"><u>The Ultimate Trick for Modifying GPS Location on Android and iOS Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-12-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 12 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection/"><u>[New] In 2024, Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069258321-new-in-2024-kiddos-best-gaming-delights-top-girls-adventures/"><u>[New] In 2024, Kiddo's Best Gaming Delights - Top Girls' Adventures!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-efficient-techniques-to-record-on-vimeo/"><u>[Updated] 2024 Approved Efficient Techniques to Record on Vimeo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>[Updated] Click to Victory The Best 12 PC Games for Dedicated Players</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-video-capture-software-is-bandicam-superior-to-camtasia/"><u>[Updated] Navigating Video Capture Software Is Bandicam Superior to Camtasia?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/dissonant-designs-mastering-on-a-mac-for-2024/"><u>Dissonant Designs Mastering on a Mac for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-14-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 14 without Security Questions?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/premium-tools-for-tag-analysis-across-fb-twitter-and-instagram-for-2024/"><u>Premium Tools for Tag Analysis Across FB, Twitter and Instagram for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/revive-accidentally-deleted-partitions-with-advanced-recovery-software-solutions/"><u>Revive Accidentally Deleted Partitions with Advanced Recovery Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-ultimate-guide-to-pairing-an-xbox-one-controller-that-wont-sync/"><u>Solved! The Ultimate Guide to Pairing an Xbox One Controller That Won't Sync</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategies-for-syncing-zoom-meetings-across-devices/"><u>Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-a78-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo A78 fingerprint</u></a></li>
+<li><a href="https://fox-access.techidaily.com/utilizing-lut-filters-in-obs-studio-effectively-for-2024/"><u>Utilizing LUT Filters in OBS Studio Effectively for 2024</u></a></li>
 </ul></div>
 

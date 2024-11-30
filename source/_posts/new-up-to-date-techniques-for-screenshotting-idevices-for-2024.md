@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Up-to-Date Techniques for Screenshotting iDevices for 2024\""
-date: 2024-11-18T08:50:38.077Z
-updated: 2024-11-21T00:30:33.258Z
+date: 2024-11-25T19:49:46.788Z
+updated: 2024-11-30T00:44:43.612Z
 tags: 
   - screen-recording
   - ai video
@@ -44,12 +44,16 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
@@ -57,17 +61,13 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
@@ -86,7 +86,7 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -94,6 +94,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -115,10 +119,6 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -136,20 +136,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[New] 2024 Approved The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>[New] In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-in-depth-app-insights-the-az-reporters-cut/"><u>[New] In 2024, In-Depth App Insights - The AZ Reporter's Cut</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo/"><u>[New] Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-roadmap-for-distance-podcasting-for-2024/"><u>[New] The Ultimate Roadmap for Distance Podcasting for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-webcam-innovations-for-enhanced-connectivity-for-2024/"><u>[New] Webcam Innovations for Enhanced Connectivity for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-transparent-perspective-reviewing-recordcasts-strengths/"><u>[Updated] In 2024, Transparent Perspective Reviewing RecordCast's Strengths</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-fps-feudalists-unearthing-the-top-7-war-games/"><u>2024 Approved FPS Feudalists – Unearthing the Top 7 War Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-grok-by-elon-musk-an-insight-into-this-innovative-ai-and-its-affordability/"><u>Decoding Grok by Elon Musk: An Insight Into This Innovative AI & Its Affordability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gif9gif/"><u>GIF分析ツールトップ9品評！効果的にGIFを分解するテクニック</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/glitch-up-your-videos-top-ios-and-android-editing-apps/"><u>Glitch Up Your Videos Top iOS and Android Editing Apps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721926695089-no-more-waiting-embrace-an-expert-open-source-conversation-tool-while-chatgpt-is-on-hold/"><u>No More Waiting – Embrace an Expert Open Source Conversation Tool While ChatGPT Is on Hold</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sharpening-chatgpt-skills-without-redundant-tools/"><u>Sharpening ChatGPT Skills without Redundant Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-smooth-transition-to-sierra-essential-tech-steps/"><u>[New] 2024 Approved Smooth Transition to Sierra Essential Tech Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xplore-engaging-exchange-zones-for-2024/"><u>[New] Explore Engaging Exchange Zones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimal-recording-for-virtual-meetings-top-5-equipment-lists/"><u>[Updated] 2024 Approved Optimal Recording for Virtual Meetings Top 5 Equipment Lists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-revolutionary-6-sustainable-minecraft-homes/"><u>[Updated] 2024 Approved Revolutionary 6 Sustainable Minecraft Homes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[Updated] 2024 Approved The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-practical-guide-to-using-vsco-for-professionals/"><u>[Updated] A Practical Guide to Using VSCO for Professionals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>[Updated] Insta-Popularity Boost Mastering the 25 Essential Hashtags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-webcam-use-for-professional-meeting-records/"><u>[Updated] Mastering Webcam Use for Professional Meeting Records</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-5-ios-applications-bringing-your-podcast-to-life/"><u>[Updated] Top 5 iOS Applications Bringing Your Podcast to Life</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cheap-but-effective-the-1-to-10-free-desktop-recorders-for-2024/"><u>Cheap but Effective The #1 to #10 Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-screen-recorder-no-ads-for-android/"><u>In 2024, Best Screen Recorder No Ads for Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elevate-your-online-meeting-with-customized-google-meet/"><u>In 2024, Elevate Your Online Meeting with Customized Google Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-integrating-youtube-into-your-imovie-projects/"><u>In 2024, Integrating YouTube Into Your iMovie Projects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-8-best-fbx-game-recorder-alternatives/"><u>In 2024, Top 8 Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-dsc-w800-a-solid-investment-in-performance-and-value/"><u>Sony DSC-W800: A Solid Investment in Performance & Value</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/untouched-live-visual-recorders-for-2024/"><u>Untouched Live Visual Recorders for 2024</u></a></li>
 </ul></div>
 
