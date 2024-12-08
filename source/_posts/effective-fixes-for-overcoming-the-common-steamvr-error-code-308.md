@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2024-11-25T17:53:33.456Z
-updated: 2024-11-30T03:42:47.814Z
+date: 2024-12-04T17:10:14.499Z
+updated: 2024-12-07T17:15:57.025Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -40,10 +44,6 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -62,10 +62,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -73,10 +69,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -129,7 +121,15 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -140,6 +140,10 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
@@ -160,7 +164,7 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -172,15 +176,11 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -209,24 +209,19 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-avoiding-common-pitfalls-in-drone-battery-choices/"><u>[New] Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhance-skype-videocalls-with-obs-capture-for-2024/"><u>[New] Enhance Skype Videocalls with OBS Capture for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-knowledge-for-optimal-valheim-harvest-for-2024/"><u>[New] Essential Knowledge for Optimal Valheim Harvest for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-precision-game-recording-in-apex-legends-2023-edition/"><u>[New] In 2024, Precision Game Recording in Apex Legends, 2023 Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-screensnappers-journey-navigating-the-latest-recorders/"><u>[New] ScreenSnapper's Journey Navigating the Latest Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-screen-recording-processes-during-facetime/"><u>[New] Streamline Screen-Recording Processes During FaceTime</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-a-course-to-your-signature-sphere-for-2024/"><u>[Updated] Charting a Course to Your Signature Sphere for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>[Updated] In 2024, Expert Guide 6 Ways to Document Your Minecraft Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-stardew-valley-emphasizing-its-jewel-ginger-island-for-2024/"><u>[Updated] Unveiling the Secrets of Stardew Valley, Emphasizing Its Jewel - Ginger Island for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-tactics-for-android-video-capture/"><u>2024 Approved Essential Tactics for Android Video Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/compact-guide-to-windows-11s-best-screen-grabbers/"><u>Compact Guide to Windows 11'S Best Screen Grabbers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-options-how-does-claude-pro-stack-up-against-chatgpt-plus/"><u>Exploring Artificial Intelligence Options: How Does Claude Pro Stack up Against ChatGPT Plus?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-flawlessly-refresh-your-chromecast-settings/"><u>How to Flawlessly Refresh Your Chromecast Settings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-premier-listing-of-superior-free-lut-downloads/"><u>In 2024, Premier Listing of Superior Free LUT Downloads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-seamless-screen-saving-on-iphone/"><u>In 2024, Seamless Screen Saving on iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reply/"><u>Reply</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/seamlessly-saving-your-screen-premium-choices-on-pc-and-mac-for-2024/"><u>Seamlessly Saving Your Screen Premium Choices on PC & Mac for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-4-reasons-to-embrace-apple-vision-pro/"><u>Unveiling 4 Reasons to Embrace Apple Vision Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-your-systems-graphical-capability-with-intel-graphics-3000-on-windows-10-easily/"><u>Upgrade Your System's Graphical Capability with Intel Graphics 3000 on Windows 10 Easily.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-capture-central-apowsort-vs-alternatives-explored/"><u>[New] 2024 Approved Screen Capture Central Apowsort vs Alternatives Explored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-seamless-desktop-capture-high-quality-free-windowsmac-software-for-2024/"><u>[New] Seamless Desktop Capture High-Quality Free Windows/Mac Software for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-aural-clarity-unleashed-secrets-to-high-quality-audio/"><u>[Updated] Aural Clarity Unleashed Secrets to High-Quality Audio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-dissecting-mr-beasts-financial-health-for-2024/"><u>[Updated] Dissecting Mr. Beast’s Financial Health for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-free-premium-video-callers/"><u>[Updated] In 2024, Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-your-essential-guide-to-unmissable-gaming-adventures/"><u>[Updated] In 2024, Your Essential Guide to Unmissable Gaming Adventures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-what-are-the-different-versions-of-windows-movie-maker-in-2024/"><u>[Updated] What Are the Different Versions of Windows Movie Maker, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harnessing-power-at-no-cost-guide-to-hosting-and-participating-in-gmeet-for-2024/"><u>Harnessing Power at No Cost Guide to Hosting & Participating in GMeet for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-and-quality-editing-tips-for-obs-studio-aces-for-2024/"><u>Quick and Quality Editing Tips for OBS Studio Aces for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-available-display-options-nvidia/"><u>Restoring Available Display Options NVIDIA</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-11-error-code-0x800f0922-a-comprehensive-guide-to-8-essential-solutions/"><u>Troubleshoot Windows 11 Error CODE 0X800f0922: A Comprehensive Guide to 8 Essential Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops-for-2024/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/unlock-your-creative-potential-with-kistent-waung-the-ultimate-digital-art-tool-by-digiarty/"><u>Unlock Your Creative Potential with Kistent Waung: The Ultimate Digital Art Tool by Digiarty</u></a></li>
 </ul></div>
 

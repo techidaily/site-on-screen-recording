@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path"
-date: 2024-11-24T21:17:49.110Z
-updated: 2024-11-29T18:15:57.933Z
+date: 2024-12-03T18:11:50.347Z
+updated: 2024-12-08T05:51:49.669Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -71,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -85,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,15 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-immaculate-circular-and-spherical-shapes-in-minecraft/"><u>[New] 2024 Approved Crafting Immaculate Circular and Spherical Shapes in Minecraft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-tech-in-everyday-life/"><u>[New] Immersive Tech in Everyday Life</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[Updated] 2024 Approved Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-effortlessly-connect-camera-roll-to-snapchat-sharing-platforms-for-2024/"><u>[Updated] Effortlessly Connect Camera Roll to Snapchat Sharing Platforms for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-gamers-delight-selecting-the-top-10-hddsssds/"><u>[Updated] Gamer's Delight Selecting the Top 10 HDDs/SSDs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-quality-recording-of-your-roblox-journeys-on-mac/"><u>[Updated] How-To Quality Recording of Your Roblox Journeys on Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-in-class-ps3-virtual-games-for-pc/"><u>[Updated] In 2024, Best-in-Class PS3 Virtual Games for PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-gaming-experience-on-windows-11-with-updated-nvidia-graphics-driver/"><u>Enhance Gaming Experience on Windows 11 with Updated Nvidia Graphics Driver</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo K11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-podcast-title-selection-strategies-and-examples-for-2024/"><u>The Essential Guide to Podcast Title Selection Strategies & Examples for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>[Updated] 2024 Approved A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>[Updated] In 2024, Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-journey-through-the-past-with-these-leading-gba-console-emulators-for-windows-computers/"><u>[Updated] Journey Through the Past With These Leading GBA Console Emulators for Windows Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-listenguide-review/"><u>[Updated] ListenGuide Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premier-sustainable-cinematography-gear-for-2024/"><u>[Updated] Premier Sustainable Cinematography Gear for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-livestreams-with-manycam-advanced-features-for-professional-virtual-webcams/"><u>Enhance Your Livestreams with ManyCam: Advanced Features for Professional Virtual Webcams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exclusive-insight-samsungs-dazzling-galaxy-artificial-intelligence-offer-ending-soon/"><u>Exclusive Insight: Samsung's Dazzling Galaxy Artificial Intelligence Offer Ending Soon!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-an-early-look-interactive-guide-to-the-new-apple-iphone-15-pro/"><u>Get an Early Look: Interactive Guide to the New Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-30-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>In 2024, Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simplysnap-screen-shots-for-w10-users-for-2024/"><u>SimplySnap Screen Shots for W10 Users for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/smoothmoves-recordwatcher-study/"><u>SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-printer-functionality-in-windows-10/"><u>Streamlining HP Printer Functionality in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2024-11-25T21:07:26.486Z
-updated: 2024-11-29T18:42:17.538Z
+date: 2024-11-30T20:43:11.251Z
+updated: 2024-12-08T05:58:37.104Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 * Overlay an audio file with another audio
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
@@ -113,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  When we asked for a new feature to be added to the project, the plugin could identify all the files that needed changes to add a new feature. When prompted, it could make these changes with no input from our end.
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
@@ -158,19 +158,17 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-tricks-for-recording-online-discussions-easily/"><u>[New] 2024 Approved Tricks for Recording Online Discussions Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-screen-spectrum-your-gateway-to-gameplay/"><u>[New] In 2024, Screen Spectrum Your Gateway to Gameplay</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-quickrestore-reviewers-thoughts/"><u>[New] QuickRestore Reviewers Thoughts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-ios-applications-for-playing-psp-classics/"><u>[Updated] 2024 Approved Essential iOS Applications for Playing PSP Classics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>[Updated] In 2024, Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professional-insights-into-recording-quality-conversations-on-facetime/"><u>[Updated] In 2024, Professional Insights Into Recording Quality Conversations on FaceTime</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-of-librecam-studio/"><u>[Updated] In 2024, Unveiling the Secrets of LibreCam Studio</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-six-websites-where-youtube-imagery-breaks-the-mould/"><u>[Updated] Six Websites Where YouTube Imagery Breaks the Mould</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-fixes-stop-windows-control-issues-in-their-tracks/"><u>Effortless Fixes: Stop Windows Control Issues in Their Tracks!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 14 Plus and iPad</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-note-30-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Note 30 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-cloudsafe-experts-opinion/"><u>In 2024, CloudSafe Experts Opinion</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-toy-wheels-tournament-tunes/"><u>[New] 2024 Approved Toy Wheels Tournament Tunes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>[New] 2024 Approved Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-tips-for-pc-gamers-ideal-snapshots/"><u>[New] Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-augmented-eyes-seeing-the-unseen-enhanced-way/"><u>[New] In 2024, Augmented Eyes Seeing the Unseen Enhanced Way</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-spectacular-racing-sims-number-one-to-five-for-2024/"><u>[New] Spectacular Racing Sims Number One to Five for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-5-browser-screen-recorders/"><u>2024 Approved Top 5 Browser Screen Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>2024 Approved Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-the-epson-xp-400-drivers-complete-guide/"><u>Step-by-Step Instructions for Downloading the Epson XP 400 Drivers - Complete Guide</u></a></li>
 </ul></div>
 
