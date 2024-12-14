@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path"
-date: 2024-12-03T18:11:50.347Z
-updated: 2024-12-08T05:51:49.669Z
+date: 2024-12-07T10:56:07.843Z
+updated: 2024-12-14T12:41:19.755Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,6 +66,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -69,10 +77,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -85,7 +89,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -99,10 +103,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,18 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>[Updated] 2024 Approved A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>[Updated] In 2024, Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-journey-through-the-past-with-these-leading-gba-console-emulators-for-windows-computers/"><u>[Updated] Journey Through the Past With These Leading GBA Console Emulators for Windows Computers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-listenguide-review/"><u>[Updated] ListenGuide Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premier-sustainable-cinematography-gear-for-2024/"><u>[Updated] Premier Sustainable Cinematography Gear for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-your-livestreams-with-manycam-advanced-features-for-professional-virtual-webcams/"><u>Enhance Your Livestreams with ManyCam: Advanced Features for Professional Virtual Webcams</u></a></li>
-<li><a href="https://blog-min.techidaily.com/exclusive-insight-samsungs-dazzling-galaxy-artificial-intelligence-offer-ending-soon/"><u>Exclusive Insight: Samsung's Dazzling Galaxy Artificial Intelligence Offer Ending Soon!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-an-early-look-interactive-guide-to-the-new-apple-iphone-15-pro/"><u>Get an Early Look: Interactive Guide to the New Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-30-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Zero 30 5G Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>In 2024, Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/simplysnap-screen-shots-for-w10-users-for-2024/"><u>SimplySnap Screen Shots for W10 Users for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/smoothmoves-recordwatcher-study/"><u>SmoothMoves RecordWatcher Study</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-hp-printer-functionality-in-windows-10/"><u>Streamlining HP Printer Functionality in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-productivity-io-screen-capture-secrets/"><u>[New] Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superior-desktop-video-recorders-for-pcmacos/"><u>[New] Superior Desktop Video Recorders for PC/macOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-29-how-to-record-free-webinars-with-ease-and-precision/"><u>[Updated] 2024 Approved 29 How-To Record Free Webinars with Ease and Precision</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-harvest-happiness-best-agricultural-titles-to-play-with-friends/"><u>[Updated] 2024 Approved Harvest Happiness Best Agricultural Titles to Play With Friends</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-scaling-up-your-pathway-to-high-quality-facebook-live/"><u>[Updated] 2024 Approved Scaling Up Your Pathway to High-Quality Facebook Live</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[Updated] 2024 Approved Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>[Updated] Pro Mic Tech Review Best 9 Online Recorders Uncovered</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-itel-a70-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creative-storytelling-vault-for-2024/"><u>Creative Storytelling Vault for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/experience-next-level-performance-4k-touchscreen-amd-nuc-mini-pc-equipped-with-ryzen-9-and-massive-memorystorage-capacity/"><u>Experience Next-Level Performance: 4K Touchscreen AMD NUC Mini PC Equipped with Ryzen 9 and Massive Memory/Storage Capacity</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s24plus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S24+ Fingerprint Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
 

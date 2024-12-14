@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2024-12-04T17:10:14.499Z
-updated: 2024-12-07T17:15:57.025Z
+date: 2024-12-10T04:43:55.475Z
+updated: 2024-12-14T11:35:44.624Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Sifu
 
 **Sifu** , the hardcore beat ’em up action-adventure game developed and published by French studio Sloclap, is finally out! Just like any other third-person action game that features intense hand-to-hand combat, Sifu’s gaming experience relies heavily on smooth frame rates. If you’re suffering from FPS and performance drops while playing Sifu on your PC, don’t worry! This article will help you fix these issues. After reading it, you should be able to boost the in-game FPS and play it smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -33,10 +37,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -44,6 +44,10 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -61,6 +65,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -121,15 +129,7 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -139,10 +139,14 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
@@ -164,7 +168,7 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -174,10 +178,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -209,19 +209,18 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-capture-central-apowsort-vs-alternatives-explored/"><u>[New] 2024 Approved Screen Capture Central Apowsort vs Alternatives Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamless-desktop-capture-high-quality-free-windowsmac-software-for-2024/"><u>[New] Seamless Desktop Capture High-Quality Free Windows/Mac Software for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-aural-clarity-unleashed-secrets-to-high-quality-audio/"><u>[Updated] Aural Clarity Unleashed Secrets to High-Quality Audio</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-dissecting-mr-beasts-financial-health-for-2024/"><u>[Updated] Dissecting Mr. Beast’s Financial Health for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-free-premium-video-callers/"><u>[Updated] In 2024, Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-your-essential-guide-to-unmissable-gaming-adventures/"><u>[Updated] In 2024, Your Essential Guide to Unmissable Gaming Adventures</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-what-are-the-different-versions-of-windows-movie-maker-in-2024/"><u>[Updated] What Are the Different Versions of Windows Movie Maker, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/harnessing-power-at-no-cost-guide-to-hosting-and-participating-in-gmeet-for-2024/"><u>Harnessing Power at No Cost Guide to Hosting & Participating in GMeet for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-and-quality-editing-tips-for-obs-studio-aces-for-2024/"><u>Quick and Quality Editing Tips for OBS Studio Aces for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-available-display-options-nvidia/"><u>Restoring Available Display Options NVIDIA</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-windows-11-error-code-0x800f0922-a-comprehensive-guide-to-8-essential-solutions/"><u>Troubleshoot Windows 11 Error CODE 0X800f0922: A Comprehensive Guide to 8 Essential Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops-for-2024/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/unlock-your-creative-potential-with-kistent-waung-the-ultimate-digital-art-tool-by-digiarty/"><u>Unlock Your Creative Potential with Kistent Waung: The Ultimate Digital Art Tool by Digiarty</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-chromes-video-performance-boost-for-social-media/"><u>[New] Chrome's Video Performance Boost for Social Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ut-to-perfection-premier-android-editing-software-for-2024/"><u>[New] Cut to Perfection Premier Android Editing Software for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-customize-your-windows-photos-experience-with-unique-audio-and-aesthetic-choices/"><u>[New] In 2024, Customize Your Windows Photos Experience with Unique Audio & Aesthetic Choices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-full-potential-zdsoft-screen-recorder/"><u>2024 Approved Unlocking Full Potential ZDSoft Screen Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-lenovo-experience-with-advanced-capture-methods-for-2024/"><u>Elevate Your Lenovo Experience with Advanced Capture Methods for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-gamer-perks-lowest-priced-monitors-and-keyboards-for-2024/"><u>Essential Gamer Perks Lowest Priced Monitors & Keyboards for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/future-vision-evolving-trends-in-multicam-video-technology/"><u>Future Vision Evolving Trends in Multicam Video Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-14-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 14 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-dreamy-minecraft-domiciles-decoded/"><u>In 2024, Dreamy Minecraft Domiciles Decoded</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>In 2024, Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-hd-filming-with-the-logitech-c920-your-comprehensive-camera-review/"><u>Top-Notch HD Filming with the Logitech C920 - Your Comprehensive Camera Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y200-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y200 Device</u></a></li>
 </ul></div>
 
