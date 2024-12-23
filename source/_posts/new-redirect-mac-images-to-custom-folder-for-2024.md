@@ -1,7 +1,7 @@
 ---
 title: "[New] Redirect Mac Images to Custom Folder for 2024"
-date: 2024-09-08T00:34:13.131Z
-updated: 2024-09-09T00:34:13.131Z
+date: 2024-12-16T16:02:15.982Z
+updated: 2024-12-23T16:00:29.672Z
 tags: 
   - screen-recording
   - ai video
@@ -15,12 +15,6 @@ keywords: "\"Redirect Mac Photos,Custom Image Save Mac,MAC Image Redirection,Per
 thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Redirect Mac Images to Custom Folder
 
 # How to Change the Destination Where Screenshots are Saved on your Mac
@@ -55,23 +49,13 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -86,105 +70,6 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
-The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
-
-**defaults write com.apple.screencapture location /Users/username/Screenshots**
-
-To execute the command you have to press Enter. After Terminal finishes running the command, its window will appear on the screen again. You should proceed to confirm the changes you've just made by resetting the User Interface on your computer. In order to do so, you'll have to insert this command below the one you previously entered：
-
-**killall SystemUIServer**
-
-Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Change the Screenshot Save Location Back to Desktop
-
-The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
-
-**defaults write com.apple.screen capture location /Users/Username/Desktop/**
-
-Make sure that your username is properly written, and then press Enter to run the command. Now you only have to reset the UI so it can recognize the changes you've made, and you can do it by inserting the **killall SystemUIServer** command into the Terminal window and pressing Enter to execute it.
-
-Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Whenever you take a screenshot on a Mac computer, a file is saved to the desktop by default. Most Mac users never have the need to change this setting, because they can always move the file to a folder where they want to store it. On the other hand, creating a lot of screenshots every day can make a chaos on your desktop. Luckily changing the destination where your screenshots are saved is a simple process that lets you decide where your images will be stored.
-
-Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Save Screenshots to a Specific Folder on Mac
-
-Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
-
-![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
-
-**defaults write com.apple.screencapture location**
-
-Then enter a space at the end after 'location'.
-
-![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -241,35 +126,15 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -288,12 +153,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -306,12 +165,6 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -329,11 +182,9 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -352,11 +203,94 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1: How to Save Screenshots to a Specific Folder on Mac
+
+Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
+
+![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
+
+**defaults write com.apple.screencapture location**
+
+Then enter a space at the end after 'location'.
+
+![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
+
+**defaults write com.apple.screencapture location /Users/username/Screenshots**
+
+To execute the command you have to press Enter. After Terminal finishes running the command, its window will appear on the screen again. You should proceed to confirm the changes you've just made by resetting the User Interface on your computer. In order to do so, you'll have to insert this command below the one you previously entered：
+
+**killall SystemUIServer**
+
+Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+## Part 2: How to Change the Screenshot Save Location Back to Desktop
+
+The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
+
+**defaults write com.apple.screen capture location /Users/Username/Desktop/**
+
+Make sure that your username is properly written, and then press Enter to run the command. Now you only have to reset the UI so it can recognize the changes you've made, and you can do it by inserting the **killall SystemUIServer** command into the Terminal window and pressing Enter to execute it.
+
+Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Whenever you take a screenshot on a Mac computer, a file is saved to the desktop by default. Most Mac users never have the need to change this setting, because they can always move the file to a folder where they want to store it. On the other hand, creating a lot of screenshots every day can make a chaos on your desktop. Luckily changing the destination where your screenshots are saved is a simple process that lets you decide where your images will be stored.
+
+Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -372,11 +306,9 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -387,12 +319,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -433,10 +359,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-adding-descriptive-titlestexts-via-microsoft-photos-win-11-for-2024/"><u>[New] Adding Descriptive Titles/Texts via Microsoft Photos Win 11 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exquisite-innovations-in-desktop-tech/"><u>[New] Exquisite Innovations in Desktop Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-journey-enhancers-best-narrative-methods-for-2024/"><u>[New] YouTube Journey Enhancers Best Narrative Methods for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-directory-name-is-invalid-error/"><u>[SOLVED] The Directory Name Is Invalid Error</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-windows-simulations-for-playstation-3-games-5/"><u>[Updated] 2024 Approved Top Windows Simulations for PlayStation 3 Games (5)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[Updated] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mental-marathons-in-elite-escapade-venues/"><u>[Updated] Mental Marathons in Elite Escapade Venues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-recording-tips-for-your-next-google-meet-video-call/"><u>2024 Approved Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-top-10-non-vimeo-editors-for-user-generated-content/"><u>2024 Approved Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieving-seamless-smoothness-blurring-conference-borders/"><u>Achieving Seamless Smoothness Blurring Conference Borders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/gif-magic-on-mac-leading-tools-of-10/"><u>GIF Magic on Mac Leading Tools of 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-copying-and-watching-your-favorite-marvel-films-on-mac-or-pc/"><u>Guide: Copying and Watching Your Favorite Marvel Films on Mac or PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhancing-lenovo-experience-through-recording/"><u>In 2024, Enhancing Lenovo Experience Through Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-made-simple-for-mac-at-no-charge/"><u>In 2024, Recording Made Simple for Mac - At No Charge</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instasnap-optimize-images-and-videos-on-ig-for-2024/"><u>InstaSnap Optimize Images & Videos on IG for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2024-12-08T07:29:57.663Z
-updated: 2024-12-13T22:59:35.789Z
+date: 2024-12-18T16:05:52.789Z
+updated: 2024-12-23T16:09:06.290Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -39,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
@@ -49,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
- Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
 ## 2\. Create and Edit Videos
 
@@ -70,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
@@ -93,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A Powerful Tool at Your Fingertips
 
  While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.
@@ -158,17 +158,22 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-iphoneandroid-photo-enhancement-leaders-for-the-year-2024/"><u>[New] IPhone/Android Photo Enhancement Leaders for the Year 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-navigating-fun-with-junior-drivers-for-2024/"><u>[New] Navigating Fun with Junior Drivers for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-no-rush-realms-top-12-serene-titles/"><u>[New] No-Rush Realms Top 12 Serene Titles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eamlessly-personalize-your-youtube-shorts-with-custom-thumbnails-for-2024/"><u>[New] Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-for-ppt-screen-capture-2023-style/"><u>[Updated] 2024 Approved The Ultimate Guide for PPT Screen Capture, 2023 Style</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>[Updated] How to Make a Video Meme for Facebook and Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies-for-2024/"><u>[Updated] Pro Tools for Netflix Capture A Mac Guide of Six Strategies for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-6-mac-methods-for-recording-live-tv-shows-like-netflix/"><u>[Updated] The Ultimate 6 Mac Methods for Recording Live TV Shows Like Netflix</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-virtual-voyage-unlimited-the-ultimate-selection-of-free-roleplayers/"><u>[Updated] Virtual Voyage Unlimited The Ultimate Selection of Free Roleplayers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mirthful-modifications-ranked-smartphone-and-pc-photo-apps/"><u>2024 Approved Mirthful Modifications Ranked Smartphone & PC Photo Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/full-screen-mastery-achieved-in-obs/"><u>Full Screen Mastery Achieved in Obs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209897786-9781472571694-yoga-meditation-and-mysticism/"><u>Yoga, Meditation, and Mysticism | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-harvesting-hours-of-hilarity-friends-farming-favorites/"><u>[New] 2024 Approved Harvesting Hours of Hilarity Friends' Farming Favorites</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac-for-2024/"><u>[New] Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[New] Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-superlative-action-video-snapshot-review/"><u>[Updated] 2024 Approved Superlative Action Video Snapshot Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-the-metaverse-top-7-devices-that-matter/"><u>[Updated] Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-strategies-for-seamless-clip-composition/"><u>[Updated] Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-use-youcam-webcam-recorder/"><u>2024 Approved How to Use YouCam Webcam Recorder</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x7b-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X7b</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-gaming-wifi-router-review-tp-link-archer-a9s-exceptional-features-under-100/"><u>Budget Gaming WiFi Router Review - TP-Link Archer A9's Exceptional Features Under $100</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-epub-creation-transform-your-azw3-files-and-eliminate-drm/"><u>Effortless ePub Creation: Transform Your AZW3 Files & Eliminate DRM</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/eliminating-frame-discrepancies-in-obs-recordings/"><u>Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-creation-to-consumption-posting-vids-on-twtplustumb-for-2024/"><u>From Creation to Consumption Posting Vids on Twt+Tumb for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-p55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel P55 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-the-art-of-easy-webinar-recordings-windows-and-macos-advice/"><u>Master the Art of Easy Webinar Recordings Windows & macOS Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mod-mp3-movavi/"><u>MOD MP3 형식으로 자동화: 인터넷 상호 작용성 기술 - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-rainbow-six-siege-stuttering-with-these-expert-solutions/"><u>Say Goodbye to Rainbow Six Siege Stuttering with These Expert Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions-for-2024/"><u>Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions for 2024</u></a></li>
 </ul></div>
 

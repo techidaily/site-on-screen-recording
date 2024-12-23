@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record a Video Presentation Using Adobe Captivate"
-date: 2024-12-07T11:12:26.539Z
-updated: 2024-12-07T18:15:56.196Z
+date: 2024-12-16T16:02:59.524Z
+updated: 2024-12-23T16:10:36.267Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ To make things even better, the Adobe Captivate software is compatible with all 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -65,10 +69,6 @@ Before you can start working on your new project you first need to install the s
 Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
@@ -87,7 +87,7 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -100,6 +100,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -107,10 +111,6 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,22 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-videocaptureelite-10-expert-technical-review/"><u>[New] 2024 Approved VideoCaptureElite 10 Expert Technical Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-win10-screen-snapshot-maker-pro/"><u>[New] 2024 Approved Win10 Screen Snapshot Maker Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860743232-new-essential-mac-screen-recorders-top-10-free-list/"><u>[New] Essential Mac Screen Recorders – Top 10 FREE List!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>[New] Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[New] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-easy-routines-for-capturing-youtube-streams/"><u>[Updated] 2024 Approved Easy Routines for Capturing YouTube Streams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-between-vidma-and-rivals/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing Between Vidma and Rivals</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enhancing-stardew-experience-discovering-the-top-7-modifications/"><u>[Updated] In 2024, Enhancing Stardew Experience Discovering the Top 7 Modifications</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-platforms-for-no-cost-media-downloads/"><u>[Updated] In 2024, Pioneering Platforms for No-Cost Media Downloads</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-extensive-review-the-360-degree-capture-of-samsung/"><u>2024 Approved Extensive Review The 360-Degree Capture of Samsung</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embracing-innovation-with-claude-ai-reasons-to-make-the-switch/"><u>Embracing Innovation with Claude AI - Reasons to Make the Switch</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-1-v-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Xperia 1 V Phone without Google Account?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/relaxation-station-leisurely-phone-game-guide-for-2024/"><u>Relaxation Station Leisurely Phone Game Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-performance-secrets-a-critical-appraisal-of-nulaxys-legacy-bound-km18-fm-transmitter/"><u>Unveiling Performance Secrets: A Critical Appraisal of Nulaxy's Legacy-Bound KM18 FM Transmitter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigate-meeting-arrangements-with-zoom-ease/"><u>[New] 2024 Approved Navigate Meeting Arrangements with Zoom Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-sfpr-settings-for-leisurely-scenes/"><u>[New] Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-streams-from-obs-to-fb-directly/"><u>[New] Elevate Your Streams From OBS to FB Directly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-visual-storytelling-captioning-for-tiktok-videos-for-2024/"><u>[New] Mastering Visual Storytelling Captioning for TikTok Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-5-premium-hd-webcams-featuring-sound-for-2024/"><u>[New] Top 5 Premium HD Webcams Featuring Sound for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-techniques-for-high-quality-ps3-game-capture-for-2024/"><u>[New] Unveiling Techniques for High-Quality PS3 Game Capture for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>[Updated] 2024 Approved Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-strategies-for-no-sound-recording-for-2024/"><u>[Updated] Advanced Strategies for No-Sound Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-superior-free-reproduction-tools-for-switch-games/"><u>[Updated] In 2024, Superior Free Reproduction Tools for Switch Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ps3-experience-on-pc-leading-emulators-guide/"><u>[Updated] PS3 Experience on PC Leading Emulators Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlock-your-farming-potential-with-top-valheim-seeds/"><u>[Updated] Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-additional-navigational-controls-for-flip-book-interfaces-on-flipbuildercom/"><u>Exploring Additional Navigational Controls for Flip Book Interfaces on FlipBuilder.com</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-updating-or-downloading-hp-officejet-pro-8620-drivers-in-windows-operating-system/"><u>Guide to Updating or Downloading HP OfficeJet Pro 8620 Drivers in Windows Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-concoct-an-awkward-potion-for-beginners-in-minecraft/"><u>How to Concoct an Awkward Potion for Beginners in Minecraft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-emailing-video-game-tokens-through-steam/"><u>Mastering the Art of Emailing Video Game Tokens Through Steam</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-best-time-lapse-video-apps-for-iphone-and-android-for-2024/"><u>New Unleash Your Creativity Best Time-Lapse Video Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/optimal-performance-desktops-today-for-2024/"><u>Optimal Performance Desktops Today for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-youtube-performance-crafting-perfect-titles-and-tags-for-2024/"><u>Optimizing YouTube Performance Crafting Perfect Titles and Tags for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-asus-rog-phone-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Asus ROG Phone 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

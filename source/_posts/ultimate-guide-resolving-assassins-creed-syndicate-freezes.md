@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Assassin’s Creed Syndicate Freezes"
-date: 2024-12-09T00:07:44.820Z
-updated: 2024-12-13T18:04:25.973Z
+date: 2024-12-21T16:04:36.976Z
+updated: 2024-12-23T16:06:25.131Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  Got your Diablo 2 Resurrected but can’t play the game because it crashes with an unexpected error? You’re not alone. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -78,6 +78,10 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -86,10 +90,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
@@ -107,13 +107,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -126,14 +130,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -167,22 +167,15 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2023-facebook-video-downloader-application-for-mobilewinmac-for-2024/"><u>[New] 2023 | Facebook Video Downloader Application for Mobile/Win/Mac for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-vlog-gear-list-17-edition/"><u>[New] 2024 Approved The Ultimate Vlog Gear List (#17 Edition)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-selection-guide-the-10-best-picks-unveiled/"><u>[New] In 2024, Webcam Selection Guide The 10 Best Picks Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>[New] Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-securing-skype-conversations-via-obs/"><u>[New] Securing Skype Conversations via OBS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-sightgraph-assessment-center/"><u>[New] SightGraph Assessment Center</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-compile-presentation-asset-to-video/"><u>[Updated] 2024 Approved Compile Presentation Asset to Video</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-digging-into-the-heart-of-recordcast-technology-for-2024/"><u>[Updated] Digging Into the Heart of RecordCast Technology for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-no-pressure-pc-games-guide/"><u>[Updated] In 2024, Best No-Pressure PC Games Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-video-conferencing-the-ultimate-screen-recorder-list-for-2024/"><u>[Updated] Perfecting Video Conferencing The Ultimate Screen Recorder List for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-communication-barriers-premier-3-multilingual-education-tools/"><u>Conquer Communication Barriers: Premier 3 Multilingual Education Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dell-g5-5090-an-in-depth-look-at-a-cost-effective-highly-customizable-gaming-computer-for-enthusiasts-on-a-budget/"><u>Dell G5 5090: An In-Depth Look at a Cost-Effective, Highly Customizable Gaming Computer for Enthusiasts on a Budget</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-seamless-communication-why-iphones-might-miss-texts-from-android-devices/"><u>Ensuring Seamless Communication: Why iPhones Might Miss Texts From Android Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/gopro-hero7-black-review/"><u>GoPro HERO7 Black Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-laptop-charging-issues-when-it-shows-full-battery/"><u>How to Resolve Laptop Charging Issues When It Shows Full Battery</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-11-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 11 Pro Max Suddenly | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[New] In 2024, From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-professional-methodology-enabling-countdown-functionality-in-obs/"><u>[New] In 2024, Professional Methodology Enabling Countdown Functionality in OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-videographers-playbook-for-game-coverage-excellence/"><u>[New] In 2024, The Videographer’s Playbook for Game Coverage Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simple-guide-to-windows-11-home-interface-activation/"><u>A Simple Guide to Windows 11 Home Interface Activation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/captureelite-pro-windows-enhanced/"><u>CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-and-overcoming-windows-audiotrack-error-code-9999/"><u>Dissecting and Overcoming Windows Audiotrack Error Code 9999</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G34 5G</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>Masterclass in Making Memories Expert Tips for Snapchat Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/scarica-il-programmao-uffciale-per-windows-centro-di-download-per-lo-scaricamento-gratuito-del-software-per-estrarre-e-convertire-i-file-video-in-alta-defin127/"><u>Scarica Il Programmao Uffciale per Windows: Centro Di Download per Lo Scaricamento Gratuito Del Software per Estrarre E Convertire I File Video in Alta Definizione</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/visionguard-recorder-update-and-assessment-2023-for-2024/"><u>VisionGuard Recorder Update and Assessment 2023 for 2024</u></a></li>
 </ul></div>
 

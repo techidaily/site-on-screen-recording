@@ -1,7 +1,7 @@
 ---
 title: Mastering Mass Effect Legendary Edition - The Ultimate Guide to Earning Epic FPS Drops
-date: 2024-12-12T10:51:49.368Z
-updated: 2024-12-14T13:36:14.619Z
+date: 2024-12-22T16:04:53.606Z
+updated: 2024-12-23T16:02:53.206Z
 tags:
   - win11
   - win10
@@ -37,27 +37,15 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/game-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the GENERAL tab, uncheck the box**Enable Origin In Game for Mass Effect Legendary Edition** . Then click**Save** .  
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay-on-Origin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And you’ll need to disable overlay from the Origin client:
 
  1) Click**Origin** from the sidebar and select**Application Settings** .  
   
 ![Disable Origin Overlay Mass Effect Legendary Edition FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
 
@@ -72,6 +60,10 @@ And you’ll need to disable overlay from the Origin client:
 2) Click**Steam** from the sidebar and select**Settings** .  
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
   
@@ -103,11 +95,19 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -169,17 +169,9 @@ If this didn’t give you any luck, try the next fix below.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Browse**  button.  
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Locate your game’s exe file on your system.
 
@@ -192,18 +184,18 @@ If this didn’t give you any luck, try the next fix below.
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
   
 ![set high performance power plan Genshin Impact](https://images.drivereasy.com/wp-content/uploads/2021/01/high-performance.png)
 
- Still can’t fix your issues? No worries! There are other effective methods below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Still can’t fix your issues? No worries! There are other effective methods below.
 
 ## 6\. Turn off hardware acceleration
 
@@ -221,6 +213,10 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
@@ -231,19 +227,15 @@ If this didn’t give you any luck, try the next fix below.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
 
@@ -257,21 +249,29 @@ Here’s how to do this:
   
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -294,17 +294,19 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-aural-archive-discussion-and-judgment/"><u>[New] In 2024, Aural Archive Discussion & Judgment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-time-management-for-weekly-video-conferencing-sessions/"><u>2024 Approved Time Management for Weekly Video Conferencing Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/architectural-wonders-top-6-sleek-mc-homes/"><u>Architectural Wonders Top 6 Sleek MC Homes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-advice-on-enhancing-vhs-images-using-technology/"><u>Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/fbx-methods-for-perfect-gaming-saves-for-2024/"><u>FBX Methods for Perfect Gaming Saves for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/free-top-10-facebook-video-downloader-for-android-for-2024/"><u>FREE Top 10 Facebook Video Downloader for Android for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-fix-when-your-computer-wont-detect-external-devices-guidance-by-yl-software-experts/"><u>How to Fix When Your Computer Won't Detect External Devices - Guidance by YL Software Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-se-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone SE Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-six-pioneering-steps-for-moving-mov-files-to-win-11/"><u>In 2024, Six Pioneering Steps for Moving MOV Files to Win 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-15-pro-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 15 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>[New] 2024 Approved Low-Cost, High Performance Great Smartphones for Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>[New] Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cultivate-connections-agrigames-to-gather-friends-on-farms/"><u>[New] Cultivate Connections AgriGames to Gather Friends on Farms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-educational-videos-cutting-and-assembly-techniques/"><u>[New] Educational Videos Cutting & Assembly Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] 2024 Approved A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-archive-checkout-and-scrutiny/"><u>[Updated] Audio Archive Checkout & Scrutiny</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-user-experience-with-these-leading-videophones-for-2024/"><u>[Updated] Elevate User Experience with These Leading Videophones for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expressive-youtube-aesthetics-at-no-cost/"><u>2024 Approved Expressive YouTube Aesthetics at No Cost</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-xs-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone XS Max or iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-accessible-hardware-driver-updates-for-w7-systems/"><u>Quick Accessible Hardware Driver Updates for W7 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-error-in-moderation-issue-with-chatgpt-a-step-by-step-guide/"><u>Solving the 'Error in Moderation' Issue with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-complete-iphone-7-screen-capture-manual-for-2024/"><u>The Complete iPhone 7 Screen Capture Manual for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/virtual-forum-transcription/"><u>Virtual Forum Transcription</u></a></li>
 </ul></div>
 

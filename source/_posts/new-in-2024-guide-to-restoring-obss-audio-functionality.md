@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2024-12-09T17:06:46.962Z
-updated: 2024-12-14T07:30:55.697Z
+date: 2024-12-21T16:04:00.364Z
+updated: 2024-12-23T16:00:59.627Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Edit system and microphone audio seperately
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -46,7 +46,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -60,7 +60,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -73,6 +73,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -83,6 +87,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -92,14 +100,6 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -121,7 +121,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -162,18 +162,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-independent-creators-playbook-earning-big-without-ads-on-youtube/"><u>[New] 2024 Approved The Independent Creator’s Playbook Earning Big Without Ads on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/our-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[New] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[Updated] 2024 Approved Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-ipad-voice-recorders-1-2-3/"><u>[Updated] 2024 Approved Leading iPad Voice Recorders #1, #2, #3</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-gaming-advanced-techniques-for-recording-minecraft-for-2024/"><u>[Updated] Elevate Your Gaming Advanced Techniques for Recording Minecraft for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-channel-that-dominates-the-business-world-for-2024/"><u>[Updated] How to Create a Channel that Dominates the Business World for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-crafting-an-exceptional-experience-in-stardew-valley-top-7-mods/"><u>[Updated] In 2024, Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862690597-1149-off-shop-the-newly-discounted-m3-macbook-air-laptop-16gb-memory-and-13-inch-screen/"><u>$1,149 OFF! Shop the Newly Discounted M3 MacBook Air Laptop - 16GB Memory & 13-Inch Screen.</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-led-options-reviewed/"><u>Best LED Options Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-between-apple-devices-unpacking-the-differences-between-ipad-pro-m4-and-macbook-air-m3/"><u>Choosing Between Apple Devices: Unpacking the Differences Between iPad Pro M4 and MacBook Air M3</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-13-proplus-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 13 Pro+ 5G FRP Locks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch-for-2024/"><u>Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-discover-the-best-yoga-vlogs-perfect-balance-guide/"><u>[New] In 2024, Discover the Best Yoga Vlogs - Perfect Balance Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-minecrafts-oriental-elegance-6-top-ideas/"><u>[New] In 2024, Minecraft's Oriental Elegance 6 Top Ideas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-screen-record-apps-for-classroom-use/"><u>[New] In 2024, The Best Screen Record Apps for Classroom Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-cover-chronicles-top-tier-tech-edition-for-2024/"><u>[New] Insta Cover Chronicles Top-Tier Tech Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-deciphering-the-value-of-free2x-cam-recorders/"><u>[Updated] In 2024, Deciphering the Value of Free2X Cam Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-shoot-slow-motion-video-on-iphone/"><u>[Updated] In 2024, How to Shoot Slow Motion Video on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pros-choices-top-4-fullscreen-recording-software-for-pcmac/"><u>[Updated] Pros' Choices Top 4 Fullscreen Recording Software for PC/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-approach-to-hdr-creation-in-photoshop/"><u>[Updated] The Artisan's Approach to HDR Creation in Photoshop</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-enhance-your-videography-youtube-studio-edition-techniques/"><u>2024 Approved Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-guide-resolving-obs-skipping-problems/"><u>2024 Approved Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) has native HEVC support?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-coding-game-with-costless-gpt-4-turbo-on-copilot-platforms/"><u>Elevate Your Coding Game with Costless GPT-4 Turbo on Copilot Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-wf-7720-printer-driver-update-on-windows/"><u>Epson WF-7720 Printer Driver Update on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-5200-driver-download-for-optimal-printing-on-windows-108sx-systems/"><u>HP LaserJet 5200 Driver Download for Optimal Printing on Windows 10/8/SX Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-evolution-what-you-need-to-know/"><u>In 2024, Facebook Evolution What You Need to Know</u></a></li>
 </ul></div>
 

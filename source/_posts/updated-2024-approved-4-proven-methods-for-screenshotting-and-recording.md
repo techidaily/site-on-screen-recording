@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  4 Proven Methods for Screenshotting & Recording\""
-date: 2024-12-11T05:59:04.927Z
-updated: 2024-12-14T03:07:17.151Z
+date: 2024-12-16T16:02:30.678Z
+updated: 2024-12-23T16:02:40.660Z
 tags: 
   - screen-recording
   - ai video
@@ -64,7 +64,7 @@ Open the Google Play application on your phone and search for the Lollipop Scree
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lollipop Screen Recorder features only three settings, that let you choose whether you want to shoot in Landscape or Portrait mode, change the resolution of the video recording and enable the audio recording feature.
@@ -76,7 +76,7 @@ It is important to pay attention to the size of the file you are producing, espe
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
@@ -88,6 +88,10 @@ After you tap on the icon a message will pop up on the screen informing you that
 The app's notification bar is going to be located at the top of the Smartphone's screen, during the screen recording session, so in order to stop recording you simply need to find the notification with the label 'Recording Screen' and press stop.
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-recorded-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go back to the Lollipop Screen Recorder and you'll be able to find the video file in the app's main window. You can play the video directly from the Lollipop Screen recorder or you can share it to your Gmail account directly from the app. If you don't like the screen recording you made, you can tap on the Delete button and start a new session.
 
@@ -113,10 +117,6 @@ Android Debug Bridge is a command-line utility that can control your Android Sma
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
 
 #### Step 2: Connecting the Android Smartphone to a computer
@@ -134,16 +134,12 @@ You should be able to see the terminal window on your computer's screen. Run tes
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
 
@@ -171,6 +167,10 @@ Locate the Android Recorder button, and click on it to commence the screen recor
 Click on the Android Recorder button to stop the session, and once the screen capturing process is finished, a pop window on your Smartphone's screen will notify you that your video is saved and it will also show you the location on which the file was saved on your computer.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Capture Screen on Android with Capture Card
 
@@ -201,18 +201,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac/"><u>[New] 2024 Approved Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[New] In 2024, Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-surviving-in-mc-6-home-ideas/"><u>[New] Surviving in MC 6 Home Ideas</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] 2024 Approved How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-can-you-improve-zoom-video-resolution-quality-for-2024/"><u>[Updated] How Can You Improve Zoom Video Resolution Quality for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-guides-to-quick-webinar-recording-with-macos-and-windows/"><u>2024 Approved Guides to Quick Webinar Recording with macOS and Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-recorder-showcase-apowersofts-place-in-the-market/"><u>2024 Approved Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>2024 Approved The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-actions-screening-tech-report-for-2024/"><u>Cutting-Edge Actions Screening Tech Report for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-find-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Find X6 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205526286-keyboard-trouble-heres-how-you-can-get-your-number-pad-back-in-action/"><u>Keyboard Trouble? Here's How You Can Get Your Number Pad Back in Action</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ize-engagement-the-top-14-youtube-gaming-video-strategies/"><u>Maximize Engagement The Top 14 YouTube Gaming Video Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-link-sharing-twitter-writes-on-whatsapp-for-2024/"><u>[New] Direct Link Sharing Twitter' Writes on WhatsApp for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-foreground-emphasis-tips-for-logitech-video-recordings/"><u>[New] Foreground Emphasis Tips for Logitech Video Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>[New] In 2024, 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cam-problem-solved-operation-normal/"><u>[New] In 2024, Cam Problem Solved Operation Normal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-compile-presentation-asset-to-video/"><u>[New] In 2024, Compile Presentation Asset to Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-virtual-presence-mastering-zooms-snaps/"><u>[New] In 2024, Enhance Virtual Presence Mastering Zoom’s Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/"><u>[Updated] 10 Free Web Conferencing Software for Online Meeting (with Screen Sharing)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-3-top-picks-of-voice-capture-apps-for-your-ipad/"><u>[Updated] In 2024, 3 Top Picks of Voice Capture Apps for Your iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-decibel-documentation-system-and-speech/"><u>2024 Approved Decibel Documentation System and Speech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-muting-unwanted-noise-obs-audio-solution/"><u>2024 Approved Muting Unwanted Noise OBS Audio Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/correcting-driver-complications-a-user-friendly-tutorial-for-hp-envy-4520-printers-in-windows-environment/"><u>Correcting Driver Complications: A User-Friendly Tutorial for HP Envy 4520 Printers in Windows Environment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-blaze-curve-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Blaze Curve 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-n3-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Find N3 FRP Locks</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/recovery-tips-retrieving-lost-virtual-disk-images-from-vmware-environments/"><u>Recovery Tips: Retrieving Lost Virtual Disk Images From VMware Environments</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-zte-nubia-z60-ultra-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-ditch-gopro-studio-top-alternative-video-editors-for-action-cam-enthusiasts/"><u>Updated In 2024, Ditch GoPro Studio Top Alternative Video Editors for Action Cam Enthusiasts</u></a></li>
 </ul></div>
 
