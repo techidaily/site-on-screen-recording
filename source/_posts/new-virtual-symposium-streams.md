@@ -1,7 +1,7 @@
 ---
 title: "[New] Virtual Symposium Streams"
-date: 2024-12-22T16:06:16.038Z
-updated: 2024-12-23T16:03:18.563Z
+date: 2024-12-22T18:59:55.946Z
+updated: 2024-12-28T16:29:40.805Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ A career is a journey on which we are continually learning and developing new sk
 **Recording webinar with Filmora Scrn enables professionals from all walks of life to share the knowledge and experience they have with people around the globe. If you are thinking about starting your own webinar, you've come to the right place because in this article we are going to take you, step by step, through the process of recording a webinar with Wondershare Filmora Scrn.**
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -63,16 +67,12 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -82,11 +82,19 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -100,14 +108,6 @@ Following these simple steps will help you produce insightful and well-rounded w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -117,7 +117,7 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -135,19 +135,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-superior-third-ranked-ipad-recording-apps/"><u>[New] In 2024, Superior Third-Ranked iPad Recording Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-recording-expert-strategies-for-vr-gameplay-preservation-for-2024/"><u>[New] The Art of Recording Expert Strategies for VR Gameplay Preservation for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-want-to-send-snaps-from-camera-roll-see-how-it-is-done-for-2024/"><u>[New] Want to Send Snaps From Camera Roll? See How It Is Done for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfected-presence-the-art-of-blurring-conference-backdrops/"><u>[Updated] In 2024, Perfected Presence The Art of Blurring Conference Backdrops</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screencasting-simplified-adopting-the-ezvide-method/"><u>[Updated] In 2024, Screencasting Simplified Adopting the EZvide Method</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-best-fb-movie-grabs-8-edition/"><u>[Updated] Unveiling the Best FB Movie Grabs #8 Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/experts-choice-in-4k-capture-top-camera-list-for-2024/"><u>Expert's Choice in 4K Capture Top Camera List for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-z-fold-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy Z Fold 5 to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-security-concerns-within-the-chatgpt-platform/"><u>Identifying Security Concerns Within the ChatGPT Platform</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-androids-video-recording-techniques-explored/"><u>In 2024, Android's Video Recording Techniques Explored</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-p55withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel P55with/without a PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplicity-in-capturing-your-lenovo-pics/"><u>In 2024, Simplicity in Capturing Your Lenovo Pics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-the-perfect-print-driver-the-ultimate-guide-to-setting-up-the-brother-mfc-l2700dw-on-windows-systems/"><u>Installing the Perfect Print Driver: The Ultimate Guide to Setting up the Brother MFC-L2700DW on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-prime-day-exclusive-laptops-best-bargains-available-in-october-2024-discovered/"><u>Top-Rated Prime Day Exclusive Laptops: Best Bargains Available in October 2024 - Discovered</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/como-elegir-el-mejor-editor-de-videos-para-instagram-las-mejores-opciones-del-mercado-resenadas/"><u>¿Cómo Elegir El Mejor Editor De Vídeos Para Instagram? - Las Mejores Opciones Del Mercado Reseñadas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-caramel-cam-chronicles-in-depth-analysis-and-instructions-for-ice-cream-recording-for-2024/"><u>[New] Caramel Cam Chronicles In-Depth Analysis & Instructions for Ice Cream Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-gaming-revolution-top-5-android-solutions-for-playstation-2-titles-for-2024/"><u>[New] Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>[New] In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-turn-social-media-audio-into-mp3/"><u>[Updated] 2024 Approved Turn Social Media Audio Into MP3</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-virtual-arena-transcript/"><u>[Updated] In 2024, Virtual Arena Transcript</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-future-of-video-recording-insights-into-fraps-for-2024/"><u>[Updated] The Future of Video Recording Insights Into Fraps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lessons-in-motion-mastering-classroom-editing/"><u>2024 Approved Lessons in Motion Mastering Classroom Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>2024 Approved Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fresh-driver-update-for-lenovo-t450-a-fast-and-simple-process/"><u>Fresh Driver Update for Lenovo T450: A Fast & Simple Process</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lavawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lavawith/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-12-pro-5g-easily-by-drfone-android/"><u>How To Unlock a Realme 12 Pro 5G Easily?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-angular-video-arrangement-on-android-devices/"><u>In 2024, Mastering Angular Video Arrangement on Android Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>In 2024, OBS Studio vs Fraps Best Screen Recording Tools Battle</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-issues-with-outdated-usb-composite-hardware-comprehensive-strategies-inside/"><u>Solving Issues with Outdated USB Composite Hardware - Comprehensive Strategies Inside</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nokia-c210-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nokia C210</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-best-practices-for-timing-and-organizing-google-collaborations/"><u>Unveiling the Best Practices for Timing and Organizing Google Collaborations</u></a></li>
 </ul></div>
 

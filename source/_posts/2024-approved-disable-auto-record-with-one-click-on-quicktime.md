@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Disable Auto-Record with One Click on QuickTime\""
-date: 2024-09-11T17:02:52.771Z
-updated: 2024-09-13T22:08:12.494Z
+date: 2024-12-25T23:07:01.208Z
+updated: 2024-12-29T02:34:03.504Z
 tags: 
   - screen-recording
   - ai video
@@ -33,19 +33,6 @@ Edit videos with thousands of effects and tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Direct Way to Stop QuickTime Recording
 
 Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
@@ -55,10 +42,7 @@ Under normal circumstances, you start recording with QuickTime by clicking on Re
 In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
@@ -75,29 +59,9 @@ Step 2: You will see the Recording bar where you can set the settings and click 
 
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
 
 ![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
 
@@ -113,14 +77,11 @@ Step 2: You will see a pop-up window where you have to select QuickTime Player. 
 
 ![force quit application](https://images.wondershare.com/filmora/article-images/force-quit-quicktime.jpg)
 
-Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
 
 ## 4\. End Screen Recording in Activity Monitor
 
@@ -134,27 +95,7 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 
 ![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Best Alternative to QuickTime for Recording
 
@@ -174,25 +115,11 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Conclusion
 
 QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Direct Way to Stop QuickTime Recording
 
@@ -200,20 +127,11 @@ Under normal circumstances, you start recording with QuickTime by clicking on Re
 
 ![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Keyboard Shortcut to Stop QuickTime Recording
 
@@ -225,29 +143,19 @@ Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of
 
 ![new recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
 
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
 
 ![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
 
 Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Force Quit to Stop QuickTime Recording
 
@@ -260,13 +168,6 @@ Step 1: Click on Apple menu and then click on Force Quit option.
 Step 2: You will see a pop-up window where you have to select QuickTime Player. Finally, click on Force Quit button.
 
 ![force quit application](https://images.wondershare.com/filmora/article-images/force-quit-quicktime.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
 
@@ -283,13 +184,6 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 ![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
 
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Best Alternative to QuickTime for Recording
 
@@ -337,38 +231,15 @@ Step 2: You will see the Recording bar where you can set the settings and click 
 
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
 
 ![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Force Quit to Stop QuickTime Recording
 
@@ -382,7 +253,15 @@ Step 2: You will see a pop-up window where you have to select QuickTime Player. 
 
 ![force quit application](https://images.wondershare.com/filmora/article-images/force-quit-quicktime.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: You can also use keyboard shortcut to force quit QuickTime. You have to press Option + Common + Esc keys together. This will bring up Force Quit Application window where you have to select QuickTime and click on Force Quit button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. End Screen Recording in Activity Monitor
 
@@ -397,13 +276,6 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 ![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
 
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Best Alternative to QuickTime for Recording
 
@@ -423,31 +295,21 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Conclusion
 
 QuickTime Player is the ideal application on Mac for playing audio and video. It is also quite capable of recording the screen comfortably. However, users often face issue of QuickTime stop screen recording. If you are facing the same, go for keyboard shortcut. If that does not work, you have to force stop QuickTime. If the issue is frequently occurring, you can consider Wondershare Filmora to replace QuickTime Player for screen recording. It is a professional screen recording and video editing software available for both Mac and Windows users.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Direct Way to Stop QuickTime Recording
 
 Under normal circumstances, you start recording with QuickTime by clicking on Record button on the top menu bar or on the Record button on the Recording bar.
 
 ![stop quicktime recording](https://images.wondershare.com/filmora/article-images/start-recording-quicktime.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In the same way, you need to stop recording by clicking on the Stop button either on the top menu bar or the Recording bar. If this normal way of QuickTime Player stop screen recording does not work, you have to try out the following ways.
 
@@ -462,41 +324,22 @@ Step 1: Launch QuickTime Player and go to File> New Screen Recording. Instead of
 ![new recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-new-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: You will see the Recording bar where you can set the settings and click on Red button to start recording.
 
 ![start screen recording quicktime](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: If you want to stop recording and you cannot find the Recording bar to click on Stop button, you have to press Esc for Recording bar to reappear and then click on Stop button. However, you can use the keyboard shortcut of Ctrl + Command + Esc keys together to stop recording immediately.
 
 ![save screen recording](https://images.wondershare.com/filmora/article-images/save-screen-record.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Once the recording stops, you can go to File> Save to export the recording in proper file format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Force Quit to Stop QuickTime Recording
 
@@ -505,13 +348,6 @@ If you cannot stop the recording in the normal way as well as with the keyboard 
 Step 1: Click on Apple menu and then click on Force Quit option.
 
 ![force quit quicktime](https://images.wondershare.com/filmora/article-images/force-quit-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: You will see a pop-up window where you have to select QuickTime Player. Finally, click on Force Quit button.
 
@@ -531,27 +367,7 @@ Step 2: Once Activity Monitor opens, select QuickTime Player.
 
 ![mac activity monitor](https://images.wondershare.com/filmora/article-images/mac-activity-minitor.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Quit button and QuickTime Player will terminate and the recording will stop automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Best Alternative to QuickTime for Recording
 
@@ -597,5 +413,17 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-checklist-to-successful-video-marketing-with-tags/"><u>[New] 2024 Approved The Ultimate Checklist to Successful Video Marketing with Tags</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stream-the-best-games-list-9/"><u>[New] Stream the Best Games List #9</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-techniques-to-purge-background-from-photos-using-photopea-for-2024/"><u>[Updated] Techniques to Purge Background From Photos Using Photopea for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-embark-on-a-google-meet-journey/"><u>2024 Approved Embark on a Google Meet Journey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-list-top-ps1-emulators-for-pc-gamers/"><u>In 2024, The Ultimate List Top PS1 Emulators for PC Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stop-frames-dropping-obs-troubleshooting-guide/"><u>Stop Frames Dropping OBS Troubleshooting Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-picks-essential-tools-to-play-ps1-games-on-your-computer-for-2024/"><u>Top Picks - Essential Tools to Play PS1 Games on Your Computer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-thin-tech-marvels-is-apples-new-008-inch-ipad-difference-worth-it/"><u>Unveiling Thin Tech Marvels: Is Apple's New 0.08-Inch IPad Difference Worth It?</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-grandparents-windows-pc-for-seniors/"><u>Upgrading Grandparents' Windows PC for Seniors</u></a></li>
+</ul></div>
 
