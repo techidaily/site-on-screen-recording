@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path"
-date: 2025-01-02T20:53:23.925Z
-updated: 2025-01-07T18:08:48.783Z
+date: 2025-01-09T21:54:05.074Z
+updated: 2025-01-14T08:27:11.446Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -75,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -88,6 +88,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -99,10 +103,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,22 +119,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>[New] 2024 Approved Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dodge-digital-duplicates-to-increase-youtube-exposure-for-2024/"><u>[New] Dodge Digital Duplicates to Increase YouTube Exposure for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-framefraction-review-for-2024/"><u>[New] FrameFraction Review for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-no-cost-screen-recording-tricks-for-pc-users/"><u>[New] No-Cost Screen Recording Tricks for PC Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-smart-choice-selecting-the-top-5-webcams-for-clear-audio-for-2024/"><u>[New] Smart Choice Selecting the Top 5 Webcams for Clear Audio for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-hd-capture-software-for-windows-and-macos/"><u>[New] Ultimate HD Capture Software for Windows & macOS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>[New] Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-gameplay-journey-top-10-adventures-in-gaming-for-2024/"><u>[Updated] The Ultimate Gameplay Journey Top 10 Adventures in Gaming for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ultra-clear-gaming-best-21-hdmi-compatible-monitors-ps5-for-2024/"><u>[Updated] Ultra Clear Gaming Best 2.1 HDMI Compatible Monitors [PS5] for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-obs-studio-vs-fraps-which-is-a-better/"><u>2024 Approved OBS Studio vs Fraps – Which Is A Better</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/convert-and-download-high-quality-tracks-explore-various-formats-with-soundclick-beats-mp3-wav-aac-m4a-and-more/"><u>Convert & Download High-Quality Tracks: Explore Various Formats with SoundClick Beats - MP3, WAV, AAC, M4A, and More</u></a></li>
-<li><a href="https://win-able.techidaily.com/excel-trick-modify-your-number-format-dots-instead-of-commas/"><u>Excel Trick: Modify Your Number Format - Dots Instead of Commas!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings/"><u>Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-20-proplus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 20 Pro+ via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/investigating-the-significance-of-facebooks-tactile-interaction/"><u>Investigating the Significance of Facebook's Tactile Interaction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/palette-proficiency-expertise-through-experience/"><u>Palette Proficiency Expertise Through Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-usb-recognition-failures-on-windows-11/"><u>Resolving USB Recognition Failures on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-affordable-webinar-tools-for-efficient-recording-for-2024/"><u>[New] Affordable Webinar Tools for Efficient Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[New] Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-game-away-your-worries-the-coolest-titles/"><u>[New] In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quickcapture-elite-speed-focused-windowsmac-tool/"><u>[New] In 2024, QuickCapture Elite Speed-Focused Windows/Mac Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-iphone-users-learn-simple-screen-recording-now/"><u>[New] Iphone Users, Learn Simple Screen Recording Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-offline-android-delights-the-ultimate-free-game-list/"><u>[New] Offline Android Delights The Ultimate Free Game List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-rethinking-streaming-new-platforms-challenge-obs-for-2024/"><u>[New] Rethinking Streaming New Platforms Challenge OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tech-savvy-tips-for-lenovo-display-capture/"><u>[New] Tech-Savvy Tips for Lenovo Display Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-video-output-the-adobe-presenter-way/"><u>[Updated] 2024 Approved Optimizing Video Output The Adobe Presenter Way</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-digital-board-usage-during-web-conferences-on-diverse-devices/"><u>[Updated] Essential Tips for Digital Board Usage During Web Conferences on Diverse Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-uncluttered-recorder-screen-log-for-win10/"><u>[Updated] In 2024, Uncluttered Recorder Screen Log for Win10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-reels-the-role-of-background-music/"><u>2024 Approved Creating Captivating Reels The Role of Background Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-pc-efficiency-the-ultimate-guide-to-high-speed-m3-nvme-ssds-featured-on-zdnet/"><u>Elevate PC Efficiency: The Ultimate Guide to High-Speed M.^3 NVMe SSDs Featured on ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eliminating-video-jitter-in-photobooth-sessions/"><u>Eliminating Video Jitter in Photobooth Sessions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-tech-enhancements-an-in-depth-look-at-the-linksys-ea9500s-intelligent-network-solutions/"><u>Navigating Through Tech Enhancements: An In-Depth Look at the Linksys EA9500's Intelligent Network Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-cheap-video-editing-software/"><u>New In 2024, Best Cheap Video Editing Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-evil-genius-2-effective-solutions-for-a-smooth-start/"><u>Overcoming Launch Difficulties in Evil Genius 2 - Effective Solutions for a Smooth Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-access-denials-8-tips/"><u>Troubleshooting Windows Access Denials: 8 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review-by-zdnet/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review by ZDNet</u></a></li>
 </ul></div>
 

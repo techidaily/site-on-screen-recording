@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2025-01-01T20:45:06.461Z
-updated: 2025-01-07T21:03:49.808Z
+date: 2025-01-08T17:50:54.315Z
+updated: 2025-01-13T20:35:15.151Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Sifu
 
 **Sifu** , the hardcore beat ’em up action-adventure game developed and published by French studio Sloclap, is finally out! Just like any other third-person action game that features intense hand-to-hand combat, Sifu’s gaming experience relies heavily on smooth frame rates. If you’re suffering from FPS and performance drops while playing Sifu on your PC, don’t worry! This article will help you fix these issues. After reading it, you should be able to boost the in-game FPS and play it smoothly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,7 +34,7 @@ Sifu
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -75,7 +71,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -107,7 +103,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -143,7 +139,15 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
@@ -163,6 +167,10 @@ There are mainly two methods for you to update the graphics driver:
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -171,16 +179,8 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -209,17 +209,22 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-5-must-know-strategies-for-effective-team-video-calls/"><u>[New] 2024 Approved 5 Must-Know Strategies for Effective Team Video Calls</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-maximize-your-meeting-recordings-skype-on-any-operating-system/"><u>[New] In 2024, Maximize Your Meeting Recordings Skype on Any Operating System</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[Updated] 2024 Approved Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-highest-rated-10-non-game-screenshot-tools/"><u>[Updated] 2024 Approved Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-tale-of-two-faces-iphone-x-and-samsung-compared/"><u>[Updated] A Tale of Two Faces IPhone X & Samsung Compared</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-adjusting-your-macs-snapshot-formats-with-ease/"><u>[Updated] Adjusting Your Mac's Snapshot Formats with Ease</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-content-and-connections-insta-follower-rise/"><u>2024 Approved Mastering Content & Connections Insta-Follower Rise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/award-spotlight-the-top-tech-showcase-at-mobile-world-congress-mwc-2024/"><u>Award Spotlight: The Top Tech Showcase at Mobile World Congress (MWC) 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ensuring-perfect-fb-live-recordings-a-guide-to-4-ways/"><u>Ensuring Perfect FB Live Recordings A Guide to 4 Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-your-desktop-layout-with-one-click/"><u>Restoring Your Desktop Layout with One Click</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unable-to-print-ad-service-interrupted/"><u>Unable To Print: AD Service Interrupted</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/visual-symphony-iosandroid-instagram-collage-app-for-2024/"><u>Visual Symphony IOS/Android Instagram Collage App for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp/"><u>[New] Archival Artifacts Radeon's Revamp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-screencasting-harness-the-power-of-visual-storytelling-for-2024/"><u>[New] Cutting Edge Screencasting Harness the Power of Visual Storytelling for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-advice-for-capturing-evening-images/"><u>[New] Expert Advice for Capturing Evening Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-aural-archive-download-preserve-and-examine-tracks/"><u>[New] In 2024, Aural Archive Download, Preserve & Examine Tracks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-top-quality-hd-screen-capture-tools-for-2024/"><u>[New] Ultimate Top-Quality HD Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps/"><u>[Updated] 2024 Approved Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-eliminate-unwanted-screen-elements-during-cam-record/"><u>[Updated] In 2024, Eliminate Unwanted Screen Elements During Cam Record</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-engaging-viewers-with-personalized-vimeo-end-screens/"><u>[Updated] In 2024, Engaging Viewers with Personalized Vimeo End Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premier-6-modern-architecture-in-mc-world/"><u>[Updated] In 2024, Premier 6 Modern Architecture in MC World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>2024 Approved The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skyward-storage-solutions-top-rated-selections/"><u>Skyward Storage Solutions Top-Rated Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-art-of-logging-streaming-services-with-fidelity/"><u>The Art of Logging Streaming Services with Fidelity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-font-customization-in-ae/"><u>The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-compliance-frameworks/"><u>Understanding AI Compliance Frameworks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/x-recorder-pc-version-capture-and-save-audio/"><u>X-Recorder Pc Version Capture & Save Audio</u></a></li>
 </ul></div>
 

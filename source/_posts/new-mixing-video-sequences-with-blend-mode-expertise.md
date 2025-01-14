@@ -1,7 +1,7 @@
 ---
 title: "[New] Mixing Video Sequences with Blend Mode Expertise"
-date: 2024-09-12T13:20:56.102Z
-updated: 2024-09-18T16:22:42.163Z
+date: 2025-01-06T19:10:48.905Z
+updated: 2025-01-13T20:52:58.699Z
 tags: 
   - screen-recording
   - ai video
@@ -80,6 +80,10 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
@@ -101,6 +105,10 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -140,6 +148,10 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are Blending Modes in Filmora?
 
@@ -196,10 +208,7 @@ Click on the Export button if you like the results and choose whether you want t
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -209,10 +218,7 @@ Overlaying two video clips and blending them to each other can be an effective w
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -230,6 +236,10 @@ Producing a visually impressive video requires much more effort than just record
 It is a widely accepted opinion that Blend Modes can only be used in Adobe Premiere Pro or After Effects, but in this article, we are going to bust that myth and show you how to utilize Blending Modes in Filmora Scrn. Before we get started, let's figure out what blending modes is.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -280,6 +290,10 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
@@ -295,10 +309,7 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
@@ -331,6 +342,10 @@ It is a widely accepted opinion that Blend Modes can only be used in Adobe Premi
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -359,10 +374,7 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
@@ -400,13 +412,6 @@ On the right side of the screen you'll be able to see several options such as Tr
 In the Compositing menu, you will be able to see the Blending Mode feature. Click on the drop-down menu and select one of the modes.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -450,5 +455,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tools-for-effective-adobe-presentation-recordings/"><u>[New] Essential Tools for Effective Adobe Presentation Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-first-home-frontier-top-6-beginner-friendly-mc-abodes-for-2024/"><u>[New] First Home Frontier Top 6 Beginner-Friendly MC Abodes for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-apowersoft-picks-the-ultimate-pc-screen-capture-solution-for-2024/"><u>[Updated] Apowersoft Picks The Ultimate PC Screen Capture Solution for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-earn-on-the-go-snapchats-money-tips/"><u>[Updated] Earn on the Go Snapchat's Money Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-creating-a-captivating-instagram-cover-for-your-topics-highlight/"><u>[Updated] In 2024, Creating a Captivating Instagram Cover for Your Topics Highlight</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-20-fonts-for-captivating-youtube-thumbnails/"><u>[Updated] In 2024, Top 20 Fonts for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-8-free-software-solutions-revolutionizing-corporate-video-meetings-for-2024/"><u>[Updated] Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid-for-2024/"><u>[Updated] Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtubes-social-media-protocols/"><u>[Updated] Understanding YouTube's Social Media Protocols</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-master-iphone-screen-recording-in-minutes/"><u>2024 Approved Master iPhone Screen Recording in Minutes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/concurrent-capture-masterclass-webcam-and-desktop/"><u>Concurrent Capture Masterclass Webcam & Desktop</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-essential-how-to-guide-for-filming-anywhere-anytime/"><u>In 2024, The Essential How-To Guide for Filming Anywhere, Anytime</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>In 2024, Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-coolest-plugins-for-final-cut-pro-x-freeandpaid-for-2024/"><u>New Top 10 Coolest Plugins for Final Cut Pro X Free&Paid for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Camon 20 | Dr.fone</u></a></li>
+</ul></div>
 

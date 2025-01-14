@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2025-01-01T19:42:33.644Z
-updated: 2025-01-07T18:37:03.919Z
+date: 2025-01-07T23:33:20.615Z
+updated: 2025-01-13T18:01:06.002Z
 tags:
   - chatgpt
   - open-ai
@@ -40,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
@@ -53,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
- Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
 ## 2\. Create and Edit Videos
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -109,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -158,18 +158,15 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-is-itops-feature-set-enough-to-justify-usage/"><u>[New] 2024 Approved Is ITop's Feature Set Enough to Justify Usage?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>[New] Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[New] In 2024, Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-launch-your-twitter-adventure/"><u>[New] In 2024, How to Launch Your Twitter Adventure</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-complete-investigation-into-razers-kiyo-webcam-for-2024/"><u>[Updated] Complete Investigation Into Razer's Kiyo Webcam for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-leveraging-connected-networks-fb-to-whatsapp-video-sharing-strategies/"><u>[Updated] In 2024, Leveraging Connected Networks FB to WhatsApp Video Sharing Strategies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-the-art-of-on-the-fly-picture-cropping/"><u>[Updated] In 2024, Mastering the Art of On-The-Fly Picture Cropping</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-resurrect-the-past-the-ultimate-list-of-top-5-ps1-games-for-pc/"><u>[Updated] Resurrect the Past The Ultimate List of Top 5 PS1 Games for PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-guide-to-utilizing-mobizen-screen-recorder-for-2024/"><u>[Updated] Seamless Guide to Utilizing Mobizen Screen Recorder for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems-for-2024/"><u>[Updated] Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-virtual-road-racers-guide/"><u>Essential Virtual Road Racers Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context-for-2024/"><u>The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context) for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-maximizing-your-media-library-with-mov-on-windows-10/"><u>[New] In 2024, Maximizing Your Media Library with .mov on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-affordable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>[Updated] Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-diary-documenting-windows-desktop-for-2024/"><u>[Updated] Digital Diary Documenting Windows Desktop for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplify-your-work-the-best-5-mac-snipper-applications/"><u>[Updated] In 2024, Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-remove-background-in-logitech-webcam-recording/"><u>[Updated] Remove Background in Logitech Webcam Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-creativity-and-productivity-combining-mind-maps-and-ai-powered-chatgpt-for-idea-generation/"><u>Boost Creativity & Productivity: Combining Mind Maps and AI-Powered ChatGPT for Idea Generation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-tango-the-ultimate-communication-tool-with-complimentary-multimedia-chats/"><u>Explore Tango: The Ultimate Communication Tool with Complimentary Multimedia Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-dorm-to-mini-cinema-easy-steps-for-setting-up-wireless-audiovisual-gear-in-shared-living-areas/"><u>From Dorm to Mini Cinema: Easy Steps for Setting Up Wireless Audiovisual Gear in Shared Living Areas</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-guide-assessing-googles-wireless-nest-doorbell-with-a-rechargeable-battery/"><u>The Complete Guide: Assessing Google's Wireless Nest Doorbell with a Rechargeable Battery</u></a></li>
 </ul></div>
 
