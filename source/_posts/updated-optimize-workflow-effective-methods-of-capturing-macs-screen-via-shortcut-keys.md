@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimize Workflow  Effective Methods of Capturing Mac’s Screen via Shortcut Keys\""
-date: 2024-09-17T03:01:46.683Z
-updated: 2024-09-24T00:05:39.295Z
+date: 2025-01-17T16:59:57.656Z
+updated: 2025-01-20T10:30:07.159Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: End the Recording**
 
 To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
@@ -58,10 +62,7 @@ To stop the recording, click on the little square stop button in the upper right
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
@@ -112,6 +113,10 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 Recording your PC screen is a helpful method for catching what you're doing on your gadget. On a Mac, you can utilize it to record MacOS interactivity or tell a companion the best way to play out an errand … because occasionally showing somebody is a lot more straightforward than attempting to clarify it. macOS offers more choices with regards to screen-catching. With macOS, you can catch the whole screen, the dynamic screen, or the not settled locale. Additionally, macOS has an underlying apparatus to record screens, incorporating sound. Or on the other hand, you can utilize convenient outsider applications that assist you with opening further developed screen recording capacities, alter your accounts and offer with your colleagues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Use Screen Record Shortcut on Mac
 
 Assuming that you're running the most recent variant of macOS, you can utilize Mac's new Screenshot Bar instrument to record a video, yet this element is just accessible for Macs running macOS 10.14 Mojave or higher. Different situations call for such software like when you want to make macOS instructional exercises, report bugs, catch the web-based video, record interactivity/online classes/gatherings, record yourself utilizing the webcam, take screen captures, just to specify a couple. Here are the steps for you to find out.
@@ -135,10 +140,7 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: End the Recording**
@@ -148,10 +150,7 @@ To stop the recording, click on the little square stop button in the upper right
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
@@ -182,115 +181,15 @@ From that recorder interface, click on the record button and select the Record P
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Start Recording**
 
 At last, when you're ready, hit the Record button and it shall start the recording after giving you a 3-second get-ready time. You can start recording your screen activity afterwards. Then, stop the recording by hitting the stop button and it'll allow you to add explanations, additional media documents, changes, titles and more can then all be dropped in with your recording.
 
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
-**Step 4: Edit and Save Your Recordings**
-
-After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
-
-## Conclusion
-
-A screen recorder is an instrument that catches content on your Mac screen and saves it in video or screen capture design. Luckily, the Mac has an inherent screen recording device that you can begin pretty quick but it lacks several features. Hence, with Filmora as a method for aiding the watcher centre, you approach the zoom-in highlight while recording other than the choice to draw and incorporate subtitles were vital. Sound from the amplifier (portrayal) or potentially framework sound can likewise be caught at the same time with the video.
-
-Part 2. [Alternative Software to Record Screen on Mac](#part2)
-
-## Part 1\. Screen Record Shortcut on Mac
-
-Recording your PC screen is a helpful method for catching what you're doing on your gadget. On a Mac, you can utilize it to record MacOS interactivity or tell a companion the best way to play out an errand … because occasionally showing somebody is a lot more straightforward than attempting to clarify it. macOS offers more choices with regards to screen-catching. With macOS, you can catch the whole screen, the dynamic screen, or the not settled locale. Additionally, macOS has an underlying apparatus to record screens, incorporating sound. Or on the other hand, you can utilize convenient outsider applications that assist you with opening further developed screen recording capacities, alter your accounts and offer with your colleagues.
-
-### Steps to Use Screen Record Shortcut on Mac
-
-Assuming that you're running the most recent variant of macOS, you can utilize Mac's new Screenshot Bar instrument to record a video, yet this element is just accessible for Macs running macOS 10.14 Mojave or higher. Different situations call for such software like when you want to make macOS instructional exercises, report bugs, catch the web-based video, record interactivity/online classes/gatherings, record yourself utilizing the webcam, take screen captures, just to specify a couple. Here are the steps for you to find out.
-
-**Step 1: Launch Recorder with Shortcut**
-
-Press Command, shift, and 5 on the console at the same time. The screen capture will open. At the lower part of your screen, you'll see the Screenshot control bar. You have choices for getting a still screen capture or for recording a video. You can perceive which choices are for video recording since you'll see a little circle recording symbol on the logo.
-
-![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-**Step 2: Select Recording Mode**
-
-Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If you decide to record just a part of your screen, a container will appear permitting you to drag and resize the recording window. Click on "Choices" to see what different inclinations you can pick. You can set a commencement clock, pick which receiver to utilize, and choose where to save your recording, for instance, as shown here:
-
-![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
-
-**Step 3: Start Recording**
-
-Whenever you've chosen the choices you need, it's an ideal opportunity to record. Click the "Record button." Or, on the off chance that you're recording the whole screen, you can click anyplace on the screen to begin recording. Assuming that you've decided to set the clock, you'll see the clock counting down until the recording starts. If not, the recording will start right away. Assuming that you chose Record Selected Portion, you will see a container on-screen showing what will be caught. Snap and drag the handles at the edges of this container to change what is recorded. You can move this choice to any place you need. At the point when you're prepared, click Record.
-
-![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
-
-**Step 4: End the Recording**
-
-To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
-
-![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 2\. Alternative Software to Record Screen on Mac
-
-Screen recording has turned into an expanding normal movement in business, not least for internet preparing and instruction purposes. Filmora (Windows, macOS) has been in the screen recording game longer than most and offers a bigger number of elements than most as well - just as catching what's on-screen easily, this completely fledged video altering arrangement can likewise add a lot of additional items and alters on top as well. Despite every one of its elements, the product never feels excessively intricate, because of a natural course of events interface. Assuming that you're attempting to exhibit a specific software, the capacity to follow your console strokes and your mouse clicks comes in exceptionally convenient as well.
-
-Filmora is a definitive [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) for macOS as it makes proficient looking screencasts easily. As far as the screen catch choices, you can record the whole screen, a district, explicit aspects, an application, or a window. Anything you desire to record, from games to PowerPoints, Filmora can take everything in its step, with or without sound, with or without a webcam feed, etc. That is other than giving a webcam catch to assist you with adding an individual touch to the primary video. Concerning sound, you can get that from the MacBook Pro framework or amplifier and access additional altering choices to refine the sound further. Additionally, you can make the screen video considerably more useful by fusing explanations, cursor FX, shut subtitles, activities, and then some. Have confidence that there are significantly more elements to investigate.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### How to Record Video with Filmora
-
-Filmora joins a wide arrangement of apparatuses with a simple to-utilize interface and has the advantage of being both a speedy catch instrument and a completely highlighted supervisor. To know How to Screen Record on Filmora Mac here are the steps to follow:
-
-**Step 1: Download Filmora for Mac**
-
-To begin with Filmora on your MacBook, you need to visit the official website and download the latest macOS version of Wondershare Filmora. As soon as the download has been completed, install the toolkit to your MacBook and then, open the software. Now, hit the New Project catch and you will see the underlying window interface of this product.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 2: Set up the MacBook Recording Screen**
-
-From that recorder interface, click on the record button and select the Record PC Screen. Here you can choose the best video capturing settings for your screen to be recorded. Filmora gives you the choice to enable the microphone, system sounds, webcam and another setting for your screen recording handily.
-
-![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-**Step 3: Start Recording**
-
-At last, when you're ready, hit the Record button and it shall start the recording after giving you a 3-second get-ready time. You can start recording your screen activity afterwards. Then, stop the recording by hitting the stop button and it'll allow you to add explanations, additional media documents, changes, titles and more can then all be dropped in with your recording.
-
-![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 **Step 4: Edit and Save Your Recordings**
 
@@ -335,10 +234,95 @@ To stop the recording, click on the little square stop button in the upper right
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2\. Alternative Software to Record Screen on Mac
+
+Screen recording has turned into an expanding normal movement in business, not least for internet preparing and instruction purposes. Filmora (Windows, macOS) has been in the screen recording game longer than most and offers a bigger number of elements than most as well - just as catching what's on-screen easily, this completely fledged video altering arrangement can likewise add a lot of additional items and alters on top as well. Despite every one of its elements, the product never feels excessively intricate, because of a natural course of events interface. Assuming that you're attempting to exhibit a specific software, the capacity to follow your console strokes and your mouse clicks comes in exceptionally convenient as well.
+
+Filmora is a definitive [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) for macOS as it makes proficient looking screencasts easily. As far as the screen catch choices, you can record the whole screen, a district, explicit aspects, an application, or a window. Anything you desire to record, from games to PowerPoints, Filmora can take everything in its step, with or without sound, with or without a webcam feed, etc. That is other than giving a webcam catch to assist you with adding an individual touch to the primary video. Concerning sound, you can get that from the MacBook Pro framework or amplifier and access additional altering choices to refine the sound further. Additionally, you can make the screen video considerably more useful by fusing explanations, cursor FX, shut subtitles, activities, and then some. Have confidence that there are significantly more elements to investigate.
+
+### How to Record Video with Filmora
+
+Filmora joins a wide arrangement of apparatuses with a simple to-utilize interface and has the advantage of being both a speedy catch instrument and a completely highlighted supervisor. To know How to Screen Record on Filmora Mac here are the steps to follow:
+
+**Step 1: Download Filmora for Mac**
+
+To begin with Filmora on your MacBook, you need to visit the official website and download the latest macOS version of Wondershare Filmora. As soon as the download has been completed, install the toolkit to your MacBook and then, open the software. Now, hit the New Project catch and you will see the underlying window interface of this product.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 2: Set up the MacBook Recording Screen**
+
+From that recorder interface, click on the record button and select the Record PC Screen. Here you can choose the best video capturing settings for your screen to be recorded. Filmora gives you the choice to enable the microphone, system sounds, webcam and another setting for your screen recording handily.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+**Step 3: Start Recording**
+
+At last, when you're ready, hit the Record button and it shall start the recording after giving you a 3-second get-ready time. You can start recording your screen activity afterwards. Then, stop the recording by hitting the stop button and it'll allow you to add explanations, additional media documents, changes, titles and more can then all be dropped in with your recording.
+
+![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+**Step 4: Edit and Save Your Recordings**
+
+After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+A screen recorder is an instrument that catches content on your Mac screen and saves it in video or screen capture design. Luckily, the Mac has an inherent screen recording device that you can begin pretty quick but it lacks several features. Hence, with Filmora as a method for aiding the watcher centre, you approach the zoom-in highlight while recording other than the choice to draw and incorporate subtitles were vital. Sound from the amplifier (portrayal) or potentially framework sound can likewise be caught at the same time with the video.
+
+Part 2. [Alternative Software to Record Screen on Mac](#part2)
+
+## Part 1\. Screen Record Shortcut on Mac
+
+Recording your PC screen is a helpful method for catching what you're doing on your gadget. On a Mac, you can utilize it to record MacOS interactivity or tell a companion the best way to play out an errand … because occasionally showing somebody is a lot more straightforward than attempting to clarify it. macOS offers more choices with regards to screen-catching. With macOS, you can catch the whole screen, the dynamic screen, or the not settled locale. Additionally, macOS has an underlying apparatus to record screens, incorporating sound. Or on the other hand, you can utilize convenient outsider applications that assist you with opening further developed screen recording capacities, alter your accounts and offer with your colleagues.
+
+### Steps to Use Screen Record Shortcut on Mac
+
+Assuming that you're running the most recent variant of macOS, you can utilize Mac's new Screenshot Bar instrument to record a video, yet this element is just accessible for Macs running macOS 10.14 Mojave or higher. Different situations call for such software like when you want to make macOS instructional exercises, report bugs, catch the web-based video, record interactivity/online classes/gatherings, record yourself utilizing the webcam, take screen captures, just to specify a couple. Here are the steps for you to find out.
+
+**Step 1: Launch Recorder with Shortcut**
+
+Press Command, shift, and 5 on the console at the same time. The screen capture will open. At the lower part of your screen, you'll see the Screenshot control bar. You have choices for getting a still screen capture or for recording a video. You can perceive which choices are for video recording since you'll see a little circle recording symbol on the logo.
+
+![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
+
+**Step 2: Select Recording Mode**
+
+Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If you decide to record just a part of your screen, a container will appear permitting you to drag and resize the recording window. Click on "Choices" to see what different inclinations you can pick. You can set a commencement clock, pick which receiver to utilize, and choose where to save your recording, for instance, as shown here:
+
+![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
+
+**Step 3: Start Recording**
+
+Whenever you've chosen the choices you need, it's an ideal opportunity to record. Click the "Record button." Or, on the off chance that you're recording the whole screen, you can click anyplace on the screen to begin recording. Assuming that you've decided to set the clock, you'll see the clock counting down until the recording starts. If not, the recording will start right away. Assuming that you chose Record Selected Portion, you will see a container on-screen showing what will be caught. Snap and drag the handles at the edges of this container to change what is recorded. You can move this choice to any place you need. At the point when you're prepared, click Record.
+
+![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 4: End the Recording**
+
+To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
+
+![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
@@ -405,5 +389,23 @@ A screen recorder is an instrument that catches content on your Mac screen and s
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>[New] Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android-for-2024/"><u>[New] The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android-for-2024/"><u>[New] Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>[Updated] 2024 Approved Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-race-games-collection-guide-for-2024/"><u>[Updated] Elite Race Games Collection Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[Updated] In 2024, Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>2024 Approved A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-for-powerpoint-voiceover-excellence/"><u>2024 Approved Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-4k-curtain-a-closer-look-at-asuss-mg28uq-monitor/"><u>Behind the 4K Curtain A Closer Look at ASUS's MG28UQ Monitor</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-avoid-the-void-strategies-for-non-black-screens-in-obs-recordings/"><u>In 2024, Avoid the Void Strategies for Non-Black Screens in OBS Recordings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-knowledge-nexus-best-ed-sources-on-youtube/"><u>In 2024, Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-laughing-on-tiktok-current-hits-and-personalities/"><u>In 2024, Laughing on TikTok Current Hits & Personalities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-visual-virtuoso-enhancing-photos-with-text-os-based-techniques/"><u>In 2024, The Visual Virtuoso Enhancing Photos with Text, OS-Based Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/maximize-your-meeting-recordings-skype-on-any-operating-system/"><u>Maximize Your Meeting Recordings Skype on Any Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-optimizing-wmv-to-wav-file-transformation-processes/"><u>Quick Guide: Optimizing WMV-to-WAV File Transformation Processes</u></a></li>
+</ul></div>
 

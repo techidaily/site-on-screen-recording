@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Switch Showdown  Top 10 Arcade Combat Classics\""
-date: 2024-09-17T18:22:37.287Z
-updated: 2024-09-23T22:01:45.283Z
+date: 2025-01-15T05:42:36.172Z
+updated: 2025-01-20T04:08:02.102Z
 tags: 
   - screen-recording
   - ai video
@@ -23,6 +23,10 @@ You can play the Switch directly on the TV, or you can connect it to your smart 
 
 Below we have compiled a list of some best Nintendo Switch Fighting Games. Choose a game based on your preferences and enjoy it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.Street Fighter 30th Anniversary Collection
 
 ![street-fighter-30th-anniversary-collection-poster](https://images.wondershare.com/filmora/article-images/street-fighter-30th-anniversary-collection-poster.jpg)
@@ -41,13 +45,6 @@ There are many Street Fighters in this collection; apart from Street Fighter IV 
 
 ![super-smash-bros-ultimate-poster](https://images.wondershare.com/filmora/article-images/super-smash-bros-ultimate-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Super Smash Bros. was released in 2018\. Featuring over 80 playable characters, Super Smash Bros. Ultimate is the latest entry in the series and the largest crossover yet. It may have been polarizing to some Smash fans, causing them to stick with Melee, but Smash Ultimate has both a gargantuan amount of content and a finely tuned platform fighter gameplay that makes it appealing to both casual and competitive players alike.
 
 **Features:**
@@ -214,13 +211,6 @@ There are many Street Fighters in this collection; apart from Street Fighter IV 
 
 ![super-smash-bros-ultimate-poster](https://images.wondershare.com/filmora/article-images/super-smash-bros-ultimate-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Super Smash Bros. was released in 2018\. Featuring over 80 playable characters, Super Smash Bros. Ultimate is the latest entry in the series and the largest crossover yet. It may have been polarizing to some Smash fans, causing them to stick with Melee, but Smash Ultimate has both a gargantuan amount of content and a finely tuned platform fighter gameplay that makes it appealing to both casual and competitive players alike.
 
 **Features:**
@@ -281,13 +271,6 @@ The narrative in this game, along with its diverse roster and some of its surpri
 
 • It is fun and enjoyable to play the game with each character's unique abilities
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6.Power Rangers: Battle For The Grid
 
 ![power-rangers-poster](https://images.wondershare.com/filmora/article-images/power-rangers-poster.png)
@@ -320,6 +303,10 @@ Although the mechanics are similar in a way, this is more like a return to a sid
 
 • One of the best fighting games to play on Switch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8.Naruto Shippuden: Ultimate Ninja Storm Trilogy
 
 ![naruto-shippuden-ultimate-poster](https://images.wondershare.com/filmora/article-images/naruto-shippuden-ultimate-poster.jpg)
@@ -339,6 +326,10 @@ More so, the 3D style of gameplay develops in the series, which is quite refresh
 ### 9.Kirby Fighters 2
 
 ![kirby-fighters-2-poster](https://images.wondershare.com/filmora/article-images/kirby-fighters-2-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 While Kirby is likely to appear in Super Smash Bros, why is one enough when there are nearly two dozen? Kirby comes in all kinds of styles, including one called Wrestler and one named Bell. Their gameplay is all different.
 
@@ -367,13 +358,6 @@ Despite its chaos, it's relatively easy to participate. Fighting arenas in these
 • It plays easily with little effort
 
 • Younger gamers will enjoy this game because it isn't violent
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -433,13 +417,6 @@ As a result of the anime show's popularity, Nintendo has known that new fans mig
 
 ![king-of-fighters-98-poster](https://images.wondershare.com/filmora/article-images/king-of-fighters-98-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 King of Fighters is a fighting game franchise developed by a legendary game developer, SNK, with more than fifteen entries spanning nearly thirty years. Nearly every King of Fighters entry is currently available as a footsies-focused fighter that lets players create teams of characters. A notable exception is King of Fighters '98, which many have praised as the best entry in the series because it is incredibly polished and refined.
 
 **Features:**
@@ -451,10 +428,7 @@ King of Fighters is a fighting game franchise developed by a legendary game deve
 • Despite being released more than two decades ago, the game still presents the same level of excitement and thrill
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5.Mortal Kombat 11
@@ -507,6 +481,10 @@ Although the mechanics are similar in a way, this is more like a return to a sid
 
 • One of the best fighting games to play on Switch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8.Naruto Shippuden: Ultimate Ninja Storm Trilogy
 
 ![naruto-shippuden-ultimate-poster](https://images.wondershare.com/filmora/article-images/naruto-shippuden-ultimate-poster.jpg)
@@ -528,10 +506,7 @@ More so, the 3D style of gameplay develops in the series, which is quite refresh
 ![kirby-fighters-2-poster](https://images.wondershare.com/filmora/article-images/kirby-fighters-2-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 While Kirby is likely to appear in Super Smash Bros, why is one enough when there are nearly two dozen? Kirby comes in all kinds of styles, including one called Wrestler and one named Bell. Their gameplay is all different.
@@ -634,6 +609,10 @@ King of Fighters is a fighting game franchise developed by a legendary game deve
 
 ![mortal-kombat-11-poster](https://images.wondershare.com/filmora/article-images/mortal-kombat-11-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In recent years, the Mortal Kombat series has grown in stature, and with HBO's movie reboot coming soon, Mortal Kombat 11 on Nintendo Switch might be a good time to revisit it. The game uses the Switch platform well, even though it is not exclusive to the console.
 
 The narrative in this game, along with its diverse roster and some of its surprises, has been praised. Even those with the Switch have access to this incredible game. This game may be the measuring stick for every other game in its genre.
@@ -680,9 +659,17 @@ Although the mechanics are similar in a way, this is more like a return to a sid
 
 • One of the best fighting games to play on Switch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8.Naruto Shippuden: Ultimate Ninja Storm Trilogy
 
 ![naruto-shippuden-ultimate-poster](https://images.wondershare.com/filmora/article-images/naruto-shippuden-ultimate-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fan response to Naruto titles has been varied, and yet this new three-pack delivers all three games to the Nintendo Switch with updated graphics and all of the downloadable content. In the end, you'll have a title that satisfies every fan of the franchise.
 
@@ -713,10 +700,7 @@ A simple title like Kirby Fighters 2 can be enjoyed by families. As well as feat
 •A lot of characters to choose from
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10.Arms
@@ -769,5 +753,24 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-syncing-webcam-footage-with-screen-recording/"><u>[New] 2024 Approved Syncing Webcam Footage with Screen Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-engaging-instagram-stories-with-animated-text-effects-for-2024/"><u>[New] Engaging Instagram Stories with Animated Text Effects for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-great-video-platform-debate-vimeo-and-youtube/"><u>[New] In 2024, The Great Video Platform Debate Vimeo & YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-advancements-revolutionizing-video-capture-at-home/"><u>[New] In 2024, WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sign-up-process-for-using-google-meet/"><u>[New] Sign Up Process for Using Google Meet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-designing-unique-instagram-post-cover-texts/"><u>[Updated] 2024 Approved Designing Unique Instagram Post Cover Texts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch/"><u>[Updated] 2024 Approved The Essential Guide to Streaming Quality via OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-aiseesofts-screencasting-features/"><u>[Updated] In 2024, Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-method-for-extracting-video-portions-from-youtube/"><u>[Updated] In 2024, Step-by-Step Method for Extracting Video Portions From YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-perfecting-iphones-audio-captures/"><u>[Updated] Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-join-google-meet-on-laptop-and-mobile/"><u>2024 Approved How to Join Google Meet On Laptop and Mobile?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-faster-periscope-streaming/"><u>2024 Approved Master the Art of Faster Periscope Streaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-user-friendly-guide-to-efficiently-use-ez-grabber-for-2024/"><u>A User-Friendly Guide to Efficiently Use EZ Grabber for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-az-capture-extraordinaire-thorough-app-reviews/"><u>In 2024, AZ Capture Extraordinaire Thorough App Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-launch-of-it-takes-two-now-available/"><u>Successful Launch of 'It Takes Two' - Now Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tuning-up-large-display-on-win11/"><u>Tuning Up Large Display on Win11</u></a></li>
+</ul></div>
 

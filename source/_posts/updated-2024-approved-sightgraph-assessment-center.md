@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  SightGraph Assessment Center\""
-date: 2024-09-16T17:52:00.440Z
-updated: 2024-09-23T17:52:55.306Z
+date: 2025-01-17T08:25:30.951Z
+updated: 2025-01-19T21:43:02.376Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ If you are looking for an online screen recorder that works on all operating sys
 
 Screencast-O-Matic screen recorder allows you to draw shapes and graphics in real-time while recording. Starting from adding graphics, changing speed, adding transitions to blurring scenes, trimming parts, and inserting clips, you can edit your videos on Screencast-O-Matic. But is it truly the best screen recorder available? Does its price justify the features it offers? Find out everything you need to know by going through our complete Screencast-O-Matic review.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How To Record Screen With Screencast-O-Matic
 
 Screencast-O-Matic can be used directly from your web browser through its web launcher application. There is also Screencast-O-Matic chrome extension if you prefer an extension over an online screen recording launcher. Besides, there is dedicated Screencast-O-Matic app available for Android and iOS users. Here are the steps on how to record screen Screencast-O-Matic online recorder. Here are the steps to install the web launcher of Screencast-O-Matic.
@@ -33,6 +37,10 @@ Step 2: Click on Launch Free Recorder and you will have to download the web laun
 
 ![screencast launch free recorder](https://images.wondershare.com/filmora/article-images/screencast-launch-free-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3\. Once Screencast-O-Matic download is complete, click on WebLauncherRecorder.exe for the web launcher to get installed on your computer. Thereafter, you can start recording with Screencast-O-Matic.
 
 Here are the steps on how to record screen Screencast-O-Matic online recorder.
@@ -40,6 +48,10 @@ Here are the steps on how to record screen Screencast-O-Matic online recorder.
 Step 1: Visit “screencast-o-matic.com/screen-recorder” from your web browser. Click on Launch Free Recorder.
 
 ![screencast o-matic com](https://images.wondershare.com/filmora/article-images/screencast-o-matic-com.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: You should now have Screencast-O-Matic on your screen. If you want to record screen, select Screen option. You can also select Webcam if you want to record webcam video only. If you want to record screen as well as webcam, click on Both.
 
@@ -53,15 +65,16 @@ Step 4: Finally, click on Rec button at the top-left corner to start recording.
 
 ![screencast click on rec button](https://images.wondershare.com/filmora/article-images/screencast-click-on-rec-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: To stop recording, click on Pause button and thereafter, click on Done button. You can save or upload the recorder video as well as edit it before saving.
 
 ![screencast pause](https://images.wondershare.com/filmora/article-images/screencast-pause.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Key Features of Screencast-O-Matic Screen Recorder
@@ -83,10 +96,7 @@ Screenshot and GIFs – If you opt for the premium version of Screencast-O-Matic
 Besides, you can upload the recorded video to YouTube, Google Drive, and Dropbox. You can save the video on your hard drive in MP4 file format.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Plans and Prices
@@ -108,13 +118,6 @@ Hence, the free version of Screencast-O-Matic is more like a demo version. You n
 
 3\. Business Team - $5 per month for 3 users: You get all the features on Solo Deluxe and Premier. Additionally, you get to collaborate with team members, get advanced admin panel to manage user roles and manage content as well as get different integrations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Alternative Way To Record Screen Videos
 
 There are several limitations of premium Screencast-O-Matic as well. You always need an active internet connection to record your screen. The file format for saving the video is limited to MP4 only. The useful editing options are still limited in comparison to a professional video editor. That is why there are many who look for a better alternative to Screencast-O-Matic screen recorder. We recommend Wondershare Filmora which is a premium [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) with inbuilt video editor.
@@ -137,22 +140,16 @@ Step 2: Customize the recording screen area and select the audio sources. You ca
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -223,16 +220,13 @@ Step 1: Download and install Wondershare Filmora. It is available for Windows as
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Customize the recording screen area and select the audio sources. You can select system audio as well as external audio for recording. Turn on Record the Camera Stream option in order to record webcam video alongside screen recording.
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
@@ -249,13 +243,6 @@ Hence, the free version of Screencast-O-Matic is more like a demo version. You n
 2\. Solo Premier - $5.75 per month: You get all features without any limitation. Additionally, you get unlimited stock library, online video backup, video hosting, and privacy controls. You can also include call-to-action option in the video along with annotation. Besides, there is an option for video branding and custom video player.
 
 3\. Business Team - $5 per month for 3 users: You get all the features on Solo Deluxe and Premier. Additionally, you get to collaborate with team members, get advanced admin panel to manage user roles and manage content as well as get different integrations.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Alternative Way To Record Screen Videos
 
@@ -284,10 +271,7 @@ Step 3: Click on Record button to start recording. To stop recording, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -316,5 +300,19 @@ In our complete review of Screencast-O-Matic, we have provided you with Screenca
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-windowsmac-meeting-record-skype-guide/"><u>[New] Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-greatest-7-web-based-recording-tools-2023-for-2024/"><u>[Updated] Greatest 7 Web-Based Recording Tools 2023 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-zoom-dates-into-iosandroid-and-desktop-plans/"><u>[Updated] Streamlining Zoom Dates Into iOS/Android and Desktop Plans</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-best-moba-games-for-android/"><u>2024 Approved Top 10 Best MOBA Games for Android</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722597288481-cyberpunk/"><u>Cyberpunk 지구: 아름다운 소나타가 된 미완제의 시연에 대한 평가.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-13-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 13</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immersive-viewing-microsoft-edges-pip/"><u>Immersive Viewing Microsoft Edge's PIP</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-doesnt-leverage-graphics-card-in/"><u>Troubleshooting: Cyberpunk 2077 Doesn't Leverage Graphics Card In</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/verbale-reue-im-deutschen-praktizieren/"><u>Verbale Reue Im Deutschen Praktizieren</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/visual-flow-mastery-with-simple-transitions/"><u>Visual Flow Mastery with Simple Transitions</u></a></li>
+</ul></div>
 

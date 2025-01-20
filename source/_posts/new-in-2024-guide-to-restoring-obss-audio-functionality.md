@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2025-01-07T07:41:36.917Z
-updated: 2025-01-13T23:16:26.873Z
+date: 2025-01-16T05:48:16.539Z
+updated: 2025-01-19T23:48:23.781Z
 tags: 
   - screen-recording
   - ai video
@@ -31,23 +31,19 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -59,6 +55,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -68,10 +68,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -83,6 +79,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -93,6 +93,10 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -101,14 +105,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -121,7 +117,11 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -162,16 +162,17 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-clear-video-borders-streamline-webcam-footage/"><u>[New] Clear Video Borders Streamline Webcam Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-harmonizing-tech-and-artistry-mac-studios/"><u>[New] In 2024, Harmonizing Tech & Artistry Mac Studios</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-insiders-tips-for-choosing-best-webinars-for-2024/"><u>[New] Insider's Tips for Choosing Best Webinars for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-tech-titans-sharexs-challengers-exposed/"><u>[New] Tech Titans ShareX's Challengers Exposed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-auditory-anatomy-understanding-video-audio-for-ig-feeds/"><u>[Updated] Auditory Anatomy Understanding Video Audio for IG Feeds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-group-gallery-video-extractor-for-2024/"><u>[Updated] Group Gallery Video Extractor for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-quirky-quotables-tailoring-hilarious-content-for-brief-videography/"><u>[Updated] In 2024, Quirky Quotables Tailoring Hilarious Content for Brief Videography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-how-to-remove-background-in-picsart-for-2024/"><u>Behind the Scenes How to Remove Background in Picsart for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-file-security-on-windows-10-master-the-7-essential-steps-for-transferring-and-backing-up-files-on-another-drive/"><u>Ensuring File Security on Windows 10: Master the 7 Essential Steps for Transferring and Backing Up Files on Another Drive</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/simplified-video-sharing-via-ms-vision-suite-for-2024/"><u>Simplified Video Sharing via MS Vision Suite for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-software-solutions-for-z50-70-users/"><u>Speedy Software Solutions for Z50-70 Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-effortless-opening-of-srt-on-computers/"><u>[New] 2024 Approved Effortless Opening of SRT on Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-inshot-editors-guide-to-fluid-cut-techniques/"><u>[New] 2024 Approved Inshot Editor's Guide to Fluid Cut Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-low-cost-aerial-photography-top-5-drones-under-500/"><u>[New] 2024 Approved Low-Cost Aerial Photography Top 5 Drones Under $500</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-battleground-bliss-a-ranking-of-7-top-military-sims/"><u>[New] Battleground Bliss A Ranking of 7 Top Military Sims</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discovering-the-finest-8-open-source-video-calls-for-companies/"><u>[New] In 2024, Discovering the Finest 8 Open-Source Video Calls for Companies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-no-cost-virtual-viewer-rendezvous/"><u>[New] Top No-Cost Virtual Viewer Rendezvous</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-finest-digital-voice-recorders/"><u>[Updated] Finest Digital Voice Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-free-and-paid-luts-for-canon-camera-for-2024/"><u>10 Free & Paid LUTs for Canon Camera for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-list-best-10-terraria-mods/"><u>2024 Approved Comprehensive List Best 10 Terraria Mods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employing-nightshade-to-combat-digital-copyright-infringement-in-art/"><u>Employing Nightshade to Combat Digital Copyright Infringement in Art</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlighted-14-examples-of-motion-texts-for-2024/"><u>Highlighted 14 Examples of Motion Texts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager in Windows 11</u></a></li>
 </ul></div>
 
