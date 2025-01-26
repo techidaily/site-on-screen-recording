@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] AZ Video Logger - Full Application Scrutiny for 2024\""
-date: 2025-01-15T03:03:19.033Z
-updated: 2025-01-20T06:24:18.017Z
+date: 2025-01-24T22:29:21.280Z
+updated: 2025-01-25T20:02:34.250Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * Contains advertisements
 * The record button is sometimes visible during recording
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What is AZ Screen Recorder?
 
 **AZ Screen Recorder** has a simple interface and a good set of features. You can capture audio from the microphone and video from the face and rear cameras. It's easy to record the screen in HD mode, using landscape and portrait mode.
@@ -54,10 +58,6 @@ There are numerous great features that make AZ Screen Recorder a must-have tool 
 
 ![video quality in az recorder](https://images.wondershare.com/filmora/article-images/2022/11/video-quality-in-az-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Easy To Use:** The app is very straightforward and easy to use, so you'll be able to start recording your screen within a few seconds.
 
 **No Limitations In The Free Version**: There are no limitations on any features such as video quality, video duration, frame rate, or live streaming. The premium version only removes ads for a smooth recording experience.
@@ -79,12 +79,16 @@ Step3 On the app’s main menu, an overlay will appear with **four buttons.** Ta
 ![az recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/Picture4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Once you are done with your settings, go back and tap the **Record** icon. Tap the **Live Stream** icon and choose **Live Platform**. In our case, we selected **Facebook.**
 
 ![recording and live streaming on az recorder](https://images.wondershare.com/filmora/article-images/2022/11/recording-and-live-streaming-on-az-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Tap the “**Continue as...”** button to provide access, set who can see your live video/screen, and tap **OK**. Next, tap **Continue** and set the stream's caption. Tap **Start Live Streaming**, select **Start Now,** and your live recording and streaming will begin in no time.
 
@@ -111,6 +115,10 @@ Let’s take a quick look to find out the advantages and disadvantages of the AZ
 * Some people are complaining that the record button won't hide during the recording process
 * The audio function stops working, sometimes affecting the video clip
 * AZ Screen recorder app contains ads that can only be removed by purchasing a one-time subscription plan
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5\. The Best AZ Screen Recorder Alternatives For PC And Mac
 
@@ -140,15 +148,7 @@ Step3 From the **"Wondershare Screen Recorder"** window, set up which part of th
 
 ![filmora recorder window](https://images.wondershare.com/filmora/article-images/2022/11/filmora-recorder-window.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Finally, select the **Start** icon to begin your video. To complete the recording, click the **Stop** icon, and your recorded clip will be saved to the desired destination.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -184,10 +184,6 @@ There are numerous great features that make AZ Screen Recorder a must-have tool 
 
 ![video quality in az recorder](https://images.wondershare.com/filmora/article-images/2022/11/video-quality-in-az-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Easy To Use:** The app is very straightforward and easy to use, so you'll be able to start recording your screen within a few seconds.
 
 **No Limitations In The Free Version**: There are no limitations on any features such as video quality, video duration, frame rate, or live streaming. The premium version only removes ads for a smooth recording experience.
@@ -202,23 +198,31 @@ Step1 Head to the **Google Play Store** on your Android device or **App Store** 
 
 ![installing az recorder app](https://images.wondershare.com/filmora/article-images/2022/11/installing-az-recorder-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Launch the app and grant all the necessary permissions, such as access to Gallery, use of a microphone, camera, etc.
 
 Step3 On the app’s main menu, an overlay will appear with **four buttons.** Tap the **Settings** option to configure the recording settings. Here, you can set resolution, bit-rate, frame rate, orientation, record audio, audio source, output directory, fix the green screen, etc.
 
 ![az recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/Picture4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Once you are done with your settings, go back and tap the **Record** icon. Tap the **Live Stream** icon and choose **Live Platform**. In our case, we selected **Facebook.**
 
 ![recording and live streaming on az recorder](https://images.wondershare.com/filmora/article-images/2022/11/recording-and-live-streaming-on-az-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Tap the “**Continue as...”** button to provide access, set who can see your live video/screen, and tap **OK**. Next, tap **Continue** and set the stream's caption. Tap **Start Live Streaming**, select **Start Now,** and your live recording and streaming will begin in no time.
 
 Tap **Stop** to finish your live recording and streaming session.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Advantages and Disadvantages Of AZ Screen Recorder
 
@@ -269,10 +273,6 @@ Step2 Now, run the software on your PC/Mac and click **“Create New Project.”
 Step3 From the **"Wondershare Screen Recorder"** window, set up which part of the screen you want to record, i.e., full screen, custom, or target screen recording. Set the speaker and microphone settings and click the **drop-down** icon for more **Settings.**
 
 ![filmora recorder window](https://images.wondershare.com/filmora/article-images/2022/11/filmora-recorder-window.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Finally, select the **Start** icon to begin your video. To complete the recording, click the **Stop** icon, and your recorded clip will be saved to the desired destination.
 
@@ -312,18 +312,20 @@ Hopefully, you find this in-depth review helpful and can now successfully record
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-cost-effective-video-capture-for-less-expensive-systems/"><u>[New] In 2024, Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[New] In 2024, Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>[Updated] In 2024, Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pixelpioneer-mastering-the-art-of-screen-capture-for-2024/"><u>[Updated] PixelPioneer Mastering the Art of Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>2024 Approved Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-valheim-vegetation-value-optimal-sapling-guidance/"><u>2024 Approved Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/capture-more-with-less-discover-canons-elph-1e79/"><u>Capture More with Less – Discover Canon's ELPH 1E79</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-driver-power-transition-failures/"><u>Effective Fixes for Windows Driver Power Transition Failures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Phone with Broken Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ios-selection-showcase-premier-psp-emulators-ranked-1-5/"><u>IOS Selection Showcase Premier PSP Emulators Ranked #1-5</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rookie-riches-economical-channels-for-monetization-for-2024/"><u>Rookie Riches Economical Channels for Monetization for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-face-swap-revolution-top-apps-for-iphone-and-android/"><u>Updated 2024 Approved The Face Swap Revolution Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-economical-pc-streaming-with-simple-obs-configurations-for-2024/"><u>[New] Economical PC Streaming with Simple OBS Configurations for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-iobit-screen-recorder-review-and-alternative/"><u>[Updated] 2024 Approved IObit Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-blueprints-of-bliss-building-a-virtual-mc-village-home-for-2024/"><u>[Updated] Blueprints of Bliss Building a Virtual MC Village Home for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-wildlife-wonders-androids-finest-animal-game-collection/"><u>[Updated] In 2024, Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-peering-behind-recordcasts-curtain/"><u>[Updated] Peering Behind RecordCast's Curtain</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-live-stream-capture-tv-show-recording-techniques/"><u>2024 Approved Mastering Live Stream Capture TV Show Recording Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inaccessible-values-in-windows-applications/"><u>Addressing Inaccessible Values in Windows Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-of-steam-deck-exclusive-selection-of-top-10-games-for-new-releases/"><u>Best of Steam Deck: Exclusive Selection of Top 10 Games for New Releases</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-common-color-distortion-glitches/"><u>Correcting Common Color Distortion Glitches</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-edit-youtube-videos-in-windows-movie-maker-for-2024/"><u>How to Edit YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-k11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo K11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/registrati-completamente-il-tuo-schermo-con-obs-una-guida-dettagliata/"><u>Registrati Completamente Il Tuo Schermo Con OBS: Una Guida Dettagliata!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/zoom-mastering-virtual-meeting-planning/"><u>Zoom Mastering Virtual Meeting Planning</u></a></li>
 </ul></div>
 
