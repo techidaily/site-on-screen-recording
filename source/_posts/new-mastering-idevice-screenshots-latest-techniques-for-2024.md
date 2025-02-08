@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering iDevice Screenshots   Latest Techniques for 2024\""
-date: 2025-01-23T11:18:45.946Z
-updated: 2025-01-26T03:52:40.560Z
+date: 2025-02-05T18:46:30.662Z
+updated: 2025-02-08T05:37:38.234Z
 tags: 
   - screen-recording
   - ai video
@@ -44,36 +44,36 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
 That's the steps of how to record your iPhone screen in iOS 11 and later versions. If you want to edit the recorded video with some video editing apps, do not miss [the top 10 best video editors for iPhone and iPad](https://tools.techidaily.com/wondershare/filmora/download/).
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
@@ -85,15 +85,15 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -104,7 +104,7 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -136,24 +136,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-tutorial-iphoneipad-time-lapse-recording-for-2024/"><u>[New] The Ultimate Tutorial IPhone/iPad Time Lapse Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac/"><u>[New] Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-your-chat-game-with-astrological-bios/"><u>[Updated] 2024 Approved Elevate Your Chat Game with Astrological Bios</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-efficient-scheduling-techniques-for-effective-google-meeting/"><u>[Updated] Efficient Scheduling Techniques for Effective Google Meeting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-from-gameplay-to-recording-expert-techniques-for-ps3-screenshots/"><u>[Updated] From Gameplay to Recording Expert Techniques for PS3 Screenshots</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bring-your-sims-4-gameplay-to-life-on-screen/"><u>[Updated] In 2024, Bring Your Sims 4 Gameplay to Life on Screen</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-the-world-of-apex-legends-on-a-personal-platform-quest-for-2024/"><u>[Updated] Navigating the World of Apex Legends on a Personal Platform Quest for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc/"><u>2024 Approved Freeze Frame Perfection The Best 9 Apps to Record and Save Animation on PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-record-and-edit-video-using-the-adobe-connect/"><u>2024 Approved How to Record and Edit Video Using the Adobe Connect</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-better-montages-a-creative-guide-for-2024/"><u>Building Better Montages A Creative Guide for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-earnings-from-one-million-youtube-watches-for-2024/"><u>Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-legally-unlock-copyrighted-dvds-for-personal-use-discover-5-no-cost-techniques/"><u>How to Legally Unlock Copyrighted DVDs for Personal Use: Discover 5 No-Cost Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola online without jailbreak</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>In 2024, Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-remedies-to-stop-your-division-2-crashes-in-their-tracks/"><u>Instant Remedies to Stop Your Division 2 Crashes in Their Tracks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mxf-to-mp4-6/"><u>MXF to MP4変換手順集: ご家庭向けに無料で解説します【6方法】</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-complications-of-apples-do-it-yourself-repair-scheme/"><u>Unraveling the Complications of Apple's Do-It-Yourself Repair Scheme</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-high-definition-at-its-peak-top-10-4k-screens/"><u>[New] 2024 Approved High Definition at Its Peak #Top 10 4K Screens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exquisite-background-melodies-for-edits/"><u>[New] Exquisite Background Melodies for Edits</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-review-the-goofy-movie-vhs/"><u>[New] In 2024, Review The Goofy Movie VHS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-rhythmreview-music-and-dialogue-analysis/"><u>[New] RhythmReview Music and Dialogue Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-swiftcapture-solutions-w-audio-walkthrough-support-for-2024/"><u>[New] SwiftCapture Solutions W/ Audio Walkthrough Support for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-digital-diaries-reviewing-the-best-personal-devices/"><u>[Updated] In 2024, Digital Diaries Reviewing the Best Personal Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-framing-making-an-effective-youtube-introductory-vids-for-2024/"><u>[Updated] The Art of Framing Making an Effective YouTube Introductory Vids for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-patching-tiktok-videos/"><u>2024 Approved The Ultimate Guide to Patching TikTok Videos</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1728463303647-windows-11/"><u>解決Windows 11運行失敗：最佳電腦故障修正技術</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-fix-gtf-object-disappearances/"><u>Effective Strategies to Fix GTF Object Disappearances</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secrets-to-flawless-game-recording-in-windows-11-for-2024/"><u>Secrets to Flawless Game Recording in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-premium-screen-recorders-in-tech/"><u>Unveiling Premium Screen Recorders in Tech</u></a></li>
 </ul></div>
 
