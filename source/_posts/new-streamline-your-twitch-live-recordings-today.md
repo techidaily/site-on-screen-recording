@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamline Your Twitch Live Recordings Today"
-date: 2025-02-05T00:41:24.349Z
-updated: 2025-02-07T17:29:37.409Z
+date: 2025-02-12T16:41:25.697Z
+updated: 2025-02-17T17:17:05.464Z
 tags: 
   - screen-recording
   - ai video
@@ -39,136 +39,6 @@ Step 1: Log into your Twitch account and go to Creator Dashboard. Click on the h
 
 ![twitch dashboard](https://images.wondershare.com/filmora/article-images/twitch-dashboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 2: Go to Preferences > Channel > Channel Settings page.
-
-Step 3: Click on your Profile icon located at the top-right corner and from the menu, select Settings.
-
-Step 4: From Settings page, go to Channel and Videos tab.
-
-![channel and videos twitch](https://images.wondershare.com/filmora/article-images/channel-and-videos-twitch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 5: Go to Stream Key & Preferences section and enable Store Past Broadcasts option.
-
-![twitch store past broadcasts](https://images.wondershare.com/filmora/article-images/twitch-store-past-broadcasts.jpg)
-
-Step 6: Click on the hamburger icon again and go to Content> Video Producer to see the stored videos.
-
-![stored videos twitch](https://images.wondershare.com/filmora/article-images/stored-videos-twitch.jpg)
-
-## Way 2\. How to Record Twitch Stream on Windows
-
-If you are a Twitch streamer and you want to record your own live streams, you need a professional for Twitch live stream record. We recommend Wondershare Filmora - [professional video recorder](https://tools.techidaily.com/wondershare/filmora/download/) with built-in video editor. This means you can not only record your Twitch stream but also edit your recording to make it more crisp and interesting.
-
-For Twitch streamers, they have to record their screen with webcam in picture-in-picture format. For Twitch viewers, they have to record their screen with system audio. Filmora is available for Windows and Mac. Here are the steps to record Twitch live stream with Filmora.
-
-Step 1: Download and install Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch Filmora and go for PC Screen option.
-
-![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3: From Recording window, set the recording screen size and select system audio only if you want to record someone’s Twitch stream. If you want to record your own stream, you have to set the microphone as well as enable Record the Camera Stream option.
-
-![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
-
-Step 4: Click on Record button. You will get a buffer time to switch to Twitch stream to start recording. On the other hand, you can press F9 key to start recording after you start the Twitch stream.
-
-Step 5: If you want to stop recording, click on Stop button or press F9 key again.
-
-Step 6: You will edit the recorded Twitch stream and export to save it on your hard drive.
-
-## Way 3\. Record Twitch with OBS Studio
-
-OBS Studio is one of the most preferred platforms that are used by Twitch streamers for live streaming. It is a completely free software through which you can go for Twitch streaming records. There is no dearth of features and settings for professional-quality streaming and recording. However, the user interface is slightly complicated and here are the steps you need to follow to record Twitch live stream on OBS Studio.
-
-![obs recording](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
-
-Step 1: Download and install OBS Studio. From Scenes tab, click on “+” button to create a new scene.
-
-Step 2: From Sources tab, click on “+” button and click on Display Capture option.
-
-Step 3: From Controls tab, click on Start Recording option and go to Twitch stream to start recording.
-
-Step 4: To stop recording, click on Stop Recording option under the same Controls tab. You will find the recording under Videos folder on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Way 4\. Record Twitch Stream with XSplit
-
-XSplit Broadcaster is a professional live streaming and recording software. XSplit Suite comes with various tools, but you have to choose Broadcaster to record your screen when you play any Twitch live stream on your browser. You can customize various settings to ensure the video and audio quality is top-notch. Here are the steps for Twitch streaming records with XSplit Broadcaster.
-
-![xsplit](https://images.wondershare.com/filmora/article-images/xsplit-gamecaster.jpg)
-
-Step 1: Download and install XSplit Broadcaster.
-
-Step 2: Open Broadcaster and go to Add Source> Screen Capture. You can go for Smart capture for customized recording area or Monitor capture for full screen or Window capture.
-
-Step 3: Open Twitch live stream that you want to record and on XSplit Broadcaster, click on Record menu option and select Local Recording.
-
-Step 4: To stop recording, use the same option again. You can find the recordings from Tools> Recordings.
-
-## Way 5\. How to Record Twitch on Mac
-
-If you are a Mac user, Twitch live stream record gets easy for you. You do not have to install any external software as QuickTime Player comes pre-installed on Mac. In fact, QuickTime Player is the default video player on Mac and it is a great video recorder as well. You can record the screen when you play Twitch stream on your browser. Here are the steps to how to record Twitch streams on Mac.
-
-![obs setup](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 1: Launch QuickTime Player from Applications folder and go to File > New Screen Recording option.
-
-Step 2: Open Twitch live stream that you want to record. Thereafter, start recording by clicking Record button from QuickTime widget.
-
-Step 3: To stop recording, press the Stop button. Thereafter, go to File > Save option to save the recording.
-
-## Conclusion
-
-Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer can enable Video on Demand option to record live streams and upload them on other platforms. For better results, both streamer and viewer can record with Wondershare Filmora. Mac users can use QuickTime Player to record Twitch streams for free. OBS Studio and XSplit are perfect for live streaming as well as record live streams.
-
-Way 2. [How to Record Twitch Stream on Windows](#part2)
-
-Way 3. [Record Twitch with OBS Studio](#part3)
-
-Way 4. [Record Twitch Stream with XSplit](#part4)
-
-Way 4. [Record Twitch Lice Stream on Mac](#part4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Way 1\. Save Video with VOD on Twitch
-
-Twitch offers a special feature called Video on Demand(VOD) to all Twitch streamers. If a Twitch streamer enables VOD, his live stream will be saved for the streamer to watch it and upload it on his channel for his viewers to watch any time after the live stream gets over. Streamers can make highlights of the long live stream instantly and upload on social media and video streaming sties like YouTube. Here are the steps to save Twitch live streams by enabling VOD.
-
-Step 1: Log into your Twitch account and go to Creator Dashboard. Click on the hamburger icon at the top-left corner and go to Settings.
-
-![twitch dashboard](https://images.wondershare.com/filmora/article-images/twitch-dashboard.jpg)
-
 Step 2: Go to Preferences > Channel > Channel Settings page.
 
 Step 3: Click on your Profile icon located at the top-right corner and from the menu, select Settings.
@@ -180,10 +50,6 @@ Step 4: From Settings page, go to Channel and Videos tab.
 Step 5: Go to Stream Key & Preferences section and enable Store Past Broadcasts option.
 
 ![twitch store past broadcasts](https://images.wondershare.com/filmora/article-images/twitch-store-past-broadcasts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Click on the hamburger icon again and go to Content> Video Producer to see the stored videos.
 
@@ -225,6 +91,10 @@ OBS Studio is one of the most preferred platforms that are used by Twitch stream
 
 ![obs recording](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Download and install OBS Studio. From Scenes tab, click on “+” button to create a new scene.
 
 Step 2: From Sources tab, click on “+” button and click on Display Capture option.
@@ -239,6 +109,10 @@ XSplit Broadcaster is a professional live streaming and recording software. XSpl
 
 ![xsplit](https://images.wondershare.com/filmora/article-images/xsplit-gamecaster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Download and install XSplit Broadcaster.
 
 Step 2: Open Broadcaster and go to Add Source> Screen Capture. You can go for Smart capture for customized recording area or Monitor capture for full screen or Window capture.
@@ -246,6 +120,10 @@ Step 2: Open Broadcaster and go to Add Source> Screen Capture. You can go for Sm
 Step 3: Open Twitch live stream that you want to record and on XSplit Broadcaster, click on Record menu option and select Local Recording.
 
 Step 4: To stop recording, use the same option again. You can find the recordings from Tools> Recordings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. How to Record Twitch on Mac
 
@@ -315,6 +193,10 @@ Step 2: Launch Filmora and go for PC Screen option.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: From Recording window, set the recording screen size and select system audio only if you want to record someone’s Twitch stream. If you want to record your own stream, you have to set the microphone as well as enable Record the Camera Stream option.
 
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
@@ -325,15 +207,15 @@ Step 5: If you want to stop recording, click on Stop button or press F9 key agai
 
 Step 6: You will edit the recorded Twitch stream and export to save it on your hard drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 3\. Record Twitch with OBS Studio
 
 OBS Studio is one of the most preferred platforms that are used by Twitch streamers for live streaming. It is a completely free software through which you can go for Twitch streaming records. There is no dearth of features and settings for professional-quality streaming and recording. However, the user interface is slightly complicated and here are the steps you need to follow to record Twitch live stream on OBS Studio.
 
 ![obs recording](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1: Download and install OBS Studio. From Scenes tab, click on “+” button to create a new scene.
 
@@ -369,10 +251,6 @@ Step 2: Open Twitch live stream that you want to record. Thereafter, start recor
 
 Step 3: To stop recording, press the Stop button. Thereafter, go to File > Save option to save the recording.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer can enable Video on Demand option to record live streams and upload them on other platforms. For better results, both streamer and viewer can record with Wondershare Filmora. Mac users can use QuickTime Player to record Twitch streams for free. OBS Studio and XSplit are perfect for live streaming as well as record live streams.
@@ -405,13 +283,131 @@ Step 5: Go to Stream Key & Preferences section and enable Store Past Broadcasts 
 
 ![twitch store past broadcasts](https://images.wondershare.com/filmora/article-images/twitch-store-past-broadcasts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Click on the hamburger icon again and go to Content> Video Producer to see the stored videos.
 
 ![stored videos twitch](https://images.wondershare.com/filmora/article-images/stored-videos-twitch.jpg)
 
+## Way 2\. How to Record Twitch Stream on Windows
+
+If you are a Twitch streamer and you want to record your own live streams, you need a professional for Twitch live stream record. We recommend Wondershare Filmora - [professional video recorder](https://tools.techidaily.com/wondershare/filmora/download/) with built-in video editor. This means you can not only record your Twitch stream but also edit your recording to make it more crisp and interesting.
+
+For Twitch streamers, they have to record their screen with webcam in picture-in-picture format. For Twitch viewers, they have to record their screen with system audio. Filmora is available for Windows and Mac. Here are the steps to record Twitch live stream with Filmora.
+
+Step 1: Download and install Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and go for PC Screen option.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 3: From Recording window, set the recording screen size and select system audio only if you want to record someone’s Twitch stream. If you want to record your own stream, you have to set the microphone as well as enable Record the Camera Stream option.
+
+![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
+Step 4: Click on Record button. You will get a buffer time to switch to Twitch stream to start recording. On the other hand, you can press F9 key to start recording after you start the Twitch stream.
+
+Step 5: If you want to stop recording, click on Stop button or press F9 key again.
+
+Step 6: You will edit the recorded Twitch stream and export to save it on your hard drive.
+
+## Way 3\. Record Twitch with OBS Studio
+
+OBS Studio is one of the most preferred platforms that are used by Twitch streamers for live streaming. It is a completely free software through which you can go for Twitch streaming records. There is no dearth of features and settings for professional-quality streaming and recording. However, the user interface is slightly complicated and here are the steps you need to follow to record Twitch live stream on OBS Studio.
+
+![obs recording](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
+
+Step 1: Download and install OBS Studio. From Scenes tab, click on “+” button to create a new scene.
+
+Step 2: From Sources tab, click on “+” button and click on Display Capture option.
+
+Step 3: From Controls tab, click on Start Recording option and go to Twitch stream to start recording.
+
+Step 4: To stop recording, click on Stop Recording option under the same Controls tab. You will find the recording under Videos folder on your computer.
+
+## Way 4\. Record Twitch Stream with XSplit
+
+XSplit Broadcaster is a professional live streaming and recording software. XSplit Suite comes with various tools, but you have to choose Broadcaster to record your screen when you play any Twitch live stream on your browser. You can customize various settings to ensure the video and audio quality is top-notch. Here are the steps for Twitch streaming records with XSplit Broadcaster.
+
+![xsplit](https://images.wondershare.com/filmora/article-images/xsplit-gamecaster.jpg)
+
+Step 1: Download and install XSplit Broadcaster.
+
+Step 2: Open Broadcaster and go to Add Source> Screen Capture. You can go for Smart capture for customized recording area or Monitor capture for full screen or Window capture.
+
+Step 3: Open Twitch live stream that you want to record and on XSplit Broadcaster, click on Record menu option and select Local Recording.
+
+Step 4: To stop recording, use the same option again. You can find the recordings from Tools> Recordings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Way 5\. How to Record Twitch on Mac
+
+If you are a Mac user, Twitch live stream record gets easy for you. You do not have to install any external software as QuickTime Player comes pre-installed on Mac. In fact, QuickTime Player is the default video player on Mac and it is a great video recorder as well. You can record the screen when you play Twitch stream on your browser. Here are the steps to how to record Twitch streams on Mac.
+
+![obs setup](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Step 1: Launch QuickTime Player from Applications folder and go to File > New Screen Recording option.
+
+Step 2: Open Twitch live stream that you want to record. Thereafter, start recording by clicking Record button from QuickTime widget.
+
+Step 3: To stop recording, press the Stop button. Thereafter, go to File > Save option to save the recording.
+
+## Conclusion
+
+Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer can enable Video on Demand option to record live streams and upload them on other platforms. For better results, both streamer and viewer can record with Wondershare Filmora. Mac users can use QuickTime Player to record Twitch streams for free. OBS Studio and XSplit are perfect for live streaming as well as record live streams.
+
+Way 2. [How to Record Twitch Stream on Windows](#part2)
+
+Way 3. [Record Twitch with OBS Studio](#part3)
+
+Way 4. [Record Twitch Stream with XSplit](#part4)
+
+Way 4. [Record Twitch Lice Stream on Mac](#part4)
+
+## Way 1\. Save Video with VOD on Twitch
+
+Twitch offers a special feature called Video on Demand(VOD) to all Twitch streamers. If a Twitch streamer enables VOD, his live stream will be saved for the streamer to watch it and upload it on his channel for his viewers to watch any time after the live stream gets over. Streamers can make highlights of the long live stream instantly and upload on social media and video streaming sties like YouTube. Here are the steps to save Twitch live streams by enabling VOD.
+
+Step 1: Log into your Twitch account and go to Creator Dashboard. Click on the hamburger icon at the top-left corner and go to Settings.
+
+![twitch dashboard](https://images.wondershare.com/filmora/article-images/twitch-dashboard.jpg)
+
+Step 2: Go to Preferences > Channel > Channel Settings page.
+
+Step 3: Click on your Profile icon located at the top-right corner and from the menu, select Settings.
+
+Step 4: From Settings page, go to Channel and Videos tab.
+
+![channel and videos twitch](https://images.wondershare.com/filmora/article-images/channel-and-videos-twitch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 5: Go to Stream Key & Preferences section and enable Store Past Broadcasts option.
+
+![twitch store past broadcasts](https://images.wondershare.com/filmora/article-images/twitch-store-past-broadcasts.jpg)
+
+Step 6: Click on the hamburger icon again and go to Content> Video Producer to see the stored videos.
+
+![stored videos twitch](https://images.wondershare.com/filmora/article-images/stored-videos-twitch.jpg)
 
 ## Way 2\. How to Record Twitch Stream on Windows
 
@@ -476,6 +472,10 @@ Step 4: To stop recording, use the same option again. You can find the recording
 If you are a Mac user, Twitch live stream record gets easy for you. You do not have to install any external software as QuickTime Player comes pre-installed on Mac. In fact, QuickTime Player is the default video player on Mac and it is a great video recorder as well. You can record the screen when you play Twitch stream on your browser. Here are the steps to how to record Twitch streams on Mac.
 
 ![obs setup](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1: Launch QuickTime Player from Applications folder and go to File > New Screen Recording option.
 
@@ -511,24 +511,16 @@ Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-everlasting-screenshot-functionality/"><u>[New] 2024 Approved Everlasting Screenshot Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhance-your-stream-the-top-5-cameras-to-stand-out-on-twitch/"><u>[New] Enhance Your Stream The Top 5 Cameras to Stand Out on Twitch</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/dentifying-the-most-versatile-cam-top-12-screen-swivel-gadgets/"><u>[New] Identifying the Most Versatile Cam Top 12 Screen Swivel Gadgets</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-a-complete-guide-to-using-vlc-mac-edition-highlights/"><u>[New] In 2024, A Complete Guide to Using VLC Mac Edition Highlights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhancing-communication-on-google-meet-step-by-step/"><u>[New] In 2024, Enhancing Communication on Google Meet [Step-by-Step]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-streamline-iphone-videos-size-and-length-optimization/"><u>[New] Streamline iPhone Videos Size & Length Optimization</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[New] Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715859898926-new-zombification-extravaganza-8-epic-titles-ranked/"><u>[New] Zombification Extravaganza - 8 Epic Titles Ranked!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-breaking-the-rt-barrier-sharing-photos-and-vids-on-twitter/"><u>[Updated] Breaking the 'RT' Barrier Sharing Photos & Vids on Twitter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-a-comparative-study-of-top-10-low-cost-video-meeting-platforms-in-the-enterpriseedu-market/"><u>[Updated] In 2024, A Comparative Study of Top 10 Low-Cost Video Meeting Platforms in the Enterprise/Edu Market</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-best-offline-ios-games-you-should-try/"><u>[Updated] In 2024, Top 10 Best Offline iOS Games You Should Try</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-turn-youtube-videos-into-soundtracks/"><u>[Updated] In 2024, Turn YouTube Videos Into Soundtracks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>[Updated] The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-discreetly-discovering-content-how-to-read-instagram-stories-privately-on-pcandroidios/"><u>2024 Approved Discreetly Discovering Content How to Read Instagram Stories Privately on PC/Android/iOS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-steps-to-screen-recording-via-ezvid-video-creator/"><u>2024 Approved Quick Steps to Screen Recording via Ezvid Video Creator</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-superior-platforms-10-android-gba-simulator-picks/"><u>In 2024, Superior Platforms 10 Android GBA Simulator Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-post-antitrust-era-how-samsungs-growing-galaxy-ai-climbs-the-innovation-ladder-insights-for-tech-leaders/"><u>Navigating Post-Antitrust Era: How Samsung’s Growing Galaxy AI Climbs the Innovation Ladder - Insights for Tech Leaders</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nubia-red-magic-9-proplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nubia Red Magic 9 Pro+ Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-corsair-one-pro-innovative-and-sleek-for-serious-gamers/"><u>The Ultimate Guide to the Corsair One Pro: Innovative and Sleek for Serious Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-phone-your-camera-tips-for-mobile-video-shooting/"><u>[New] 2024 Approved Your Phone, Your Camera Tips for Mobile Video Shooting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-game-on-tips-for-excellent-video-game-clips/"><u>[New] In 2024, Game On! Tips for Excellent Video Game Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>[New] In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-your-igtv-thumbnail-imagery/"><u>[Updated] 2024 Approved Perfecting Your IGTV Thumbnail Imagery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>[Updated] Step-by-Step Guide Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-tutorial-from-start-to-finish/"><u>Final Cut Pro Time Lapse Tutorial From Start to Finish</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-comprehensive-fb-messenger-recordings-explained/"><u>In 2024, Comprehensive FB Messenger Recordings Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-televised-content-ease-youtube-loop-integration-guide/"><u>In 2024, Televised Content Ease YouTube Loop Integration Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamless-integration-of-switch-pro-into-steam-games-for-2024/"><u>Seamless Integration of Switch Pro Into Steam Games for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cket-views-implementing-these-proven-youtube-growth-methods/"><u>Skyrocket Views Implementing These Proven YouTube Growth Methods</u></a></li>
 </ul></div>
 
