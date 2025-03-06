@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Easy Desktop Screen Capture Method"
-date: 2025-01-19T04:39:29.664Z
-updated: 2025-01-26T08:43:08.428Z
+date: 2025-03-04T16:21:42.245Z
+updated: 2025-03-06T16:13:30.216Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -78,10 +74,6 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
@@ -100,23 +92,11 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -184,10 +164,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,18 +179,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-make-a-game-streaming-video-with-ai-portrait/"><u>[New] How to Make a Game Streaming Video With AI Portrait</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-a-world-of-live-content-roku-and-facebook-integration/"><u>[New] In 2024, Unveiling a World of Live Content Roku and Facebook Integration</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-turbo-testing-our-compreenas-five-best-racing-games-for-2024/"><u>[New] Turbo Testing Our Compreenas Five Best Racing Games for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-snap-game-with-pro-level-boomerang-expertise/"><u>[Updated] 2024 Approved Elevate Your Snap Game with Pro-Level Boomerang Expertise</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-and-share-the-discord-live-stream-method/"><u>[Updated] In 2024, Capture and Share The Discord Live Stream Method</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leading-list-of-budget-video-call-apps-with-live-sharing/"><u>[Updated] Leading List of Budget Video Call Apps with Live Sharing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-reality-comparing-metaverse-and-multiverse/"><u>2024 Approved Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-high-impact-spotify-marketing-plans/"><u>2024 Approved Crafting High-Impact Spotify Marketing Plans</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-guide-effortless-iphone-screen-recordings/"><u>2024 Approved Step-by-Step Guide Effortless Iphone Screen Recordings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT 5 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sustaining-wellbeing-in-virtual-reality/"><u>Sustaining Wellbeing in Virtual Reality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/tips-for-swapping-video-direction-in-snapchat/"><u>Tips for Swapping Video Direction in Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-bandicam-know-how-a-complete-review/"><u>[New] In 2024, Essential Bandicam Know-How - A Complete Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screencasting-simplified-compreehd-step-by-step-guide/"><u>[New] Screencasting Simplified Compreehd, Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-non-vimeo-powerhouses-for-video-content-creation/"><u>[Updated] 2024 Approved Non-Vimeo Powerhouses for Video Content Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[Updated] 2024 Approved Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-video-preservation/"><u>[Updated] In 2024, The Ultimate Guide to Online Video Preservation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-step-by-step-guide-integrating-your-id-and-driving-permit-into-apple-wallet-location-specific-instructions/"><u>1. Step-by-Step Guide: Integrating Your ID and Driving Permit Into Apple Wallet - Location-Specific Instructions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-round-up-the-most-effective-9-digital-recorders/"><u>Expert Round-Up The Most Effective 9 Digital Recorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-screen-adjustments-for-expanded-interface-in-win10/"><u>Fine-Tuning Screen Adjustments for Expanded Interface in Win10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/starting-out-key-equipment-and-software-for-vlogging/"><u>Starting Out Key Equipment & Software for Vlogging</u></a></li>
 </ul></div>
 

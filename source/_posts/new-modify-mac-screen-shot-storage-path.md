@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path"
-date: 2025-02-06T06:39:40.908Z
-updated: 2025-02-08T01:43:30.302Z
+date: 2025-03-01T16:17:01.453Z
+updated: 2025-03-06T16:07:33.939Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,19 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -73,10 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -100,10 +84,6 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -119,24 +99,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-5-exceptional-pc-emulators-for-playing-ps1-games-for-2024/"><u>[New] 5 Exceptional PC Emulators for Playing PS1 Games for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-capture-your-gaming-success-on-win10/"><u>[New] In 2024, How to Capture Your Gaming Success on Win10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-inside-look-obs-as-a-premier-screen-recorder/"><u>[Updated] 2024 Approved Inside Look OBS as a Premier Screen Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-pinnacle-of-hd-recording-expertly-curated-list/"><u>[Updated] 2024 Approved Pinnacle of HD Recording Expertly Curated List</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-best-in-class-writing-workshop-for-2024/"><u>[Updated] Best-in-Class Writing Workshop for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-engaging-subjects-for-consistent-vlogging-for-2024/"><u>[Updated] Engaging Subjects for Consistent Vlogging for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tech-insightfulness-a-global-experts-assessment/"><u>[Updated] In 2024, Tech Insightfulness A Global Experts' Assessment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>[Updated] In 2024, The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-poll-power-players-leading-electoral-game-reviews/"><u>[Updated] Poll Power Players Leading Electoral Game Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mysteries-of-quantum-hdr/"><u>2024 Approved Unraveling the Mysteries of Quantum HDR</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-steps-to-implement-two-step-verification-on-twitch-platforms/"><u>Effective Steps to Implement Two-Step Verification on Twitch Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2013-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2013 File | Stellar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-infused-approaches-to-career-excellence/"><u>GPT-Infused Approaches to Career Excellence</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a38-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A38 FRP Bypass</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-buzz-around-sonys-next-gen-vr-experience-estimated-prices-launch-dates-and-cutting-edge-features-unveiled/"><u>The Buzz Around Sony’s Next-Gen VR Experience: Estimated Prices, Launch Dates & Cutting-Edge Features Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-12-ultimate-relaxing-pc-titles/"><u>Top 12 Ultimate Relaxing PC Titles</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/windows-10webtop13/"><u>おすすめ！Windows 10に対応した高性能Webカメラソフトの選択肢TOP13(無料)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-planning-and-recording-meetings-in-slack-plus-filmora/"><u>[New] 2024 Approved The Ultimate Guide to Planning & Recording Meetings in Slack + Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-battle-for-bushido-next-level-titles-echoing-tsushis-spirit-for-2024/"><u>[New] Battle for Bushido Next-Level Titles Echoing Tsushi's Spirit for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-reels-perfecting-sound-in-instagram-videos-for-2024/"><u>[New] Enhancing Reels Perfecting Sound in Instagram Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-quit-auto-capture-on-apples-recorder/"><u>[New] How To Quit Auto-Capture on Apple's Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-celebrating-top-10-moba-play-android-edition/"><u>[Updated] Celebrating Top 10 MOBA Play Android Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] In 2024, Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>[Updated] In 2024, Harvesting Hours Top 10 Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-project-pics-blend-outside-focus-with-radial-filters-psx-for-2024/"><u>[Updated] Project Pics Blend Outside Focus with Radial Filters PSX for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quintessential-14-text-motion-design-examples/"><u>[Updated] Quintessential 14 Text Motion Design Examples</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-alteration-of-yt-vids-for-mac-screens/"><u>[Updated] Speedy Alteration of YT Vids for Mac Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-softening-images-with-iphone-software/"><u>2024 Approved A Comprehensive Guide to Softening Images with iPhone Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-procedure-to-effective-video-capturing-using-zds-tools/"><u>2024 Approved Step-by-Step Procedure to Effective Video Capturing Using ZD's Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-work-from-home-companion-with-adonit-nest-usb-hub-now-discounted-to-just-65-deals/"><u>Get the Ultimate Work-From-Home Companion with Adonit Nest USB Hub, Now Discounted to Just $65 Deals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>In 2024, Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-definition-vision-recorder-devices/"><u>In 2024, High Definition Vision Recorder Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smooth-setup-pairing-your-samsung-headphones-with-windowsmac-computers/"><u>Smooth Setup: Pairing Your Samsung Headphones with Windows/Mac Computers</u></a></li>
 </ul></div>
 

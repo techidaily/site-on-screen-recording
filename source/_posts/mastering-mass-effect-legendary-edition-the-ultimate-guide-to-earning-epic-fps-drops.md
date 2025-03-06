@@ -1,7 +1,7 @@
 ---
 title: Mastering Mass Effect Legendary Edition - The Ultimate Guide to Earning Epic FPS Drops
-date: 2025-02-03T21:51:20.206Z
-updated: 2025-02-08T00:06:07.757Z
+date: 2025-02-28T16:08:27.693Z
+updated: 2025-03-06T16:07:02.355Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/game-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the GENERAL tab, uncheck the box**Enable Origin In Game for Mass Effect Legendary Edition** . Then click**Save** .  
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay-on-Origin.jpg)
@@ -73,10 +69,6 @@ After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Verify integrity of game files
 
  Any missing or corrupted game files can cause a wide range of issues. And you need to make sure your files are intact by repairing your game on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -86,10 +78,6 @@ After you save the changes, test your gameplay.
  1) Open your Origin client. Click**My Game Library** . Then right-click on your game title and select**Repair** .  
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -101,15 +89,7 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -143,17 +123,9 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
 
@@ -185,10 +157,6 @@ If this didn’t give you any luck, try the next fix below.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Browse**  button.  
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
@@ -198,10 +166,6 @@ If this didn’t give you any luck, try the next fix below.
 4) Click **MassEffectLauncher**  and click **Add** .  
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Options** .  
   
@@ -242,10 +206,6 @@ If this didn’t give you any luck, try the next fix below.
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
 
@@ -294,21 +254,18 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-universal-method-for-recording-your-preferred-youtube-stream-no-matter-the-device/"><u>[New] 2024 Approved Universal Method for Recording Your Preferred YouTube Stream, No Matter the Device</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[New] Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-royale-champions-the-defining-battle-royale-titles-for-2024/"><u>[New] Royale Champions The Defining Battle Royale Titles for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-perfecting-pics-with-facetune/"><u>[New] Ultimate Guide Perfecting Pics with Facetune</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>2024 Approved Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-turn-dvd-discs-into-iso-images-in-windows-version-11-10-8-or-7-and-macos/"><u>Easy Steps to Turn DVD Discs Into ISO Images in Windows (Version 11, 10, 8, or 7) and macOS</u></a></li>
-<li><a href="https://discover-help.techidaily.com/google-drive-video-now-ready-top-5-strategies-to-fix-the-processing-status/"><u>Google Drive Video Now Ready? Top 5 Strategies to Fix the 'Processing' Status</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone X</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>In 2024, Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-res-webcam-videos-in-minutes-a-step-guide/"><u>In 2024, High-Res Webcam Videos in Minutes A Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-no-cost-android-facetime-replacements-ranked/"><u>In 2024, No-Cost Android FaceTime Replacements Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-multi-user-printer-access-issues/"><u>Navigating Through Multi-User Printer Access Issues</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/post-ios-16-update-iphone-fahigkeit-zum-telefonieren-beeintrachtigt/"><u>Post iOS 16 Update, iPhone Fähigkeit Zum Telefonieren Beeinträchtigt?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/techs-leading-edge-in-video-capturing-software-for-2024/"><u>Tech's Leading Edge in Video Capturing Software for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/total-war-three-kingdoms-tips-and-tricks-to-solve-your-game-crash-problems/"><u>Total War: Three Kingdoms – Tips & Tricks to Solve Your Game Crash Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-typing-with-bing-ai-on-android-an-easy-guide-to-implementation/"><u>Transforming Typing with Bing AI on Android: An Easy Guide to Implementation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-can-image-smoothing-simplify-photo-editing/"><u>[New] Can Image Smoothing Simplify Photo Editing?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>[New] In 2024, Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlining-video-aesthetics-blur-background-in-microsoft-teams-for-2024/"><u>[New] Streamlining Video Aesthetics Blur Background in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-low-end-pc-reach-high-with-best-obs-configuration-for-2024/"><u>[Updated] Low-End PC Reach High with Best OBS Configuration for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-make-money-fast-on-reddit-top-13-easy-strategies-for-beginners/"><u>[Updated] Make Money Fast on Reddit Top 13 Easy Strategies for Beginners</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-9gag-memes-made-easy/"><u>[Updated] Navigating the World of 9GAG Memes Made Easy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reverse-video-order-on-your-ios-gadget/"><u>[Updated] Reverse Video Order on Your iOS Gadget</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>[Updated] Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-video-logitechs-background-editing-guide/"><u>[Updated] Streamlined Video - Logitech's Background Editing Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>2024 Approved Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 12? 5 Tips You Must Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mediascreen-reviewer-pro/"><u>MediaScreen Reviewer Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-how-ar-vr-mr-and-xr-differently-transform-our-reality/"><u>Unveiling the Mystery: How AR, VR, MR and XR Differently Transform Our Reality</u></a></li>
 </ul></div>
 

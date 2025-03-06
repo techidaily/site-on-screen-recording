@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Overcoming the Common SteamVR Error Code 308
-date: 2025-02-06T23:01:16.516Z
-updated: 2025-02-08T07:03:16.781Z
+date: 2025-03-02T16:10:53.773Z
+updated: 2025-03-06T16:05:02.158Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ Sifu
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropoping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, newly-released games like Sifu work better with the latest graphics driver.
@@ -62,16 +58,8 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -129,10 +117,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -145,10 +129,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
  The Ultimate Performance option doesn’t appear on the power plan list? Just follow the steps below to unhide it:
@@ -158,10 +138,6 @@ There are mainly two methods for you to update the graphics driver:
 **`powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`**
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
@@ -209,17 +185,18 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-your-asmr-experience-with-top-tier-mics/"><u>[New] 2024 Approved Enhance Your ASMR Experience with Top-Tier Mics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-beyond-fbx-cutting-edge-apps-for-video-game-archiving-for-2024/"><u>[New] Beyond FBX Cutting-Edge Apps for Video Game Archiving for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-the-best-curated-list-of-spectacular-offline-ios-titles/"><u>[Updated] 2024 Approved Best of the Best Curated List of Spectacular Offline iOS Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-universal-techniques-for-streaming-to-disk-from-youtube/"><u>[Updated] In 2024, Universal Techniques for Streaming to Disk From YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets of Video Editing on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-steps-for-capturing-online-conversations-for-2024/"><u>[Updated] Steps for Capturing Online Conversations for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beginners-tips-shooting-hero5-time-lapse-footage/"><u>2024 Approved Beginner's Tips Shooting Hero5 Time-Lapse Footage</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>2024 Approved Hidden Harmony Harvesters IOS & Android Secret Audio Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>In 2024, Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-guide-to-optimizing-solo-play-in-apex-legends/"><u>In 2024, Expert Guide to Optimizing Solo Play in Apex Legends</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-jotunheims-gambit-warriors-of-ragnarok/"><u>In 2024, Jotunheim's Gambit Warriors of Ragnarok</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Google Pixel 7a has been deleted</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-optimal-logitech-webcam-settings-for-professional-video-outputs/"><u>[New] 2024 Approved Optimal Logitech Webcam Settings for Professional Video Outputs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars/"><u>[New] 2024 Approved The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>[New] All You Need to Know About the Apple M1 Max Clip</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos/"><u>[New] In 2024, Mastering ScreenFlow A Guide to Enhanced Creativity on macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-metaverse-multiverse-dichotomy-explained/"><u>[New] In 2024, The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-kings-face-off-for-2024/"><u>[Updated] Capture Kings Face-Off for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728474720456-windows-11/"><u>解决方案经过验证：找回 Windows 11桌面上不可见的文件和目录</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-vr-lexicon-key-concepts-unveiled/"><u>Essential VR Lexicon Key Concepts Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>In 2024, From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-13-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 13 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-syn-2nf-aio-liquid-cooler-evaluation-excellent-cooling-abilities-but-inconvenient-interface/"><u>Valkyrie Syn 2Nf AIO Liquid Cooler Evaluation: Excellent Cooling Abilities but Inconvenient Interface</u></a></li>
 </ul></div>
 

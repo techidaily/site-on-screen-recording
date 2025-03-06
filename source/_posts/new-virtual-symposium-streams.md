@@ -1,7 +1,7 @@
 ---
 title: "[New] Virtual Symposium Streams"
-date: 2025-02-10T22:02:40.561Z
-updated: 2025-02-17T16:56:39.507Z
+date: 2025-03-01T16:14:59.155Z
+updated: 2025-03-06T16:10:47.707Z
 tags: 
   - screen-recording
   - ai video
@@ -62,10 +62,6 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
@@ -78,29 +74,17 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
 #### Exporting and Sharing a webinar
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
@@ -115,10 +99,6 @@ There is much more to making a webinar than just hitting the Record button, so i
 Making sure that all the settings are adjusted properly and that the amount of background noise is at the very minimum is advised if you'd like to go through the process of making a webinar with Filmora Scrn quick and smoothly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -135,18 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[New] In 2024, Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unleash-the-power-of-messaging-mastering-pinning-on-discord-for-2024/"><u>[New] Unleash the Power of Messaging Mastering Pinning on Discord for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-choosing-the-best-portable-microphones-for-macos-users/"><u>[Updated] 2024 Approved Choosing the Best Portable Microphones for MacOS Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-apowersoft-screen-record-unveiled-top-alternatives-reviewed-for-2024/"><u>[Updated] Apowersoft Screen Record Unveiled - Top Alternatives Reviewed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-first-film-recording-analysis-and-comparisons/"><u>[Updated] First Film Recording Analysis & Comparisons</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-lightweight-obs-adjustments-for-thriftier-systems/"><u>[Updated] In 2024, Lightweight OBS Adjustments for Thriftier Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-webcam-video-mastery-edit-enhance-and-distribute/"><u>2024 Approved Webcam Video Mastery Edit, Enhance & Distribute</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-hydrow-wave-spin-bike-reviewed-cost-effective-yet-comparably-efficient-alternative/"><u>Affordable Hydrow Wave Spin Bike Reviewed: Cost-Effective Yet Comparably Efficient Alternative</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/drug-delivery-systems-for-ocular-conditions-continue-to-evolve-aiming-to-maximize-therapeutic-efficacy-while-minimizing-systemic-exposure-and-side-effects.m225/"><u>Drug Delivery Systems for Ocular Conditions Continue to Evolve, Aiming to Maximize Therapeutic Efficacy While Minimizing Systemic Exposure and Side Effects.</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ost-frame-starters-leading-16-youtube-videos-for-more-watchers-for-2024/"><u>Foremost Frame Starters Leading 16 YouTube Videos for More Watchers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/freeloaders-guide-discovering-beautiful-tiktok-screenshots-for-2024/"><u>Freeloaders' Guide Discovering Beautiful TikTok Screenshots for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-xr21-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia XR21?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-ais-assessing-gemini-against-chatgpt-for-ultimate-language-model-supremacy/"><u>The Battle of AIs: Assessing Gemini Against ChatGPT for Ultimate Language Model Supremacy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>[New] 2024 Approved Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-a-jujutsu-kaisen-tiktok-challenge-for-2024/"><u>[New] Crafting a Jujutsu Kaisen TikTok Challenge for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-smiles-snorts-and-sighs-the-finest-meme-accounts-on-ig/"><u>[New] In 2024, Smiles, Snorts & Sighs The Finest Meme Accounts on IG</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-live-broadcast-converter-decoder-for-2024/"><u>[New] Live Broadcast Converter Decoder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-ranked-pixel-perfection-appweb-software-for-2024/"><u>[New] Top-Ranked Pixel Perfection App/Web Software for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigate-through-itunes-recording-like-a-pro/"><u>2024 Approved Navigate Through iTunes Recording Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-25-secrets-for-effective-win10-use/"><u>2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-motorola-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Motorola</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-mac-use-top-5-recommended-sniping-apps-for-2024/"><u>Enhancing Mac Use Top 5 Recommended Sniping Apps for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-the-power-of-words-in-google-meet-discussions/"><u>In 2024, Unlocking the Power of Words in Google Meet Discussions</u></a></li>
 </ul></div>
 

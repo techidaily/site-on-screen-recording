@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2025-02-02T16:16:56.334Z
-updated: 2025-02-07T17:55:13.735Z
+date: 2025-02-27T16:14:47.626Z
+updated: 2025-03-06T16:00:28.007Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
@@ -45,10 +41,6 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -58,10 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -93,14 +81,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -109,10 +89,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -162,17 +138,16 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-discovering-the-ultimate-solution-showmores-recording-mastery/"><u>[New] 2024 Approved Discovering The Ultimate Solution ShowMore's Recording Mastery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-learning-the-process-of-acquiring-movie-maker-6/"><u>[New] In 2024, Learning the Process of Acquiring Movie Maker 6</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-streaming-showdown-obs-vs-twitch/"><u>[New] In 2024, The Streaming Showdown OBS vs Twitch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-filmmaking-on-your-ios-device-for-2024/"><u>[Updated] Cutting-Edge Filmmaking on Your iOS Device for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quickcapturewin-instant-screenshots-for-pcs/"><u>[Updated] In 2024, QuickCaptureWin Instant Screenshots for PCs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-vs-twitch-studio-which-is-better/"><u>[Updated] OBS Vs Twitch Studio Which Is Better?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-comprehensible-guide-to-augmented-snap-editing/"><u>[Updated] The Comprehensible Guide to Augmented Snap Editing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ticklish-titles-laugh-out-loud-gaming-for-children/"><u>[Updated] Ticklish Titles Laugh-Out-Loud Gaming for Children</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-make-your-instagram-content-explosive-a-guide-to-virality/"><u>2024 Approved Make Your Instagram Content Explosive A Guide to Virality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-ubisoft-connection-downloads-tips-for-faster-performance/"><u>Boosting Ubisoft Connection Downloads: Tips for Faster Performance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>In 2024, A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/usbwindows-1011hdd/"><u>USBドライブとして使用するためのWindows 10/11で外部HDDの初期化手順</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-top-ten-video-call-programs-for-phones-and-pc-users/"><u>[New] 2024 Approved The Top Ten Video Call Programs for Phones & PC Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlining-your-powerpoint-to-video-journey/"><u>[New] In 2024, Streamlining Your PowerPoint to Video Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlined-steps-for-ios-voice-recordings-for-2024/"><u>[New] Streamlined Steps for iOS Voice Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop/"><u>[Updated] Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-file-download-voice-track-analysis-for-2024/"><u>[Updated] File Download Voice Track Analysis for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-melodic-medium-finding-the-right-film-score-for-2024/"><u>[Updated] Melodic Medium Finding the Right Film Score for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-iphones-silhouette-potential/"><u>2024 Approved Unveiling iPhone's Silhouette Potential</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-11-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-highlights-from-the-2022-figure-skate-world-for-2024/"><u>Iconic Highlights From the 2022 Figure Skate World for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-fitness-trackers-the-critical-5-aspects-you-must-assess-prior-to-purchase/"><u>Navigating Fitness Trackers: The Critical 5 Aspects You Must Assess Prior to Purchase</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-faces-to-watch-top-cosmetic-creatives/"><u>The Faces to Watch Top Cosmetic Creatives</u></a></li>
 </ul></div>
 

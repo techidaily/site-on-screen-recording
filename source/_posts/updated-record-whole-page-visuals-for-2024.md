@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Record Whole Page Visuals for 2024"
-date: 2025-01-23T09:03:36.880Z
-updated: 2025-01-26T01:43:21.754Z
+date: 2025-02-27T16:11:43.748Z
+updated: 2025-03-06T16:23:12.301Z
 tags: 
   - screen-recording
   - ai video
@@ -60,10 +60,6 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
@@ -71,10 +67,6 @@ Once the printing dialogue box appears on the screen you'll be able to preview t
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -89,10 +81,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -110,19 +98,11 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
@@ -159,20 +139,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-maximizing-mobile-video-quality-in-tweets/"><u>[New] 2024 Approved Maximizing Mobile Video Quality in Tweets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-traditional-rogues-vs-modern-roguism/"><u>[New] In 2024, Traditional Rogues Vs. Modern Roguism</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-video-perfection-in-minutes/"><u>[Updated] Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-does-active-presenter-8-outperform-its-rivals-for-2024/"><u>[Updated] Does Active Presenter 8 Outperform Its Rivals for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-navigate-10-top-free-web-explorers-for-remote-collaboration/"><u>[Updated] In 2024, Navigate 10 Top Free Web Explorers for Remote Collaboration</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>2024 Approved Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/bandicam-your-compreayer-for-high-quality-screen-recording-for-2024/"><u>Bandicam Your Compreayer for High-Quality Screen Recording for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/brief-life-in-virtual-servers-a-concerning-factor/"><u>Brief Life in Virtual Servers: A Concerning Factor?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-recuperer-des-fichiers-apres-une-defaillance-de-windows-7-et-restauration-du-systeme/"><u>Comment Récupérer Des Fichiers Après Une Défaillance De Windows 7 Et Restauration Du Système</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratis-converter-van-wma-naar-3gp-online-movavi/"><u>Gratis Converter Van WMA Naar 3GP Online - Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-public-domain-zen-soundscape/"><u>In 2024, Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-youtube-metrics-with-ease-for-2024/"><u>Navigating YouTube Metrics with Ease for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-power-of-video-endorsements-in-advertising-for-2024/"><u>The Power of Video Endorsements in Advertising for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-7-virtual-marksmen-battles/"><u>Ultimate 7 Virtual Marksmen Battles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs-for-2024/"><u>[New] 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-strategies-for-recording-slideshows-for-2024/"><u>[New] Cutting-Edge Strategies for Recording Slideshows for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>[New] In 2024, Level Up Your Screen Shots The Expert's Approach to PS4 Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masterclass-unboxing-and-testing-lgs-usb-c-hdr-display/"><u>[New] In 2024, Masterclass Unboxing and Testing LG's USB-C HDR Display</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-proving-the-top-5-mac-clipping-software/"><u>[New] In 2024, Proving the Top 5 Mac Clipping Software</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>[New] Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-reviewcast-analysis/"><u>[Updated] 2024 Approved ReviewCast Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-brands-instagram-presence-with-these-hacks/"><u>[Updated] Elevate Your Brand's Instagram Presence with These Hacks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-affordable-pc-monitoring-software/"><u>[Updated] In 2024, Affordable PC Monitoring Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-drones-in-a-rivalry-dji-inspire-one-vs-gopro-karma-x/"><u>[Updated] In 2024, Drones in a Rivalry DJI Inspire One Vs GoPro Karma X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-making-money-on-youtube-a-guide/"><u>2024 Approved Making Money on YouTube A Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-skype-audiovideo-windows-and-mac-tips/"><u>Capturing Skype Audio/Video Windows & Mac Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expanding-photography-quality-for-2024/"><u>Expanding Photography Quality for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-eliminate-ambient-chatter-in-skype-calls/"><u>In 2024, Eliminate Ambient Chatter in Skype Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-11-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme 11 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

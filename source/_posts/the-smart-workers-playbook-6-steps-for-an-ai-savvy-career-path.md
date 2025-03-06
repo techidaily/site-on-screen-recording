@@ -1,7 +1,7 @@
 ---
 title: "The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path"
-date: 2025-02-05T19:27:47.273Z
-updated: 2025-02-07T23:06:26.460Z
+date: 2025-03-01T16:22:20.189Z
+updated: 2025-03-06T16:19:54.464Z
 tags:
   - chatgpt
   - open-ai
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
@@ -123,19 +111,11 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -158,22 +138,14 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-retain-your-instagram-captures-on-iphone-for-2024/"><u>[New] How to Retain Your Instagram Captures on iPhone for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-hushing-up-unwanted-noise-on-skype/"><u>[New] Hushing Up Unwanted Noise on Skype</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-3-twitter-video-tools-for-easy-uploads/"><u>[New] Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors-for-2024/"><u>[Updated] Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-transform-your-shots-into-art-with-top-10-grids/"><u>[Updated] In 2024, Transform Your Shots Into Art with Top 10 Grids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-flawless-video-capture-top-4-apps-for-pcmac/"><u>[Updated] Secrets of Flawless Video Capture Top 4 Apps for PC/Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-speedy-tracking-visuals-plus-voices-for-2024/"><u>[Updated] Speedy Tracking Visuals + Voices for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-change-screenshot-saving-location-on-mac/"><u>2024 Approved Change Screenshot Saving Location on Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfecting-your-nocturnal-portrait-techniques/"><u>2024 Approved Perfecting Your Nocturnal Portrait Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pioneering-practices-in-the-realm-of-iptv-recording/"><u>2024 Approved Pioneering Practices in the Realm of IPTV Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compendium-of-camera-types-for-professional-videos/"><u>Compendium of Camera Types for Professional Videos</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a56s-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A56s 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-a-filmmakers-handbook-building-effective-luts/"><u>In 2024, A Filmmaker's Handbook Building Effective LUTs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tactics-capturing-high-quality-sports-streams-online/"><u>In 2024, Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-smartest-devices-to-modify-your-speech-on-the-go/"><u>In 2024, Smartest Devices to Modify Your Speech on the Go</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/superior-hd-gameplay-through-top-captures/"><u>Superior HD Gameplay Through Top Captures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-fixing-muted-sound-on-youtube-based-twitter-clips-for-2024/"><u>[New] Fixing Muted Sound on YouTube-Based Twitter Clips for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-initiating-conversations-with-google-meet/"><u>[New] In 2024, Initiating Conversations with Google Meet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-art-of-instagram-video-clipping-and-trimming/"><u>[Updated] 2024 Approved The Art of Instagram Video Clipping and Trimming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-clearer-sound-with-these-ipad-tips/"><u>[Updated] In 2024, Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-insightful-review-understanding-du-recorder-for-2024/"><u>[Updated] Insightful Review Understanding Du Recorder for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-joy-junction-for-tiny-gamers/"><u>2024 Approved The Joy Junction for Tiny Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-movavi-ally-exploring-our-partnership-benefits/"><u>Become a Movavi Ally: Exploring Our Partnership Benefits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-y200e-5gs-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Y200e 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>In 2024, Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
 </ul></div>
 

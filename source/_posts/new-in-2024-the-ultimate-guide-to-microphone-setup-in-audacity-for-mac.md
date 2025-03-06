@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Microphone Setup in Audacity for Mac"
-date: 2025-02-01T22:23:23.118Z
-updated: 2025-02-07T19:01:08.602Z
+date: 2025-02-28T16:18:26.426Z
+updated: 2025-03-06T16:11:17.673Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Alternatively, you can go to FossHub and search for Audacity and download the la
 
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
 
 Step 4: Follow the on-screen instructions to complete the installation process.
@@ -56,10 +52,6 @@ Step 1: Launch Audacity and go to Recording Device tab.
 Step 2: Click on the second option and you will see all the recording devices connected to your Mac. Select the microphone whose audio you want to record. If you do not see your microphone, make sure it is properly connected.
 
 ![click on the second option](https://images.wondershare.com/filmora/article-images/click-on-the-second-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Go to Tracks menu option and go to Add New. Here, you have to select either Stereo Track or Mono Track as per your requirement.
 
@@ -111,10 +103,6 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
@@ -146,10 +134,6 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -185,15 +169,7 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -227,15 +203,7 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -265,20 +233,22 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterful-strategies-for-saving-lol-rounds/"><u>[New] 2024 Approved Masterful Strategies for Saving LOL Rounds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-selections-top-ios-emulators-for-playstation-2-games/"><u>[New] In 2024, Expert Selections Top IOS Emulators for PlayStation 2 Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>[Updated] 2024 Approved Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-video-conference-software-picks/"><u>[Updated] 2024 Approved Leading Video-Conference Software Picks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-techniques-for-captivating-online-advertising/"><u>[Updated] Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-transform-your-playtime-mastering-ps4-live-recordings-with-obs/"><u>[Updated] In 2024, Transform Your Playtime Mastering PS4 Live Recordings with OBS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[Updated] Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-front-runners-in-4k-gaming-graphics/"><u>In 2024, Front-Runners in 4K Gaming Graphics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x90s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X90S to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-top-10-tweets-for-a-smile/"><u>In 2024, Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlock-productivity-selecting-the-top-5-mac-snippers/"><u>In 2024, Unlock Productivity Selecting the Top 5 Mac Snippers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximizing-zoom-top-strategies-for-chromebooks/"><u>Maximizing Zoom Top Strategies for Chromebooks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimizing-video-compression-maintain-quality-while-shrinking-file-size-on-your-mac/"><u>Optimizing Video Compression: Maintain Quality While Shrinking File Size on Your Mac</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c22-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C22</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-five-mac-screen-seize-techniques-char-limit-156-for-2024/"><u>Top Five Mac Screen Seize Techniques (Char Limit 156) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-keep-the-conversation-going-essential-fixes-for-live-video-pauses-for-2024/"><u>[New] Keep the Conversation Going Essential Fixes for Live Video Pauses for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-review-of-ispring-recording-tech-for-2024/"><u>[New] The Ultimate Review of iSpring Recording Tech for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-connecting-to-google-meet-laptop-plus-mobile/"><u>[Updated] Connecting to Google Meet Laptop + Mobile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-stop-recording-on-quicktime/"><u>[Updated] In 2024, How To Stop Recording on QuickTime</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-master-sound-capture-on-your-macos-device-via-audacity-for-2024/"><u>[Updated] Master Sound Capture on Your MacOS Device via Audacity for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovation-unveiled-the-complete-moto-z2-review/"><u>2024 Approved Innovation Unveiled The Complete Moto Z2 Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-voice-clarity-overcoming-skype-noise-issues/"><u>2024 Approved Voice Clarity Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-14-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 14 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-linux-capabilities-using-windows-utilities/"><u>Boosting Linux Capabilities Using Windows Utilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/camera-considerations-for-the-google-nest-hub-gen-2-reviewed-here/"><u>Camera Considerations for the Google Nest Hub Gen 2 Reviewed Here!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-players-picks-unveiling-our-top-10-adventure-classics/"><u>In 2024, Players' Picks Unveiling Our Top 10 Adventure Classics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screencasting-simplified-compreehd-step-by-step-guide/"><u>In 2024, Screencasting Simplified Compreehd, Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myth-vs-fact-co2-doesnt-equal-global-warming/"><u>Myth vs Fact: CO2 Doesn't Equal Global Warming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free/"><u>Pro Tips Making Your iPad Screen Capture Faster and Hassle-Free</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/secrets-for-tiktok-live-studio-success/"><u>Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-insiders-guide-to-instagram-photo-integrity/"><u>The Insider’s Guide to Instagram Photo Integrity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-tv-when-connecting-laptop-with-hdmi/"><u>Unresponsive TV When Connecting Laptop with HDMI</u></a></li>
 </ul></div>
 

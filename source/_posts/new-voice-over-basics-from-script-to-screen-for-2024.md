@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Voice-Over Basics  From Script to Screen for 2024\""
-date: 2025-02-15T20:56:16.294Z
-updated: 2025-02-17T16:06:55.019Z
+date: 2025-03-02T16:04:30.538Z
+updated: 2025-03-06T16:16:03.671Z
 tags: 
   - screen-recording
   - ai video
@@ -115,9 +115,79 @@ Step 2: Go to File > Import Media > Import Media Files.
 
 ![import](https://images.wondershare.com/filmora/article-images/import.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+Step 3: Select your video file and the audio file. They will be in Import Media File area.
+
+Step 4: Drag and drop the video file in the video track and the audio file in the audio track.
+
+![audio track](https://images.wondershare.com/filmora/article-images/audio-track.jpg)
+
+Step 5: Now, you have to adjust the audio length and placement so that the voiceover goes in sync with the video as per your intention.
+
+Filmora supports adding multiple audio files, and hence, you can add external background music wherever required.
+
+Step 6: Once everything is done, click on Export and save the video file with voiceover to your hard drive.
+
+![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+Therefore, you get to record, edit and sync voice over with Filmora voice over recording software all in one place.
+
+## Conclusion –
+
+Recording voice over for videos is no more a magic. We have illustrated all the elements you need for a great voice over recording. Wondershare Filmora is the best software for voice over recording. You can also edit the voiceover and sync to the video file seamlessly. Besides, you can edit the video as well as it features a full-fledged video editor.
+
+**Writing A Proper Script**
+
+The best way to sound professional during a voice over is to use a proper script. When you don't use a script, then there can be a lot of pauses and you may try to think about what you will have to say next. When you use a script, you have everything planned out beforehand. Besides, you can also practice what to say when you have a script with pointers and even full explanation of each point. Try to read the script many times and be careful of the words and phrases that can be awkward. Adjust the script accordingly so that it will fit perfectly in the recording.
+
+**Performing A Test Recording**
+
+It is always advisable to go for a test recording to ensure that everything is working properly. In a test recording, you don't have to go for the entire script but just a few paragraphs. Check if the audio is clear, the volume is at the right level, and the recording is seamless. Check the audio quality by using headphones and not computer speakers.
+
+****Microphone Placement** \- If you keep the microphone too close to the mouth, there will be all kinds of weird sounds including air puffs. Too far placement will make your voice get fainted. The perfect placement should be about 6 to 8 inches from the mouth and it has to be slightly below the chin. Check the test recording carefully as some microphones can pick up sounds from the table and the computer.
+
+**Recording Voice Over**
+
+So by now, you have the video for which you want to record voiceover. You have connected the microphone to your computer. Now, it is time to record your voice over with voice over recorder Wondershare Filmora. Here are the steps to follow properly.
+
+Step 1: Download and install Wondershare Filmora on your computer.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project option from the welcome screen.
+
+Step 3: From Record menu, go to Record Voiceover option.
+
+![voiceover-option](https://images.wondershare.com/filmora/article-images/voiceover-option.jpg)
+
+Step 4: On Record Audio screen, select your external microphone from Device option.
+
+![device option](https://images.wondershare.com/filmora/article-images/device-option.jpg)
+
+Step 5: When you are ready, click on Record button and start recording your voice over.
+
+![record-button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+ Step 6: When you are done, click on Stop button and export the recorded audio in MP3 format.
+
+## 4\. How To Edit Voice Over and Sync Voiceover to Video?
+
+Once you have recorded the voiceover, the audio file will appear on the Audio track automatically. You will see audio settings under Audio tab where you can adjust pitch, customize equalizer, remove background noise, and add fade in and fade out effects. Besides, you get to trim the voice over track and eliminate the unnecessary and unwanted parts so that you have the crisp voice over to add to the video file.
+
+![4edit](https://images.wondershare.com/filmora/article-images/4edit.jpg)
+
+Now, you have the recorded video and the recorded voiceover file. It is time to sync them in one file so that you can publish it. Filmora voiceover recorder is where we have to sync the files and take the following steps.
+
+Step 1: Launch Filmora and select New Project.
+
+Step 2: Go to File > Import Media > Import Media Files.
+
+![import](https://images.wondershare.com/filmora/article-images/import.jpg)
 
 Step 3: Select your video file and the audio file. They will be in Import Media File area.
 
@@ -173,109 +243,11 @@ Step 4: On Record Audio screen, select your external microphone from Device opti
 
 ![device option](https://images.wondershare.com/filmora/article-images/device-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: When you are ready, click on Record button and start recording your voice over.
 
 ![record-button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
  Step 6: When you are done, click on Stop button and export the recorded audio in MP3 format.
-
-## 4\. How To Edit Voice Over and Sync Voiceover to Video?
-
-Once you have recorded the voiceover, the audio file will appear on the Audio track automatically. You will see audio settings under Audio tab where you can adjust pitch, customize equalizer, remove background noise, and add fade in and fade out effects. Besides, you get to trim the voice over track and eliminate the unnecessary and unwanted parts so that you have the crisp voice over to add to the video file.
-
-![4edit](https://images.wondershare.com/filmora/article-images/4edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Now, you have the recorded video and the recorded voiceover file. It is time to sync them in one file so that you can publish it. Filmora voiceover recorder is where we have to sync the files and take the following steps.
-
-Step 1: Launch Filmora and select New Project.
-
-Step 2: Go to File > Import Media > Import Media Files.
-
-![import](https://images.wondershare.com/filmora/article-images/import.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3: Select your video file and the audio file. They will be in Import Media File area.
-
-Step 4: Drag and drop the video file in the video track and the audio file in the audio track.
-
-![audio track](https://images.wondershare.com/filmora/article-images/audio-track.jpg)
-
-Step 5: Now, you have to adjust the audio length and placement so that the voiceover goes in sync with the video as per your intention.
-
-Filmora supports adding multiple audio files, and hence, you can add external background music wherever required.
-
-Step 6: Once everything is done, click on Export and save the video file with voiceover to your hard drive.
-
-![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Therefore, you get to record, edit and sync voice over with Filmora voice over recording software all in one place.
-
-## Conclusion –
-
-Recording voice over for videos is no more a magic. We have illustrated all the elements you need for a great voice over recording. Wondershare Filmora is the best software for voice over recording. You can also edit the voiceover and sync to the video file seamlessly. Besides, you can edit the video as well as it features a full-fledged video editor.
-
-**Writing A Proper Script**
-
-The best way to sound professional during a voice over is to use a proper script. When you don't use a script, then there can be a lot of pauses and you may try to think about what you will have to say next. When you use a script, you have everything planned out beforehand. Besides, you can also practice what to say when you have a script with pointers and even full explanation of each point. Try to read the script many times and be careful of the words and phrases that can be awkward. Adjust the script accordingly so that it will fit perfectly in the recording.
-
-**Performing A Test Recording**
-
-It is always advisable to go for a test recording to ensure that everything is working properly. In a test recording, you don't have to go for the entire script but just a few paragraphs. Check if the audio is clear, the volume is at the right level, and the recording is seamless. Check the audio quality by using headphones and not computer speakers.
-
-****Microphone Placement** \- If you keep the microphone too close to the mouth, there will be all kinds of weird sounds including air puffs. Too far placement will make your voice get fainted. The perfect placement should be about 6 to 8 inches from the mouth and it has to be slightly below the chin. Check the test recording carefully as some microphones can pick up sounds from the table and the computer.
-
-**Recording Voice Over**
-
-So by now, you have the video for which you want to record voiceover. You have connected the microphone to your computer. Now, it is time to record your voice over with voice over recorder Wondershare Filmora. Here are the steps to follow properly.
-
-Step 1: Download and install Wondershare Filmora on your computer.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch Filmora and click on New Project option from the welcome screen.
-
-Step 3: From Record menu, go to Record Voiceover option.
-
-![voiceover-option](https://images.wondershare.com/filmora/article-images/voiceover-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 4: On Record Audio screen, select your external microphone from Device option.
-
-![device option](https://images.wondershare.com/filmora/article-images/device-option.jpg)
-
-Step 5: When you are ready, click on Record button and start recording your voice over.
-
-![record-button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
- Step 6: When you are done, click on Stop button and export the recorded audio in MP3 format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. How To Edit Voice Over and Sync Voiceover to Video?
 
@@ -290,10 +262,6 @@ Step 1: Launch Filmora and select New Project.
 Step 2: Go to File > Import Media > Import Media Files.
 
 ![import](https://images.wondershare.com/filmora/article-images/import.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Select your video file and the audio file. They will be in Import Media File area.
 
@@ -349,10 +317,6 @@ Step 4: On Record Audio screen, select your external microphone from Device opti
 
 ![device option](https://images.wondershare.com/filmora/article-images/device-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: When you are ready, click on Record button and start recording your voice over.
 
 ![record-button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
@@ -378,10 +342,6 @@ Step 3: Select your video file and the audio file. They will be in Import Media 
 Step 4: Drag and drop the video file in the video track and the audio file in the audio track.
 
 ![audio track](https://images.wondershare.com/filmora/article-images/audio-track.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Now, you have to adjust the audio length and placement so that the voiceover goes in sync with the video as per your intention.
 
@@ -421,17 +381,17 @@ Recording voice over for videos is no more a magic. We have illustrated all the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023-how-to-share-a-tiktok-video-on-twitter/"><u>[New] 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>[New] 2024 Approved From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-turn-discord-livestreams-into-lasting-digital-memories-for-2024/"><u>[Updated] How to Turn Discord Livestreams Into Lasting Digital Memories for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-redefine-gaming-radeons-latest-release/"><u>[Updated] Redefine Gaming Radeon's Latest Release</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-twitch-time-rewind-hacks-unveiled-for-2024/"><u>[Updated] Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-8-premier-online-photo-frame-creators-revealed/"><u>2024 Approved 8 Premier Online Photo Frame Creators Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-text-annotation-in-windows-photos-windows-11/"><u>2024 Approved Mastering Text Annotation in Windows Photos (Windows 11)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/detailed-analysis-vlc-for-video-capture-for-2024/"><u>Detailed Analysis VLC for Video Capture for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>In 2024, Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac/"><u>In 2024, Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/movwindows-1011mp3and/"><u>MOVファイルをWindows 10/11で自由にMP3形式に直す方法：オススメの無料ソフト&サイト</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac-for-2024/"><u>[New] Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[New] Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-strategies-for-seamless-clip-composition/"><u>[Updated] Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-threads-of-time-looms-screen-record-mastery/"><u>[Updated] Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-a-comprehensive-guide-on-installation-and-compatible-iphone-models-detailed-insights/"><u>Download IOS 18: A Comprehensive Guide on Installation and Compatible iPhone Models - Detailed Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/eliminating-frame-discrepancies-in-obs-recordings/"><u>Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-play-8t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor Play 8T Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-supercharge-your-status-top-8-apps-for-boosting-facebook-popularity/"><u>In 2024, Supercharge Your Status Top 8 Apps for Boosting Facebook Popularity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-the-art-of-easy-webinar-recordings-windows-and-macos-advice/"><u>Master the Art of Easy Webinar Recordings Windows & macOS Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-repairability-in-new-microsoft-laptops-surprises-ifixit-challenges-rivals-to-step-up-apple-under-scrutiny-zdnet/"><u>Revolutionary Repairability in New Microsoft Laptops Surprises iFixit - Challenges Rivals to Step Up (Apple Under Scrutiny) | ZDNET</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/us-secretary-gina-raimondo-and-chinas-wang-wentao-forge-key-agreements-to-bolster-us-china-economic-ties-amidst-security-talks-insights-from-yl-computing/"><u>US Secretary Gina Raimondo & China's Wang Wentao Forge Key Agreements to Bolster US-China Economic Ties Amidst Security Talks - Insights From YL Computing</u></a></li>
 </ul></div>
 
